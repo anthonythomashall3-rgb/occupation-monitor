@@ -1,4 +1,4 @@
-# Bristow-Hall Occupation Monitor
+# Bristow-Hall Labor Market Index
 
 Monthly U.S. jobs by occupation and by state, built from the Current Population Survey public-use files.
 
