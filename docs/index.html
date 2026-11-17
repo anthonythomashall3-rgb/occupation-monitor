@@ -19,12 +19,11 @@
 *{box-sizing:border-box}
 html,body{margin:0}
 body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.45}
-.inner{width:92%;max-width:1320px;margin:0 auto}
-.brand{background:#fff}
-.brand .inner{padding:10px 0 8px}
-.brand img{display:block;height:80px;width:auto;max-width:100%}
+.inner{width:auto;max-width:none;margin:0 clamp(16px,2.2vw,40px)}
+.title{display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px}
+.logo{display:block;height:48px;width:auto;background:#fff;border-radius:4px;padding:4px 8px;box-sizing:content-box}
 .mast{background:var(--cardinal);color:#fff;border-bottom:4px solid var(--gold)}
-.mast .inner{padding:26px 0 24px;display:flex;flex-wrap:wrap;gap:10px 32px;align-items:flex-end;justify-content:space-between}
+.mast .inner{padding:22px 0 20px;display:flex;flex-wrap:wrap;gap:10px 32px;align-items:center;justify-content:space-between}
 h1{font-family:var(--display);font-weight:400;font-size:clamp(28px,4.2vw,44px);line-height:1.1;margin:0;text-wrap:balance}
 .authors{font-size:17px;font-weight:600}
 nav.tabs{border-bottom:1px solid var(--line);background:var(--paper);position:sticky;top:0;z-index:5}
@@ -99,9 +98,9 @@ footer span:last-child{color:var(--gold)}
 </style>
 </head>
 <body>
-<div class="brand"><div class="inner"><img src="usc-marshall.png" alt="USC Marshall School of Business" width="299" height="80"></div></div>
 <header class="mast"><div class="inner">
-  <h1>Bristow-Hall Occupation Monitor</h1>
+  <div class="title"><img class="logo" src="usc-marshall.png" alt="USC Marshall School of Business" width="179" height="48">
+  <h1>Bristow-Hall Occupation Monitor</h1></div>
   <div class="authors">Anthony Hall · Duke Bristow</div>
 </div></header>
 <nav class="tabs" aria-label="Views"><div class="inner" role="tablist">
@@ -386,7 +385,7 @@ footer span:last-child{color:var(--gold)}
     $('f-occ').textContent=occ.length; $('f-thru').textContent=MN[+t[1]-1]+' '+t[0];
     $('th-spark').textContent='Since '+M.first.slice(0,4);
     sel=occ.filter(function(o){return !o.pooled}).sort(function(a,b){return a.chgBaseJobs-b.chgBaseJobs})[0]; detail(); rows();
-    if(location.hash==='#map')tab('map');
+    if(location.hash==='#map-view')tab('map');
   }).catch(function(){ $('d-title').textContent='The data did not load. Reload the page.' });
 })();
 </script>
