@@ -20,7 +20,9 @@
 html,body{margin:0}
 body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.45}
 .inner{width:92%;max-width:1320px;margin:0 auto}
-.school{font-family:var(--display);font-size:20px;line-height:1.2;color:var(--gold);margin:0 0 8px}
+.brand{background:#fff}
+.brand .inner{padding:10px 0 8px}
+.brand img{display:block;height:80px;width:auto;max-width:100%}
 .mast{background:var(--cardinal);color:#fff;border-bottom:4px solid var(--gold)}
 .mast .inner{padding:26px 0 24px;display:flex;flex-wrap:wrap;gap:10px 32px;align-items:flex-end;justify-content:space-between}
 h1{font-family:var(--display);font-weight:400;font-size:clamp(28px,4.2vw,44px);line-height:1.1;margin:0;text-wrap:balance}
@@ -97,9 +99,9 @@ footer span:last-child{color:var(--gold)}
 </style>
 </head>
 <body>
+<div class="brand"><div class="inner"><img src="usc-marshall.png" alt="USC Marshall School of Business" width="299" height="80"></div></div>
 <header class="mast"><div class="inner">
-  <div><div class="school">USC Marshall School of Business</div>
-  <h1>Bristow-Hall Occupation Monitor</h1></div>
+  <h1>Bristow-Hall Occupation Monitor</h1>
   <div class="authors">Anthony Hall · Duke Bristow</div>
 </div></header>
 <nav class="tabs" aria-label="Views"><div class="inner" role="tablist">
