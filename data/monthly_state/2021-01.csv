@@ -1,0 +1,1169 @@
+month,state,group,employed,unemployed,n
+2021-01,AK,Architecture and engineering,7190.0,962.3,15
+2021-01,AK,"Arts, media, sports",4118.4,1012.6,10
+2021-01,AK,Business and finance,12861.8,0.0,23
+2021-01,AK,Cleaning and grounds,5290.4,1575.9,12
+2021-01,AK,Community and social service,12518.9,0.0,23
+2021-01,AK,Computer and math,6423.7,0.0,10
+2021-01,AK,Construction,21386.9,5853.2,43
+2021-01,AK,Education,17047.3,439.9,31
+2021-01,AK,Farming,1049.7,0.0,2
+2021-01,AK,Food service,14336.1,2411.6,27
+2021-01,AK,Healthcare practitioners,19058.1,469.6,36
+2021-01,AK,Healthcare support,14824.4,497.7,28
+2021-01,AK,Installation and repair,15666.5,1437.5,28
+2021-01,AK,Legal,5278.1,0.0,9
+2021-01,AK,Management,42577.2,1531.0,79
+2021-01,AK,Office and admin,37126.3,3135.7,71
+2021-01,AK,Personal care,5565.1,1102.7,12
+2021-01,AK,Production,6255.1,3820.6,17
+2021-01,AK,Protective service,7381.4,0.0,14
+2021-01,AK,Sales,27532.6,703.1,51
+2021-01,AK,Science,5670.5,0.0,11
+2021-01,AK,Transportation,31877.4,1817.6,54
+2021-01,AL,Architecture and engineering,60298.0,0.0,30
+2021-01,AL,"Arts, media, sports",22417.9,0.0,12
+2021-01,AL,Business and finance,60581.9,1917.5,33
+2021-01,AL,Cleaning and grounds,97649.9,6481.5,46
+2021-01,AL,Community and social service,41087.8,0.0,20
+2021-01,AL,Computer and math,51100.8,1647.4,25
+2021-01,AL,Construction,103120.9,3823.7,54
+2021-01,AL,Education,110470.7,0.0,55
+2021-01,AL,Farming,8147.5,2234.2,5
+2021-01,AL,Food service,115979.5,19369.8,60
+2021-01,AL,Healthcare practitioners,131818.2,4598.9,68
+2021-01,AL,Healthcare support,63936.4,0.0,28
+2021-01,AL,Installation and repair,84326.0,3952.7,44
+2021-01,AL,Legal,15003.6,0.0,7
+2021-01,AL,Management,195737.7,4317.2,99
+2021-01,AL,No previous job,0.0,2759.5,1
+2021-01,AL,Office and admin,205875.5,10280.3,103
+2021-01,AL,Personal care,50113.5,3764.2,26
+2021-01,AL,Production,215914.4,19844.9,110
+2021-01,AL,Protective service,55623.2,2092.5,27
+2021-01,AL,Sales,242404.1,2043.7,118
+2021-01,AL,Science,27462.8,1932.5,15
+2021-01,AL,Transportation,158714.2,7537.0,83
+2021-01,AR,Architecture and engineering,20603.4,0.0,16
+2021-01,AR,"Arts, media, sports",14416.7,0.0,10
+2021-01,AR,Business and finance,47846.4,0.0,35
+2021-01,AR,Cleaning and grounds,35777.2,0.0,26
+2021-01,AR,Community and social service,17333.0,0.0,12
+2021-01,AR,Computer and math,25638.0,0.0,18
+2021-01,AR,Construction,81642.4,5612.3,60
+2021-01,AR,Education,82172.3,1335.9,61
+2021-01,AR,Farming,11648.6,0.0,7
+2021-01,AR,Food service,62175.4,5993.4,46
+2021-01,AR,Healthcare practitioners,102034.2,1230.8,74
+2021-01,AR,Healthcare support,61311.2,2880.0,43
+2021-01,AR,Installation and repair,61255.0,1476.0,44
+2021-01,AR,Legal,17444.7,1790.6,15
+2021-01,AR,Management,124117.3,6642.0,93
+2021-01,AR,No previous job,0.0,4837.5,3
+2021-01,AR,Office and admin,130226.9,1002.1,92
+2021-01,AR,Personal care,23892.0,0.0,16
+2021-01,AR,Production,106202.4,4199.9,74
+2021-01,AR,Protective service,15352.6,0.0,10
+2021-01,AR,Sales,124450.7,6406.2,96
+2021-01,AR,Science,7730.7,0.0,5
+2021-01,AR,Transportation,102810.1,13621.4,79
+2021-01,AZ,Architecture and engineering,87926.7,8729.4,23
+2021-01,AZ,"Arts, media, sports",70915.3,4549.3,18
+2021-01,AZ,Business and finance,187464.2,13961.1,47
+2021-01,AZ,Cleaning and grounds,129583.0,10854.7,32
+2021-01,AZ,Community and social service,61617.0,0.0,14
+2021-01,AZ,Computer and math,96833.9,8892.1,24
+2021-01,AZ,Construction,226320.5,6071.6,55
+2021-01,AZ,Education,173652.4,23794.3,47
+2021-01,AZ,Farming,26101.3,0.0,6
+2021-01,AZ,Food service,110307.3,35333.3,34
+2021-01,AZ,Healthcare practitioners,175093.4,0.0,41
+2021-01,AZ,Healthcare support,65407.7,3489.5,17
+2021-01,AZ,Installation and repair,118629.3,9188.3,31
+2021-01,AZ,Legal,46397.5,0.0,11
+2021-01,AZ,Management,438061.2,30827.9,118
+2021-01,AZ,No previous job,0.0,17413.6,4
+2021-01,AZ,Office and admin,476423.8,25803.6,119
+2021-01,AZ,Personal care,54300.7,0.0,13
+2021-01,AZ,Production,70220.0,0.0,16
+2021-01,AZ,Protective service,77763.4,3924.2,20
+2021-01,AZ,Sales,337626.2,14583.6,88
+2021-01,AZ,Science,28544.8,0.0,7
+2021-01,AZ,Transportation,257634.0,20147.9,66
+2021-01,CA,Architecture and engineering,419846.9,17947.8,95
+2021-01,CA,"Arts, media, sports",572364.3,101367.6,149
+2021-01,CA,Business and finance,1020565.0,79522.8,249
+2021-01,CA,Cleaning and grounds,592505.0,55148.9,141
+2021-01,CA,Community and social service,308136.4,3355.5,71
+2021-01,CA,Computer and math,806952.8,23269.6,184
+2021-01,CA,Construction,798488.5,148701.5,202
+2021-01,CA,Education,869022.1,80629.2,214
+2021-01,CA,Farming,165274.4,57110.6,50
+2021-01,CA,Food service,750141.3,247477.8,206
+2021-01,CA,Healthcare practitioners,963568.8,3972.9,218
+2021-01,CA,Healthcare support,656277.9,41790.8,151
+2021-01,CA,Installation and repair,545466.1,39264.0,123
+2021-01,CA,Legal,164235.6,8747.9,41
+2021-01,CA,Management,2036688.2,100411.5,493
+2021-01,CA,No previous job,0.0,64012.8,14
+2021-01,CA,Office and admin,1771349.2,147701.9,421
+2021-01,CA,Personal care,307414.7,136490.8,97
+2021-01,CA,Production,750680.0,61018.0,173
+2021-01,CA,Protective service,295294.1,19087.1,70
+2021-01,CA,Sales,1724907.0,138918.0,410
+2021-01,CA,Science,196029.8,12251.3,45
+2021-01,CA,Transportation,1188700.1,123529.9,276
+2021-01,CA,Unclassified,0.0,4028.8,1
+2021-01,CO,Architecture and engineering,58253.6,4898.8,17
+2021-01,CO,"Arts, media, sports",59685.2,4409.9,15
+2021-01,CO,Business and finance,173715.7,3617.7,45
+2021-01,CO,Cleaning and grounds,103400.3,11056.4,28
+2021-01,CO,Community and social service,38334.9,0.0,8
+2021-01,CO,Computer and math,128807.1,3105.6,33
+2021-01,CO,Construction,211658.6,3220.7,51
+2021-01,CO,Education,151694.9,3298.1,40
+2021-01,CO,Farming,29706.9,3081.0,7
+2021-01,CO,Food service,120112.1,13044.0,32
+2021-01,CO,Healthcare practitioners,183978.2,6722.9,50
+2021-01,CO,Healthcare support,81243.3,18225.4,24
+2021-01,CO,Installation and repair,83328.9,3373.4,22
+2021-01,CO,Legal,28058.4,0.0,8
+2021-01,CO,Management,527289.3,17438.5,136
+2021-01,CO,No previous job,0.0,14313.4,3
+2021-01,CO,Office and admin,283532.8,9628.1,73
+2021-01,CO,Personal care,63606.0,24855.5,22
+2021-01,CO,Production,72213.0,3490.0,20
+2021-01,CO,Protective service,53090.8,0.0,13
+2021-01,CO,Sales,264598.4,24856.7,73
+2021-01,CO,Science,49018.9,3496.4,13
+2021-01,CO,Transportation,206442.3,19573.7,56
+2021-01,CT,Architecture and engineering,44656.2,0.0,13
+2021-01,CT,"Arts, media, sports",24595.8,0.0,8
+2021-01,CT,Business and finance,113002.0,6390.8,35
+2021-01,CT,Cleaning and grounds,56358.0,11474.7,19
+2021-01,CT,Community and social service,28741.7,3359.5,8
+2021-01,CT,Computer and math,61973.8,0.0,16
+2021-01,CT,Construction,95378.4,13883.8,29
+2021-01,CT,Education,115616.5,0.0,35
+2021-01,CT,Farming,3270.0,4902.6,2
+2021-01,CT,Food service,77400.8,25606.9,28
+2021-01,CT,Healthcare practitioners,93214.5,3197.4,31
+2021-01,CT,Healthcare support,53808.8,9493.8,17
+2021-01,CT,Installation and repair,46049.5,6807.0,15
+2021-01,CT,Legal,19880.3,0.0,6
+2021-01,CT,Management,201906.1,8774.2,69
+2021-01,CT,No previous job,0.0,6193.4,2
+2021-01,CT,Office and admin,169819.5,11682.6,52
+2021-01,CT,Personal care,20706.1,2455.9,8
+2021-01,CT,Production,115362.2,6781.3,37
+2021-01,CT,Protective service,13442.8,0.0,4
+2021-01,CT,Sales,186988.8,9451.2,58
+2021-01,CT,Science,10633.2,0.0,3
+2021-01,CT,Transportation,128624.2,19209.1,42
+2021-01,DC,Architecture and engineering,5048.5,0.0,13
+2021-01,DC,"Arts, media, sports",25105.7,757.8,65
+2021-01,DC,Business and finance,56366.9,1692.2,144
+2021-01,DC,Cleaning and grounds,7225.2,1722.9,22
+2021-01,DC,Community and social service,6821.5,351.1,16
+2021-01,DC,Computer and math,27317.7,383.5,70
+2021-01,DC,Construction,6797.3,769.0,18
+2021-01,DC,Education,22394.6,1414.9,57
+2021-01,DC,Farming,1515.8,0.0,3
+2021-01,DC,Food service,7750.4,3682.2,23
+2021-01,DC,Healthcare practitioners,12656.3,1258.2,34
+2021-01,DC,Healthcare support,4187.5,1239.4,11
+2021-01,DC,Installation and repair,3022.6,0.0,7
+2021-01,DC,Legal,32827.0,370.6,87
+2021-01,DC,Management,80305.1,2418.6,213
+2021-01,DC,No previous job,0.0,830.5,2
+2021-01,DC,Office and admin,26744.6,2767.9,67
+2021-01,DC,Personal care,6645.9,1480.0,19
+2021-01,DC,Production,1860.7,0.0,5
+2021-01,DC,Protective service,3521.9,642.8,9
+2021-01,DC,Sales,20574.3,1705.4,52
+2021-01,DC,Science,15851.7,567.5,44
+2021-01,DC,Transportation,6040.8,2047.9,19
+2021-01,DE,Architecture and engineering,6839.2,722.3,9
+2021-01,DE,"Arts, media, sports",3914.6,0.0,5
+2021-01,DE,Business and finance,36460.4,0.0,42
+2021-01,DE,Cleaning and grounds,12412.6,2823.9,18
+2021-01,DE,Community and social service,3083.2,0.0,3
+2021-01,DE,Computer and math,10344.0,0.0,12
+2021-01,DE,Construction,28549.3,5233.8,37
+2021-01,DE,Education,21770.3,0.0,26
+2021-01,DE,Farming,5032.5,0.0,5
+2021-01,DE,Food service,17076.2,6935.6,26
+2021-01,DE,Healthcare practitioners,33903.4,0.0,40
+2021-01,DE,Healthcare support,16389.4,1097.5,19
+2021-01,DE,Installation and repair,16608.1,0.0,18
+2021-01,DE,Legal,8650.1,0.0,10
+2021-01,DE,Management,43604.8,0.0,55
+2021-01,DE,No previous job,0.0,1890.6,2
+2021-01,DE,Office and admin,66152.1,5699.8,82
+2021-01,DE,Personal care,8027.3,5115.5,16
+2021-01,DE,Production,16932.3,0.0,20
+2021-01,DE,Protective service,10563.9,0.0,13
+2021-01,DE,Sales,50363.7,2575.0,60
+2021-01,DE,Science,5673.9,0.0,7
+2021-01,DE,Transportation,37333.4,4226.0,44
+2021-01,FL,Architecture and engineering,163613.3,4048.4,43
+2021-01,FL,"Arts, media, sports",166479.1,17667.2,44
+2021-01,FL,Business and finance,525463.0,13313.4,129
+2021-01,FL,Cleaning and grounds,505664.6,46477.7,130
+2021-01,FL,Community and social service,194092.8,0.0,46
+2021-01,FL,Computer and math,278117.0,9436.1,69
+2021-01,FL,Construction,547049.2,43862.2,137
+2021-01,FL,Education,407452.8,8480.9,99
+2021-01,FL,Farming,71102.8,0.0,18
+2021-01,FL,Food service,432999.5,85587.4,123
+2021-01,FL,Healthcare practitioners,670541.3,15159.2,163
+2021-01,FL,Healthcare support,352149.4,18488.2,86
+2021-01,FL,Installation and repair,303700.0,26537.4,77
+2021-01,FL,Legal,117405.8,0.0,30
+2021-01,FL,Management,976048.5,37905.0,247
+2021-01,FL,No previous job,0.0,52010.5,12
+2021-01,FL,Office and admin,1159338.5,71436.3,288
+2021-01,FL,Personal care,282023.1,38950.4,72
+2021-01,FL,Production,244265.8,16978.1,61
+2021-01,FL,Protective service,278813.6,0.0,65
+2021-01,FL,Sales,1153998.6,33353.3,284
+2021-01,FL,Science,75115.9,5661.6,18
+2021-01,FL,Transportation,656659.2,29295.1,158
+2021-01,GA,Architecture and engineering,76016.6,4046.0,19
+2021-01,GA,"Arts, media, sports",38687.1,9099.8,11
+2021-01,GA,Business and finance,241064.3,10287.3,58
+2021-01,GA,Cleaning and grounds,127835.1,3709.9,31
+2021-01,GA,Community and social service,67178.5,3471.3,16
+2021-01,GA,Computer and math,221520.7,0.0,50
+2021-01,GA,Construction,266204.9,24702.0,64
+2021-01,GA,Education,288364.7,26554.0,78
+2021-01,GA,Farming,37510.0,7094.5,11
+2021-01,GA,Food service,215886.0,22480.3,55
+2021-01,GA,Healthcare practitioners,282430.2,21616.2,77
+2021-01,GA,Healthcare support,61612.4,16316.9,20
+2021-01,GA,Installation and repair,113176.7,0.0,27
+2021-01,GA,Legal,34925.0,0.0,8
+2021-01,GA,Management,759104.6,12435.4,185
+2021-01,GA,No previous job,0.0,17053.2,4
+2021-01,GA,Office and admin,410241.4,23764.9,104
+2021-01,GA,Personal care,106210.4,4316.6,25
+2021-01,GA,Production,402354.5,3601.4,98
+2021-01,GA,Protective service,84778.1,7443.3,22
+2021-01,GA,Sales,532220.3,20548.6,133
+2021-01,GA,Science,35602.9,0.0,8
+2021-01,GA,Transportation,419170.1,16905.2,96
+2021-01,HI,Architecture and engineering,10709.3,734.3,13
+2021-01,HI,"Arts, media, sports",12482.7,3031.2,16
+2021-01,HI,Business and finance,29997.6,918.4,38
+2021-01,HI,Cleaning and grounds,32577.5,1010.5,39
+2021-01,HI,Community and social service,5602.9,0.0,6
+2021-01,HI,Computer and math,17817.4,0.0,19
+2021-01,HI,Construction,27026.7,9713.0,38
+2021-01,HI,Education,37908.1,3616.5,46
+2021-01,HI,Farming,7014.0,0.0,8
+2021-01,HI,Food service,38337.2,5666.9,47
+2021-01,HI,Healthcare practitioners,42052.4,1555.0,47
+2021-01,HI,Healthcare support,12253.3,817.7,15
+2021-01,HI,Installation and repair,20764.4,2056.5,26
+2021-01,HI,Legal,10922.0,0.0,12
+2021-01,HI,Management,70133.5,2855.9,82
+2021-01,HI,No previous job,0.0,1279.3,1
+2021-01,HI,Office and admin,78679.6,6993.9,91
+2021-01,HI,Personal care,13873.6,11314.0,28
+2021-01,HI,Production,7774.8,6068.5,15
+2021-01,HI,Protective service,27632.5,1076.1,28
+2021-01,HI,Sales,48284.8,4717.9,56
+2021-01,HI,Science,6218.0,922.8,9
+2021-01,HI,Transportation,27066.4,5513.6,31
+2021-01,IA,Architecture and engineering,31840.4,0.0,12
+2021-01,IA,"Arts, media, sports",20262.3,2548.4,9
+2021-01,IA,Business and finance,73306.6,2707.2,28
+2021-01,IA,Cleaning and grounds,55441.7,5321.0,23
+2021-01,IA,Community and social service,25600.7,0.0,10
+2021-01,IA,Computer and math,35524.8,0.0,14
+2021-01,IA,Construction,73527.1,13124.6,32
+2021-01,IA,Education,103176.9,0.0,39
+2021-01,IA,Farming,42174.1,0.0,15
+2021-01,IA,Food service,83306.3,10203.5,32
+2021-01,IA,Healthcare practitioners,75387.0,5006.2,32
+2021-01,IA,Healthcare support,48123.6,0.0,17
+2021-01,IA,Installation and repair,57604.6,2712.0,24
+2021-01,IA,Legal,14419.1,0.0,6
+2021-01,IA,Management,187795.8,2975.3,75
+2021-01,IA,No previous job,0.0,2334.3,1
+2021-01,IA,Office and admin,182526.8,2170.0,74
+2021-01,IA,Personal care,42868.6,0.0,16
+2021-01,IA,Production,90925.1,7618.8,35
+2021-01,IA,Protective service,19794.3,0.0,8
+2021-01,IA,Sales,176321.3,5817.7,66
+2021-01,IA,Science,20007.0,0.0,7
+2021-01,IA,Transportation,119500.8,21434.4,53
+2021-01,ID,Architecture and engineering,17711.1,0.0,21
+2021-01,ID,"Arts, media, sports",9917.6,3798.9,16
+2021-01,ID,Business and finance,51254.3,0.0,59
+2021-01,ID,Cleaning and grounds,24524.8,1948.5,29
+2021-01,ID,Community and social service,8262.3,1272.4,11
+2021-01,ID,Computer and math,24695.2,0.0,28
+2021-01,ID,Construction,46823.9,2341.0,52
+2021-01,ID,Education,35312.3,2116.2,44
+2021-01,ID,Farming,15083.9,1095.8,17
+2021-01,ID,Food service,39266.5,4055.1,48
+2021-01,ID,Healthcare practitioners,42781.9,774.2,51
+2021-01,ID,Healthcare support,28574.7,888.6,35
+2021-01,ID,Installation and repair,24469.1,1777.0,29
+2021-01,ID,Legal,6126.7,0.0,7
+2021-01,ID,Management,137602.9,0.0,163
+2021-01,ID,No previous job,0.0,1048.8,1
+2021-01,ID,Office and admin,88794.5,5268.9,106
+2021-01,ID,Personal care,24280.8,3067.9,31
+2021-01,ID,Production,53173.5,2745.0,62
+2021-01,ID,Protective service,13007.2,846.3,16
+2021-01,ID,Sales,107245.8,1759.6,125
+2021-01,ID,Science,11448.5,0.0,12
+2021-01,ID,Transportation,62889.3,1852.7,75
+2021-01,IL,Architecture and engineering,100937.3,5180.2,26
+2021-01,IL,"Arts, media, sports",145298.4,10780.3,37
+2021-01,IL,Business and finance,429678.6,20446.5,108
+2021-01,IL,Cleaning and grounds,151773.2,31049.4,44
+2021-01,IL,Community and social service,110535.6,4677.3,30
+2021-01,IL,Computer and math,271105.7,3454.8,63
+2021-01,IL,Construction,220293.1,31240.1,63
+2021-01,IL,Education,371175.7,6796.5,92
+2021-01,IL,Farming,8229.4,4218.2,3
+2021-01,IL,Food service,182289.3,60441.1,55
+2021-01,IL,Healthcare practitioners,452782.1,22303.0,114
+2021-01,IL,Healthcare support,175693.0,8528.8,43
+2021-01,IL,Installation and repair,91824.0,4735.0,24
+2021-01,IL,Legal,110816.1,0.0,27
+2021-01,IL,Management,715768.6,44483.1,188
+2021-01,IL,No previous job,0.0,26925.0,6
+2021-01,IL,Office and admin,551658.0,24198.8,137
+2021-01,IL,Personal care,80119.2,38286.9,29
+2021-01,IL,Production,317042.9,28877.9,82
+2021-01,IL,Protective service,102131.6,5095.8,25
+2021-01,IL,Sales,540943.0,67602.1,148
+2021-01,IL,Science,67314.3,0.0,16
+2021-01,IL,Transportation,400042.6,45110.1,107
+2021-01,IN,Architecture and engineering,64668.2,0.0,18
+2021-01,IN,"Arts, media, sports",59094.8,3208.5,17
+2021-01,IN,Business and finance,184694.9,3299.8,51
+2021-01,IN,Cleaning and grounds,90065.2,23113.6,29
+2021-01,IN,Community and social service,58951.5,0.0,15
+2021-01,IN,Computer and math,135958.1,6401.3,38
+2021-01,IN,Construction,147181.3,20930.9,47
+2021-01,IN,Education,277516.7,3068.4,79
+2021-01,IN,Farming,24077.7,0.0,7
+2021-01,IN,Food service,134143.5,16373.2,38
+2021-01,IN,Healthcare practitioners,222832.8,14526.4,68
+2021-01,IN,Healthcare support,108710.3,0.0,27
+2021-01,IN,Installation and repair,72443.6,0.0,21
+2021-01,IN,Legal,32945.5,0.0,9
+2021-01,IN,Management,425375.6,7240.2,117
+2021-01,IN,No previous job,0.0,3492.3,1
+2021-01,IN,Office and admin,293882.8,13557.9,82
+2021-01,IN,Personal care,70424.7,0.0,19
+2021-01,IN,Production,245251.5,6419.5,70
+2021-01,IN,Protective service,55677.9,0.0,16
+2021-01,IN,Sales,245383.3,3981.1,69
+2021-01,IN,Science,7589.2,0.0,2
+2021-01,IN,Transportation,313627.0,19679.6,88
+2021-01,KS,Architecture and engineering,32313.1,0.0,15
+2021-01,KS,"Arts, media, sports",32283.2,0.0,15
+2021-01,KS,Business and finance,85080.7,2208.1,43
+2021-01,KS,Cleaning and grounds,37206.3,0.0,19
+2021-01,KS,Community and social service,20074.4,0.0,10
+2021-01,KS,Computer and math,44720.3,0.0,22
+2021-01,KS,Construction,69572.8,8224.0,36
+2021-01,KS,Education,101746.8,2587.7,53
+2021-01,KS,Farming,16591.4,2140.4,9
+2021-01,KS,Food service,94146.3,5889.0,40
+2021-01,KS,Healthcare practitioners,102884.8,1689.0,51
+2021-01,KS,Healthcare support,46567.9,0.0,22
+2021-01,KS,Installation and repair,63806.3,7424.9,36
+2021-01,KS,Legal,7028.9,0.0,4
+2021-01,KS,Management,164462.1,1739.9,88
+2021-01,KS,No previous job,0.0,2422.4,1
+2021-01,KS,Office and admin,129391.5,1516.3,63
+2021-01,KS,Personal care,33233.8,3366.6,16
+2021-01,KS,Production,79172.1,3723.9,43
+2021-01,KS,Protective service,31285.9,0.0,13
+2021-01,KS,Sales,108516.4,5002.9,56
+2021-01,KS,Science,23673.3,0.0,11
+2021-01,KS,Transportation,96785.0,4038.7,44
+2021-01,KS,Unclassified,0.0,2473.5,1
+2021-01,KY,Architecture and engineering,33237.6,2898.9,12
+2021-01,KY,"Arts, media, sports",29632.4,0.0,10
+2021-01,KY,Business and finance,78003.0,0.0,22
+2021-01,KY,Cleaning and grounds,92498.0,2954.1,29
+2021-01,KY,Community and social service,33473.2,3120.6,12
+2021-01,KY,Computer and math,51702.6,0.0,14
+2021-01,KY,Construction,74662.4,7586.0,23
+2021-01,KY,Education,95135.6,7678.0,33
+2021-01,KY,Farming,38674.7,0.0,12
+2021-01,KY,Food service,70481.7,5892.8,22
+2021-01,KY,Healthcare practitioners,127363.6,3176.2,41
+2021-01,KY,Healthcare support,38478.8,3451.1,13
+2021-01,KY,Installation and repair,63994.1,0.0,22
+2021-01,KY,Legal,14037.9,0.0,4
+2021-01,KY,Management,280738.8,16773.9,93
+2021-01,KY,No previous job,0.0,3552.1,1
+2021-01,KY,Office and admin,201564.1,12706.8,62
+2021-01,KY,Personal care,22674.8,0.0,7
+2021-01,KY,Production,192427.6,9450.8,59
+2021-01,KY,Protective service,57062.2,2805.8,19
+2021-01,KY,Sales,154832.3,7658.9,49
+2021-01,KY,Science,6225.9,0.0,2
+2021-01,KY,Transportation,164166.5,2760.7,48
+2021-01,LA,Architecture and engineering,41267.0,1239.1,25
+2021-01,LA,"Arts, media, sports",18062.4,1706.7,11
+2021-01,LA,Business and finance,74292.8,10758.0,50
+2021-01,LA,Cleaning and grounds,68772.0,11176.9,47
+2021-01,LA,Community and social service,16688.2,1564.8,12
+2021-01,LA,Computer and math,32979.6,1521.4,21
+2021-01,LA,Construction,129613.7,16869.3,84
+2021-01,LA,Education,120555.2,0.0,71
+2021-01,LA,Farming,12618.4,0.0,8
+2021-01,LA,Food service,90929.8,15657.0,56
+2021-01,LA,Healthcare practitioners,131439.6,1417.3,82
+2021-01,LA,Healthcare support,65118.1,11206.6,40
+2021-01,LA,Installation and repair,76121.3,4478.2,48
+2021-01,LA,Legal,30967.6,0.0,20
+2021-01,LA,Management,174422.9,3975.3,107
+2021-01,LA,No previous job,0.0,3731.4,2
+2021-01,LA,Office and admin,212269.1,6701.6,132
+2021-01,LA,Personal care,55519.8,6380.7,35
+2021-01,LA,Production,90838.3,7002.7,56
+2021-01,LA,Protective service,67633.0,0.0,37
+2021-01,LA,Sales,224755.9,6996.9,137
+2021-01,LA,Science,11526.7,0.0,7
+2021-01,LA,Transportation,161595.5,15578.4,100
+2021-01,MA,Architecture and engineering,101777.5,0.0,34
+2021-01,MA,"Arts, media, sports",47626.1,3025.6,17
+2021-01,MA,Business and finance,264063.1,15058.5,95
+2021-01,MA,Cleaning and grounds,84955.0,18179.5,33
+2021-01,MA,Community and social service,88811.0,3473.7,31
+2021-01,MA,Computer and math,202507.6,5386.0,66
+2021-01,MA,Construction,122530.0,30211.2,48
+2021-01,MA,Education,247615.2,10719.1,86
+2021-01,MA,Food service,90001.2,30612.0,39
+2021-01,MA,Healthcare practitioners,235520.0,11436.3,79
+2021-01,MA,Healthcare support,82421.4,3729.4,28
+2021-01,MA,Installation and repair,57136.6,10798.3,22
+2021-01,MA,Legal,55787.0,3094.4,19
+2021-01,MA,Management,548704.1,15869.5,190
+2021-01,MA,No previous job,0.0,7427.1,2
+2021-01,MA,Office and admin,328746.3,2791.6,110
+2021-01,MA,Personal care,85705.7,9386.2,30
+2021-01,MA,Production,142518.2,18699.7,53
+2021-01,MA,Protective service,74822.3,0.0,25
+2021-01,MA,Sales,286845.3,18882.0,100
+2021-01,MA,Science,75278.5,0.0,25
+2021-01,MA,Transportation,159617.0,19061.9,57
+2021-01,MD,Architecture and engineering,76838.5,0.0,18
+2021-01,MD,"Arts, media, sports",55461.6,0.0,13
+2021-01,MD,Business and finance,231555.3,13778.6,59
+2021-01,MD,Cleaning and grounds,59010.9,2684.2,16
+2021-01,MD,Community and social service,33265.5,0.0,8
+2021-01,MD,Computer and math,203916.4,9615.1,53
+2021-01,MD,Construction,90104.7,18967.8,24
+2021-01,MD,Education,241185.2,4181.7,59
+2021-01,MD,Farming,0.0,5633.0,1
+2021-01,MD,Food service,100223.4,12064.4,24
+2021-01,MD,Healthcare practitioners,206357.6,0.0,48
+2021-01,MD,Healthcare support,68691.2,0.0,16
+2021-01,MD,Installation and repair,74991.8,0.0,19
+2021-01,MD,Legal,64177.6,9708.7,19
+2021-01,MD,Management,398054.4,7970.0,102
+2021-01,MD,No previous job,0.0,3327.4,1
+2021-01,MD,Office and admin,262015.1,34131.8,70
+2021-01,MD,Personal care,64220.2,5449.9,17
+2021-01,MD,Production,85442.9,0.0,20
+2021-01,MD,Protective service,61332.1,0.0,15
+2021-01,MD,Sales,292439.9,15210.4,71
+2021-01,MD,Science,59759.6,0.0,15
+2021-01,MD,Transportation,188457.3,16000.6,47
+2021-01,ME,Architecture and engineering,10096.4,0.0,6
+2021-01,ME,"Arts, media, sports",8858.0,0.0,6
+2021-01,ME,Business and finance,19960.9,1759.5,14
+2021-01,ME,Cleaning and grounds,24663.4,4666.4,18
+2021-01,ME,Community and social service,15813.3,0.0,10
+2021-01,ME,Computer and math,12679.8,0.0,8
+2021-01,ME,Construction,25784.9,1731.8,17
+2021-01,ME,Education,40299.7,3242.2,28
+2021-01,ME,Farming,18455.4,0.0,11
+2021-01,ME,Food service,33110.6,4907.6,22
+2021-01,ME,Healthcare practitioners,53980.7,0.0,34
+2021-01,ME,Healthcare support,29100.8,2708.9,19
+2021-01,ME,Installation and repair,21350.2,0.0,13
+2021-01,ME,Management,84317.8,0.0,56
+2021-01,ME,No previous job,0.0,6258.8,4
+2021-01,ME,Office and admin,70018.9,8512.1,52
+2021-01,ME,Personal care,13780.0,1550.6,10
+2021-01,ME,Production,36497.9,1925.7,23
+2021-01,ME,Protective service,7487.0,0.0,4
+2021-01,ME,Sales,47586.0,2672.9,34
+2021-01,ME,Science,3079.8,0.0,2
+2021-01,ME,Transportation,59256.2,8662.9,44
+2021-01,MI,Architecture and engineering,163979.5,4078.6,42
+2021-01,MI,"Arts, media, sports",65731.7,3761.5,16
+2021-01,MI,Business and finance,279469.9,0.0,70
+2021-01,MI,Cleaning and grounds,143098.2,15413.4,38
+2021-01,MI,Community and social service,54979.9,4180.2,13
+2021-01,MI,Computer and math,98386.2,0.0,25
+2021-01,MI,Construction,126042.3,27176.4,39
+2021-01,MI,Education,252096.5,9991.1,65
+2021-01,MI,Farming,11900.1,13180.8,6
+2021-01,MI,Food service,154158.5,61743.9,52
+2021-01,MI,Healthcare practitioners,328928.6,0.0,83
+2021-01,MI,Healthcare support,165987.4,12454.8,41
+2021-01,MI,Installation and repair,137896.6,15811.9,39
+2021-01,MI,Legal,70376.5,0.0,18
+2021-01,MI,Management,489195.9,28581.5,134
+2021-01,MI,No previous job,0.0,4006.6,1
+2021-01,MI,Office and admin,532487.5,12151.9,133
+2021-01,MI,Personal care,99958.5,16309.4,26
+2021-01,MI,Production,386407.0,18758.8,99
+2021-01,MI,Protective service,58807.2,5095.8,16
+2021-01,MI,Sales,405470.2,29388.5,109
+2021-01,MI,Science,37389.5,8040.6,12
+2021-01,MI,Transportation,302221.5,17063.9,73
+2021-01,MN,Architecture and engineering,75990.4,0.0,20
+2021-01,MN,"Arts, media, sports",47083.1,6445.0,14
+2021-01,MN,Business and finance,207269.4,7132.1,59
+2021-01,MN,Cleaning and grounds,45480.6,0.0,12
+2021-01,MN,Community and social service,95234.9,0.0,25
+2021-01,MN,Computer and math,134396.7,4266.4,36
+2021-01,MN,Construction,151972.6,4181.2,41
+2021-01,MN,Education,141675.4,13186.5,41
+2021-01,MN,Farming,39541.5,0.0,10
+2021-01,MN,Food service,90826.2,10859.2,26
+2021-01,MN,Healthcare practitioners,196786.0,0.0,55
+2021-01,MN,Healthcare support,104717.4,4415.1,29
+2021-01,MN,Installation and repair,99449.4,0.0,27
+2021-01,MN,Legal,25631.7,0.0,7
+2021-01,MN,Management,394506.6,22035.2,115
+2021-01,MN,No previous job,0.0,7985.2,2
+2021-01,MN,Office and admin,236718.3,11998.7,67
+2021-01,MN,Personal care,46917.3,12833.8,15
+2021-01,MN,Production,200383.9,15262.4,56
+2021-01,MN,Protective service,18233.2,6502.7,7
+2021-01,MN,Sales,260118.1,19510.6,74
+2021-01,MN,Science,19834.3,0.0,5
+2021-01,MN,Transportation,210039.7,13747.0,56
+2021-01,MO,Architecture and engineering,42886.9,7116.5,13
+2021-01,MO,"Arts, media, sports",52775.9,0.0,15
+2021-01,MO,Business and finance,186119.7,5558.7,49
+2021-01,MO,Cleaning and grounds,119739.1,3287.2,30
+2021-01,MO,Community and social service,36986.9,6151.7,12
+2021-01,MO,Computer and math,102685.9,0.0,27
+2021-01,MO,Construction,169630.8,28010.9,52
+2021-01,MO,Education,168407.9,16412.9,49
+2021-01,MO,Farming,16332.7,3152.2,6
+2021-01,MO,Food service,160135.6,23559.1,46
+2021-01,MO,Healthcare practitioners,227282.7,4091.0,60
+2021-01,MO,Healthcare support,82160.2,3410.5,22
+2021-01,MO,Installation and repair,106462.9,4026.2,29
+2021-01,MO,Legal,28933.8,0.0,9
+2021-01,MO,Management,333159.7,11172.0,92
+2021-01,MO,No previous job,0.0,8393.9,2
+2021-01,MO,Office and admin,344155.2,2905.4,96
+2021-01,MO,Personal care,71127.9,4124.5,21
+2021-01,MO,Production,144481.5,18772.4,44
+2021-01,MO,Protective service,26002.0,3707.6,8
+2021-01,MO,Sales,271224.4,33094.0,82
+2021-01,MO,Science,11743.0,0.0,4
+2021-01,MO,Transportation,178471.6,10703.7,47
+2021-01,MO,Unclassified,0.0,3779.3,1
+2021-01,MS,Architecture and engineering,17128.7,0.0,12
+2021-01,MS,"Arts, media, sports",19005.3,3259.7,17
+2021-01,MS,Business and finance,31793.6,0.0,26
+2021-01,MS,Cleaning and grounds,37525.3,3124.7,30
+2021-01,MS,Community and social service,21874.3,0.0,17
+2021-01,MS,Computer and math,14735.3,0.0,10
+2021-01,MS,Construction,59039.0,6086.8,46
+2021-01,MS,Education,81958.5,1441.4,60
+2021-01,MS,Farming,11497.7,3091.3,10
+2021-01,MS,Food service,56965.2,10082.2,47
+2021-01,MS,Healthcare practitioners,82043.8,3985.5,63
+2021-01,MS,Healthcare support,43236.5,1888.5,31
+2021-01,MS,Installation and repair,43464.1,0.0,31
+2021-01,MS,Legal,9300.8,0.0,7
+2021-01,MS,Management,97929.3,1292.6,76
+2021-01,MS,No previous job,0.0,4365.1,2
+2021-01,MS,Office and admin,119124.0,3097.3,90
+2021-01,MS,Personal care,30696.7,6827.4,27
+2021-01,MS,Production,121939.1,2350.0,84
+2021-01,MS,Protective service,19010.6,1201.1,15
+2021-01,MS,Sales,106383.6,4903.4,75
+2021-01,MS,Science,4477.3,0.0,4
+2021-01,MS,Transportation,125629.9,9266.1,89
+2021-01,MT,Architecture and engineering,5322.7,595.1,11
+2021-01,MT,"Arts, media, sports",10397.4,423.2,20
+2021-01,MT,Business and finance,21814.5,607.1,40
+2021-01,MT,Cleaning and grounds,13465.0,1608.3,28
+2021-01,MT,Community and social service,12223.9,0.0,23
+2021-01,MT,Computer and math,15727.0,446.0,29
+2021-01,MT,Construction,35052.2,1905.0,66
+2021-01,MT,Education,21224.1,815.1,40
+2021-01,MT,Farming,10235.4,1690.3,20
+2021-01,MT,Food service,28402.9,1634.8,53
+2021-01,MT,Healthcare practitioners,35791.2,531.1,67
+2021-01,MT,Healthcare support,13337.3,878.3,26
+2021-01,MT,Installation and repair,17739.6,1516.5,35
+2021-01,MT,Legal,7348.5,0.0,14
+2021-01,MT,Management,73761.7,2712.9,142
+2021-01,MT,No previous job,0.0,516.0,1
+2021-01,MT,Office and admin,52143.2,2689.1,100
+2021-01,MT,Personal care,9887.7,553.9,19
+2021-01,MT,Production,19291.5,0.0,33
+2021-01,MT,Protective service,6226.5,592.9,12
+2021-01,MT,Sales,57416.5,2664.8,106
+2021-01,MT,Science,10689.7,0.0,19
+2021-01,MT,Transportation,26181.1,3625.6,53
+2021-01,NC,Architecture and engineering,89522.2,7967.2,25
+2021-01,NC,"Arts, media, sports",75918.1,0.0,19
+2021-01,NC,Business and finance,314219.9,3294.0,82
+2021-01,NC,Cleaning and grounds,143224.7,18932.9,41
+2021-01,NC,Community and social service,81910.1,4339.7,21
+2021-01,NC,Computer and math,166459.5,4180.2,40
+2021-01,NC,Construction,319396.7,28942.9,83
+2021-01,NC,Education,281558.7,16265.2,73
+2021-01,NC,Farming,3579.8,0.0,1
+2021-01,NC,Food service,217413.4,39592.5,58
+2021-01,NC,Healthcare practitioners,307062.1,0.0,76
+2021-01,NC,Healthcare support,170211.1,4766.2,41
+2021-01,NC,Installation and repair,158254.7,4219.1,40
+2021-01,NC,Legal,19988.1,0.0,5
+2021-01,NC,Management,497274.6,8444.4,129
+2021-01,NC,No previous job,0.0,16249.6,3
+2021-01,NC,Office and admin,398015.6,31667.7,108
+2021-01,NC,Personal care,73395.4,4132.4,19
+2021-01,NC,Production,370149.5,16873.1,93
+2021-01,NC,Protective service,84128.9,4374.7,23
+2021-01,NC,Sales,475056.7,27517.6,124
+2021-01,NC,Science,44029.6,12864.0,13
+2021-01,NC,Transportation,357896.5,37061.3,97
+2021-01,ND,Architecture and engineering,4379.5,179.6,12
+2021-01,ND,"Arts, media, sports",6246.2,0.0,16
+2021-01,ND,Business and finance,17728.5,1106.5,47
+2021-01,ND,Cleaning and grounds,13892.9,378.7,34
+2021-01,ND,Community and social service,8007.9,0.0,17
+2021-01,ND,Computer and math,6287.9,0.0,14
+2021-01,ND,Construction,20240.8,3190.4,58
+2021-01,ND,Education,27021.8,349.8,62
+2021-01,ND,Farming,4033.1,380.1,11
+2021-01,ND,Food service,21145.3,1226.3,54
+2021-01,ND,Healthcare practitioners,20439.3,0.0,50
+2021-01,ND,Healthcare support,11828.4,1513.6,34
+2021-01,ND,Installation and repair,15483.6,837.5,38
+2021-01,ND,Legal,2375.6,0.0,6
+2021-01,ND,Management,50100.6,459.2,122
+2021-01,ND,Office and admin,42295.5,1426.0,104
+2021-01,ND,Personal care,8632.4,0.0,19
+2021-01,ND,Production,23355.8,756.4,60
+2021-01,ND,Protective service,6393.2,855.2,17
+2021-01,ND,Sales,41780.6,1559.5,102
+2021-01,ND,Science,5361.6,940.6,14
+2021-01,ND,Transportation,26902.1,2510.7,70
+2021-01,NE,Architecture and engineering,10160.4,0.0,8
+2021-01,NE,"Arts, media, sports",15303.0,0.0,11
+2021-01,NE,Business and finance,66645.6,0.0,46
+2021-01,NE,Cleaning and grounds,24034.9,1194.7,18
+2021-01,NE,Community and social service,18888.5,0.0,14
+2021-01,NE,Computer and math,24001.8,0.0,18
+2021-01,NE,Construction,54397.8,1300.5,40
+2021-01,NE,Education,70338.8,1806.8,49
+2021-01,NE,Farming,10362.5,1308.9,9
+2021-01,NE,Food service,60324.1,3819.6,44
+2021-01,NE,Healthcare practitioners,73520.2,0.0,54
+2021-01,NE,Healthcare support,18515.9,2377.2,15
+2021-01,NE,Installation and repair,31930.6,1259.5,23
+2021-01,NE,Legal,4452.2,0.0,3
+2021-01,NE,Management,136393.8,3208.1,99
+2021-01,NE,No previous job,0.0,2724.9,2
+2021-01,NE,Office and admin,113097.8,1246.2,81
+2021-01,NE,Personal care,17412.8,4257.8,16
+2021-01,NE,Production,51230.4,6776.2,40
+2021-01,NE,Protective service,19262.8,0.0,13
+2021-01,NE,Sales,95726.1,2841.2,67
+2021-01,NE,Science,11503.8,0.0,8
+2021-01,NE,Transportation,72305.2,3019.0,52
+2021-01,NH,Architecture and engineering,28571.3,2220.0,32
+2021-01,NH,"Arts, media, sports",13732.7,0.0,14
+2021-01,NH,Business and finance,36413.7,1809.6,40
+2021-01,NH,Cleaning and grounds,16745.7,6043.2,23
+2021-01,NH,Community and social service,12973.7,0.0,14
+2021-01,NH,Computer and math,36054.7,0.0,35
+2021-01,NH,Construction,26409.4,2763.2,28
+2021-01,NH,Education,43912.8,2335.4,46
+2021-01,NH,Farming,3041.9,0.0,4
+2021-01,NH,Food service,38906.5,5406.7,39
+2021-01,NH,Healthcare practitioners,47521.1,1835.0,52
+2021-01,NH,Healthcare support,15760.9,0.0,15
+2021-01,NH,Installation and repair,27794.1,0.0,28
+2021-01,NH,Legal,8755.2,0.0,9
+2021-01,NH,Management,97110.1,1386.1,107
+2021-01,NH,Office and admin,88895.8,1100.0,93
+2021-01,NH,Personal care,17542.3,2098.1,20
+2021-01,NH,Production,47420.9,1859.3,49
+2021-01,NH,Protective service,8358.4,0.0,9
+2021-01,NH,Sales,56724.9,2154.0,59
+2021-01,NH,Science,6164.0,0.0,6
+2021-01,NH,Transportation,33473.6,4197.0,37
+2021-01,NJ,Architecture and engineering,74793.6,5274.1,18
+2021-01,NJ,"Arts, media, sports",110371.5,9589.7,29
+2021-01,NJ,Business and finance,259453.4,7650.3,64
+2021-01,NJ,Cleaning and grounds,114435.6,19766.2,32
+2021-01,NJ,Community and social service,59646.6,0.0,13
+2021-01,NJ,Computer and math,208094.4,6695.8,49
+2021-01,NJ,Construction,258058.7,27263.0,64
+2021-01,NJ,Education,323814.9,7848.5,79
+2021-01,NJ,Farming,9241.1,0.0,2
+2021-01,NJ,Food service,118153.5,31727.7,33
+2021-01,NJ,Healthcare practitioners,259361.1,3408.8,61
+2021-01,NJ,Healthcare support,102040.3,10382.9,27
+2021-01,NJ,Installation and repair,95365.4,3639.8,23
+2021-01,NJ,Legal,61550.3,3469.8,17
+2021-01,NJ,Management,504277.1,9276.0,129
+2021-01,NJ,No previous job,0.0,5924.9,1
+2021-01,NJ,Office and admin,474312.8,45790.9,119
+2021-01,NJ,Personal care,100456.3,39331.2,32
+2021-01,NJ,Production,90654.4,18695.8,26
+2021-01,NJ,Protective service,60055.9,4120.0,16
+2021-01,NJ,Sales,433846.5,46392.6,109
+2021-01,NJ,Science,66021.4,0.0,16
+2021-01,NJ,Transportation,317173.3,31107.6,74
+2021-01,NM,Architecture and engineering,18716.2,0.0,15
+2021-01,NM,"Arts, media, sports",22924.9,0.0,17
+2021-01,NM,Business and finance,31863.7,4481.1,30
+2021-01,NM,Cleaning and grounds,36047.8,11320.5,36
+2021-01,NM,Community and social service,22375.3,0.0,18
+2021-01,NM,Computer and math,17259.2,0.0,14
+2021-01,NM,Construction,48626.1,4003.8,42
+2021-01,NM,Education,72013.9,3837.3,59
+2021-01,NM,Farming,10383.3,2316.1,8
+2021-01,NM,Food service,19855.5,4237.1,18
+2021-01,NM,Healthcare practitioners,52297.7,4785.9,45
+2021-01,NM,Healthcare support,41037.9,1578.5,34
+2021-01,NM,Installation and repair,29036.4,3716.0,25
+2021-01,NM,Legal,12940.3,856.6,11
+2021-01,NM,Management,73244.0,2529.9,64
+2021-01,NM,No previous job,0.0,7879.2,4
+2021-01,NM,Office and admin,122060.3,10173.5,105
+2021-01,NM,Personal care,11661.1,2373.4,11
+2021-01,NM,Production,29772.4,2782.7,25
+2021-01,NM,Protective service,20309.4,2662.8,17
+2021-01,NM,Sales,84273.3,13057.0,73
+2021-01,NM,Science,17236.5,1767.7,14
+2021-01,NM,Transportation,46038.9,4053.4,38
+2021-01,NV,Architecture and engineering,18789.9,0.0,9
+2021-01,NV,"Arts, media, sports",39860.1,0.0,20
+2021-01,NV,Business and finance,63975.2,2037.9,33
+2021-01,NV,Cleaning and grounds,55786.6,14423.1,33
+2021-01,NV,Community and social service,27581.5,0.0,13
+2021-01,NV,Computer and math,29157.3,0.0,14
+2021-01,NV,Construction,98782.2,10482.3,50
+2021-01,NV,Education,85760.9,1811.5,46
+2021-01,NV,Farming,4328.2,3025.3,3
+2021-01,NV,Food service,52483.1,24889.5,39
+2021-01,NV,Healthcare practitioners,77025.2,4142.2,40
+2021-01,NV,Healthcare support,29093.7,5917.9,16
+2021-01,NV,Installation and repair,50646.0,1975.2,26
+2021-01,NV,Legal,14499.7,0.0,7
+2021-01,NV,Management,167567.4,15943.4,93
+2021-01,NV,No previous job,0.0,4362.0,2
+2021-01,NV,Office and admin,165164.6,11056.1,89
+2021-01,NV,Personal care,51111.8,11423.0,31
+2021-01,NV,Production,34028.6,0.0,16
+2021-01,NV,Protective service,38480.3,5172.4,19
+2021-01,NV,Sales,153677.9,12031.6,80
+2021-01,NV,Science,7133.6,0.0,3
+2021-01,NV,Transportation,113119.6,14455.3,61
+2021-01,NY,Architecture and engineering,124022.7,4935.7,28
+2021-01,NY,"Arts, media, sports",269611.5,59415.7,69
+2021-01,NY,Business and finance,560730.7,23781.6,128
+2021-01,NY,Cleaning and grounds,261459.5,46545.1,64
+2021-01,NY,Community and social service,170630.1,23420.0,41
+2021-01,NY,Computer and math,264798.5,9393.9,56
+2021-01,NY,Construction,362816.4,93109.4,88
+2021-01,NY,Education,653233.3,33045.8,149
+2021-01,NY,Farming,5103.7,0.0,1
+2021-01,NY,Food service,336973.3,114605.3,89
+2021-01,NY,Healthcare practitioners,659072.2,0.0,135
+2021-01,NY,Healthcare support,436790.0,36264.7,100
+2021-01,NY,Installation and repair,200207.0,10517.2,43
+2021-01,NY,Legal,165675.7,15107.0,38
+2021-01,NY,Management,940787.0,25389.1,205
+2021-01,NY,No previous job,0.0,43439.4,8
+2021-01,NY,Office and admin,828895.7,70297.0,190
+2021-01,NY,Personal care,167145.0,40012.4,44
+2021-01,NY,Production,254956.4,19163.4,57
+2021-01,NY,Protective service,206021.3,9898.1,43
+2021-01,NY,Sales,807231.8,114720.9,189
+2021-01,NY,Science,91906.8,0.0,19
+2021-01,NY,Transportation,467958.0,76858.0,108
+2021-01,OH,Architecture and engineering,82213.0,0.0,20
+2021-01,OH,"Arts, media, sports",80086.3,4489.8,18
+2021-01,OH,Business and finance,344059.7,0.0,80
+2021-01,OH,Cleaning and grounds,127592.6,24768.5,35
+2021-01,OH,Community and social service,92929.2,0.0,22
+2021-01,OH,Computer and math,158044.1,0.0,38
+2021-01,OH,Construction,251251.5,21257.0,64
+2021-01,OH,Education,318248.1,6901.1,79
+2021-01,OH,Farming,11978.7,0.0,3
+2021-01,OH,Food service,316268.0,32605.3,78
+2021-01,OH,Healthcare practitioners,410510.3,0.0,101
+2021-01,OH,Healthcare support,164509.3,18458.4,40
+2021-01,OH,Installation and repair,120914.9,9910.2,31
+2021-01,OH,Legal,35589.7,0.0,8
+2021-01,OH,Management,637221.1,27735.8,156
+2021-01,OH,No previous job,0.0,15387.0,2
+2021-01,OH,Office and admin,559627.2,29152.4,142
+2021-01,OH,Personal care,116135.0,4832.0,29
+2021-01,OH,Production,406057.1,38992.5,108
+2021-01,OH,Protective service,93098.6,12193.8,23
+2021-01,OH,Sales,513690.1,29633.0,122
+2021-01,OH,Science,34281.4,0.0,8
+2021-01,OH,Transportation,435714.4,67483.6,112
+2021-01,OK,Architecture and engineering,19371.8,0.0,9
+2021-01,OK,"Arts, media, sports",29153.8,0.0,11
+2021-01,OK,Business and finance,55817.8,4821.7,28
+2021-01,OK,Cleaning and grounds,71747.3,8636.1,32
+2021-01,OK,Community and social service,37216.1,0.0,17
+2021-01,OK,Computer and math,41051.0,3870.0,20
+2021-01,OK,Construction,103296.3,11176.6,47
+2021-01,OK,Education,100575.4,4939.8,48
+2021-01,OK,Farming,13133.9,2186.0,6
+2021-01,OK,Food service,111063.4,11396.8,53
+2021-01,OK,Healthcare practitioners,108907.4,1908.9,51
+2021-01,OK,Healthcare support,48603.6,3990.3,20
+2021-01,OK,Installation and repair,72931.4,9810.0,34
+2021-01,OK,Legal,26598.6,0.0,12
+2021-01,OK,Management,232942.1,5687.1,115
+2021-01,OK,Office and admin,219080.1,10533.1,104
+2021-01,OK,Personal care,41376.9,0.0,18
+2021-01,OK,Production,73606.2,11447.9,37
+2021-01,OK,Protective service,24322.8,0.0,11
+2021-01,OK,Sales,189281.5,8343.9,87
+2021-01,OK,Science,6839.4,0.0,3
+2021-01,OK,Transportation,146548.1,16074.6,72
+2021-01,OR,Architecture and engineering,51482.9,2098.7,25
+2021-01,OR,"Arts, media, sports",29025.9,4551.0,15
+2021-01,OR,Business and finance,95299.5,5463.8,47
+2021-01,OR,Cleaning and grounds,87581.2,2097.5,40
+2021-01,OR,Community and social service,45393.3,0.0,21
+2021-01,OR,Computer and math,50189.5,0.0,23
+2021-01,OR,Construction,68527.4,8068.7,31
+2021-01,OR,Education,120539.8,2077.1,53
+2021-01,OR,Farming,21254.5,2620.5,10
+2021-01,OR,Food service,90673.2,10384.3,45
+2021-01,OR,Healthcare practitioners,123870.5,6454.8,60
+2021-01,OR,Healthcare support,80725.0,9185.4,41
+2021-01,OR,Installation and repair,49215.4,6756.5,23
+2021-01,OR,Legal,16261.5,0.0,7
+2021-01,OR,Management,303572.1,13768.3,148
+2021-01,OR,No previous job,0.0,7186.4,3
+2021-01,OR,Office and admin,186428.5,28915.7,95
+2021-01,OR,Personal care,32318.7,7650.8,18
+2021-01,OR,Production,125041.1,5893.4,57
+2021-01,OR,Protective service,28948.9,0.0,13
+2021-01,OR,Sales,182316.8,14820.6,86
+2021-01,OR,Science,19370.1,0.0,9
+2021-01,OR,Transportation,132819.2,19536.2,63
+2021-01,PA,Architecture and engineering,103064.7,0.0,26
+2021-01,PA,"Arts, media, sports",74541.0,7361.4,20
+2021-01,PA,Business and finance,416287.5,13753.2,100
+2021-01,PA,Cleaning and grounds,142916.2,55205.2,44
+2021-01,PA,Community and social service,113361.1,0.0,27
+2021-01,PA,Computer and math,230961.7,4819.9,51
+2021-01,PA,Construction,286915.5,70241.3,83
+2021-01,PA,Education,357670.0,21107.6,88
+2021-01,PA,Farming,51072.5,3514.6,14
+2021-01,PA,Food service,215636.6,21476.5,55
+2021-01,PA,Healthcare practitioners,395765.7,8766.3,96
+2021-01,PA,Healthcare support,175840.1,29461.4,47
+2021-01,PA,Installation and repair,162514.2,14114.4,41
+2021-01,PA,Legal,58774.4,0.0,14
+2021-01,PA,Management,643004.9,48075.7,165
+2021-01,PA,No previous job,0.0,4282.6,1
+2021-01,PA,Office and admin,641224.8,44055.1,164
+2021-01,PA,Personal care,129510.5,33655.7,34
+2021-01,PA,Production,355051.6,21849.3,89
+2021-01,PA,Protective service,66768.3,4560.7,16
+2021-01,PA,Sales,527508.4,26531.1,135
+2021-01,PA,Science,73912.7,4041.1,17
+2021-01,PA,Transportation,464925.3,85335.0,127
+2021-01,RI,Architecture and engineering,11424.0,0.0,11
+2021-01,RI,"Arts, media, sports",17501.4,1229.9,16
+2021-01,RI,Business and finance,37695.2,0.0,31
+2021-01,RI,Cleaning and grounds,13841.5,1313.7,12
+2021-01,RI,Community and social service,16332.7,0.0,13
+2021-01,RI,Computer and math,21821.8,0.0,18
+2021-01,RI,Construction,19101.3,2922.4,19
+2021-01,RI,Education,46922.4,1128.3,40
+2021-01,RI,Food service,25221.9,0.0,18
+2021-01,RI,Healthcare practitioners,47577.6,0.0,40
+2021-01,RI,Healthcare support,12024.4,1318.6,11
+2021-01,RI,Installation and repair,9595.9,2555.6,10
+2021-01,RI,Legal,8572.5,0.0,9
+2021-01,RI,Management,52920.0,6210.5,55
+2021-01,RI,No previous job,0.0,4184.4,3
+2021-01,RI,Office and admin,58401.3,5186.1,56
+2021-01,RI,Personal care,10092.6,2234.6,10
+2021-01,RI,Production,25168.4,1665.8,26
+2021-01,RI,Protective service,9404.4,1173.3,11
+2021-01,RI,Sales,44188.6,1248.7,40
+2021-01,RI,Science,7110.7,0.0,6
+2021-01,RI,Transportation,19546.2,2537.1,19
+2021-01,SC,Architecture and engineering,34863.7,0.0,13
+2021-01,SC,"Arts, media, sports",23292.7,0.0,9
+2021-01,SC,Business and finance,100296.3,2685.4,38
+2021-01,SC,Cleaning and grounds,73957.1,1855.9,26
+2021-01,SC,Community and social service,66592.7,0.0,23
+2021-01,SC,Computer and math,57747.8,0.0,21
+2021-01,SC,Construction,124379.1,9896.2,47
+2021-01,SC,Education,146799.6,0.0,53
+2021-01,SC,Food service,90698.9,9832.6,35
+2021-01,SC,Healthcare practitioners,152791.1,2201.8,56
+2021-01,SC,Healthcare support,51368.1,6862.6,20
+2021-01,SC,Installation and repair,65121.4,0.0,22
+2021-01,SC,Legal,20319.9,0.0,8
+2021-01,SC,Management,232152.2,0.0,84
+2021-01,SC,No previous job,0.0,8503.0,2
+2021-01,SC,Office and admin,259400.8,16052.0,96
+2021-01,SC,Personal care,69355.4,2178.3,25
+2021-01,SC,Production,174704.4,15665.8,67
+2021-01,SC,Protective service,59057.8,0.0,21
+2021-01,SC,Sales,261162.5,7113.3,98
+2021-01,SC,Science,11257.3,4495.7,6
+2021-01,SC,Transportation,149398.0,23933.7,61
+2021-01,SD,Architecture and engineering,4865.4,0.0,7
+2021-01,SD,"Arts, media, sports",6169.0,0.0,10
+2021-01,SD,Business and finance,22715.7,0.0,34
+2021-01,SD,Cleaning and grounds,13685.2,0.0,21
+2021-01,SD,Community and social service,9881.9,0.0,16
+2021-01,SD,Computer and math,8133.5,0.0,12
+2021-01,SD,Construction,26163.6,3431.6,44
+2021-01,SD,Education,16704.8,1415.3,28
+2021-01,SD,Farming,3391.1,1611.4,7
+2021-01,SD,Food service,18841.1,0.0,28
+2021-01,SD,Healthcare practitioners,32914.4,0.0,49
+2021-01,SD,Healthcare support,12505.5,0.0,17
+2021-01,SD,Installation and repair,15182.1,0.0,18
+2021-01,SD,Legal,1553.0,0.0,2
+2021-01,SD,Management,64279.6,0.0,98
+2021-01,SD,No previous job,0.0,604.0,1
+2021-01,SD,Office and admin,52449.1,1076.2,82
+2021-01,SD,Personal care,11595.7,0.0,17
+2021-01,SD,Production,33875.4,745.3,50
+2021-01,SD,Protective service,5356.2,0.0,8
+2021-01,SD,Sales,46944.1,0.0,64
+2021-01,SD,Science,5476.2,0.0,6
+2021-01,SD,Transportation,39409.3,1290.3,57
+2021-01,TN,Architecture and engineering,42240.0,0.0,13
+2021-01,TN,"Arts, media, sports",70969.1,0.0,22
+2021-01,TN,Business and finance,158717.9,8887.6,55
+2021-01,TN,Cleaning and grounds,104652.5,17629.2,37
+2021-01,TN,Community and social service,50373.3,3520.6,18
+2021-01,TN,Computer and math,93067.4,2413.7,31
+2021-01,TN,Construction,139683.3,3592.6,43
+2021-01,TN,Education,244066.7,0.0,78
+2021-01,TN,Farming,3006.5,5478.6,3
+2021-01,TN,Food service,148991.7,13093.2,50
+2021-01,TN,Healthcare practitioners,237074.0,2696.6,79
+2021-01,TN,Healthcare support,59571.2,2861.3,20
+2021-01,TN,Installation and repair,117538.0,13513.0,41
+2021-01,TN,Legal,16019.9,0.0,5
+2021-01,TN,Management,361907.1,3089.7,118
+2021-01,TN,No previous job,0.0,13073.7,4
+2021-01,TN,Office and admin,319582.9,7046.9,105
+2021-01,TN,Personal care,53634.8,8406.2,20
+2021-01,TN,Production,216864.8,12928.7,73
+2021-01,TN,Protective service,70755.9,3270.7,23
+2021-01,TN,Sales,338969.5,9455.8,114
+2021-01,TN,Science,36713.3,0.0,12
+2021-01,TN,Transportation,290450.4,25341.6,97
+2021-01,TX,Architecture and engineering,257166.9,18001.5,62
+2021-01,TX,"Arts, media, sports",192111.7,13197.5,46
+2021-01,TX,Business and finance,750522.8,57470.0,188
+2021-01,TX,Cleaning and grounds,525406.4,61043.7,132
+2021-01,TX,Community and social service,186371.4,3342.5,44
+2021-01,TX,Computer and math,448433.5,12300.5,104
+2021-01,TX,Construction,1007717.5,109214.0,249
+2021-01,TX,Education,732047.4,26382.2,179
+2021-01,TX,Farming,54123.8,0.0,12
+2021-01,TX,Food service,618838.9,104455.5,163
+2021-01,TX,Healthcare practitioners,766177.9,30267.3,186
+2021-01,TX,Healthcare support,465879.5,31800.2,114
+2021-01,TX,Installation and repair,380507.5,53418.2,96
+2021-01,TX,Legal,129534.2,4179.8,30
+2021-01,TX,Management,1611398.9,101175.1,413
+2021-01,TX,No previous job,0.0,65521.1,14
+2021-01,TX,Office and admin,1373886.2,109608.9,347
+2021-01,TX,Personal care,273923.3,15454.3,64
+2021-01,TX,Production,584501.2,34162.8,141
+2021-01,TX,Protective service,266629.6,0.0,62
+2021-01,TX,Sales,1198427.9,146507.6,307
+2021-01,TX,Science,123800.4,3968.3,31
+2021-01,TX,Transportation,952878.3,94506.6,231
+2021-01,UT,Architecture and engineering,40305.8,0.0,22
+2021-01,UT,"Arts, media, sports",30585.0,6528.6,21
+2021-01,UT,Business and finance,93893.2,3463.5,54
+2021-01,UT,Cleaning and grounds,57086.4,1672.8,34
+2021-01,UT,Community and social service,18299.0,0.0,10
+2021-01,UT,Computer and math,63028.0,7067.8,40
+2021-01,UT,Construction,78492.3,7177.3,46
+2021-01,UT,Education,127586.2,3597.8,77
+2021-01,UT,Farming,1875.6,0.0,1
+2021-01,UT,Food service,77558.9,2990.4,45
+2021-01,UT,Healthcare practitioners,75252.0,0.0,43
+2021-01,UT,Healthcare support,52787.1,3612.4,31
+2021-01,UT,Installation and repair,43993.5,1960.7,25
+2021-01,UT,Legal,19996.2,0.0,11
+2021-01,UT,Management,184513.2,3692.5,108
+2021-01,UT,No previous job,0.0,1723.2,1
+2021-01,UT,Office and admin,203174.2,11522.0,122
+2021-01,UT,Personal care,30383.0,1592.0,19
+2021-01,UT,Production,97571.6,6921.0,58
+2021-01,UT,Protective service,29925.5,0.0,17
+2021-01,UT,Sales,159850.4,6908.9,92
+2021-01,UT,Science,29616.1,1662.4,17
+2021-01,UT,Transportation,75746.8,7007.3,45
+2021-01,VA,Architecture and engineering,85470.0,0.0,19
+2021-01,VA,"Arts, media, sports",89925.2,11701.8,23
+2021-01,VA,Business and finance,236396.8,8770.1,59
+2021-01,VA,Cleaning and grounds,138116.9,8165.9,35
+2021-01,VA,Community and social service,55510.1,4499.7,14
+2021-01,VA,Computer and math,357005.1,4441.7,82
+2021-01,VA,Construction,183915.0,16024.8,46
+2021-01,VA,Education,261045.6,8404.8,65
+2021-01,VA,Farming,10146.4,6876.9,4
+2021-01,VA,Food service,148853.4,27120.7,42
+2021-01,VA,Healthcare practitioners,235496.4,0.0,58
+2021-01,VA,Healthcare support,69212.0,13024.5,19
+2021-01,VA,Installation and repair,100644.5,4132.0,26
+2021-01,VA,Legal,73855.3,0.0,19
+2021-01,VA,Management,604888.5,10851.8,152
+2021-01,VA,No previous job,0.0,7846.7,2
+2021-01,VA,Office and admin,407527.1,9571.1,100
+2021-01,VA,Personal care,108678.9,2954.8,25
+2021-01,VA,Production,130234.8,25244.8,35
+2021-01,VA,Protective service,95070.7,0.0,23
+2021-01,VA,Sales,382312.0,34385.8,99
+2021-01,VA,Science,35264.0,0.0,9
+2021-01,VA,Transportation,231742.6,29793.5,61
+2021-01,VT,Architecture and engineering,8119.3,0.0,18
+2021-01,VT,"Arts, media, sports",6547.0,0.0,15
+2021-01,VT,Business and finance,12120.6,382.2,29
+2021-01,VT,Cleaning and grounds,10163.2,0.0,24
+2021-01,VT,Community and social service,6016.0,377.0,15
+2021-01,VT,Computer and math,12384.4,0.0,25
+2021-01,VT,Construction,16856.7,1620.1,44
+2021-01,VT,Education,27383.3,747.2,67
+2021-01,VT,Farming,4892.9,694.2,13
+2021-01,VT,Food service,12128.6,1881.8,29
+2021-01,VT,Healthcare practitioners,17720.8,365.6,40
+2021-01,VT,Healthcare support,10523.8,386.7,26
+2021-01,VT,Installation and repair,9290.2,502.1,21
+2021-01,VT,Legal,4208.7,0.0,10
+2021-01,VT,Management,38060.6,0.0,92
+2021-01,VT,Office and admin,29803.8,442.4,69
+2021-01,VT,Personal care,7466.2,0.0,17
+2021-01,VT,Production,14417.0,1564.6,34
+2021-01,VT,Protective service,6020.6,0.0,13
+2021-01,VT,Sales,26987.9,1652.9,66
+2021-01,VT,Science,5087.5,0.0,11
+2021-01,VT,Transportation,15623.9,773.0,38
+2021-01,WA,Architecture and engineering,70511.4,3626.5,20
+2021-01,WA,"Arts, media, sports",112702.0,12128.0,33
+2021-01,WA,Business and finance,192756.0,4447.0,54
+2021-01,WA,Cleaning and grounds,152145.7,6943.4,38
+2021-01,WA,Community and social service,87076.8,0.0,25
+2021-01,WA,Computer and math,199258.5,3799.8,56
+2021-01,WA,Construction,153232.5,32821.5,53
+2021-01,WA,Education,197244.8,4444.3,57
+2021-01,WA,Farming,55230.1,0.0,16
+2021-01,WA,Food service,102126.7,20464.5,32
+2021-01,WA,Healthcare practitioners,172866.0,4371.9,52
+2021-01,WA,Healthcare support,145010.4,19379.7,42
+2021-01,WA,Installation and repair,141352.2,6865.8,41
+2021-01,WA,Legal,28051.9,4262.9,9
+2021-01,WA,Management,575075.0,25319.0,166
+2021-01,WA,No previous job,0.0,14467.2,4
+2021-01,WA,Office and admin,297657.0,10177.7,88
+2021-01,WA,Personal care,98824.4,0.0,26
+2021-01,WA,Production,154535.6,14262.9,48
+2021-01,WA,Protective service,53203.4,7870.2,17
+2021-01,WA,Sales,288931.5,24007.5,85
+2021-01,WA,Science,32050.1,0.0,9
+2021-01,WA,Transportation,289152.2,29834.9,81
+2021-01,WI,Architecture and engineering,69077.4,0.0,20
+2021-01,WI,"Arts, media, sports",63881.0,4034.9,18
+2021-01,WI,Business and finance,157835.0,2858.5,45
+2021-01,WI,Cleaning and grounds,94518.3,3657.7,28
+2021-01,WI,Community and social service,55433.3,3262.5,17
+2021-01,WI,Computer and math,68655.3,0.0,17
+2021-01,WI,Construction,121817.0,0.0,34
+2021-01,WI,Education,143512.6,3237.8,42
+2021-01,WI,Farming,60374.9,0.0,16
+2021-01,WI,Food service,133712.9,27978.5,42
+2021-01,WI,Healthcare practitioners,227635.0,3014.2,64
+2021-01,WI,Healthcare support,84302.0,8934.9,25
+2021-01,WI,Installation and repair,99358.0,13635.9,31
+2021-01,WI,Legal,6542.6,0.0,2
+2021-01,WI,Management,368548.1,3178.6,102
+2021-01,WI,No previous job,0.0,3943.8,1
+2021-01,WI,Office and admin,290556.9,23456.2,84
+2021-01,WI,Personal care,80775.6,7313.1,21
+2021-01,WI,Production,284064.0,11019.8,81
+2021-01,WI,Protective service,39992.9,0.0,10
+2021-01,WI,Sales,266972.8,9544.4,77
+2021-01,WI,Science,20518.9,0.0,5
+2021-01,WI,Transportation,186690.6,24365.1,55
+2021-01,WV,Architecture and engineering,14312.8,880.7,18
+2021-01,WV,"Arts, media, sports",6016.1,2278.9,10
+2021-01,WV,Business and finance,30239.6,3373.4,41
+2021-01,WV,Cleaning and grounds,22503.4,976.2,29
+2021-01,WV,Community and social service,17279.1,0.0,21
+2021-01,WV,Computer and math,12451.2,0.0,14
+2021-01,WV,Construction,38903.5,3914.8,55
+2021-01,WV,Education,50784.2,4279.8,66
+2021-01,WV,Farming,5717.3,0.0,7
+2021-01,WV,Food service,36390.4,6830.0,48
+2021-01,WV,Healthcare practitioners,55852.3,0.0,68
+2021-01,WV,Healthcare support,30477.4,953.7,37
+2021-01,WV,Installation and repair,32593.0,0.0,41
+2021-01,WV,Legal,8046.8,856.6,11
+2021-01,WV,Management,68438.4,773.1,87
+2021-01,WV,No previous job,0.0,1817.7,2
+2021-01,WV,Office and admin,84117.8,1838.6,103
+2021-01,WV,Personal care,17063.7,2473.9,23
+2021-01,WV,Production,35675.4,6127.5,48
+2021-01,WV,Protective service,14160.3,2532.8,20
+2021-01,WV,Sales,53366.1,5778.6,69
+2021-01,WV,Science,5393.2,0.0,6
+2021-01,WV,Transportation,76358.5,5610.6,97
+2021-01,WV,Unclassified,0.0,972.7,1
+2021-01,WY,Architecture and engineering,6022.7,0.0,18
+2021-01,WY,"Arts, media, sports",3305.9,0.0,10
+2021-01,WY,Business and finance,11859.0,379.4,37
+2021-01,WY,Cleaning and grounds,9989.3,798.1,31
+2021-01,WY,Community and social service,4710.2,0.0,12
+2021-01,WY,Computer and math,4221.2,298.7,13
+2021-01,WY,Construction,19323.4,2079.9,60
+2021-01,WY,Education,21807.2,657.0,66
+2021-01,WY,Farming,7392.4,566.3,21
+2021-01,WY,Food service,16567.1,1863.8,52
+2021-01,WY,Healthcare practitioners,17371.2,376.7,53
+2021-01,WY,Healthcare support,5712.7,0.0,16
+2021-01,WY,Installation and repair,14519.2,1296.0,46
+2021-01,WY,Legal,1255.0,0.0,4
+2021-01,WY,Management,35162.7,335.3,106
+2021-01,WY,No previous job,0.0,911.6,2
+2021-01,WY,Office and admin,29371.5,1746.5,94
+2021-01,WY,Personal care,3349.6,0.0,8
+2021-01,WY,Production,10167.0,2225.7,35
+2021-01,WY,Protective service,4216.5,726.4,12
+2021-01,WY,Sales,21773.3,3123.6,74
+2021-01,WY,Science,2908.6,0.0,8
+2021-01,WY,Transportation,27034.3,1067.4,81

@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bristow-Hall Occupation Monitor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:wght@400;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+/* Layout: statistical-agency page. Cardinal masthead, a row of headline figures, two views (occupations table, map), one detail panel each. Single light theme by choice. */
+:root{
+  --cardinal:#990000; --cardinal-deep:#6f0000; --gold:#ffcc00;
+  --ink:#1b1717; --muted:#665c5c; --line:#e3dcdc; --wash:#f7f4f3; --paper:#ffffff;
+  --down:#a11212; --up:#1c6b3a;
+  --display:"Adobe Caslon Pro","adobe-caslon-pro","Libre Caslon Text",Georgia,"Times New Roman",serif;
+  --body:"National 2","National","Source Sans 3",Helvetica,Arial,sans-serif;
+  color-scheme:light;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.45}
+.inner{width:92%;max-width:1320px;margin:0 auto}
+.school{font-family:var(--display);font-size:20px;line-height:1.2;color:var(--gold);margin:0 0 8px}
+.mast{background:var(--cardinal);color:#fff;border-bottom:4px solid var(--gold)}
+.mast .inner{padding:26px 0 24px;display:flex;flex-wrap:wrap;gap:10px 32px;align-items:flex-end;justify-content:space-between}
+h1{font-family:var(--display);font-weight:400;font-size:clamp(28px,4.2vw,44px);line-height:1.1;margin:0;text-wrap:balance}
+.authors{font-size:17px;font-weight:600}
+nav.tabs{border-bottom:1px solid var(--line);background:var(--paper);position:sticky;top:0;z-index:5}
+nav.tabs .inner{display:flex;gap:4px}
+nav.tabs button{font:inherit;font-weight:700;font-size:15px;letter-spacing:.06em;text-transform:uppercase;padding:14px 18px 11px;border:0;border-bottom:3px solid transparent;background:none;color:var(--muted);cursor:pointer}
+nav.tabs button[aria-selected="true"]{color:var(--cardinal);border-bottom-color:var(--cardinal)}
+.figs{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));border:1px solid var(--line);margin:24px 0 6px}
+.fig{padding:16px 18px;border-right:1px solid var(--line)}
+.fig:last-child{border-right:0}
+.fig b{display:block;font-family:var(--display);font-weight:400;font-size:27px;line-height:1.15;font-variant-numeric:tabular-nums}
+.fig span{color:var(--muted);font-size:14px}
+.controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;padding:18px 0 12px}
+.controls input,.controls select{font:inherit;padding:8px 10px;border:1px solid #cfc6c6;border-radius:3px;background:#fff;color:var(--ink);min-width:0;max-width:100%}
+.controls input{flex:1 1 220px}
+.seg{display:inline-flex;border:1px solid var(--cardinal);border-radius:3px;overflow:hidden}
+.seg button{font:inherit;font-weight:600;padding:8px 12px;border:0;background:#fff;color:var(--cardinal);cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--cardinal);color:#fff}
+button:focus-visible,input:focus-visible,select:focus-visible,tr:focus-visible,th:focus-visible{outline:3px solid var(--gold);outline-offset:1px}
+.panel{border:1px solid var(--line);border-top:3px solid var(--cardinal);padding:18px 20px;margin:4px 0 16px;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:24px;align-items:center}
+.panel h2{font-family:var(--display);font-weight:400;font-size:23px;line-height:1.2;margin:0 0 10px;text-wrap:balance}
+.panel dl{display:grid;grid-template-columns:auto 1fr;gap:5px 16px;margin:0;font-size:15px}
+.panel dt{color:var(--muted)} .panel dd{margin:0;font-weight:600;font-variant-numeric:tabular-nums}
+.chart{position:relative;min-width:0}
+.chart svg{display:block;width:100%;height:auto}
+.tip{position:absolute;pointer-events:none;background:var(--ink);color:#fff;font-size:13px;padding:5px 9px;border-radius:3px;white-space:nowrap;transform:translate(-50%,-130%);display:none;z-index:3}
+.wrap{overflow-x:auto;border:1px solid var(--line)}
+table{border-collapse:collapse;width:100%;min-width:880px;font-variant-numeric:tabular-nums}
+th,td{padding:10px 12px;text-align:right;border-bottom:1px solid var(--line);white-space:nowrap}
+th:first-child,td:first-child{text-align:left;white-space:normal;min-width:250px}
+thead th{background:var(--wash);font-size:12.5px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);cursor:pointer;user-select:none;border-bottom:2px solid var(--ink)}
+thead th[aria-sort]{color:var(--cardinal)}
+thead th[aria-sort="ascending"]::after{content:" ▲";font-size:10px}
+thead th[aria-sort="descending"]::after{content:" ▼";font-size:10px}
+tbody tr{cursor:pointer}
+tbody tr:hover{background:var(--wash)}
+tbody tr.on{background:#fff7d1}
+td small{display:block;color:var(--muted);font-size:13px}
+.neg{color:var(--down);font-weight:600}.pos{color:var(--up);font-weight:600}
+.pill{display:inline-block;min-width:74px;text-align:center;padding:2px 8px;border-radius:999px;font-size:13px;font-weight:600;border:1px solid var(--line);color:var(--muted)}
+.pill.f4{border-color:var(--cardinal);color:var(--cardinal)}
+.pill.f5{background:var(--cardinal);border-color:var(--cardinal);color:#fff}
+.spark{display:block;margin-left:auto}
+.mapgrid{display:grid;grid-template-columns:minmax(0,2.1fr) minmax(0,1fr);gap:24px;align-items:start}
+.mapbox{position:relative;border:1px solid var(--line);padding:10px}
+.mapbox svg{display:block;width:100%;height:auto}
+.mapbox path{stroke:#fff;stroke-width:1;cursor:pointer;outline:none;vector-effect:non-scaling-stroke;stroke-linejoin:round}
+.mapbox path.on{stroke:#000;stroke-width:2.4}
+.mapbox path.hov{stroke:#000;stroke-width:2}
+.back{font:inherit;font-weight:600;padding:8px 12px;border:1px solid var(--cardinal);border-radius:3px;background:#fff;color:var(--cardinal);cursor:pointer}
+.side h3{font-size:12.5px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:14px 0 6px;border-top:1px solid var(--line);padding-top:12px}
+.side table{min-width:0;font-size:14px}
+.side td,.side th{padding:4px 0 4px 10px;border:0;white-space:normal}
+.side td:first-child{min-width:0;padding-left:0}
+.legend{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--muted);padding:8px 4px 2px;font-variant-numeric:tabular-nums}
+.legend i{flex:1;height:10px;border-radius:2px;max-width:260px}
+.side{border:1px solid var(--line);border-top:3px solid var(--cardinal);padding:16px 18px}
+.side h2{font-family:var(--display);font-weight:400;font-size:22px;margin:0 0 2px}
+.side p{margin:0 0 10px;color:var(--muted);font-size:14px}
+.side dl{display:grid;grid-template-columns:auto 1fr;gap:5px 14px;margin:0 0 12px;font-size:15px}
+.side dt{color:var(--muted)} .side dd{margin:0;font-weight:600;font-variant-numeric:tabular-nums}
+.regions{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;margin:18px 0 0}
+.reg{border:1px solid var(--line);padding:14px 16px;cursor:pointer;background:#fff;font:inherit;text-align:left;color:inherit}
+.reg.on{border-color:var(--cardinal);box-shadow:inset 0 3px 0 var(--cardinal)}
+.reg h3{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 4px}
+.reg b{font-family:var(--display);font-weight:400;font-size:23px;display:block;font-variant-numeric:tabular-nums}
+.reg span{font-size:14px;font-variant-numeric:tabular-nums}
+[hidden]{display:none!important}
+footer{background:var(--cardinal);color:#fff;margin-top:36px;border-top:4px solid var(--gold)}
+footer .inner{padding:18px 0;font-size:14px;display:flex;flex-wrap:wrap;gap:6px 24px;justify-content:space-between}
+footer span:last-child{color:var(--gold)}
+@media (max-width:820px){.panel,.mapgrid{grid-template-columns:1fr}.fig{border-right:0;border-bottom:1px solid var(--line)}}
+</style>
+</head>
+<body>
+<header class="mast"><div class="inner">
+  <div><div class="school">USC Marshall School of Business</div>
+  <h1>Bristow-Hall Occupation Monitor</h1></div>
+  <div class="authors">Anthony Hall · Duke Bristow</div>
+</div></header>
+<nav class="tabs" aria-label="Views"><div class="inner" role="tablist">
+  <button role="tab" id="tab-occ" aria-selected="true" aria-controls="view-occ">Occupations</button>
+  <button role="tab" id="tab-map" aria-selected="false" aria-controls="view-map">Map</button>
+</div></nav>
+
+<main class="inner">
+  <section class="figs" aria-label="Summary">
+    <div class="fig"><b id="f-jobs">–</b><span>jobs, United States</span></div>
+    <div class="fig"><b id="f-chg">–</b><span id="f-chg-l">change since November 2022</span></div>
+    <div class="fig"><b id="f-occ">–</b><span>occupations, all employment covered</span></div>
+    <div class="fig"><b id="f-thru">–</b><span>latest month, 12-month averages</span></div>
+  </section>
+
+  <div id="view-occ" role="tabpanel" aria-labelledby="tab-occ">
+    <section class="controls" aria-label="Occupation filters">
+      <input id="q" type="search" placeholder="Search occupations" aria-label="Search occupations">
+      <select id="grp" aria-label="Occupation group"><option value="">All groups</option></select>
+      <div class="seg" role="group" aria-label="Change measured">
+        <button id="b-base" type="button" aria-pressed="true">Since Nov 2022</button>
+        <button id="b-1y" type="button" aria-pressed="false">Past year</button>
+      </div>
+    </section>
+    <section class="panel" aria-live="polite">
+      <div><h2 id="d-title"></h2><dl id="d-list"></dl></div>
+      <div class="chart" id="d-chart"><div class="tip" id="tip"></div></div>
+    </section>
+    <div class="wrap"><table>
+      <thead><tr>
+        <th data-k="title">Occupation</th><th data-k="jobs">Jobs</th><th data-k="chgJobs">Change</th><th data-k="chgPct">Change %</th>
+        <th data-k="none" id="th-spark">Trend</th><th data-k="youngNow">Under 31</th><th data-k="unemp">Unemployed</th><th data-k="fifth">AI exposure</th>
+      </tr></thead>
+      <tbody id="rows"></tbody>
+    </table></div>
+  </div>
+
+  <div id="view-map" role="tabpanel" aria-labelledby="tab-map" hidden>
+    <section class="controls" aria-label="Map filters">
+      <button class="back" id="m-back" type="button" hidden>← United States</button>
+      <select id="m-cmeas" aria-label="County measure" hidden></select>
+      <select id="m-grp" aria-label="Occupation group"><option value="All">All jobs</option></select>
+      <select id="m-meas" aria-label="Measure">
+        <option value="chgBase">Change in jobs since Nov 2022</option>
+        <option value="chg1y">Change in jobs, past year</option>
+        <option value="urate">Unemployment rate</option>
+      </select>
+      <div class="seg" id="m-geo" role="group" aria-label="Geography">
+        <button id="g-st" type="button" aria-pressed="true">States</button>
+        <button id="g-rg" type="button" aria-pressed="false">Regions</button>
+      </div>
+    </section>
+    <div class="mapgrid">
+      <div class="mapbox"><svg id="map" viewBox="0 0 975 610" role="img" aria-label="Map of the United States by state"></svg>
+        <div class="legend"><span id="lg-lo"></span><i id="lg-bar"></i><span id="lg-hi"></span></div>
+        <div class="tip" id="mtip"></div></div>
+      <aside class="side" aria-live="polite">
+        <h2 id="s-title"></h2><p id="s-sub"></p><dl id="s-list"></dl>
+        <div class="chart" id="s-chart"><div class="tip" id="stip"></div></div>
+        <div id="s-extra"></div>
+      </aside>
+    </div>
+    <div class="regions" id="regions"></div>
+  </div>
+</main>
+
+<footer><div class="inner"><span>Anthony Hall · Duke Bristow · USC Marshall School of Business</span><span>Source: Current Population Survey, Census Bureau and BLS</span></div></footer>
+
+<script src="vendor/topojson-client.min.js"></script>
+<script>
+(function(){
+  var M, occ=[], states=[], regions=[], topo=null, sel=null, mode='base', sortK='chgJobs', sortDir=1;
+  var mGeo='st', mSel=null, mapBuilt=false;
+  var EXP=['–','Lowest','Low','Middle','High','Highest'], MN=['January','February','March','April','May','June','July','August','September','October','November','December'];
+  var $=function(id){return document.getElementById(id)};
+  function ym(i){var p=M.first.split('-'), m=+p[1]-1+i; return [+p[0]+Math.floor(m/12), m%12]}
+  function mLabel(i){var a=ym(i); return MN[a[1]].slice(0,3)+' '+a[0]}
+  function jobs(k){return k==null?'–':k>=1000?(k/1000).toFixed(k>=10000?1:2)+' million':Math.round(k)+',000'}
+  function signed(k){return k==null?'–':(k>0?'+':k<0?'−':'')+Math.abs(k).toLocaleString('en-US')+',000'}
+  function pct(v){return v==null?'–':(v>0?'+':v<0?'−':'')+Math.abs(v).toFixed(1)+'%'}
+  function cls(v){return v<0?'neg':v>0?'pos':''}
+  function el(t,c,x){var e=document.createElement(t); if(c)e.className=c; if(x!=null)e.textContent=x; return e}
+  function svg(t,a){var e=document.createElementNS('http://www.w3.org/2000/svg',t); for(var k in a)e.setAttribute(k,a[k]); return e}
+  function val(o,k){return k==='chgJobs'?(mode==='base'?o.chgBaseJobs:o.chg1yJobs):k==='chgPct'?(mode==='base'?o.chgBase:o.chg1y):o[k]}
+
+  function spark(s){
+    var w=120,h=30,p=3,v=s.filter(function(x){return x!=null}),lo=Math.min.apply(0,v),hi=Math.max.apply(0,v); if(hi===lo)hi=lo+1;
+    var d='',lx=0,ly=0; s.forEach(function(x,i){if(x==null)return; lx=p+i/(s.length-1)*(w-2*p); ly=h-p-(x-lo)/(hi-lo)*(h-2*p); d+=(d?'L':'M')+lx.toFixed(1)+' '+ly.toFixed(1)});
+    var g=svg('svg',{width:w,height:h,viewBox:'0 0 '+w+' '+h,'class':'spark','aria-hidden':'true'});
+    g.appendChild(svg('path',{d:d,fill:'none',stroke:'#990000','stroke-width':1.4})); g.appendChild(svg('circle',{cx:lx,cy:ly,r:2.4,fill:'#990000'})); return g;
+  }
+  function lineChart(box,tip,series,label,h,ax){
+    ax=ax||{lab:mLabel,tick:function(i,st){var a=ym(i); return a[1]===0&&a[0]%st===0?a[0]:null},base:M.baseIndex,baseLab:'Nov 2022'};
+    var old=box.querySelector('svg'); if(old)old.remove();
+    var N=series.length,w=Math.max(280,box.clientWidth),L=66,R=14,T=14,B=26;
+    var s=svg('svg',{viewBox:'0 0 '+w+' '+h,role:'img','aria-label':label});
+    var v=series.filter(function(x){return x!=null}),lo=Math.min.apply(0,v),hi=Math.max.apply(0,v),pad=(hi-lo)*0.08||1; lo-=pad; hi+=pad;
+    var X=function(i){return L+i/(N-1)*(w-L-R)},Y=function(x){return h-B-(x-lo)/(hi-lo)*(h-T-B)};
+    [0,0.5,1].forEach(function(f){var q=lo+pad+f*(hi-lo-2*pad),y=Y(q); s.appendChild(svg('line',{x1:L,x2:w-R,y1:y,y2:y,stroke:'#e3dcdc'}));
+      var t=svg('text',{x:L-8,y:y+4,'text-anchor':'end','font-size':12,fill:'#665c5c'}); t.textContent=(ax.fmt||jobs)(q); s.appendChild(t)});
+    var step=w<420?4:3; for(var i=0;i<N;i++){var yr=ax.tick(i,step); if(yr!=null){var t=svg('text',{x:X(i),y:h-8,'text-anchor':'middle','font-size':12,fill:'#665c5c'}); t.textContent=yr; s.appendChild(t)}}
+    var bi=ax.base; s.appendChild(svg('line',{x1:X(bi),x2:X(bi),y1:T,y2:h-B,stroke:'#ffcc00','stroke-width':2}));
+    var bt=svg('text',{x:X(bi)-6,y:T+10,'text-anchor':'end','font-size':12,fill:'#665c5c'}); bt.textContent=ax.baseLab; s.appendChild(bt);
+    var d='',first=null,last=null; series.forEach(function(x,i){if(x==null)return; if(first==null)first=i; last=i; d+=(d?'L':'M')+X(i).toFixed(1)+' '+Y(x).toFixed(1)});
+    s.appendChild(svg('path',{d:d+'L'+X(last).toFixed(1)+' '+(h-B)+'L'+X(first).toFixed(1)+' '+(h-B)+'Z',fill:'#990000','fill-opacity':0.07}));
+    s.appendChild(svg('path',{d:d,fill:'none',stroke:'#990000','stroke-width':2}));
+    var dot=svg('circle',{cx:X(last),cy:Y(series[last]),r:4,fill:'#990000'}); s.appendChild(dot);
+    var hit=svg('rect',{x:L,y:T,width:w-L-R,height:h-T-B,fill:'transparent'}); s.appendChild(hit);
+    function move(e){var r=s.getBoundingClientRect(),px=(e.clientX-r.left)/r.width*w,i=Math.round((px-L)/(w-L-R)*(N-1)); i=Math.max(first,Math.min(last,i)); while(series[i]==null&&i<last)i++;
+      dot.setAttribute('cx',X(i)); dot.setAttribute('cy',Y(series[i])); tip.textContent=ax.lab(i)+': '+(ax.fmt||jobs)(series[i]); tip.style.display='block';
+      var tx=X(i)/w*r.width; tip.style.left=Math.max(74,Math.min(r.width-74,tx))+'px'; tip.style.top=(Y(series[i])/h*r.height)+'px'}
+    hit.addEventListener('pointermove',move); hit.addEventListener('pointerdown',move);
+    hit.addEventListener('pointerleave',function(){tip.style.display='none'; dot.setAttribute('cx',X(last)); dot.setAttribute('cy',Y(series[last]))});
+    box.appendChild(s);
+  }
+  function fill(dl,rows){dl.textContent=''; rows.forEach(function(r){dl.appendChild(el('dt',null,r[0])); dl.appendChild(el('dd',null,r[1]))})}
+
+  /* occupations */
+  function rows(){
+    var q=$('q').value.trim().toLowerCase(),g=$('grp').value;
+    var list=occ.filter(function(o){return (!q||o.title.toLowerCase().indexOf(q)>=0)&&(!g||o.group===g)});
+    list.sort(function(a,b){var x=val(a,sortK),y=val(b,sortK); return (typeof x==='string'?x.localeCompare(y):(x==null?-1e18:x)-(y==null?-1e18:y))*sortDir});
+    var tb=$('rows'); tb.textContent='';
+    list.forEach(function(o){
+      var tr=el('tr',o===sel?'on':''); tr.tabIndex=0;
+      var c=el('td',null,o.title); c.appendChild(el('small',null,o.group)); tr.appendChild(c);
+      tr.appendChild(el('td',null,jobs(o.jobs)));
+      var cj=val(o,'chgJobs'),cp=val(o,'chgPct'); tr.appendChild(el('td',cls(cj),signed(cj))); tr.appendChild(el('td',cls(cp),pct(cp)));
+      var sp=el('td'); sp.appendChild(spark(o.series)); tr.appendChild(sp);
+      var y=el('td',null,o.youngNow.toFixed(1)+'%'); if(o.youngBase!=null)y.appendChild(el('small',null,'was '+o.youngBase.toFixed(1)+'%')); tr.appendChild(y);
+      tr.appendChild(el('td',null,jobs(o.unemp)));
+      var pc=el('td'); pc.appendChild(el('span','pill f'+o.fifth,EXP[o.fifth])); tr.appendChild(pc);
+      function pick(){sel=o; detail(); rows()}
+      tr.addEventListener('click',pick); tr.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault(); pick()}});
+      tb.appendChild(tr);
+    });
+    document.querySelectorAll('thead th').forEach(function(th){if(th.dataset.k===sortK)th.setAttribute('aria-sort',sortDir>0?'ascending':'descending'); else th.removeAttribute('aria-sort')});
+  }
+  function detail(){
+    var o=sel; if(!o)return; $('d-title').textContent=o.title;
+    fill($('d-list'),[['Jobs',jobs(o.jobs)],['Since Nov 2022',signed(o.chgBaseJobs)+' ('+pct(o.chgBase)+')'],['Past year',signed(o.chg1yJobs)+' ('+pct(o.chg1y)+')'],['Under 31',o.youngNow.toFixed(1)+'%'+(o.youngBase!=null?' (was '+o.youngBase.toFixed(1)+'%)':'')],['Unemployed, last job here',jobs(o.unemp)],['AI exposure',o.fifth?EXP[o.fifth]+' fifth':'–']]);
+    lineChart($('d-chart'),$('tip'),o.series,'Jobs in '+o.title+', 12-month average',230);
+  }
+  function setMode(m){mode=m; $('b-base').setAttribute('aria-pressed',m==='base'); $('b-1y').setAttribute('aria-pressed',m==='1y'); rows()}
+
+  /* map */
+  function mix(a,b,t){return 'rgb('+a.map(function(x,i){return Math.round(x+(b[i]-x)*t)}).join(',')+')'}
+  var NEU=[243,239,238],RED=[153,0,0],GRN=[28,107,58];
+  function scale(){
+    var g=$('m-grp').value,k=$('m-meas').value,src=mGeo==='st'?states:regions,v=[];
+    states.forEach(function(s){if(s[g]&&s[g][k]!=null)v.push(s[g][k])});
+    if(k==='urate'){var lo=Math.min.apply(0,v),hi=Math.max.apply(0,v); return {div:false,lo:lo,hi:hi,color:function(x){return x==null?'#ddd6d6':mix(NEU,RED,Math.max(0,Math.min(1,(x-lo)/((hi-lo)||1))))}}}
+    var a=v.map(Math.abs).sort(function(x,y){return x-y}),m=Math.max(2,Math.ceil(a[Math.floor(a.length*0.9)]||2));
+    return {div:true,lo:-m,hi:m,color:function(x){return x==null?'#ddd6d6':x<0?mix(NEU,RED,Math.min(1,-x/m)):mix(NEU,GRN,Math.min(1,x/m))}};
+  }
+  function areaOf(s){return mGeo==='st'?s:regions.filter(function(r){return r.region===s.region})[0]}
+  function fmt(k,x){return k==='urate'?(x==null?'–':x.toFixed(1)+'%'):pct(x)}
+  function paint(){
+    if(inState){paintCounties(); return}
+    var g=$('m-grp').value,k=$('m-meas').value,sc=scale();
+    $('map').querySelectorAll('path').forEach(function(p){var s=p.__s,a=areaOf(s),c=a&&a[g]?a[g][k]:null; p.setAttribute('fill',sc.color(c));
+      p.classList.toggle('on',mSel&&(mGeo==='st'?s===mSel:s.region===mSel.region))});
+    $('lg-lo').textContent=fmt(k,sc.lo); $('lg-hi').textContent=fmt(k,sc.hi);
+    $('lg-bar').style.background=sc.div?'linear-gradient(90deg,rgb(153,0,0),rgb(243,239,238),rgb(28,107,58))':'linear-gradient(90deg,rgb(243,239,238),rgb(153,0,0))';
+    var box=$('regions'); box.textContent='';
+    regions.forEach(function(r){var c=r[g]||{},b=el('button','reg'+(mSel&&mSel.region===r.region&&mGeo==='rg'?' on':'')); b.type='button';
+      b.appendChild(el('h3',null,r.region)); b.appendChild(el('b',null,jobs(c.jobs)));
+      var sp=el('span',cls(c.chgBase),pct(c.chgBase)+' since Nov 2022'); b.appendChild(sp);
+      b.addEventListener('click',function(){setGeo('rg'); mSel=r; side(); paint()}); box.appendChild(b)});
+  }
+  function side(){
+    $('s-extra').textContent='';
+    var a=mSel,g=$('m-grp').value; if(!a)return; var c=a[g]||{};
+    $('s-title').textContent=a.name||a.region; $('s-sub').textContent=(a.name?a.region+' · ':'')+(g==='All'?'All jobs':g);
+    fill($('s-list'),[['Jobs',jobs(c.jobs)],['Since Nov 2022',c.jobs==null?'–':signed(c.chgBaseJobs)+' ('+pct(c.chgBase)+')'],['Past year',c.jobs==null?'–':signed(c.chg1yJobs)+' ('+pct(c.chg1y)+')'],['Unemployment rate',c.urate==null?'–':c.urate.toFixed(1)+'%'+(c.urateBase!=null?' (was '+c.urateBase.toFixed(1)+'%)':'')]]);
+    lineChart($('s-chart'),$('stip'),a.series,'All jobs in '+(a.name||a.region)+', 12-month average',190);
+  }
+  function setGeo(x){mGeo=x; $('g-st').setAttribute('aria-pressed',x==='st'); $('g-rg').setAttribute('aria-pressed',x==='rg')}
+  function buildMap(){
+    if(mapBuilt||!topo)return; mapBuilt=true;
+    var by={}; states.forEach(function(s){by[s.name]=s});
+    var feats=topojson.feature(topo,topo.objects.states).features, m=$('map'), tip=$('mtip');
+    feats.forEach(function(f){
+      var s=by[f.properties.name]; if(!s)return;
+      var polys=f.geometry.type==='Polygon'?[f.geometry.coordinates]:f.geometry.coordinates, d='';
+      polys.forEach(function(poly){poly.forEach(function(ring){ring.forEach(function(pt,i){d+=(i?'L':'M')+pt[0].toFixed(1)+' '+pt[1].toFixed(1)}); d+='Z'})});
+      var p=svg('path',{d:d,tabindex:0,role:'button','aria-label':s.name}); p.__s=s;
+      p.classList.add('st');
+      function pick(){if(mGeo==='st'){mSel=s; side(); enterState(s,f.id)} else {mSel=regions.filter(function(r){return r.region===s.region})[0]; side(); paint()}}
+      function show(e){var g=$('m-grp').value,k=$('m-meas').value,a=areaOf(s),c=a&&a[g]?a[g][k]:null,r=m.parentNode.getBoundingClientRect();
+        tip.textContent=(mGeo==='st'?s.name:s.region)+': '+fmt(k,c); tip.style.display='block'; tip.style.left=Math.max(80,Math.min(r.width-80,e.clientX-r.left))+'px'; tip.style.top=(e.clientY-r.top)+'px'}
+      p.addEventListener('click',pick); p.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault(); pick()}});
+      p.addEventListener('pointermove',show); p.addEventListener('pointerleave',function(){tip.style.display='none'}); hover(p);
+      m.appendChild(p);
+    });
+    mSel=states.filter(function(s){return s.st==='CA'})[0]; side(); paint();
+  }
+  function hover(p){
+    function on(){p.parentNode.appendChild(p); p.classList.add('hov')} function off(){p.classList.remove('hov')}
+    p.addEventListener('pointerenter',on); p.addEventListener('pointerleave',off); p.addEventListener('focus',function(){p.classList.add('hov')}); p.addEventListener('blur',off);
+  }
+  /* counties */
+  var cTopo=null,CM=null,cData={},inState=null,cSel=null;
+  var CMEAS=[['chg1y','Change in jobs, past year','p'],['chgBase','Change in jobs since Q4 2022','p'],['wage','Average weekly pay','d'],['wageChg1y','Change in weekly pay, past year','p'],['unemploymentRate','Unemployment rate','r'],['medianHouseholdIncome','Median household income','d'],['popChg','Population change since 2020','p']];
+  function cval(c,k){return !c?null:(c[k]!=null?c[k]:(c.acs&&c.acs[k]!=null?c.acs[k]:null))}
+  function cfmt(t,x){return x==null?'–':t==='p'?pct(x):t==='r'?x.toFixed(1)+'%':'$'+Math.round(x).toLocaleString('en-US')}
+  function whole(n){return n==null?'–':Math.round(n).toLocaleString('en-US')}
+  function cmeas(){var k=$('m-cmeas').value; return CMEAS.filter(function(x){return x[0]===k})[0]}
+  function qAxis(){var fy=+CM.firstQuarter.slice(0,4),fq=+CM.firstQuarter.charAt(5); function yq(i){var t=fq-1+i; return [fy+Math.floor(t/4),t%4+1]}
+    return {lab:function(i){var a=yq(i); return 'Q'+a[1]+' '+a[0]},tick:function(i,st){var a=yq(i); return a[1]===1&&a[0]%st===0?a[0]:null},base:CM.baseIndex,baseLab:'Q4 2022',fmt:whole}}
+  function paintCounties(){
+    var m=cmeas(),k=m[0],t=m[2],v=[]; (cData[inState.st]||[]).forEach(function(c){var x=cval(c,k); if(x!=null)v.push(x)}); v.sort(function(a,b){return a-b});
+    var color,lo,hi;
+    if(t==='p'){var a=v.map(Math.abs).sort(function(x,y){return x-y}),mx=Math.max(1,Math.ceil(a[Math.floor(a.length*0.9)]||1)); lo=-mx; hi=mx; color=function(x){return x==null?'#ddd6d6':x<0?mix(NEU,RED,Math.min(1,-x/mx)):mix(NEU,GRN,Math.min(1,x/mx))}}
+    else{lo=v[Math.floor(v.length*0.05)]||0; hi=v[Math.floor(v.length*0.95)]||1; var end=t==='r'?RED:GRN; color=function(x){return x==null?'#ddd6d6':mix(NEU,end,Math.max(0,Math.min(1,(x-lo)/((hi-lo)||1))))}}
+    $('map').querySelectorAll('path.co').forEach(function(p){p.setAttribute('fill',color(cval(p.__c,k))); p.classList.toggle('on',!!cSel&&p.__c===cSel)});
+    $('lg-lo').textContent=cfmt(t,lo); $('lg-hi').textContent=cfmt(t,hi);
+    $('lg-bar').style.background=t==='p'?'linear-gradient(90deg,rgb(153,0,0),rgb(243,239,238),rgb(28,107,58))':'linear-gradient(90deg,rgb(243,239,238),rgb('+(t==='r'?RED:GRN).join(',')+'))';
+  }
+  function countySide(){
+    var c=cSel; if(!c)return; var a=c.acs||{},q=CM.quarter.replace(/(\d+)Q(\d)/,'Q$2 $1');
+    $('s-title').textContent=c.name; $('s-sub').textContent=inState.name+' · '+q;
+    fill($('s-list'),[['Jobs',whole(c.jobs)],['Past year',c.chg1yJobs==null?'–':(c.chg1yJobs>0?'+':c.chg1yJobs<0?'−':'')+whole(Math.abs(c.chg1yJobs))+' ('+pct(c.chg1y)+')'],['Since Q4 2022',c.chgBaseJobs==null?'–':(c.chgBaseJobs>0?'+':c.chgBaseJobs<0?'−':'')+whole(Math.abs(c.chgBaseJobs))+' ('+pct(c.chgBase)+')'],['Employers',whole(c.estabs)],['Average weekly pay',cfmt('d',c.wage)+(c.wageChg1y!=null?' ('+pct(c.wageChg1y)+')':'')]]);
+    lineChart($('s-chart'),$('stip'),c.series,'Jobs in '+c.name+', four-quarter average',190,qAxis());
+    var x=$('s-extra'); x.textContent='';
+    if(c.industries){x.appendChild(el('h3',null,'Jobs by industry')); var tb=el('table'); c.industries.forEach(function(r){var tr=el('tr'); tr.appendChild(el('td',null,r[0])); tr.appendChild(el('td',null,whole(r[1]))); tr.appendChild(el('td',cls(r[2]),pct(r[2]))); tb.appendChild(tr)}); x.appendChild(tb)}
+    x.appendChild(el('h3',null,'People')); var dl=el('dl'); x.appendChild(dl);
+    fill(dl,[['Population',whole(c.pop)+(c.popChg!=null?' ('+pct(c.popChg)+' since 2020)':'')],['Net migration, past year',c.netMigration==null?'–':(c.netMigration>0?'+':c.netMigration<0?'−':'')+whole(Math.abs(c.netMigration))],['Unemployment rate',cfmt('r',a.unemploymentRate)],['In the labor force',cfmt('r',a.laborForcePct)],['Median household income',cfmt('d',a.medianHouseholdIncome)],['Income per person',cfmt('d',a.perCapitaIncome)],['Below poverty line',cfmt('r',a.povertyPct)],['Bachelor’s degree or higher',cfmt('r',a.bachelorsPct)],['Median age',a.medianAge==null?'–':a.medianAge.toFixed(1)],['Work from home',cfmt('r',a.workFromHomePct)],['Commute',a.commuteMinutes==null?'–':a.commuteMinutes.toFixed(0)+' minutes']]);
+    x.appendChild(el('h3',null,'Occupations of residents')); var d2=el('dl'); x.appendChild(d2);
+    fill(d2,[['Management, business, science, arts',cfmt('r',a.occManagement)],['Service',cfmt('r',a.occService)],['Sales and office',cfmt('r',a.occSalesOffice)],['Construction, maintenance, natural resources',cfmt('r',a.occConstruction)],['Production and transportation',cfmt('r',a.occProduction)]]);
+  }
+  function setCountyMode(on){['m-grp','m-meas','m-geo','regions'].forEach(function(id){$(id).hidden=on}); $('m-back').hidden=!on; $('m-cmeas').hidden=!on}
+  function enterState(s,fips){
+    inState=s; cSel=null; setCountyMode(true);
+    Promise.all([cTopo||get('vendor/counties-albers-10m.json'),cData[s.st]||get('counties/'+s.st+'.json'),CM||get('counties/meta.json')]).then(function(r){
+      cTopo=r[0]; cData[s.st]=r[1]; CM=r[2]; if(inState!==s)return;
+      var by={}; r[1].forEach(function(c){by[c.fips]=c});
+      var m=$('map'),tip=$('mtip'),g=svg('g',{id:'cg'}),x0=1e9,y0=1e9,x1=-1e9,y1=-1e9;
+      topojson.feature(cTopo,cTopo.objects.counties).features.forEach(function(f){
+        if(String(f.id).slice(0,2)!==fips)return;
+        var polys=f.geometry.type==='Polygon'?[f.geometry.coordinates]:f.geometry.coordinates,d='';
+        polys.forEach(function(poly){poly.forEach(function(ring){ring.forEach(function(pt,i){d+=(i?'L':'M')+pt[0].toFixed(1)+' '+pt[1].toFixed(1); if(pt[0]<x0)x0=pt[0]; if(pt[0]>x1)x1=pt[0]; if(pt[1]<y0)y0=pt[1]; if(pt[1]>y1)y1=pt[1]}); d+='Z'})});
+        var c=by[f.id]||null, nm=(c&&c.name)||f.properties.name, p=svg('path',{d:d,'class':'co',tabindex:0,role:'button','aria-label':nm}); p.__c=c;
+        function pick(){if(!c)return; cSel=c; countySide(); paintCounties()}
+        p.addEventListener('click',pick); p.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault(); pick()}});
+        p.addEventListener('pointermove',function(e){var mm=cmeas(),r=m.parentNode.getBoundingClientRect(); tip.textContent=nm+': '+cfmt(mm[2],cval(c,mm[0])); tip.style.display='block'; tip.style.left=Math.max(90,Math.min(r.width-90,e.clientX-r.left))+'px'; tip.style.top=(e.clientY-r.top)+'px'});
+        p.addEventListener('pointerleave',function(){tip.style.display='none'}); hover(p); g.appendChild(p);
+      });
+      var old=$('cg'); if(old)old.remove(); m.querySelectorAll('path.st').forEach(function(p){p.style.display='none'}); m.appendChild(g);
+      var w=x1-x0,h=y1-y0,ar=975/610; if(w/h>ar){var nh=w/ar; y0-=(nh-h)/2; h=nh} else {var nw=h*ar; x0-=(nw-w)/2; w=nw}
+      var pad=w*0.04; m.setAttribute('viewBox',(x0-pad)+' '+(y0-pad/ar)+' '+(w+2*pad)+' '+(h+2*pad/ar)); m.setAttribute('aria-label','Map of '+s.name+' by county');
+      paintCounties();
+    }).catch(function(){exitState()});
+  }
+  function exitState(){
+    var old=$('cg'); if(old)old.remove(); $('map').querySelectorAll('path.st').forEach(function(p){p.style.display=''}); $('map').setAttribute('viewBox','0 0 975 610'); $('map').setAttribute('aria-label','Map of the United States by state');
+    mSel=inState||mSel; inState=null; cSel=null; setCountyMode(false); side(); paint();
+  }
+  function tab(t){var o=t==='occ'; $('tab-occ').setAttribute('aria-selected',o); $('tab-map').setAttribute('aria-selected',!o); $('view-occ').hidden=!o; $('view-map').hidden=o;
+    if(!o){buildMap(); if(inState&&cSel)countySide(); else side()} else detail()}
+
+  $('b-base').addEventListener('click',function(){setMode('base')}); $('b-1y').addEventListener('click',function(){setMode('1y')});
+  $('q').addEventListener('input',rows); $('grp').addEventListener('change',rows);
+  $('tab-occ').addEventListener('click',function(){tab('occ')}); $('tab-map').addEventListener('click',function(){tab('map')});
+  $('m-grp').addEventListener('change',function(){paint(); side()}); $('m-meas').addEventListener('change',paint);
+  CMEAS.forEach(function(x){var op=el('option',null,x[1]); op.value=x[0]; $('m-cmeas').appendChild(op)});
+  $('m-cmeas').addEventListener('change',paintCounties); $('m-back').addEventListener('click',exitState);
+  $('g-st').addEventListener('click',function(){setGeo('st'); if(mSel&&!mSel.st)mSel=states.filter(function(s){return s.region===mSel.region})[0]; side(); paint()});
+  $('g-rg').addEventListener('click',function(){setGeo('rg'); if(mSel&&mSel.st)mSel=regions.filter(function(r){return r.region===mSel.region})[0]; side(); paint()});
+  document.querySelectorAll('thead th').forEach(function(th){th.tabIndex=0; function go(){var k=th.dataset.k; if(k==='none')return; if(k===sortK)sortDir=-sortDir; else{sortK=k; sortDir=k==='title'?1:-1} rows()}
+    th.addEventListener('click',go); th.addEventListener('keydown',function(e){if(e.key==='Enter')go()})});
+  var rt; window.addEventListener('resize',function(){clearTimeout(rt); rt=setTimeout(function(){if(!$('view-occ').hidden)detail(); else if(inState&&cSel)countySide(); else side()},150)});
+
+  function get(u){return fetch(u).then(function(r){if(!r.ok)throw new Error(u); return r.json()})}
+  Promise.all([get('meta.json'),get('occupations.json'),get('states.json'),get('regions.json'),get('vendor/states-albers-10m.json')]).then(function(r){
+    M=r[0]; occ=r[1]; states=r[2]; regions=r[3]; topo=r[4];
+    var gs={}; occ.forEach(function(o){gs[o.group]=1}); Object.keys(gs).sort().forEach(function(g){var op=el('option',null,g); op.value=g; $('grp').appendChild(op)});
+    M.groups.forEach(function(g){var op=el('option',null,g); op.value=g; $('m-grp').appendChild(op)});
+    var t=M.through.split('-'), nat={jobs:0,base:0}; regions.forEach(function(x){nat.jobs+=x.All.jobs; nat.base+=x.All.jobs-x.All.chgBaseJobs});
+    $('f-jobs').textContent=(M.totalJobs/1000).toFixed(1)+' million';
+    var ch=M.totalJobs-nat.base; $('f-chg').textContent=(ch>0?'+':'−')+(Math.abs(ch)/1000).toFixed(1)+' million'; $('f-chg').className=cls(ch);
+    $('f-occ').textContent=occ.length; $('f-thru').textContent=MN[+t[1]-1]+' '+t[0];
+    $('th-spark').textContent='Since '+M.first.slice(0,4);
+    sel=occ.filter(function(o){return !o.pooled}).sort(function(a,b){return a.chgBaseJobs-b.chgBaseJobs})[0]; detail(); rows();
+    if(location.hash==='#map')tab('map');
+  }).catch(function(){ $('d-title').textContent='The data did not load. Reload the page.' });
+})();
+</script>
+</body>
+</html>

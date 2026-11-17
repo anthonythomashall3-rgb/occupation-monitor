@@ -1,0 +1,159 @@
+gid,title,group,fifth,eloundou_beta,anthropic_exposure,pooled
+2018:0010,Chief executives,Management,4,0.463,0.057,0
+2018:0020,General and operations managers,Management,4,0.481,0.138,0
+2018:0052,Marketing managers,Management,4,0.476,0.189,0
+2018:0110,Computer and information systems managers,Management,5,0.53,0.156,0
+2018:0120,Financial managers,Management,4,0.485,0.391,0
+2018:0136,Human resources managers,Management,4,0.48,0.0,0
+2018:0140,Industrial production managers,Management,3,0.406,0.013,0
+2018:0160,"Transportation, storage, and distribution managers",Management,4,0.487,0.096,0
+2018:0205,"Farmers, ranchers, and other agricultural managers",Management,3,0.367,0.0,0
+2018:0220,Construction managers,Management,4,0.444,0.119,0
+2018:0230,Education and childcare administrators,Management,3,0.442,0.052,0
+2018:0310,Food service managers,Management,3,0.417,0.0,0
+2018:0350,Medical and health services managers,Management,3,0.429,0.066,0
+2018:0410,"Property, real estate, and community association managers",Management,4,0.443,0.165,0
+2018:0420,Social and community service managers,Management,3,0.393,0.181,0
+2018:0440,Other managers,Management,4,0.465,0.097,0
+2018:0530,"Purchasing agents, except wholesale, retail, and farm products",Business and finance,4,0.474,0.098,0
+2018:0540,"Claims adjusters, appraisers, examiners, and investigators",Business and finance,4,0.51,0.041,0
+2018:0565,Compliance officers,Business and finance,5,0.526,0.121,0
+2018:0630,Human resources workers,Business and finance,4,0.445,0.134,0
+2018:0705,Project management specialists,Business and finance,5,0.546,0.157,0
+2018:0710,Management analysts,Business and finance,3,0.405,0.243,0
+2018:0735,Market research analysts and marketing specialists,Business and finance,4,0.525,0.648,0
+2018:0750,"Business operations specialists, all other",Business and finance,5,0.583,0.185,0
+2018:0800,Accountants and auditors,Business and finance,5,0.56,0.348,0
+2018:0850,Personal financial advisors,Business and finance,4,0.5,0.35,0
+2018:0910,Credit counselors and loan officers,Business and finance,5,0.608,0.21,0
+2018:1006,Computer systems analysts,Computer and math,5,0.617,0.276,0
+2018:1010,Computer programmers,Computer and math,5,0.95,0.745,0
+2018:1022,Software developers,Computer and math,5,0.869,0.296,0
+2018:1050,Computer support specialists,Computer and math,5,0.623,0.378,0
+2018:1108,"Computer occupations, all other",Computer and math,5,0.736,0.311,0
+2018:1360,Civil engineers,Architecture and engineering,4,0.482,0.008,0
+2018:1410,Electrical and electronics engineers,Architecture and engineering,5,0.591,0.079,0
+2018:1460,Mechanical engineers,Architecture and engineering,5,0.531,0.081,0
+2018:1530,Other engineers,Architecture and engineering,4,0.509,0.024,0
+2018:1555,"Other engineering technologists and technicians, except drafters",Architecture and engineering,3,0.4,0.031,0
+2018:1760,"Physical scientists, all other",Science,4,0.457,0.038,0
+2018:2006,"Educational, guidance, and career counselors and advisors",Community and social service,2,0.253,0.066,0
+2018:2014,"Social workers, all other",Community and social service,2,0.288,0.036,0
+2018:2040,Clergy,Community and social service,3,0.333,0.112,0
+2018:2100,"Lawyers, and judges, magistrates, and other judicial workers",Legal,4,0.472,0.239,0
+2018:2145,Paralegals and legal assistants,Legal,4,0.525,0.293,0
+2018:2205,Postsecondary teachers,Education,4,0.485,0.133,0
+2018:2300,Preschool and kindergarten teachers,Education,2,0.23,0.0,0
+2018:2310,Elementary and middle school teachers,Education,3,0.327,0.133,0
+2018:2320,Secondary school teachers,Education,3,0.333,0.145,0
+2018:2330,Special education teachers,Education,2,0.308,0.066,0
+2018:2360,Other teachers and instructors,Education,3,0.437,0.215,0
+2018:2545,Teaching assistants,Education,3,0.388,0.1,0
+2018:2640,Other designers,"Arts, media, sports",3,0.428,0.147,0
+2018:2723,Coaches and scouts,"Arts, media, sports",2,0.27,0.0,0
+2018:3050,Pharmacists,Healthcare practitioners,3,0.429,0.09,0
+2018:3100,Physicians,Healthcare practitioners,3,0.394,0.024,0
+2018:3160,Physical therapists,Healthcare practitioners,2,0.191,0.017,0
+2018:3255,Registered nurses,Healthcare practitioners,3,0.38,0.06,0
+2018:3300,Clinical laboratory technologists and technicians,Healthcare practitioners,2,0.254,0.059,0
+2018:3330,Radiologic technologists and technicians,Healthcare practitioners,3,0.351,0.006,0
+2018:3430,Pharmacy technicians,Healthcare practitioners,2,0.274,0.038,0
+2018:3500,Licensed practical and licensed vocational nurses,Healthcare practitioners,2,0.25,0.0,0
+2018:3602,Personal care aides,Healthcare support,2,0.222,0.0,0
+2018:3605,Nursing assistants,Healthcare support,1,0.093,0.0,0
+2018:3640,Dental assistants,Healthcare support,2,0.267,0.0,0
+2018:3645,Medical assistants,Healthcare support,3,0.359,0.048,0
+2018:3740,Firefighters,Protective service,2,0.14,0.0,0
+2018:3802,Correctional officers and jailers,Protective service,2,0.248,0.0,0
+2018:3930,Security guards and gaming surveillance officers,Protective service,2,0.302,0.0,0
+2018:4000,Chefs and head cooks,Food service,2,0.262,0.0,0
+2018:4010,First-line supervisors of food preparation and serving workers,Food service,4,0.511,0.056,0
+2018:4020,Cooks,Food service,1,0.091,0.002,0
+2018:4030,Food preparation workers,Food service,1,0.037,0.0,0
+2018:4055,Fast food and counter workers,Food service,1,0.129,0.0,0
+2018:4110,Waiters and waitresses,Food service,2,0.184,0.0,0
+2018:4130,Dining room and cafeteria attendants and bartender helpers,Food service,1,0.0,0.0,0
+2018:4140,Dishwashers,Food service,1,0.0,0.0,0
+2018:4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",Food service,2,0.229,0.073,0
+2018:4200,First-line supervisors of housekeeping and janitorial workers,Cleaning and grounds,2,0.265,0.044,0
+2018:4220,Janitors and building cleaners,Cleaning and grounds,1,0.0,0.0,0
+2018:4230,Maids and housekeeping cleaners,Cleaning and grounds,1,0.0,0.0,0
+2018:4330,Landscaping and groundskeeping workers,Cleaning and grounds,1,0.077,0.004,0
+2018:4510,"Hairdressers, hairstylists, and cosmetologists",Personal care,1,0.079,0.03,0
+2018:4525,Manicurists and pedicurists,Personal care,1,0.118,0.0,0
+2018:4600,Childcare workers,Personal care,2,0.141,0.012,0
+2018:4622,Exercise trainers and group fitness instructors,Personal care,1,0.102,0.0,0
+2018:4700,First-line supervisors of retail sales workers,Sales,4,0.486,0.263,0
+2018:4710,First-line supervisors of non-retail sales workers,Sales,5,0.537,0.23,0
+2018:4720,Cashiers,Sales,2,0.236,0.042,0
+2018:4760,Retail salespersons,Sales,3,0.342,0.322,0
+2018:4810,Insurance sales agents,Sales,5,0.576,0.319,0
+2018:4840,"Sales representatives of services, except advertising, insurance, financial services, and travel",Sales,5,0.633,0.328,0
+2018:4850,"Sales representatives, wholesale and manufacturing",Sales,5,0.56,0.449,0
+2018:4920,Real estate brokers and sales agents,Sales,4,0.469,0.272,0
+2018:4965,"Sales and related workers, all other",Sales,2,0.261,0.176,0
+2018:5000,First-line supervisors of office and administrative support workers,Office and admin,4,0.49,0.186,0
+2018:5110,Billing and posting clerks,Office and admin,5,0.774,0.192,0
+2018:5120,"Bookkeeping, accounting, and auditing clerks",Office and admin,5,0.802,0.31,0
+2018:5160,Tellers,Office and admin,5,0.542,0.023,0
+2018:5240,Customer service representatives,Office and admin,5,0.568,0.701,0
+2018:5400,Receptionists and information clerks,Office and admin,5,0.533,0.434,0
+2018:5510,Couriers and messengers,Office and admin,2,0.31,0.041,0
+2018:5522,"Dispatchers, except police, fire, and ambulance",Office and admin,5,0.668,0.168,0
+2018:5550,Postal service mail carriers,Office and admin,2,0.231,0.0,0
+2018:5610,"Shipping, receiving, and inventory clerks",Office and admin,4,0.5,0.0,0
+2018:5740,"Secretaries and administrative assistants, except legal, medical, and executive",Office and admin,5,0.647,0.416,0
+2018:5810,Data entry keyers,Office and admin,5,0.893,0.671,0
+2018:5860,"Office clerks, general",Office and admin,5,0.576,0.45,0
+2018:5940,Other office and administrative support workers,Office and admin,5,0.686,0.298,0
+2018:6115,Other agricultural workers,Farming,1,0.124,0.003,0
+2018:6200,First-line supervisors of construction trades and extraction workers,Construction,3,0.417,0.03,0
+2018:6230,Carpenters,Construction,2,0.144,0.0,0
+2018:6305,Construction laborers,Construction,1,0.045,0.024,0
+2018:6355,Electricians,Construction,2,0.146,0.0,0
+2018:6442,"Plumbers, pipefitters, and steamfitters",Construction,1,0.073,0.011,0
+2018:7000,"First-line supervisors of mechanics, installers, and repairers",Installation and repair,3,0.41,0.102,0
+2018:7200,Automotive service technicians and mechanics,Installation and repair,1,0.082,0.0,0
+2018:7210,Bus and truck mechanics and diesel engine specialists,Installation and repair,1,0.0,0.0,0
+2018:7315,"Heating, air conditioning, and refrigeration mechanics and installers",Installation and repair,1,0.105,0.019,0
+2018:7330,Industrial and refractory machinery mechanics,Installation and repair,1,0.11,0.006,0
+2018:7340,"Maintenance and repair workers, general",Installation and repair,2,0.137,0.0,0
+2018:7700,First-line supervisors of production and operating workers,Production,3,0.4,0.0,0
+2018:7750,Other assemblers and fabricators,Production,1,0.091,0.015,0
+2018:7810,"Butchers and other meat, poultry, and fish processing workers",Production,1,0.044,0.0,0
+2018:8030,Machinists,Production,2,0.235,0.0,0
+2018:8225,"Welding, soldering, and brazing workers",Production,1,0.088,0.0,0
+2018:8740,"Inspectors, testers, sorters, samplers, and weighers",Production,3,0.417,0.032,0
+2018:8800,Packaging and filling machine operators and tenders,Production,1,0.0,0.0,0
+2018:8990,"Miscellaneous production workers, including equipment operators and tenders",Production,2,0.152,0.013,0
+2018:9122,"Bus drivers, transit and intercity",Transportation,2,0.28,0.0,0
+2018:9130,Driver/sales workers and truck drivers,Transportation,2,0.326,0.009,0
+2018:9142,Taxi drivers,Transportation,2,0.277,0.0,0
+2018:9600,Industrial truck and tractor operators,Transportation,1,0.031,0.0,0
+2018:9610,Cleaners of vehicles and equipment,Transportation,1,0.083,0.0,0
+2018:9620,"Laborers and freight, stock, and material movers, hand",Transportation,1,0.042,0.0,0
+2018:9640,"Packers and packagers, hand",Transportation,1,0.1,0.0,0
+2018:9645,Stockers and order fillers,Transportation,2,0.182,0.0,0
+other:Architecture and engineering,Other architecture and engineering occupations,Architecture and engineering,5,0.534,0.045,1
+"other:Arts, media, sports","Other arts, media, sports occupations","Arts, media, sports",5,0.558,0.206,1
+other:Business and finance,Other business and finance occupations,Business and finance,4,0.513,0.215,1
+other:Cleaning and grounds,Other cleaning and grounds occupations,Cleaning and grounds,3,0.327,0.092,1
+other:Community and social service,Other community and social service occupations,Community and social service,3,0.402,0.043,1
+other:Computer and math,Other computer and math occupations,Computer and math,5,0.717,0.356,1
+other:Construction,Other construction occupations,Construction,1,0.06,0.006,1
+other:Education,Other education occupations,Education,4,0.471,0.162,1
+other:Farming,Other farming occupations,Farming,2,0.173,0.0,1
+other:Food service,Other food service occupations,Food service,1,0.127,0.001,1
+other:Healthcare practitioners,Other healthcare practitioners occupations,Healthcare practitioners,2,0.317,0.066,1
+other:Healthcare support,Other healthcare support occupations,Healthcare support,2,0.263,0.065,1
+other:Installation and repair,Other installation and repair occupations,Installation and repair,1,0.129,0.013,1
+other:Legal,Other legal occupations,Legal,5,0.566,0.037,1
+other:Management,Other management occupations,Management,4,0.488,0.133,1
+other:Office and admin,Other office and admin occupations,Office and admin,5,0.624,0.164,1
+other:Personal care,Other personal care occupations,Personal care,2,0.21,0.015,1
+other:Production,Other production occupations,Production,2,0.139,0.006,1
+other:Protective service,Other protective service occupations,Protective service,2,0.305,0.035,1
+other:Sales,Other sales occupations,Sales,4,0.508,0.256,1
+other:Science,Other science occupations,Science,3,0.438,0.112,1
+other:Transportation,Other transportation occupations,Transportation,2,0.234,0.01,1
+other:Unclassified,Unclassified occupations,Unclassified,0,,,1

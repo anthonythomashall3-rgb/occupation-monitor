@@ -1,0 +1,1185 @@
+month,state,group,employed,unemployed,n
+2011-04,AK,Architecture and engineering,9102.8,684.8,22
+2011-04,AK,"Arts, media, sports",2865.0,487.1,9
+2011-04,AK,Business and finance,14326.4,797.2,38
+2011-04,AK,Cleaning and grounds,10684.6,0.0,26
+2011-04,AK,Community and social service,9002.0,0.0,22
+2011-04,AK,Computer and math,4009.1,543.5,11
+2011-04,AK,Construction,24842.7,5927.1,63
+2011-04,AK,Education,23274.4,1178.7,58
+2011-04,AK,Farming,5010.9,1080.2,16
+2011-04,AK,Food service,16568.5,2001.2,42
+2011-04,AK,Healthcare practitioners,13364.9,510.4,38
+2011-04,AK,Healthcare support,10717.3,637.4,25
+2011-04,AK,Installation and repair,15399.9,693.5,36
+2011-04,AK,Legal,3052.1,0.0,8
+2011-04,AK,Management,36088.7,327.9,90
+2011-04,AK,No previous job,0.0,2758.1,6
+2011-04,AK,Office and admin,47311.6,2525.2,119
+2011-04,AK,Personal care,8003.0,0.0,17
+2011-04,AK,Production,9732.4,1117.5,24
+2011-04,AK,Protective service,8500.8,1891.7,21
+2011-04,AK,Sales,26300.3,1419.2,62
+2011-04,AK,Science,4653.2,302.9,12
+2011-04,AK,Transportation,25528.1,5369.0,72
+2011-04,AL,Architecture and engineering,44595.6,0.0,14
+2011-04,AL,"Arts, media, sports",28279.0,2347.0,11
+2011-04,AL,Business and finance,76101.6,1971.3,26
+2011-04,AL,Cleaning and grounds,70193.3,7252.1,25
+2011-04,AL,Community and social service,24589.9,0.0,8
+2011-04,AL,Computer and math,31676.2,6858.2,13
+2011-04,AL,Construction,107689.2,25996.9,39
+2011-04,AL,Education,147461.6,8790.4,50
+2011-04,AL,Farming,0.0,5375.1,2
+2011-04,AL,Food service,84809.6,5038.8,27
+2011-04,AL,Healthcare practitioners,142898.2,7376.8,49
+2011-04,AL,Healthcare support,82497.0,2321.2,28
+2011-04,AL,Installation and repair,99220.6,6147.1,31
+2011-04,AL,Legal,29786.1,0.0,9
+2011-04,AL,Management,144689.8,19431.9,50
+2011-04,AL,No previous job,0.0,25655.2,9
+2011-04,AL,Office and admin,245894.8,26344.1,87
+2011-04,AL,Personal care,38295.7,4819.0,13
+2011-04,AL,Production,211493.0,37046.0,78
+2011-04,AL,Protective service,26903.9,0.0,10
+2011-04,AL,Sales,216986.5,20082.0,78
+2011-04,AL,Science,13589.9,0.0,5
+2011-04,AL,Transportation,156931.7,36598.6,60
+2011-04,AR,Architecture and engineering,9069.2,0.0,4
+2011-04,AR,"Arts, media, sports",12304.6,1977.9,7
+2011-04,AR,Business and finance,37881.3,2024.8,19
+2011-04,AR,Cleaning and grounds,46290.2,4631.6,27
+2011-04,AR,Community and social service,19689.3,2639.7,11
+2011-04,AR,Computer and math,30720.3,1486.5,16
+2011-04,AR,Construction,76911.7,3688.2,39
+2011-04,AR,Education,61611.2,0.0,31
+2011-04,AR,Farming,14849.0,0.0,7
+2011-04,AR,Food service,72233.5,24183.9,44
+2011-04,AR,Healthcare practitioners,80079.2,3664.6,44
+2011-04,AR,Healthcare support,51587.2,2302.4,27
+2011-04,AR,Installation and repair,50326.8,2101.7,25
+2011-04,AR,Legal,3686.3,0.0,2
+2011-04,AR,Management,128476.8,5252.0,64
+2011-04,AR,No previous job,0.0,12035.1,5
+2011-04,AR,Office and admin,119767.7,15708.0,69
+2011-04,AR,Personal care,46875.8,2024.8,26
+2011-04,AR,Production,86271.1,3967.7,43
+2011-04,AR,Protective service,30686.5,1867.6,14
+2011-04,AR,Sales,115508.0,9827.5,62
+2011-04,AR,Science,8834.6,0.0,5
+2011-04,AR,Transportation,99458.5,15322.1,59
+2011-04,AZ,Architecture and engineering,68308.5,10185.3,21
+2011-04,AZ,"Arts, media, sports",51777.5,3050.4,14
+2011-04,AZ,Business and finance,149164.0,7465.2,43
+2011-04,AZ,Cleaning and grounds,119011.4,10742.9,35
+2011-04,AZ,Community and social service,88141.8,0.0,23
+2011-04,AZ,Computer and math,66446.3,3692.6,18
+2011-04,AZ,Construction,209509.1,21696.7,59
+2011-04,AZ,Education,143879.6,18743.5,45
+2011-04,AZ,Farming,5035.2,0.0,1
+2011-04,AZ,Food service,132826.7,23415.7,42
+2011-04,AZ,Healthcare practitioners,152170.2,3565.6,42
+2011-04,AZ,Healthcare support,75202.4,3386.5,21
+2011-04,AZ,Installation and repair,106050.9,15471.5,30
+2011-04,AZ,Legal,48359.7,0.0,12
+2011-04,AZ,Management,291574.2,11916.3,83
+2011-04,AZ,No previous job,0.0,21117.9,6
+2011-04,AZ,Office and admin,405784.6,31447.1,116
+2011-04,AZ,Personal care,71824.5,17538.9,22
+2011-04,AZ,Production,98492.7,17224.2,31
+2011-04,AZ,Protective service,51965.6,3194.9,15
+2011-04,AZ,Sales,337521.2,32210.8,97
+2011-04,AZ,Science,31980.3,0.0,8
+2011-04,AZ,Transportation,165595.3,22536.2,46
+2011-04,CA,Architecture and engineering,327898.7,7216.6,105
+2011-04,CA,"Arts, media, sports",494810.2,50081.3,172
+2011-04,CA,Business and finance,847198.0,50328.6,285
+2011-04,CA,Cleaning and grounds,738692.1,88821.6,257
+2011-04,CA,Community and social service,262069.7,29672.9,91
+2011-04,CA,Computer and math,505856.6,26907.6,167
+2011-04,CA,Construction,717790.4,236266.7,283
+2011-04,CA,Education,877864.3,31951.3,290
+2011-04,CA,Farming,212347.2,128247.2,100
+2011-04,CA,Food service,782429.5,78415.3,271
+2011-04,CA,Healthcare practitioners,779049.6,36249.3,260
+2011-04,CA,Healthcare support,522361.7,44602.5,178
+2011-04,CA,Installation and repair,534056.2,64034.6,179
+2011-04,CA,Legal,174033.0,5441.0,58
+2011-04,CA,Management,1752985.4,119132.9,589
+2011-04,CA,No previous job,0.0,196261.7,61
+2011-04,CA,Office and admin,1828144.4,220180.4,646
+2011-04,CA,Personal care,489935.8,63769.6,175
+2011-04,CA,Production,872180.6,162023.6,319
+2011-04,CA,Protective service,314628.3,34888.7,106
+2011-04,CA,Sales,1789265.3,238005.4,629
+2011-04,CA,Science,196118.6,0.0,62
+2011-04,CA,Transportation,1034043.9,175801.1,360
+2011-04,CA,Unclassified,0.0,3920.2,1
+2011-04,CO,Architecture and engineering,53387.0,3580.1,32
+2011-04,CO,"Arts, media, sports",77497.5,0.0,45
+2011-04,CO,Business and finance,139427.2,15778.5,89
+2011-04,CO,Cleaning and grounds,98278.3,15617.3,63
+2011-04,CO,Community and social service,51549.0,2002.2,32
+2011-04,CO,Computer and math,102627.8,5481.8,61
+2011-04,CO,Construction,155271.4,28203.5,96
+2011-04,CO,Education,132559.9,5415.8,79
+2011-04,CO,Farming,5759.7,2406.1,4
+2011-04,CO,Food service,133589.4,16629.4,81
+2011-04,CO,Healthcare practitioners,134820.7,1959.9,79
+2011-04,CO,Healthcare support,73080.9,6426.9,47
+2011-04,CO,Installation and repair,66129.1,11873.6,42
+2011-04,CO,Legal,31394.6,0.0,19
+2011-04,CO,Management,321208.6,5328.8,187
+2011-04,CO,No previous job,0.0,21762.5,12
+2011-04,CO,Office and admin,270450.3,15086.3,164
+2011-04,CO,Personal care,67611.1,6257.7,41
+2011-04,CO,Production,76809.5,0.0,43
+2011-04,CO,Protective service,57830.0,1914.5,34
+2011-04,CO,Sales,279728.4,23508.2,172
+2011-04,CO,Science,37473.0,3692.5,24
+2011-04,CO,Transportation,159355.7,9631.0,94
+2011-04,CO,Unclassified,0.0,1871.0,1
+2011-04,CT,Architecture and engineering,43175.5,1090.6,39
+2011-04,CT,"Arts, media, sports",31592.4,1110.1,27
+2011-04,CT,Business and finance,74649.0,9998.6,72
+2011-04,CT,Cleaning and grounds,50348.0,12880.2,50
+2011-04,CT,Community and social service,31191.7,0.0,26
+2011-04,CT,Computer and math,40304.4,0.0,34
+2011-04,CT,Construction,77470.0,17392.3,79
+2011-04,CT,Education,117344.3,6274.6,102
+2011-04,CT,Farming,8839.5,0.0,8
+2011-04,CT,Food service,58389.0,12452.7,57
+2011-04,CT,Healthcare practitioners,127007.7,919.2,108
+2011-04,CT,Healthcare support,59919.2,11682.1,59
+2011-04,CT,Installation and repair,63734.1,4466.1,55
+2011-04,CT,Legal,27041.7,0.0,22
+2011-04,CT,Management,197881.2,16949.5,186
+2011-04,CT,No previous job,0.0,12979.5,10
+2011-04,CT,Office and admin,195012.0,15302.8,174
+2011-04,CT,Personal care,63552.9,8707.0,57
+2011-04,CT,Production,87873.9,12576.8,83
+2011-04,CT,Protective service,39985.8,3336.6,34
+2011-04,CT,Sales,195211.1,16851.5,175
+2011-04,CT,Science,26521.7,0.0,23
+2011-04,CT,Transportation,67044.2,13198.0,64
+2011-04,DC,Architecture and engineering,5153.2,266.6,18
+2011-04,DC,"Arts, media, sports",24086.9,1183.1,82
+2011-04,DC,Business and finance,30393.0,2070.0,104
+2011-04,DC,Cleaning and grounds,14989.9,2071.1,54
+2011-04,DC,Community and social service,6616.9,728.1,21
+2011-04,DC,Computer and math,15426.9,285.0,52
+2011-04,DC,Construction,5490.0,1200.2,19
+2011-04,DC,Education,16818.0,1254.1,59
+2011-04,DC,Food service,13601.2,1961.3,44
+2011-04,DC,Healthcare practitioners,5602.1,0.0,18
+2011-04,DC,Healthcare support,5336.8,1321.2,20
+2011-04,DC,Installation and repair,3973.5,364.7,12
+2011-04,DC,Legal,23431.3,0.0,72
+2011-04,DC,Management,49805.5,2767.1,162
+2011-04,DC,No previous job,0.0,2146.9,6
+2011-04,DC,Office and admin,32893.5,4341.8,117
+2011-04,DC,Personal care,6001.6,1178.1,21
+2011-04,DC,Production,3111.3,369.3,11
+2011-04,DC,Protective service,8153.9,1319.8,25
+2011-04,DC,Sales,14158.1,4295.6,55
+2011-04,DC,Science,13253.6,685.0,45
+2011-04,DC,Transportation,9792.5,3428.6,38
+2011-04,DE,Architecture and engineering,4735.1,1146.1,14
+2011-04,DE,"Arts, media, sports",3158.6,0.0,8
+2011-04,DE,Business and finance,15090.5,951.9,42
+2011-04,DE,Cleaning and grounds,13390.0,2245.0,38
+2011-04,DE,Community and social service,9352.3,0.0,23
+2011-04,DE,Computer and math,8377.3,837.6,23
+2011-04,DE,Construction,22297.3,1832.9,61
+2011-04,DE,Education,26547.8,414.8,69
+2011-04,DE,Farming,5075.0,464.1,14
+2011-04,DE,Food service,28564.6,6207.4,84
+2011-04,DE,Healthcare practitioners,21240.2,0.0,55
+2011-04,DE,Healthcare support,8962.1,702.6,25
+2011-04,DE,Installation and repair,13696.1,0.0,35
+2011-04,DE,Legal,3934.6,0.0,10
+2011-04,DE,Management,47791.4,1188.8,125
+2011-04,DE,No previous job,0.0,3180.1,7
+2011-04,DE,Office and admin,52161.2,4788.3,146
+2011-04,DE,Personal care,12258.5,1881.5,35
+2011-04,DE,Production,19304.8,2985.7,55
+2011-04,DE,Protective service,9468.0,0.0,23
+2011-04,DE,Sales,42438.8,2508.2,114
+2011-04,DE,Science,6609.8,420.2,18
+2011-04,DE,Transportation,32467.6,1989.7,83
+2011-04,FL,Architecture and engineering,132802.8,14119.4,42
+2011-04,FL,"Arts, media, sports",175698.8,10653.8,53
+2011-04,FL,Business and finance,334484.0,17716.8,102
+2011-04,FL,Cleaning and grounds,386511.2,49836.5,126
+2011-04,FL,Community and social service,124575.8,16827.4,41
+2011-04,FL,Computer and math,172061.2,10741.4,53
+2011-04,FL,Construction,313367.2,104190.7,116
+2011-04,FL,Education,479972.7,29731.6,145
+2011-04,FL,Farming,26178.9,4643.7,9
+2011-04,FL,Food service,475919.8,61547.7,147
+2011-04,FL,Healthcare practitioners,504365.7,11998.6,148
+2011-04,FL,Healthcare support,199764.8,41134.4,71
+2011-04,FL,Installation and repair,301842.4,38443.8,99
+2011-04,FL,Legal,119202.7,3497.7,35
+2011-04,FL,Management,1001375.2,44804.0,301
+2011-04,FL,No previous job,0.0,27205.1,7
+2011-04,FL,Office and admin,1088278.5,77060.7,334
+2011-04,FL,Personal care,188726.6,26580.2,62
+2011-04,FL,Production,218107.4,49168.6,75
+2011-04,FL,Protective service,236231.0,20412.0,70
+2011-04,FL,Sales,1121275.2,130281.8,358
+2011-04,FL,Science,31341.8,6775.5,11
+2011-04,FL,Transportation,553519.4,62116.5,171
+2011-04,FL,Unclassified,0.0,8875.6,2
+2011-04,GA,Architecture and engineering,78471.7,3223.6,24
+2011-04,GA,"Arts, media, sports",84169.9,3388.2,26
+2011-04,GA,Business and finance,192176.5,11316.9,59
+2011-04,GA,Cleaning and grounds,113208.8,21167.1,39
+2011-04,GA,Community and social service,59480.0,0.0,18
+2011-04,GA,Computer and math,93595.8,3745.4,28
+2011-04,GA,Construction,215387.3,45769.3,74
+2011-04,GA,Education,315543.6,6899.0,95
+2011-04,GA,Farming,34839.5,0.0,11
+2011-04,GA,Food service,270684.4,30869.6,88
+2011-04,GA,Healthcare practitioners,180637.9,0.0,54
+2011-04,GA,Healthcare support,68382.1,17992.5,25
+2011-04,GA,Installation and repair,167040.8,15485.1,50
+2011-04,GA,Legal,35027.8,3189.9,12
+2011-04,GA,Management,452289.7,37428.1,146
+2011-04,GA,No previous job,0.0,42480.9,11
+2011-04,GA,Office and admin,495895.5,51038.2,161
+2011-04,GA,Personal care,100294.4,12631.5,34
+2011-04,GA,Production,225432.0,46967.5,79
+2011-04,GA,Protective service,124421.6,3212.9,36
+2011-04,GA,Sales,536520.3,52219.1,174
+2011-04,GA,Science,27469.1,3298.3,9
+2011-04,GA,Transportation,361353.8,40553.5,108
+2011-04,HI,Architecture and engineering,11631.6,481.6,15
+2011-04,HI,"Arts, media, sports",15619.7,0.0,25
+2011-04,HI,Business and finance,25650.4,657.5,43
+2011-04,HI,Cleaning and grounds,29787.8,1972.5,55
+2011-04,HI,Community and social service,5315.9,412.3,10
+2011-04,HI,Computer and math,10745.8,448.5,18
+2011-04,HI,Construction,36253.9,9091.1,68
+2011-04,HI,Education,52901.1,1194.9,85
+2011-04,HI,Farming,4524.6,0.0,7
+2011-04,HI,Food service,37167.0,465.0,57
+2011-04,HI,Healthcare practitioners,28195.3,824.6,50
+2011-04,HI,Healthcare support,10414.4,0.0,18
+2011-04,HI,Installation and repair,15489.5,576.0,26
+2011-04,HI,Legal,4932.7,525.1,9
+2011-04,HI,Management,57874.0,1182.1,91
+2011-04,HI,No previous job,0.0,3960.5,7
+2011-04,HI,Office and admin,72084.2,572.4,125
+2011-04,HI,Personal care,27076.3,2650.4,45
+2011-04,HI,Production,21363.6,979.2,36
+2011-04,HI,Protective service,13452.3,1150.9,22
+2011-04,HI,Sales,78940.4,2433.7,139
+2011-04,HI,Science,2978.6,532.9,6
+2011-04,HI,Transportation,40991.7,2605.8,67
+2011-04,IA,Architecture and engineering,24806.0,3126.4,22
+2011-04,IA,"Arts, media, sports",35362.6,1250.1,27
+2011-04,IA,Business and finance,63956.1,0.0,54
+2011-04,IA,Cleaning and grounds,59801.9,6701.6,54
+2011-04,IA,Community and social service,23203.8,0.0,20
+2011-04,IA,Computer and math,31756.7,0.0,26
+2011-04,IA,Construction,69827.2,11046.4,63
+2011-04,IA,Education,100458.3,3692.6,88
+2011-04,IA,Farming,12993.8,3229.0,14
+2011-04,IA,Food service,85491.0,6601.8,77
+2011-04,IA,Healthcare practitioners,70565.9,999.5,60
+2011-04,IA,Healthcare support,47529.7,2226.1,42
+2011-04,IA,Installation and repair,76556.0,5547.3,66
+2011-04,IA,Legal,3603.8,0.0,3
+2011-04,IA,Management,172023.4,0.0,143
+2011-04,IA,No previous job,0.0,7346.6,6
+2011-04,IA,Office and admin,186188.7,9270.7,164
+2011-04,IA,Personal care,49769.6,1219.2,43
+2011-04,IA,Production,124489.4,8779.7,108
+2011-04,IA,Protective service,12693.5,0.0,10
+2011-04,IA,Sales,175510.2,7165.4,148
+2011-04,IA,Science,17011.2,0.0,15
+2011-04,IA,Transportation,123314.6,12054.9,109
+2011-04,IA,Unclassified,0.0,1158.2,1
+2011-04,ID,Architecture and engineering,15086.2,1080.8,15
+2011-04,ID,"Arts, media, sports",15151.5,2942.6,19
+2011-04,ID,Business and finance,22511.9,0.0,22
+2011-04,ID,Cleaning and grounds,27374.4,3830.5,31
+2011-04,ID,Community and social service,3720.9,0.0,4
+2011-04,ID,Computer and math,7429.3,1878.3,10
+2011-04,ID,Construction,40814.9,6786.4,44
+2011-04,ID,Education,55641.4,0.0,53
+2011-04,ID,Farming,15466.0,1035.0,17
+2011-04,ID,Food service,29737.9,2384.1,29
+2011-04,ID,Healthcare practitioners,30023.6,0.0,30
+2011-04,ID,Healthcare support,21391.5,3084.7,26
+2011-04,ID,Installation and repair,25490.0,4800.0,29
+2011-04,ID,Legal,7743.4,0.0,7
+2011-04,ID,Management,77322.8,718.1,77
+2011-04,ID,No previous job,0.0,13276.0,12
+2011-04,ID,Office and admin,100489.9,7762.6,105
+2011-04,ID,Personal care,18518.7,2120.4,21
+2011-04,ID,Production,43131.5,1796.7,44
+2011-04,ID,Protective service,13506.4,4319.0,18
+2011-04,ID,Sales,80427.3,8636.1,86
+2011-04,ID,Science,5127.4,0.0,5
+2011-04,ID,Transportation,47478.6,3021.2,49
+2011-04,ID,Unclassified,0.0,1520.7,1
+2011-04,IL,Architecture and engineering,93633.4,10338.2,33
+2011-04,IL,"Arts, media, sports",142135.8,13037.4,47
+2011-04,IL,Business and finance,330397.5,2348.6,107
+2011-04,IL,Cleaning and grounds,248975.2,31002.8,87
+2011-04,IL,Community and social service,103141.4,5544.9,34
+2011-04,IL,Computer and math,133899.9,18405.7,47
+2011-04,IL,Construction,223750.3,79097.2,93
+2011-04,IL,Education,382176.1,11116.8,124
+2011-04,IL,Farming,8938.6,2952.5,4
+2011-04,IL,Food service,322482.0,66682.6,118
+2011-04,IL,Healthcare practitioners,270142.2,0.0,86
+2011-04,IL,Healthcare support,198036.2,17815.9,70
+2011-04,IL,Installation and repair,195750.1,8490.9,62
+2011-04,IL,Legal,71622.9,0.0,22
+2011-04,IL,Management,564124.1,35867.1,190
+2011-04,IL,No previous job,0.0,53556.6,16
+2011-04,IL,Office and admin,715025.1,48478.3,243
+2011-04,IL,Personal care,169390.9,8868.0,55
+2011-04,IL,Production,375594.4,44019.8,130
+2011-04,IL,Protective service,120580.2,5637.2,39
+2011-04,IL,Sales,714703.3,52953.7,239
+2011-04,IL,Science,39211.0,0.0,13
+2011-04,IL,Transportation,514099.6,59779.4,174
+2011-04,IN,Architecture and engineering,32002.8,0.0,9
+2011-04,IN,"Arts, media, sports",33217.7,0.0,10
+2011-04,IN,Business and finance,119135.4,23295.5,41
+2011-04,IN,Cleaning and grounds,121768.2,11567.6,42
+2011-04,IN,Community and social service,65275.3,0.0,20
+2011-04,IN,Computer and math,48284.5,3047.2,15
+2011-04,IN,Construction,109146.3,34580.2,40
+2011-04,IN,Education,197677.0,3195.3,63
+2011-04,IN,Farming,21790.2,0.0,7
+2011-04,IN,Food service,177633.5,16036.2,57
+2011-04,IN,Healthcare practitioners,155988.6,3540.9,49
+2011-04,IN,Healthcare support,69570.1,9172.3,24
+2011-04,IN,Installation and repair,154476.4,7588.7,46
+2011-04,IN,Legal,22125.4,0.0,8
+2011-04,IN,Management,276100.4,5742.3,93
+2011-04,IN,Office and admin,306825.0,16581.9,103
+2011-04,IN,Personal care,59418.6,0.0,17
+2011-04,IN,Production,319126.9,54702.4,117
+2011-04,IN,Protective service,39924.2,0.0,12
+2011-04,IN,Sales,260298.0,33398.9,91
+2011-04,IN,Science,16424.3,0.0,5
+2011-04,IN,Transportation,241306.4,24110.0,80
+2011-04,KS,Architecture and engineering,25168.6,0.0,17
+2011-04,KS,"Arts, media, sports",31979.1,1624.5,23
+2011-04,KS,Business and finance,63663.3,2989.7,45
+2011-04,KS,Cleaning and grounds,43665.1,4258.8,31
+2011-04,KS,Community and social service,29628.9,0.0,21
+2011-04,KS,Computer and math,42491.7,0.0,28
+2011-04,KS,Construction,90034.5,15153.8,66
+2011-04,KS,Education,101514.4,3407.2,74
+2011-04,KS,Farming,4917.5,0.0,3
+2011-04,KS,Food service,82742.9,8659.1,61
+2011-04,KS,Healthcare practitioners,81294.8,1315.6,59
+2011-04,KS,Healthcare support,49854.4,4046.8,38
+2011-04,KS,Installation and repair,27428.6,4003.3,20
+2011-04,KS,Legal,12261.2,1142.4,9
+2011-04,KS,Management,143044.9,2447.7,98
+2011-04,KS,No previous job,0.0,1715.3,1
+2011-04,KS,Office and admin,139570.7,12541.3,109
+2011-04,KS,Personal care,45179.9,2394.8,34
+2011-04,KS,Production,96672.7,11413.3,69
+2011-04,KS,Protective service,13071.3,0.0,9
+2011-04,KS,Sales,134651.8,8602.9,97
+2011-04,KS,Science,1518.4,0.0,1
+2011-04,KS,Transportation,101408.4,6080.5,69
+2011-04,KY,Architecture and engineering,34776.2,2075.8,18
+2011-04,KY,"Arts, media, sports",24763.7,0.0,12
+2011-04,KY,Business and finance,84943.0,2394.0,40
+2011-04,KY,Cleaning and grounds,69354.2,12164.7,38
+2011-04,KY,Community and social service,39389.5,1679.5,19
+2011-04,KY,Computer and math,19406.2,0.0,9
+2011-04,KY,Construction,109332.4,15680.7,59
+2011-04,KY,Education,125146.0,3809.5,62
+2011-04,KY,Farming,17604.6,3957.9,11
+2011-04,KY,Food service,81405.7,17773.3,43
+2011-04,KY,Healthcare practitioners,135975.7,2195.8,64
+2011-04,KY,Healthcare support,49757.1,0.0,20
+2011-04,KY,Installation and repair,59743.9,11448.2,29
+2011-04,KY,Legal,6863.9,0.0,4
+2011-04,KY,Management,148349.3,8929.9,79
+2011-04,KY,No previous job,0.0,34593.9,15
+2011-04,KY,Office and admin,233253.9,7272.4,114
+2011-04,KY,Personal care,38314.7,0.0,18
+2011-04,KY,Production,173580.2,21915.3,90
+2011-04,KY,Protective service,45713.0,2614.8,22
+2011-04,KY,Sales,193379.1,14088.7,94
+2011-04,KY,Science,20146.0,0.0,9
+2011-04,KY,Transportation,194012.4,18865.0,99
+2011-04,LA,Architecture and engineering,52390.4,0.0,14
+2011-04,LA,"Arts, media, sports",17663.8,5808.2,8
+2011-04,LA,Business and finance,88032.2,4733.7,25
+2011-04,LA,Cleaning and grounds,49500.2,4954.3,19
+2011-04,LA,Community and social service,33937.6,0.0,11
+2011-04,LA,Computer and math,16339.9,0.0,5
+2011-04,LA,Construction,106362.3,11295.8,35
+2011-04,LA,Education,128165.9,0.0,38
+2011-04,LA,Farming,7058.0,0.0,2
+2011-04,LA,Food service,105286.6,15639.7,35
+2011-04,LA,Healthcare practitioners,155375.1,2791.9,45
+2011-04,LA,Healthcare support,55719.4,13634.1,23
+2011-04,LA,Installation and repair,57905.8,16421.0,22
+2011-04,LA,Legal,39407.4,0.0,11
+2011-04,LA,Management,151914.7,0.0,43
+2011-04,LA,No previous job,0.0,22469.0,6
+2011-04,LA,Office and admin,225889.8,12662.5,72
+2011-04,LA,Personal care,42980.1,0.0,12
+2011-04,LA,Production,105683.5,14979.3,34
+2011-04,LA,Protective service,46901.4,0.0,13
+2011-04,LA,Sales,169550.5,20008.7,55
+2011-04,LA,Science,19925.6,0.0,6
+2011-04,LA,Transportation,146576.8,6657.0,44
+2011-04,MA,Architecture and engineering,64521.3,3525.2,22
+2011-04,MA,"Arts, media, sports",70289.5,6555.6,23
+2011-04,MA,Business and finance,242774.3,16448.1,80
+2011-04,MA,Cleaning and grounds,92153.1,8799.2,32
+2011-04,MA,Community and social service,80871.3,0.0,25
+2011-04,MA,Computer and math,97929.8,6563.5,31
+2011-04,MA,Construction,183991.6,24134.5,66
+2011-04,MA,Education,273497.4,9789.8,89
+2011-04,MA,Farming,6505.9,0.0,2
+2011-04,MA,Food service,156020.3,9165.7,52
+2011-04,MA,Healthcare practitioners,214019.5,0.0,66
+2011-04,MA,Healthcare support,101038.2,6889.0,34
+2011-04,MA,Installation and repair,83985.6,7933.6,28
+2011-04,MA,Legal,50952.4,0.0,16
+2011-04,MA,Management,319432.4,8704.6,105
+2011-04,MA,No previous job,0.0,24765.2,7
+2011-04,MA,Office and admin,310024.1,20689.2,102
+2011-04,MA,Personal care,99876.5,9569.8,35
+2011-04,MA,Production,122960.5,12004.7,43
+2011-04,MA,Protective service,89121.2,2968.9,29
+2011-04,MA,Sales,368410.8,15614.7,115
+2011-04,MA,Science,52912.8,0.0,16
+2011-04,MA,Transportation,131095.4,40261.9,53
+2011-04,MD,Architecture and engineering,79755.0,2304.0,47
+2011-04,MD,"Arts, media, sports",61231.1,3341.1,38
+2011-04,MD,Business and finance,210536.1,12181.4,125
+2011-04,MD,Cleaning and grounds,93942.2,12963.8,61
+2011-04,MD,Community and social service,50231.4,3816.3,30
+2011-04,MD,Computer and math,132579.8,0.0,77
+2011-04,MD,Construction,157135.1,21862.1,106
+2011-04,MD,Education,193958.1,0.0,110
+2011-04,MD,Farming,8135.9,0.0,5
+2011-04,MD,Food service,141859.7,14106.1,82
+2011-04,MD,Healthcare practitioners,158484.7,0.0,89
+2011-04,MD,Healthcare support,64562.3,4665.5,39
+2011-04,MD,Installation and repair,61145.1,4392.6,38
+2011-04,MD,Legal,33520.6,2380.9,19
+2011-04,MD,Management,348330.3,12822.4,211
+2011-04,MD,No previous job,0.0,15967.2,9
+2011-04,MD,Office and admin,317870.7,20724.5,189
+2011-04,MD,Personal care,100748.6,11904.8,61
+2011-04,MD,Production,63322.3,5362.9,40
+2011-04,MD,Protective service,80910.2,5597.0,48
+2011-04,MD,Sales,238437.2,16847.2,146
+2011-04,MD,Science,78499.3,1575.6,46
+2011-04,MD,Transportation,149785.8,22055.3,91
+2011-04,MD,Unclassified,0.0,2198.1,1
+2011-04,ME,Architecture and engineering,20603.1,547.6,39
+2011-04,ME,"Arts, media, sports",14308.0,1062.0,27
+2011-04,ME,Business and finance,23209.0,1165.1,45
+2011-04,ME,Cleaning and grounds,21039.7,6213.6,50
+2011-04,ME,Community and social service,14051.1,0.0,27
+2011-04,ME,Computer and math,12106.8,0.0,22
+2011-04,ME,Construction,31109.6,8218.0,70
+2011-04,ME,Education,43854.6,0.0,82
+2011-04,ME,Farming,8651.6,544.5,17
+2011-04,ME,Food service,39071.2,8538.8,83
+2011-04,ME,Healthcare practitioners,37192.2,1509.4,73
+2011-04,ME,Healthcare support,25358.4,1076.2,50
+2011-04,ME,Installation and repair,21499.2,1686.7,43
+2011-04,ME,Legal,2526.4,0.0,5
+2011-04,ME,Management,66653.5,1856.5,127
+2011-04,ME,No previous job,0.0,4975.2,9
+2011-04,ME,Office and admin,70037.5,4981.2,139
+2011-04,ME,Personal care,22010.3,567.7,43
+2011-04,ME,Production,38263.4,3496.0,74
+2011-04,ME,Protective service,14061.3,562.4,27
+2011-04,ME,Sales,65671.2,7124.5,133
+2011-04,ME,Science,4308.2,508.0,9
+2011-04,ME,Transportation,39087.0,5742.4,82
+2011-04,MI,Architecture and engineering,126044.2,2636.0,44
+2011-04,MI,"Arts, media, sports",82706.6,3448.1,28
+2011-04,MI,Business and finance,158874.4,25706.3,61
+2011-04,MI,Cleaning and grounds,172184.3,20233.2,64
+2011-04,MI,Community and social service,71969.8,0.0,26
+2011-04,MI,Computer and math,83270.1,0.0,28
+2011-04,MI,Construction,150719.7,61782.2,69
+2011-04,MI,Education,233054.5,2553.5,79
+2011-04,MI,Farming,36325.5,5572.6,14
+2011-04,MI,Food service,259585.6,29404.9,90
+2011-04,MI,Healthcare practitioners,277478.5,3225.3,94
+2011-04,MI,Healthcare support,184229.0,15540.5,67
+2011-04,MI,Installation and repair,151277.3,19854.5,59
+2011-04,MI,Legal,28839.5,0.0,10
+2011-04,MI,Management,389904.2,12079.8,138
+2011-04,MI,No previous job,0.0,59553.7,17
+2011-04,MI,Office and admin,442658.4,54149.0,167
+2011-04,MI,Personal care,123895.7,10252.7,44
+2011-04,MI,Production,336847.4,45575.5,128
+2011-04,MI,Protective service,66284.3,6863.6,24
+2011-04,MI,Sales,438917.9,36050.0,158
+2011-04,MI,Science,29394.1,0.0,10
+2011-04,MI,Transportation,295011.1,74752.3,119
+2011-04,MN,Architecture and engineering,60814.1,5131.5,38
+2011-04,MN,"Arts, media, sports",80915.1,4696.7,51
+2011-04,MN,Business and finance,136626.7,15374.8,93
+2011-04,MN,Cleaning and grounds,102758.2,6485.5,64
+2011-04,MN,Community and social service,46024.4,1614.8,29
+2011-04,MN,Computer and math,73799.8,0.0,43
+2011-04,MN,Construction,98972.9,21148.5,69
+2011-04,MN,Education,166730.0,5514.4,109
+2011-04,MN,Farming,23398.1,1721.9,15
+2011-04,MN,Food service,137869.6,20871.0,95
+2011-04,MN,Healthcare practitioners,169872.4,4370.0,108
+2011-04,MN,Healthcare support,119173.7,4960.6,82
+2011-04,MN,Installation and repair,95220.7,3649.3,57
+2011-04,MN,Legal,21418.1,0.0,13
+2011-04,MN,Management,301280.1,16086.4,189
+2011-04,MN,No previous job,0.0,17870.1,11
+2011-04,MN,Office and admin,304914.1,8889.9,195
+2011-04,MN,Personal care,76509.5,9728.1,52
+2011-04,MN,Production,179200.6,15419.5,117
+2011-04,MN,Protective service,54955.9,2484.8,34
+2011-04,MN,Sales,322980.3,18863.7,204
+2011-04,MN,Science,23304.3,0.0,14
+2011-04,MN,Transportation,154529.6,11419.5,99
+2011-04,MO,Architecture and engineering,31316.8,0.0,12
+2011-04,MO,"Arts, media, sports",50077.0,2746.7,20
+2011-04,MO,Business and finance,139023.2,5382.1,53
+2011-04,MO,Cleaning and grounds,90793.6,24707.4,40
+2011-04,MO,Community and social service,33976.8,0.0,13
+2011-04,MO,Computer and math,75813.0,0.0,28
+2011-04,MO,Construction,150021.3,25886.5,63
+2011-04,MO,Education,137107.8,13839.0,56
+2011-04,MO,Farming,11492.3,7347.8,7
+2011-04,MO,Food service,141793.6,22260.6,58
+2011-04,MO,Healthcare practitioners,151643.4,0.0,57
+2011-04,MO,Healthcare support,86863.7,5812.6,32
+2011-04,MO,Installation and repair,116978.5,16718.3,49
+2011-04,MO,Legal,23024.8,0.0,8
+2011-04,MO,Management,355115.1,5362.7,138
+2011-04,MO,No previous job,0.0,38812.5,13
+2011-04,MO,Office and admin,325399.8,19152.6,129
+2011-04,MO,Personal care,125839.7,0.0,46
+2011-04,MO,Production,236467.4,8402.4,89
+2011-04,MO,Protective service,36873.4,2554.8,15
+2011-04,MO,Sales,317536.0,16610.6,123
+2011-04,MO,Science,23840.9,5866.6,11
+2011-04,MO,Transportation,189138.0,28202.9,80
+2011-04,MO,Unclassified,0.0,4012.6,1
+2011-04,MS,Architecture and engineering,20148.8,0.0,8
+2011-04,MS,"Arts, media, sports",26315.7,0.0,11
+2011-04,MS,Business and finance,33420.4,0.0,15
+2011-04,MS,Cleaning and grounds,60675.6,10440.1,35
+2011-04,MS,Community and social service,13026.9,0.0,6
+2011-04,MS,Computer and math,10680.0,0.0,4
+2011-04,MS,Construction,84606.7,14532.9,40
+2011-04,MS,Education,70892.6,0.0,32
+2011-04,MS,Farming,3020.3,4076.1,3
+2011-04,MS,Food service,76371.7,6161.6,35
+2011-04,MS,Healthcare practitioners,82435.5,0.0,35
+2011-04,MS,Healthcare support,30331.1,9867.6,19
+2011-04,MS,Installation and repair,42373.1,6038.8,22
+2011-04,MS,Legal,8961.5,0.0,4
+2011-04,MS,Management,104149.9,0.0,47
+2011-04,MS,No previous job,0.0,7678.8,4
+2011-04,MS,Office and admin,166881.2,16087.4,86
+2011-04,MS,Personal care,29329.5,3558.0,14
+2011-04,MS,Production,81566.7,15766.8,46
+2011-04,MS,Protective service,44835.4,0.0,21
+2011-04,MS,Sales,112261.7,11450.2,53
+2011-04,MS,Science,3204.7,0.0,2
+2011-04,MS,Transportation,95245.5,24330.1,57
+2011-04,MT,Architecture and engineering,7301.7,1205.0,10
+2011-04,MT,"Arts, media, sports",9970.9,3454.2,15
+2011-04,MT,Business and finance,19673.9,0.0,25
+2011-04,MT,Cleaning and grounds,11375.3,0.0,14
+2011-04,MT,Community and social service,5625.5,0.0,7
+2011-04,MT,Computer and math,7493.8,0.0,9
+2011-04,MT,Construction,25152.8,5783.8,37
+2011-04,MT,Education,35001.8,1492.7,46
+2011-04,MT,Farming,5643.5,786.7,7
+2011-04,MT,Food service,38967.3,4849.5,46
+2011-04,MT,Healthcare practitioners,21136.7,632.6,29
+2011-04,MT,Healthcare support,20434.6,2476.6,28
+2011-04,MT,Installation and repair,16914.0,965.5,20
+2011-04,MT,Legal,6338.0,0.0,8
+2011-04,MT,Management,51156.3,2233.7,69
+2011-04,MT,No previous job,0.0,3532.3,4
+2011-04,MT,Office and admin,64325.2,2245.3,86
+2011-04,MT,Personal care,14150.9,3256.5,21
+2011-04,MT,Production,11238.7,4022.3,18
+2011-04,MT,Protective service,4222.0,0.0,5
+2011-04,MT,Sales,40914.3,0.0,52
+2011-04,MT,Science,7598.1,0.0,10
+2011-04,MT,Transportation,27985.1,3003.8,38
+2011-04,NC,Architecture and engineering,54340.3,7084.7,16
+2011-04,NC,"Arts, media, sports",61908.8,10434.9,20
+2011-04,NC,Business and finance,225935.3,25439.3,72
+2011-04,NC,Cleaning and grounds,127730.3,25369.1,41
+2011-04,NC,Community and social service,82034.8,3310.9,24
+2011-04,NC,Computer and math,83353.8,0.0,23
+2011-04,NC,Construction,228558.8,51040.4,71
+2011-04,NC,Education,276503.0,6936.9,83
+2011-04,NC,Farming,14995.9,0.0,4
+2011-04,NC,Food service,211874.1,52024.9,71
+2011-04,NC,Healthcare practitioners,220179.5,9934.2,69
+2011-04,NC,Healthcare support,147406.7,22484.4,49
+2011-04,NC,Installation and repair,209268.9,14954.7,61
+2011-04,NC,Legal,41851.2,6508.2,14
+2011-04,NC,Management,462382.8,26599.5,141
+2011-04,NC,No previous job,0.0,50029.0,13
+2011-04,NC,Office and admin,413215.7,38061.1,134
+2011-04,NC,Personal care,83767.3,9551.3,28
+2011-04,NC,Production,251534.7,29232.3,79
+2011-04,NC,Protective service,106491.1,3302.5,31
+2011-04,NC,Sales,415555.5,51614.9,131
+2011-04,NC,Science,50757.3,2194.1,16
+2011-04,NC,Transportation,306617.8,53145.6,101
+2011-04,NC,Unclassified,0.0,3586.3,1
+2011-04,ND,Architecture and engineering,3963.0,0.0,11
+2011-04,ND,"Arts, media, sports",5489.8,0.0,15
+2011-04,ND,Business and finance,12334.2,0.0,32
+2011-04,ND,Cleaning and grounds,13138.7,763.2,37
+2011-04,ND,Community and social service,8356.2,0.0,22
+2011-04,ND,Computer and math,6848.3,0.0,17
+2011-04,ND,Construction,20322.1,1035.7,56
+2011-04,ND,Education,15650.9,0.0,41
+2011-04,ND,Farming,4508.8,408.1,12
+2011-04,ND,Food service,20760.6,339.8,52
+2011-04,ND,Healthcare practitioners,19681.5,0.0,53
+2011-04,ND,Healthcare support,15422.9,0.0,39
+2011-04,ND,Installation and repair,12939.4,422.1,34
+2011-04,ND,Legal,2123.6,0.0,5
+2011-04,ND,Management,48026.0,310.4,128
+2011-04,ND,Office and admin,48329.1,763.3,131
+2011-04,ND,Personal care,13501.8,820.1,37
+2011-04,ND,Production,21694.3,405.6,55
+2011-04,ND,Protective service,7673.8,0.0,18
+2011-04,ND,Sales,36234.3,1381.2,97
+2011-04,ND,Science,3378.7,0.0,9
+2011-04,ND,Transportation,24091.3,478.3,64
+2011-04,NE,Architecture and engineering,14586.6,0.0,16
+2011-04,NE,"Arts, media, sports",16797.1,728.3,20
+2011-04,NE,Business and finance,50820.1,1794.6,60
+2011-04,NE,Cleaning and grounds,34908.9,0.0,41
+2011-04,NE,Community and social service,13213.5,860.1,17
+2011-04,NE,Computer and math,16952.2,0.0,19
+2011-04,NE,Construction,42299.5,6934.5,53
+2011-04,NE,Education,61362.2,0.0,71
+2011-04,NE,Farming,12206.2,0.0,14
+2011-04,NE,Food service,55063.6,4222.6,65
+2011-04,NE,Healthcare practitioners,56289.0,0.0,68
+2011-04,NE,Healthcare support,32302.6,0.0,39
+2011-04,NE,Installation and repair,21980.9,1948.4,26
+2011-04,NE,Legal,886.3,0.0,1
+2011-04,NE,Management,126298.3,2530.9,153
+2011-04,NE,No previous job,0.0,5955.1,6
+2011-04,NE,Office and admin,112570.9,4518.6,138
+2011-04,NE,Personal care,26177.9,0.0,29
+2011-04,NE,Production,77009.5,4955.0,94
+2011-04,NE,Protective service,15832.5,843.6,20
+2011-04,NE,Sales,108583.3,7803.7,134
+2011-04,NE,Science,6819.9,0.0,8
+2011-04,NE,Transportation,47744.4,4204.7,61
+2011-04,NH,Architecture and engineering,20407.0,1044.1,44
+2011-04,NH,"Arts, media, sports",13233.3,1080.5,29
+2011-04,NH,Business and finance,40717.3,1020.2,89
+2011-04,NH,Cleaning and grounds,28878.8,651.3,59
+2011-04,NH,Community and social service,15315.8,0.0,31
+2011-04,NH,Computer and math,28041.2,0.0,56
+2011-04,NH,Construction,33882.2,2249.3,75
+2011-04,NH,Education,47179.8,441.2,102
+2011-04,NH,Farming,3084.1,0.0,7
+2011-04,NH,Food service,36993.7,3189.4,81
+2011-04,NH,Healthcare practitioners,43160.0,517.9,93
+2011-04,NH,Healthcare support,13547.6,1390.8,31
+2011-04,NH,Installation and repair,27690.7,459.0,59
+2011-04,NH,Legal,7913.2,0.0,17
+2011-04,NH,Management,78919.5,3874.4,177
+2011-04,NH,No previous job,0.0,4126.2,8
+2011-04,NH,Office and admin,80909.1,3618.8,176
+2011-04,NH,Personal care,19499.5,524.5,43
+2011-04,NH,Production,33843.6,1796.1,74
+2011-04,NH,Protective service,11932.1,0.0,25
+2011-04,NH,Sales,72833.4,4051.5,159
+2011-04,NH,Science,6896.3,556.5,16
+2011-04,NH,Transportation,31793.1,1774.1,71
+2011-04,NH,Unclassified,0.0,606.9,1
+2011-04,NJ,Architecture and engineering,61716.7,0.0,21
+2011-04,NJ,"Arts, media, sports",41139.8,22435.7,20
+2011-04,NJ,Business and finance,185677.8,18416.7,64
+2011-04,NJ,Cleaning and grounds,140557.0,16865.9,47
+2011-04,NJ,Community and social service,37851.7,5271.5,14
+2011-04,NJ,Computer and math,136308.5,3155.2,41
+2011-04,NJ,Construction,170366.9,26545.3,62
+2011-04,NJ,Education,257449.2,2621.6,80
+2011-04,NJ,Farming,19910.0,0.0,5
+2011-04,NJ,Food service,187415.3,39236.7,68
+2011-04,NJ,Healthcare practitioners,245864.7,13778.3,83
+2011-04,NJ,Healthcare support,135871.0,23571.0,45
+2011-04,NJ,Installation and repair,104994.8,6586.0,35
+2011-04,NJ,Legal,52511.8,6153.8,18
+2011-04,NJ,Management,535844.3,33320.0,184
+2011-04,NJ,No previous job,0.0,18951.1,5
+2011-04,NJ,Office and admin,530240.7,41649.8,181
+2011-04,NJ,Personal care,140827.2,7958.6,44
+2011-04,NJ,Production,190327.1,39092.0,69
+2011-04,NJ,Protective service,100127.2,10543.6,31
+2011-04,NJ,Sales,455359.1,63018.2,159
+2011-04,NJ,Science,19091.9,0.0,7
+2011-04,NJ,Transportation,345523.5,37254.7,115
+2011-04,NM,Architecture and engineering,18194.0,0.0,11
+2011-04,NM,"Arts, media, sports",16885.6,1189.5,11
+2011-04,NM,Business and finance,47827.1,0.0,30
+2011-04,NM,Cleaning and grounds,24392.7,1637.1,16
+2011-04,NM,Community and social service,15914.4,0.0,10
+2011-04,NM,Computer and math,13585.9,0.0,8
+2011-04,NM,Construction,61191.2,20222.1,42
+2011-04,NM,Education,69071.9,2987.8,41
+2011-04,NM,Farming,4353.2,0.0,3
+2011-04,NM,Food service,36770.7,3960.7,24
+2011-04,NM,Healthcare practitioners,40224.5,0.0,25
+2011-04,NM,Healthcare support,27754.5,1667.5,18
+2011-04,NM,Installation and repair,43201.6,0.0,22
+2011-04,NM,Legal,4478.1,1494.1,4
+2011-04,NM,Management,128024.8,1528.3,77
+2011-04,NM,No previous job,0.0,3573.4,2
+2011-04,NM,Office and admin,92751.9,4762.6,61
+2011-04,NM,Personal care,25901.8,0.0,16
+2011-04,NM,Production,27675.6,1454.6,19
+2011-04,NM,Protective service,21134.9,0.0,13
+2011-04,NM,Sales,79387.3,4528.0,50
+2011-04,NM,Science,23558.6,1468.6,15
+2011-04,NM,Transportation,34235.0,2677.6,20
+2011-04,NV,Architecture and engineering,8813.1,1026.4,8
+2011-04,NV,"Arts, media, sports",27173.1,0.0,21
+2011-04,NV,Business and finance,41427.5,2055.7,33
+2011-04,NV,Cleaning and grounds,62827.6,4156.8,52
+2011-04,NV,Community and social service,15121.0,3044.0,13
+2011-04,NV,Computer and math,15291.3,0.0,11
+2011-04,NV,Construction,50943.1,25262.1,58
+2011-04,NV,Education,64314.9,5124.4,55
+2011-04,NV,Farming,1208.8,0.0,1
+2011-04,NV,Food service,96807.6,13162.7,85
+2011-04,NV,Healthcare practitioners,40610.9,5097.6,37
+2011-04,NV,Healthcare support,18942.7,2451.9,16
+2011-04,NV,Installation and repair,38179.4,0.0,30
+2011-04,NV,Legal,11130.6,2152.1,11
+2011-04,NV,Management,113049.9,7018.6,97
+2011-04,NV,No previous job,0.0,12593.9,10
+2011-04,NV,Office and admin,137673.2,15823.4,122
+2011-04,NV,Personal care,78622.4,2644.6,64
+2011-04,NV,Production,40146.8,11572.7,38
+2011-04,NV,Protective service,50901.6,1107.0,41
+2011-04,NV,Sales,162724.4,18454.2,138
+2011-04,NV,Science,8068.9,0.0,7
+2011-04,NV,Transportation,99073.3,14686.7,87
+2011-04,NY,Architecture and engineering,149418.8,3465.8,46
+2011-04,NY,"Arts, media, sports",270246.5,11442.5,82
+2011-04,NY,Business and finance,521256.1,29539.5,165
+2011-04,NY,Cleaning and grounds,302022.1,57468.8,106
+2011-04,NY,Community and social service,182945.2,14417.8,61
+2011-04,NY,Computer and math,210399.3,6393.4,63
+2011-04,NY,Construction,379343.1,73158.8,129
+2011-04,NY,Education,722227.1,24474.9,227
+2011-04,NY,Farming,3617.2,0.0,1
+2011-04,NY,Food service,478128.2,34476.9,145
+2011-04,NY,Healthcare practitioners,494437.1,6539.2,154
+2011-04,NY,Healthcare support,340570.1,15825.6,105
+2011-04,NY,Installation and repair,202036.0,19010.2,66
+2011-04,NY,Legal,149092.0,0.0,45
+2011-04,NY,Management,881779.4,38889.4,280
+2011-04,NY,No previous job,0.0,95404.3,25
+2011-04,NY,Office and admin,983958.3,81156.9,323
+2011-04,NY,Personal care,276907.2,22049.0,89
+2011-04,NY,Production,322585.6,34948.0,106
+2011-04,NY,Protective service,260827.3,21558.8,80
+2011-04,NY,Sales,893316.4,74998.0,290
+2011-04,NY,Science,84544.7,3056.6,27
+2011-04,NY,Transportation,578810.0,64942.7,182
+2011-04,OH,Architecture and engineering,108260.0,0.0,35
+2011-04,OH,"Arts, media, sports",115161.8,2975.9,37
+2011-04,OH,Business and finance,140067.4,2903.2,47
+2011-04,OH,Cleaning and grounds,124607.6,23190.7,47
+2011-04,OH,Community and social service,111962.5,3163.0,36
+2011-04,OH,Computer and math,121297.5,0.0,39
+2011-04,OH,Construction,295808.5,48120.0,111
+2011-04,OH,Education,340931.0,2767.3,109
+2011-04,OH,Farming,20944.6,5862.9,9
+2011-04,OH,Food service,351644.0,45066.0,120
+2011-04,OH,Healthcare practitioners,338256.9,6052.5,112
+2011-04,OH,Healthcare support,188184.6,10788.6,61
+2011-04,OH,Installation and repair,151345.4,10201.2,53
+2011-04,OH,Legal,59773.6,0.0,19
+2011-04,OH,Management,492620.7,24681.8,170
+2011-04,OH,No previous job,0.0,40188.9,12
+2011-04,OH,Office and admin,627714.5,37327.8,209
+2011-04,OH,Personal care,122120.8,5946.2,40
+2011-04,OH,Production,444720.7,43627.4,159
+2011-04,OH,Protective service,85562.5,5845.4,30
+2011-04,OH,Sales,579682.5,50820.1,197
+2011-04,OH,Science,35950.8,2717.7,12
+2011-04,OH,Transportation,448094.2,99300.3,174
+2011-04,OK,Architecture and engineering,25606.3,0.0,11
+2011-04,OK,"Arts, media, sports",26131.3,2099.1,13
+2011-04,OK,Business and finance,50880.8,0.0,22
+2011-04,OK,Cleaning and grounds,69477.9,1980.5,32
+2011-04,OK,Community and social service,51350.3,1516.6,24
+2011-04,OK,Computer and math,45050.4,0.0,20
+2011-04,OK,Construction,112389.3,7432.9,51
+2011-04,OK,Education,112632.9,1798.3,52
+2011-04,OK,Farming,18062.7,0.0,8
+2011-04,OK,Food service,65750.2,3909.7,30
+2011-04,OK,Healthcare practitioners,115088.9,0.0,49
+2011-04,OK,Healthcare support,56934.2,0.0,24
+2011-04,OK,Installation and repair,87688.1,2214.8,40
+2011-04,OK,Legal,17681.8,0.0,8
+2011-04,OK,Management,208219.9,2492.7,89
+2011-04,OK,No previous job,0.0,13623.1,6
+2011-04,OK,Office and admin,203176.8,11422.2,94
+2011-04,OK,Personal care,51415.2,0.0,24
+2011-04,OK,Production,99632.5,2495.3,47
+2011-04,OK,Protective service,35002.3,2050.9,16
+2011-04,OK,Sales,132806.3,1628.9,56
+2011-04,OK,Science,12287.0,0.0,5
+2011-04,OK,Transportation,89131.7,15496.5,45
+2011-04,OK,Unclassified,0.0,1436.9,1
+2011-04,OR,Architecture and engineering,40308.2,0.0,20
+2011-04,OR,"Arts, media, sports",47717.4,5222.8,26
+2011-04,OR,Business and finance,77608.5,6028.9,43
+2011-04,OR,Cleaning and grounds,56392.5,11160.9,33
+2011-04,OR,Community and social service,38239.1,0.0,19
+2011-04,OR,Computer and math,43688.1,0.0,22
+2011-04,OR,Construction,64534.2,21240.4,41
+2011-04,OR,Education,120730.0,4051.4,62
+2011-04,OR,Farming,29567.5,4221.5,16
+2011-04,OR,Food service,94713.9,14510.5,51
+2011-04,OR,Healthcare practitioners,105122.7,5394.3,55
+2011-04,OR,Healthcare support,76968.8,1721.8,40
+2011-04,OR,Installation and repair,48644.5,2158.4,24
+2011-04,OR,Legal,18826.1,0.0,10
+2011-04,OR,Management,227857.9,11776.0,121
+2011-04,OR,No previous job,0.0,7643.0,3
+2011-04,OR,Office and admin,203216.0,10221.3,107
+2011-04,OR,Personal care,37110.4,1722.1,19
+2011-04,OR,Production,92092.1,23058.8,57
+2011-04,OR,Protective service,36663.7,2138.1,19
+2011-04,OR,Sales,204688.9,19312.2,109
+2011-04,OR,Science,14636.5,0.0,7
+2011-04,OR,Transportation,129534.9,17123.3,67
+2011-04,PA,Architecture and engineering,108253.9,5721.8,35
+2011-04,PA,"Arts, media, sports",106927.8,5486.4,35
+2011-04,PA,Business and finance,264848.1,20993.2,89
+2011-04,PA,Cleaning and grounds,192238.8,5517.4,62
+2011-04,PA,Community and social service,127790.6,0.0,40
+2011-04,PA,Computer and math,123311.3,3212.3,38
+2011-04,PA,Construction,298009.4,42118.6,103
+2011-04,PA,Education,378749.7,20122.9,123
+2011-04,PA,Farming,34076.3,0.0,11
+2011-04,PA,Food service,330933.9,32118.1,106
+2011-04,PA,Healthcare practitioners,356998.8,0.0,109
+2011-04,PA,Healthcare support,164588.4,9886.6,52
+2011-04,PA,Installation and repair,196202.6,18075.4,66
+2011-04,PA,Legal,45678.7,3417.4,15
+2011-04,PA,Management,601784.2,18511.5,196
+2011-04,PA,No previous job,0.0,49586.2,15
+2011-04,PA,Office and admin,679060.8,26374.0,222
+2011-04,PA,Personal care,158841.6,2929.2,50
+2011-04,PA,Production,354920.5,41010.1,123
+2011-04,PA,Protective service,144172.8,7848.4,45
+2011-04,PA,Sales,601549.5,55286.5,197
+2011-04,PA,Science,62713.8,0.0,19
+2011-04,PA,Transportation,499545.5,56817.4,170
+2011-04,RI,Architecture and engineering,9948.0,1005.8,22
+2011-04,RI,"Arts, media, sports",8716.3,567.3,20
+2011-04,RI,Business and finance,21443.6,453.5,45
+2011-04,RI,Cleaning and grounds,19651.8,4425.8,49
+2011-04,RI,Community and social service,12070.7,780.6,25
+2011-04,RI,Computer and math,13057.5,1269.8,27
+2011-04,RI,Construction,21331.3,10456.2,64
+2011-04,RI,Education,41628.0,455.8,87
+2011-04,RI,Farming,1578.3,0.0,3
+2011-04,RI,Food service,30420.4,4629.4,64
+2011-04,RI,Healthcare practitioners,32437.2,388.9,66
+2011-04,RI,Healthcare support,19309.9,1547.5,44
+2011-04,RI,Installation and repair,11899.9,1333.5,27
+2011-04,RI,Legal,3740.8,491.6,9
+2011-04,RI,Management,53719.9,2557.8,117
+2011-04,RI,No previous job,0.0,6840.4,13
+2011-04,RI,Office and admin,58300.9,6518.1,134
+2011-04,RI,Personal care,8648.8,355.9,18
+2011-04,RI,Production,30790.3,3113.1,67
+2011-04,RI,Protective service,13625.8,409.1,28
+2011-04,RI,Sales,50764.9,5120.4,112
+2011-04,RI,Science,4681.5,0.0,9
+2011-04,RI,Transportation,31139.9,6405.6,72
+2011-04,RI,Unclassified,0.0,587.1,1
+2011-04,SC,Architecture and engineering,61329.0,0.0,22
+2011-04,SC,"Arts, media, sports",14895.9,0.0,6
+2011-04,SC,Business and finance,98709.3,2934.9,41
+2011-04,SC,Cleaning and grounds,50151.6,7489.7,23
+2011-04,SC,Community and social service,35491.2,3086.1,16
+2011-04,SC,Computer and math,15896.4,5000.4,8
+2011-04,SC,Construction,71060.6,16846.5,33
+2011-04,SC,Education,122055.7,2253.3,51
+2011-04,SC,Farming,17525.2,0.0,7
+2011-04,SC,Food service,125863.6,30308.9,58
+2011-04,SC,Healthcare practitioners,106988.0,5459.1,41
+2011-04,SC,Healthcare support,56787.5,10001.0,27
+2011-04,SC,Installation and repair,80467.9,6404.3,31
+2011-04,SC,Legal,9366.3,0.0,3
+2011-04,SC,Management,188657.3,4602.3,69
+2011-04,SC,No previous job,0.0,13647.0,5
+2011-04,SC,Office and admin,192571.9,17457.7,85
+2011-04,SC,Personal care,53116.8,2966.0,20
+2011-04,SC,Production,159928.2,35917.4,75
+2011-04,SC,Protective service,33627.2,8819.8,17
+2011-04,SC,Sales,211683.5,16651.1,86
+2011-04,SC,Science,22392.4,3079.5,10
+2011-04,SC,Transportation,155791.9,21194.1,67
+2011-04,SC,Unclassified,0.0,2589.9,1
+2011-04,SD,Architecture and engineering,5632.5,0.0,15
+2011-04,SD,"Arts, media, sports",6005.4,0.0,15
+2011-04,SD,Business and finance,18198.3,695.3,45
+2011-04,SD,Cleaning and grounds,18802.2,826.2,49
+2011-04,SD,Community and social service,8493.3,496.9,23
+2011-04,SD,Computer and math,7644.8,498.1,19
+2011-04,SD,Construction,20963.3,2813.9,60
+2011-04,SD,Education,23445.1,0.0,60
+2011-04,SD,Farming,5357.1,707.3,16
+2011-04,SD,Food service,22234.7,1937.2,63
+2011-04,SD,Healthcare practitioners,24882.1,237.6,66
+2011-04,SD,Healthcare support,11503.0,0.0,31
+2011-04,SD,Installation and repair,12898.5,0.0,35
+2011-04,SD,Legal,3648.6,0.0,10
+2011-04,SD,Management,57491.2,978.6,157
+2011-04,SD,No previous job,0.0,2808.4,7
+2011-04,SD,Office and admin,51758.4,2897.3,139
+2011-04,SD,Personal care,14739.1,442.4,39
+2011-04,SD,Production,33664.0,2006.1,91
+2011-04,SD,Protective service,5361.8,0.0,13
+2011-04,SD,Sales,32652.7,3546.2,93
+2011-04,SD,Science,3634.4,0.0,9
+2011-04,SD,Transportation,33078.1,1362.3,88
+2011-04,TN,Architecture and engineering,36609.9,2675.4,11
+2011-04,TN,"Arts, media, sports",86624.9,0.0,23
+2011-04,TN,Business and finance,84830.0,0.0,22
+2011-04,TN,Cleaning and grounds,128152.3,36627.7,44
+2011-04,TN,Community and social service,52531.1,13487.2,17
+2011-04,TN,Computer and math,27886.1,3253.0,8
+2011-04,TN,Construction,142014.5,35791.0,47
+2011-04,TN,Education,185716.6,12492.1,53
+2011-04,TN,Farming,7430.9,0.0,2
+2011-04,TN,Food service,153598.5,34768.0,51
+2011-04,TN,Healthcare practitioners,127793.0,7197.2,37
+2011-04,TN,Healthcare support,85606.6,7578.3,25
+2011-04,TN,Installation and repair,99459.2,11260.7,32
+2011-04,TN,Legal,45348.3,0.0,12
+2011-04,TN,Management,314241.1,10355.2,90
+2011-04,TN,No previous job,0.0,22981.4,7
+2011-04,TN,Office and admin,318005.6,34361.4,94
+2011-04,TN,Personal care,95628.4,0.0,25
+2011-04,TN,Production,236674.9,37831.7,75
+2011-04,TN,Protective service,53950.7,0.0,13
+2011-04,TN,Sales,328208.2,26374.8,95
+2011-04,TN,Science,10241.1,0.0,3
+2011-04,TN,Transportation,221207.4,46894.1,71
+2011-04,TX,Architecture and engineering,358524.6,10709.6,104
+2011-04,TX,"Arts, media, sports",223774.4,3218.8,65
+2011-04,TX,Business and finance,524931.6,37534.9,162
+2011-04,TX,Cleaning and grounds,544384.3,57496.0,177
+2011-04,TX,Community and social service,160075.4,13815.6,52
+2011-04,TX,Computer and math,278884.7,4641.0,81
+2011-04,TX,Construction,809465.5,91107.0,252
+2011-04,TX,Education,730721.0,10665.0,221
+2011-04,TX,Farming,67824.8,0.0,20
+2011-04,TX,Food service,627271.9,76646.8,201
+2011-04,TX,Healthcare practitioners,551816.0,14901.7,169
+2011-04,TX,Healthcare support,325108.4,21389.3,102
+2011-04,TX,Installation and repair,432518.5,26266.1,132
+2011-04,TX,Legal,108219.0,0.0,31
+2011-04,TX,Management,1096134.8,28537.2,335
+2011-04,TX,No previous job,0.0,67691.2,20
+2011-04,TX,Office and admin,1350215.1,164807.3,455
+2011-04,TX,Personal care,304812.8,17478.7,93
+2011-04,TX,Production,626381.2,84051.0,206
+2011-04,TX,Protective service,223631.7,9797.2,69
+2011-04,TX,Sales,1144274.2,105817.2,360
+2011-04,TX,Science,60847.5,0.0,17
+2011-04,TX,Transportation,870536.3,52998.2,259
+2011-04,TX,Unclassified,0.0,9345.4,2
+2011-04,UT,Architecture and engineering,35649.4,1479.0,21
+2011-04,UT,"Arts, media, sports",16203.4,0.0,10
+2011-04,UT,Business and finance,73289.0,5077.6,46
+2011-04,UT,Cleaning and grounds,28166.1,8577.2,20
+2011-04,UT,Community and social service,21861.0,0.0,13
+2011-04,UT,Computer and math,41869.7,4772.9,27
+2011-04,UT,Construction,89512.7,8633.0,55
+2011-04,UT,Education,78826.8,0.0,49
+2011-04,UT,Farming,3896.8,0.0,2
+2011-04,UT,Food service,48496.7,5741.9,32
+2011-04,UT,Healthcare practitioners,63609.0,1626.7,40
+2011-04,UT,Healthcare support,27521.3,0.0,16
+2011-04,UT,Installation and repair,65216.8,3626.2,37
+2011-04,UT,Legal,4821.0,0.0,3
+2011-04,UT,Management,123736.9,4009.7,77
+2011-04,UT,No previous job,0.0,5909.3,4
+2011-04,UT,Office and admin,154165.6,19712.9,104
+2011-04,UT,Personal care,41360.1,1486.7,26
+2011-04,UT,Production,92939.9,7810.2,58
+2011-04,UT,Protective service,19193.5,0.0,13
+2011-04,UT,Sales,154529.5,8108.2,94
+2011-04,UT,Science,15454.2,0.0,10
+2011-04,UT,Transportation,72832.5,5798.3,49
+2011-04,VA,Architecture and engineering,69076.7,6844.3,26
+2011-04,VA,"Arts, media, sports",107485.1,6484.0,40
+2011-04,VA,Business and finance,266279.8,8424.7,99
+2011-04,VA,Cleaning and grounds,147514.6,16371.8,54
+2011-04,VA,Community and social service,50914.2,0.0,19
+2011-04,VA,Computer and math,210644.6,3045.7,78
+2011-04,VA,Construction,198224.7,25412.7,76
+2011-04,VA,Education,205713.5,8368.4,83
+2011-04,VA,Farming,23169.1,5252.7,10
+2011-04,VA,Food service,210010.1,22842.9,77
+2011-04,VA,Healthcare practitioners,208153.7,8589.2,85
+2011-04,VA,Healthcare support,85352.4,0.0,33
+2011-04,VA,Installation and repair,108933.7,17497.7,45
+2011-04,VA,Legal,70435.8,0.0,26
+2011-04,VA,Management,475454.8,8541.4,177
+2011-04,VA,No previous job,0.0,21960.5,7
+2011-04,VA,Office and admin,411297.0,13374.3,156
+2011-04,VA,Personal care,85528.4,8785.9,35
+2011-04,VA,Production,192911.7,10330.7,70
+2011-04,VA,Protective service,116673.1,6584.7,43
+2011-04,VA,Sales,409163.7,16644.7,152
+2011-04,VA,Science,48105.4,0.0,18
+2011-04,VA,Transportation,201141.2,21462.1,76
+2011-04,VT,Architecture and engineering,7053.3,0.0,21
+2011-04,VT,"Arts, media, sports",3958.7,331.5,12
+2011-04,VT,Business and finance,11693.8,0.0,36
+2011-04,VT,Cleaning and grounds,13154.0,2289.0,44
+2011-04,VT,Community and social service,7469.5,0.0,22
+2011-04,VT,Computer and math,11423.7,0.0,35
+2011-04,VT,Construction,20216.8,3964.2,72
+2011-04,VT,Education,28186.7,649.9,87
+2011-04,VT,Farming,3340.1,348.4,11
+2011-04,VT,Food service,13376.0,4076.7,48
+2011-04,VT,Healthcare practitioners,17147.0,346.9,53
+2011-04,VT,Healthcare support,12176.8,475.2,37
+2011-04,VT,Installation and repair,9881.4,0.0,30
+2011-04,VT,Legal,2492.6,0.0,7
+2011-04,VT,Management,39971.3,1241.1,126
+2011-04,VT,No previous job,0.0,1556.6,4
+2011-04,VT,Office and admin,36661.2,1817.9,116
+2011-04,VT,Personal care,10582.1,349.1,32
+2011-04,VT,Production,22899.3,1221.9,72
+2011-04,VT,Protective service,5840.1,0.0,18
+2011-04,VT,Sales,31763.5,1473.0,97
+2011-04,VT,Science,2325.2,0.0,7
+2011-04,VT,Transportation,22375.8,2786.2,74
+2011-04,WA,Architecture and engineering,90625.3,3199.9,32
+2011-04,WA,"Arts, media, sports",76207.9,8823.5,31
+2011-04,WA,Business and finance,158224.5,9567.7,62
+2011-04,WA,Cleaning and grounds,109367.7,20417.8,43
+2011-04,WA,Community and social service,83455.7,3335.6,32
+2011-04,WA,Computer and math,142546.1,8936.0,54
+2011-04,WA,Construction,117395.3,31923.9,51
+2011-04,WA,Education,165703.9,3735.3,62
+2011-04,WA,Farming,22309.1,9024.6,10
+2011-04,WA,Food service,208722.1,21777.0,78
+2011-04,WA,Healthcare practitioners,180590.2,5213.6,68
+2011-04,WA,Healthcare support,97152.1,9256.3,38
+2011-04,WA,Installation and repair,95684.5,23247.8,41
+2011-04,WA,Legal,42565.2,0.0,16
+2011-04,WA,Management,297876.8,13392.8,111
+2011-04,WA,No previous job,0.0,20855.2,7
+2011-04,WA,Office and admin,311332.0,38500.0,126
+2011-04,WA,Personal care,85035.3,17404.1,34
+2011-04,WA,Production,157750.0,18337.5,62
+2011-04,WA,Protective service,48567.2,2262.8,18
+2011-04,WA,Sales,303966.6,24253.4,117
+2011-04,WA,Science,27634.0,0.0,11
+2011-04,WA,Transportation,234996.9,29555.5,94
+2011-04,WI,Architecture and engineering,30814.8,2251.7,16
+2011-04,WI,"Arts, media, sports",68818.9,2677.3,34
+2011-04,WI,Business and finance,112573.3,2202.8,53
+2011-04,WI,Cleaning and grounds,93975.3,17558.0,51
+2011-04,WI,Community and social service,62265.3,2290.1,29
+2011-04,WI,Computer and math,67855.7,0.0,30
+2011-04,WI,Construction,115330.2,30330.0,68
+2011-04,WI,Education,196924.9,10265.2,96
+2011-04,WI,Farming,26940.6,4866.3,13
+2011-04,WI,Food service,187998.1,28891.5,95
+2011-04,WI,Healthcare practitioners,147807.2,0.0,69
+2011-04,WI,Healthcare support,110283.5,9775.4,53
+2011-04,WI,Installation and repair,104476.1,9363.1,52
+2011-04,WI,Legal,19619.3,0.0,9
+2011-04,WI,Management,298864.4,11322.5,144
+2011-04,WI,No previous job,0.0,12675.6,5
+2011-04,WI,Office and admin,330762.2,15082.1,159
+2011-04,WI,Personal care,77234.8,2239.5,34
+2011-04,WI,Production,278543.3,30896.1,140
+2011-04,WI,Protective service,30030.7,3024.9,15
+2011-04,WI,Sales,264208.6,23804.2,132
+2011-04,WI,Science,18382.8,0.0,8
+2011-04,WI,Transportation,193755.9,31328.1,102
+2011-04,WI,Unclassified,0.0,2401.0,1
+2011-04,WV,Architecture and engineering,4732.2,0.0,4
+2011-04,WV,"Arts, media, sports",9699.5,1308.1,9
+2011-04,WV,Business and finance,26508.0,0.0,22
+2011-04,WV,Cleaning and grounds,34974.1,0.0,28
+2011-04,WV,Community and social service,17347.5,0.0,14
+2011-04,WV,Computer and math,15224.4,0.0,13
+2011-04,WV,Construction,59632.4,5537.7,53
+2011-04,WV,Education,51097.7,0.0,42
+2011-04,WV,Farming,1305.9,2552.3,3
+2011-04,WV,Food service,30028.8,1481.5,25
+2011-04,WV,Healthcare practitioners,53182.6,0.0,45
+2011-04,WV,Healthcare support,25680.1,2578.3,24
+2011-04,WV,Installation and repair,24925.1,1164.0,23
+2011-04,WV,Legal,10294.7,0.0,9
+2011-04,WV,Management,53866.5,0.0,45
+2011-04,WV,No previous job,0.0,7107.4,5
+2011-04,WV,Office and admin,93872.3,7735.5,84
+2011-04,WV,Personal care,24717.4,2540.6,24
+2011-04,WV,Production,39740.6,8336.3,38
+2011-04,WV,Protective service,26731.0,2485.5,24
+2011-04,WV,Sales,64029.3,8991.2,61
+2011-04,WV,Science,4833.3,0.0,4
+2011-04,WV,Transportation,60621.8,9309.2,56
+2011-04,WY,Architecture and engineering,5791.4,0.0,20
+2011-04,WY,"Arts, media, sports",4204.0,290.4,15
+2011-04,WY,Business and finance,7749.0,263.4,28
+2011-04,WY,Cleaning and grounds,15379.8,2783.2,59
+2011-04,WY,Community and social service,4841.9,0.0,16
+2011-04,WY,Computer and math,1176.5,0.0,4
+2011-04,WY,Construction,27441.2,3314.9,97
+2011-04,WY,Education,20409.4,260.8,70
+2011-04,WY,Farming,1932.0,0.0,6
+2011-04,WY,Food service,13912.6,1824.2,49
+2011-04,WY,Healthcare practitioners,10429.5,0.0,33
+2011-04,WY,Healthcare support,7395.9,903.3,27
+2011-04,WY,Installation and repair,15853.4,815.5,54
+2011-04,WY,Legal,848.4,0.0,3
+2011-04,WY,Management,27830.9,1428.4,92
+2011-04,WY,No previous job,0.0,265.3,1
+2011-04,WY,Office and admin,33407.9,1987.6,120
+2011-04,WY,Personal care,5957.6,255.1,21
+2011-04,WY,Production,17062.2,553.4,56
+2011-04,WY,Protective service,8051.9,625.8,27
+2011-04,WY,Sales,21234.2,2135.9,78
+2011-04,WY,Science,3613.0,0.0,12
+2011-04,WY,Transportation,21219.8,786.7,70

@@ -1,0 +1,1160 @@
+month,state,group,employed,unemployed,n
+2024-04,AK,Architecture and engineering,5110.5,0.0,9
+2024-04,AK,"Arts, media, sports",3976.3,0.0,7
+2024-04,AK,Business and finance,15116.1,1261.5,28
+2024-04,AK,Cleaning and grounds,7627.3,648.1,12
+2024-04,AK,Community and social service,11530.6,0.0,19
+2024-04,AK,Computer and math,11500.1,0.0,16
+2024-04,AK,Construction,16819.0,772.7,25
+2024-04,AK,Education,20447.4,829.8,35
+2024-04,AK,Farming,4555.7,0.0,7
+2024-04,AK,Food service,17805.2,0.0,27
+2024-04,AK,Healthcare practitioners,21627.5,1303.7,37
+2024-04,AK,Healthcare support,14779.9,1700.1,25
+2024-04,AK,Installation and repair,9673.4,480.5,16
+2024-04,AK,Legal,3386.3,0.0,5
+2024-04,AK,Management,42865.6,628.9,69
+2024-04,AK,No previous job,0.0,598.8,1
+2024-04,AK,Office and admin,36412.3,0.0,56
+2024-04,AK,Personal care,6705.9,0.0,8
+2024-04,AK,Production,15509.3,2780.7,28
+2024-04,AK,Protective service,7443.9,0.0,11
+2024-04,AK,Sales,21010.4,3577.7,38
+2024-04,AK,Science,2390.3,0.0,4
+2024-04,AK,Transportation,33125.2,2369.6,52
+2024-04,AL,Architecture and engineering,61134.1,0.0,23
+2024-04,AL,"Arts, media, sports",37917.0,1798.6,16
+2024-04,AL,Business and finance,105184.5,0.0,42
+2024-04,AL,Cleaning and grounds,56430.1,2948.4,23
+2024-04,AL,Community and social service,33647.4,0.0,12
+2024-04,AL,Computer and math,53025.8,0.0,22
+2024-04,AL,Construction,115818.5,0.0,41
+2024-04,AL,Education,142456.5,0.0,54
+2024-04,AL,Farming,16517.2,2790.0,8
+2024-04,AL,Food service,138468.6,2986.3,48
+2024-04,AL,Healthcare practitioners,166836.0,0.0,59
+2024-04,AL,Healthcare support,38017.1,5175.7,16
+2024-04,AL,Installation and repair,86101.0,4961.1,38
+2024-04,AL,Legal,27280.0,0.0,12
+2024-04,AL,Management,310216.3,4996.5,123
+2024-04,AL,No previous job,0.0,2643.2,1
+2024-04,AL,Office and admin,225805.4,2747.7,90
+2024-04,AL,Personal care,44582.4,0.0,18
+2024-04,AL,Production,201012.0,11098.1,72
+2024-04,AL,Protective service,36309.0,2647.7,13
+2024-04,AL,Sales,180587.0,5491.4,69
+2024-04,AL,Science,11530.6,0.0,5
+2024-04,AL,Transportation,188211.2,7250.0,68
+2024-04,AL,Unclassified,0.0,2069.9,1
+2024-04,AR,Architecture and engineering,21312.8,1720.0,14
+2024-04,AR,"Arts, media, sports",9858.7,5815.0,9
+2024-04,AR,Business and finance,66721.0,0.0,42
+2024-04,AR,Cleaning and grounds,53404.0,0.0,33
+2024-04,AR,Community and social service,27432.9,0.0,17
+2024-04,AR,Computer and math,26268.2,0.0,17
+2024-04,AR,Construction,82979.8,2285.0,48
+2024-04,AR,Education,84142.9,0.0,52
+2024-04,AR,Farming,13869.9,0.0,7
+2024-04,AR,Food service,52327.2,7598.1,37
+2024-04,AR,Healthcare practitioners,85900.2,1302.5,56
+2024-04,AR,Healthcare support,43639.8,1453.1,27
+2024-04,AR,Installation and repair,51862.3,7122.0,34
+2024-04,AR,Legal,10356.5,0.0,7
+2024-04,AR,Management,158398.5,3763.4,101
+2024-04,AR,Office and admin,175721.9,1670.0,100
+2024-04,AR,Personal care,38015.5,0.0,23
+2024-04,AR,Production,109144.3,7831.3,71
+2024-04,AR,Protective service,25862.0,0.0,13
+2024-04,AR,Sales,109683.8,0.0,64
+2024-04,AR,Science,13232.1,0.0,8
+2024-04,AR,Transportation,114870.8,9145.3,65
+2024-04,AR,Unclassified,0.0,1823.5,1
+2024-04,AZ,Architecture and engineering,53726.8,0.0,10
+2024-04,AZ,"Arts, media, sports",70145.6,4038.5,16
+2024-04,AZ,Business and finance,218516.9,0.0,45
+2024-04,AZ,Cleaning and grounds,110694.3,5312.2,24
+2024-04,AZ,Community and social service,91121.2,0.0,19
+2024-04,AZ,Computer and math,161938.7,0.0,31
+2024-04,AZ,Construction,231994.3,11954.3,43
+2024-04,AZ,Education,222930.7,9013.7,48
+2024-04,AZ,Farming,4263.0,4792.8,2
+2024-04,AZ,Food service,173045.1,7406.6,35
+2024-04,AZ,Healthcare practitioners,271881.8,0.0,54
+2024-04,AZ,Healthcare support,138148.0,0.0,23
+2024-04,AZ,Installation and repair,143794.1,4858.2,26
+2024-04,AZ,Legal,39320.4,0.0,8
+2024-04,AZ,Management,387166.1,3895.9,75
+2024-04,AZ,Office and admin,457326.2,5019.0,94
+2024-04,AZ,Personal care,44280.8,0.0,8
+2024-04,AZ,Production,104172.2,2700.6,22
+2024-04,AZ,Protective service,73261.9,0.0,13
+2024-04,AZ,Sales,383833.4,8617.8,75
+2024-04,AZ,Science,57479.0,0.0,10
+2024-04,AZ,Transportation,216067.9,4736.7,40
+2024-04,CA,Architecture and engineering,465353.6,6078.6,104
+2024-04,CA,"Arts, media, sports",556352.9,22683.6,129
+2024-04,CA,Business and finance,985851.0,42248.6,233
+2024-04,CA,Cleaning and grounds,726051.4,44350.2,174
+2024-04,CA,Community and social service,320668.5,0.0,69
+2024-04,CA,Computer and math,864865.2,16797.0,195
+2024-04,CA,Construction,1048150.5,90664.6,246
+2024-04,CA,Education,932128.6,14733.9,212
+2024-04,CA,Farming,102609.9,36288.0,30
+2024-04,CA,Food service,933474.8,38934.0,197
+2024-04,CA,Healthcare practitioners,1027908.3,3818.7,228
+2024-04,CA,Healthcare support,768236.4,49260.7,175
+2024-04,CA,Installation and repair,428446.9,16718.3,100
+2024-04,CA,Legal,223597.4,4573.5,53
+2024-04,CA,Management,2183514.5,79961.3,508
+2024-04,CA,No previous job,0.0,104565.9,23
+2024-04,CA,Office and admin,1692306.5,38333.7,382
+2024-04,CA,Personal care,405931.0,3174.2,94
+2024-04,CA,Production,746391.7,67242.0,183
+2024-04,CA,Protective service,290495.2,40031.8,69
+2024-04,CA,Sales,1718848.3,105937.4,397
+2024-04,CA,Science,296472.7,3687.6,68
+2024-04,CA,Transportation,1527669.4,60088.1,342
+2024-04,CO,Architecture and engineering,75960.8,4961.8,17
+2024-04,CO,"Arts, media, sports",77586.0,9089.6,17
+2024-04,CO,Business and finance,240408.2,4494.3,53
+2024-04,CO,Cleaning and grounds,51159.4,0.0,12
+2024-04,CO,Community and social service,73431.7,0.0,16
+2024-04,CO,Computer and math,123167.6,4395.3,29
+2024-04,CO,Construction,256260.3,0.0,51
+2024-04,CO,Education,175298.5,4426.8,37
+2024-04,CO,Farming,27801.3,0.0,6
+2024-04,CO,Food service,126121.1,5108.7,26
+2024-04,CO,Healthcare practitioners,185531.2,4541.4,41
+2024-04,CO,Healthcare support,62919.8,0.0,13
+2024-04,CO,Installation and repair,97909.1,0.0,20
+2024-04,CO,Legal,33543.1,0.0,7
+2024-04,CO,Management,497984.9,9525.9,107
+2024-04,CO,No previous job,0.0,12738.2,2
+2024-04,CO,Office and admin,353486.9,5122.0,76
+2024-04,CO,Personal care,69029.5,8156.3,15
+2024-04,CO,Production,59730.2,0.0,12
+2024-04,CO,Protective service,83477.9,0.0,17
+2024-04,CO,Sales,242149.6,17477.7,55
+2024-04,CO,Science,32848.5,0.0,7
+2024-04,CO,Transportation,151575.0,4548.9,34
+2024-04,CT,Architecture and engineering,50092.9,0.0,15
+2024-04,CT,"Arts, media, sports",33431.2,0.0,10
+2024-04,CT,Business and finance,117331.9,0.0,37
+2024-04,CT,Cleaning and grounds,58176.9,3053.9,19
+2024-04,CT,Community and social service,51707.5,3519.6,16
+2024-04,CT,Computer and math,54073.6,2830.3,18
+2024-04,CT,Construction,83204.0,10461.2,28
+2024-04,CT,Education,160035.6,0.0,46
+2024-04,CT,Food service,91806.2,0.0,24
+2024-04,CT,Healthcare practitioners,111084.5,0.0,33
+2024-04,CT,Healthcare support,84222.6,3379.0,24
+2024-04,CT,Installation and repair,81255.7,0.0,24
+2024-04,CT,Legal,8995.3,0.0,3
+2024-04,CT,Management,289183.0,10067.3,93
+2024-04,CT,Office and admin,135196.3,4806.4,42
+2024-04,CT,Personal care,43253.6,3628.5,15
+2024-04,CT,Production,76457.5,9960.7,24
+2024-04,CT,Protective service,30516.7,0.0,8
+2024-04,CT,Sales,127679.2,0.0,39
+2024-04,CT,Science,15461.8,0.0,5
+2024-04,CT,Transportation,83424.0,0.0,25
+2024-04,DC,Architecture and engineering,5646.7,0.0,13
+2024-04,DC,"Arts, media, sports",17959.8,861.1,41
+2024-04,DC,Business and finance,57648.5,1249.3,127
+2024-04,DC,Cleaning and grounds,8483.8,534.1,16
+2024-04,DC,Community and social service,8712.1,1067.9,19
+2024-04,DC,Computer and math,30472.8,502.4,69
+2024-04,DC,Construction,3478.4,977.1,8
+2024-04,DC,Education,20745.7,280.9,44
+2024-04,DC,Food service,11056.5,1497.9,19
+2024-04,DC,Healthcare practitioners,15801.3,1318.1,37
+2024-04,DC,Healthcare support,4701.8,860.7,10
+2024-04,DC,Installation and repair,4613.4,0.0,6
+2024-04,DC,Legal,31069.9,0.0,71
+2024-04,DC,Management,73349.2,0.0,165
+2024-04,DC,Office and admin,26334.9,2629.0,54
+2024-04,DC,Personal care,8473.1,0.0,16
+2024-04,DC,Production,1454.9,516.3,4
+2024-04,DC,Protective service,6525.2,0.0,11
+2024-04,DC,Sales,20865.0,1275.2,39
+2024-04,DC,Science,18690.0,822.1,47
+2024-04,DC,Transportation,10847.1,3667.9,21
+2024-04,DE,Architecture and engineering,10913.4,744.1,14
+2024-04,DE,"Arts, media, sports",6387.1,2042.1,11
+2024-04,DE,Business and finance,24886.9,841.4,31
+2024-04,DE,Cleaning and grounds,12937.5,0.0,13
+2024-04,DE,Community and social service,10825.0,0.0,13
+2024-04,DE,Computer and math,22785.2,0.0,24
+2024-04,DE,Construction,17241.9,2665.4,24
+2024-04,DE,Education,39509.5,781.0,44
+2024-04,DE,Farming,3237.3,0.0,4
+2024-04,DE,Food service,25301.0,0.0,26
+2024-04,DE,Healthcare practitioners,33912.4,0.0,37
+2024-04,DE,Healthcare support,16646.8,0.0,18
+2024-04,DE,Installation and repair,15439.7,0.0,19
+2024-04,DE,Legal,9087.0,0.0,12
+2024-04,DE,Management,64181.5,3973.8,72
+2024-04,DE,No previous job,0.0,2077.3,2
+2024-04,DE,Office and admin,41793.1,2460.1,53
+2024-04,DE,Personal care,6638.7,0.0,8
+2024-04,DE,Production,16438.2,0.0,19
+2024-04,DE,Protective service,14148.2,0.0,18
+2024-04,DE,Sales,47689.9,1106.9,56
+2024-04,DE,Science,4205.6,685.1,7
+2024-04,DE,Transportation,34694.4,1502.3,38
+2024-04,FL,Architecture and engineering,200761.0,0.0,42
+2024-04,FL,"Arts, media, sports",167277.3,14854.9,38
+2024-04,FL,Business and finance,595526.2,13638.4,129
+2024-04,FL,Cleaning and grounds,539625.1,38347.2,117
+2024-04,FL,Community and social service,130130.0,0.0,26
+2024-04,FL,Computer and math,375437.5,5025.3,79
+2024-04,FL,Construction,648919.2,9637.8,134
+2024-04,FL,Education,429761.0,14961.1,94
+2024-04,FL,Farming,68342.8,4550.7,15
+2024-04,FL,Food service,550435.7,37488.7,114
+2024-04,FL,Healthcare practitioners,889531.2,15533.9,191
+2024-04,FL,Healthcare support,303821.3,0.0,63
+2024-04,FL,Installation and repair,303606.7,5508.8,62
+2024-04,FL,Legal,101825.6,0.0,22
+2024-04,FL,Management,1283353.1,24320.4,277
+2024-04,FL,No previous job,0.0,31295.5,6
+2024-04,FL,Office and admin,1057977.9,37846.8,226
+2024-04,FL,Personal care,337277.7,5146.7,69
+2024-04,FL,Production,238424.5,12374.4,53
+2024-04,FL,Protective service,204332.4,22861.1,44
+2024-04,FL,Sales,1072935.8,25169.1,229
+2024-04,FL,Science,90416.2,0.0,17
+2024-04,FL,Transportation,789859.1,9001.8,161
+2024-04,GA,Architecture and engineering,121134.2,0.0,24
+2024-04,GA,"Arts, media, sports",89845.9,9957.5,21
+2024-04,GA,Business and finance,376953.5,11867.1,78
+2024-04,GA,Cleaning and grounds,177464.0,0.0,38
+2024-04,GA,Community and social service,76118.3,0.0,16
+2024-04,GA,Computer and math,283462.4,5405.7,52
+2024-04,GA,Construction,271472.8,0.0,53
+2024-04,GA,Education,316311.1,9242.2,65
+2024-04,GA,Farming,12626.4,0.0,3
+2024-04,GA,Food service,179104.4,9065.8,33
+2024-04,GA,Healthcare practitioners,322186.2,9258.2,68
+2024-04,GA,Healthcare support,173774.0,7057.4,34
+2024-04,GA,Installation and repair,191364.2,12689.6,40
+2024-04,GA,Legal,31311.5,5518.1,8
+2024-04,GA,Management,645525.9,5154.6,131
+2024-04,GA,No previous job,0.0,5257.7,1
+2024-04,GA,Office and admin,551764.3,19581.3,110
+2024-04,GA,Personal care,102800.4,4673.3,22
+2024-04,GA,Production,205875.5,15568.3,45
+2024-04,GA,Protective service,97540.9,5287.8,18
+2024-04,GA,Sales,532082.8,15530.2,108
+2024-04,GA,Science,47703.5,0.0,10
+2024-04,GA,Transportation,530283.9,10738.9,101
+2024-04,HI,Architecture and engineering,12145.8,0.0,13
+2024-04,HI,"Arts, media, sports",10536.9,1142.2,12
+2024-04,HI,Business and finance,25213.0,1136.5,28
+2024-04,HI,Cleaning and grounds,39434.4,0.0,39
+2024-04,HI,Community and social service,15930.2,875.5,18
+2024-04,HI,Computer and math,16777.1,0.0,17
+2024-04,HI,Construction,55415.5,1275.6,52
+2024-04,HI,Education,40202.0,0.0,44
+2024-04,HI,Farming,5652.3,0.0,7
+2024-04,HI,Food service,39808.5,2593.2,45
+2024-04,HI,Healthcare practitioners,33088.5,1821.0,41
+2024-04,HI,Healthcare support,23982.4,879.2,27
+2024-04,HI,Installation and repair,15891.3,0.0,17
+2024-04,HI,Legal,7113.5,0.0,6
+2024-04,HI,Management,64640.4,0.0,71
+2024-04,HI,No previous job,0.0,1173.9,1
+2024-04,HI,Office and admin,72978.9,2472.3,81
+2024-04,HI,Personal care,24906.2,0.0,25
+2024-04,HI,Production,12247.5,0.0,12
+2024-04,HI,Protective service,8686.9,0.0,9
+2024-04,HI,Sales,52751.9,1941.4,59
+2024-04,HI,Science,7647.5,0.0,8
+2024-04,HI,Transportation,33500.0,3005.6,35
+2024-04,IA,Architecture and engineering,25909.5,0.0,10
+2024-04,IA,"Arts, media, sports",23983.8,2230.8,10
+2024-04,IA,Business and finance,57943.7,0.0,22
+2024-04,IA,Cleaning and grounds,52018.2,1834.2,21
+2024-04,IA,Community and social service,28621.8,0.0,11
+2024-04,IA,Computer and math,48180.9,2388.4,19
+2024-04,IA,Construction,80194.4,0.0,29
+2024-04,IA,Education,97633.2,0.0,36
+2024-04,IA,Farming,32010.6,0.0,12
+2024-04,IA,Food service,85740.5,2684.1,32
+2024-04,IA,Healthcare practitioners,115981.2,0.0,46
+2024-04,IA,Healthcare support,50804.7,0.0,19
+2024-04,IA,Installation and repair,71165.1,0.0,26
+2024-04,IA,Legal,11602.5,0.0,4
+2024-04,IA,Management,248692.9,3292.6,99
+2024-04,IA,Office and admin,164236.5,0.0,62
+2024-04,IA,Personal care,33953.0,1973.1,14
+2024-04,IA,Production,116029.4,0.0,45
+2024-04,IA,Protective service,20779.0,0.0,8
+2024-04,IA,Sales,121868.0,6735.5,48
+2024-04,IA,Science,20408.1,0.0,8
+2024-04,IA,Transportation,131838.1,4841.6,51
+2024-04,ID,Architecture and engineering,18821.4,0.0,20
+2024-04,ID,"Arts, media, sports",12022.3,888.2,12
+2024-04,ID,Business and finance,53140.0,0.0,51
+2024-04,ID,Cleaning and grounds,35972.9,998.3,34
+2024-04,ID,Community and social service,18186.3,0.0,16
+2024-04,ID,Computer and math,30588.9,1247.4,31
+2024-04,ID,Construction,59296.1,3105.1,63
+2024-04,ID,Education,63138.8,0.0,59
+2024-04,ID,Farming,19581.6,0.0,21
+2024-04,ID,Food service,45876.5,3881.5,49
+2024-04,ID,Healthcare practitioners,38694.0,1066.7,39
+2024-04,ID,Healthcare support,33834.5,0.0,32
+2024-04,ID,Installation and repair,43219.9,0.0,39
+2024-04,ID,Legal,4562.1,0.0,3
+2024-04,ID,Management,127175.3,4376.2,127
+2024-04,ID,No previous job,0.0,1871.6,2
+2024-04,ID,Office and admin,92967.2,3294.6,90
+2024-04,ID,Personal care,17173.9,0.0,17
+2024-04,ID,Production,47045.1,4476.3,48
+2024-04,ID,Protective service,13506.4,875.8,14
+2024-04,ID,Sales,84979.9,4891.7,86
+2024-04,ID,Science,8429.5,0.0,9
+2024-04,ID,Transportation,82853.3,1376.8,81
+2024-04,IL,Architecture and engineering,87411.3,4893.8,18
+2024-04,IL,"Arts, media, sports",149626.9,0.0,27
+2024-04,IL,Business and finance,490906.9,21703.1,96
+2024-04,IL,Cleaning and grounds,153688.7,12380.6,36
+2024-04,IL,Community and social service,122536.2,0.0,25
+2024-04,IL,Computer and math,241534.7,28060.5,50
+2024-04,IL,Construction,182527.4,32856.4,44
+2024-04,IL,Education,522533.1,0.0,102
+2024-04,IL,Food service,300793.8,19945.4,65
+2024-04,IL,Healthcare practitioners,311411.8,5473.2,64
+2024-04,IL,Healthcare support,139983.5,9859.9,30
+2024-04,IL,Installation and repair,161933.2,0.0,33
+2024-04,IL,Legal,104635.8,0.0,19
+2024-04,IL,Management,914229.2,10153.6,194
+2024-04,IL,No previous job,0.0,29744.6,6
+2024-04,IL,Office and admin,632075.8,33955.3,128
+2024-04,IL,Personal care,129619.3,0.0,26
+2024-04,IL,Production,349244.5,14806.6,70
+2024-04,IL,Protective service,132428.8,0.0,26
+2024-04,IL,Sales,476236.6,11019.0,100
+2024-04,IL,Science,61245.3,0.0,13
+2024-04,IL,Transportation,534716.8,25355.6,111
+2024-04,IN,Architecture and engineering,73674.0,0.0,17
+2024-04,IN,"Arts, media, sports",63950.5,0.0,15
+2024-04,IN,Business and finance,181847.8,0.0,40
+2024-04,IN,Cleaning and grounds,85288.4,5048.6,22
+2024-04,IN,Community and social service,38136.7,0.0,9
+2024-04,IN,Computer and math,85477.0,4698.8,21
+2024-04,IN,Construction,138793.5,12563.7,35
+2024-04,IN,Education,212192.2,0.0,49
+2024-04,IN,Farming,7884.3,0.0,2
+2024-04,IN,Food service,165438.8,3147.3,40
+2024-04,IN,Healthcare practitioners,257291.2,0.0,58
+2024-04,IN,Healthcare support,81754.7,5231.3,23
+2024-04,IN,Installation and repair,100629.1,3601.5,24
+2024-04,IN,Legal,50254.0,0.0,11
+2024-04,IN,Management,340562.9,9299.0,84
+2024-04,IN,No previous job,0.0,11280.7,2
+2024-04,IN,Office and admin,304336.1,16007.7,74
+2024-04,IN,Personal care,80739.2,7622.7,19
+2024-04,IN,Production,322846.8,18677.7,82
+2024-04,IN,Protective service,54523.9,0.0,12
+2024-04,IN,Sales,291058.2,18308.9,68
+2024-04,IN,Science,26168.9,0.0,6
+2024-04,IN,Transportation,283774.2,12222.2,64
+2024-04,KS,Architecture and engineering,52045.7,0.0,22
+2024-04,KS,"Arts, media, sports",20109.2,0.0,8
+2024-04,KS,Business and finance,66726.2,4035.8,28
+2024-04,KS,Cleaning and grounds,53241.1,4441.0,23
+2024-04,KS,Community and social service,33478.8,2183.0,14
+2024-04,KS,Computer and math,46177.3,2128.1,19
+2024-04,KS,Construction,90925.0,2633.4,35
+2024-04,KS,Education,71569.4,0.0,30
+2024-04,KS,Farming,13958.6,0.0,5
+2024-04,KS,Food service,63227.4,12469.5,29
+2024-04,KS,Healthcare practitioners,105672.6,2567.2,43
+2024-04,KS,Healthcare support,45493.3,0.0,18
+2024-04,KS,Installation and repair,59081.8,0.0,23
+2024-04,KS,Legal,9489.7,0.0,4
+2024-04,KS,Management,181757.3,2250.2,81
+2024-04,KS,No previous job,0.0,1993.0,1
+2024-04,KS,Office and admin,145828.8,6041.3,60
+2024-04,KS,Personal care,44463.2,1854.2,20
+2024-04,KS,Production,104782.7,4336.5,44
+2024-04,KS,Protective service,14603.3,0.0,6
+2024-04,KS,Sales,151097.2,2194.6,65
+2024-04,KS,Science,8443.1,0.0,3
+2024-04,KS,Transportation,85080.4,1786.2,38
+2024-04,KY,Architecture and engineering,41565.1,0.0,10
+2024-04,KY,"Arts, media, sports",17197.1,0.0,4
+2024-04,KY,Business and finance,104614.7,9844.0,27
+2024-04,KY,Cleaning and grounds,74986.0,0.0,18
+2024-04,KY,Community and social service,56893.4,0.0,15
+2024-04,KY,Computer and math,70793.0,0.0,16
+2024-04,KY,Construction,113859.5,0.0,29
+2024-04,KY,Education,120787.6,7582.0,30
+2024-04,KY,Farming,35299.5,0.0,9
+2024-04,KY,Food service,116084.3,16583.9,31
+2024-04,KY,Healthcare practitioners,117887.1,5660.5,31
+2024-04,KY,Healthcare support,94402.0,4246.6,23
+2024-04,KY,Installation and repair,58189.2,3959.3,17
+2024-04,KY,Legal,34164.5,0.0,8
+2024-04,KY,Management,215382.3,6090.0,53
+2024-04,KY,Office and admin,167081.9,6677.2,43
+2024-04,KY,Personal care,33515.8,5385.5,10
+2024-04,KY,Production,145574.1,9625.8,37
+2024-04,KY,Protective service,35794.1,0.0,8
+2024-04,KY,Sales,161195.2,19792.4,42
+2024-04,KY,Science,10206.5,0.0,2
+2024-04,KY,Transportation,189022.8,0.0,45
+2024-04,LA,Architecture and engineering,26719.1,0.0,12
+2024-04,LA,"Arts, media, sports",33037.9,0.0,13
+2024-04,LA,Business and finance,99099.0,3999.4,48
+2024-04,LA,Cleaning and grounds,75253.8,0.0,35
+2024-04,LA,Community and social service,50726.3,0.0,23
+2024-04,LA,Computer and math,42396.4,0.0,18
+2024-04,LA,Construction,122056.0,1437.9,56
+2024-04,LA,Education,142578.3,0.0,67
+2024-04,LA,Farming,6473.3,1419.3,4
+2024-04,LA,Food service,109333.5,8175.8,49
+2024-04,LA,Healthcare practitioners,152623.6,0.0,71
+2024-04,LA,Healthcare support,81203.3,0.0,40
+2024-04,LA,Installation and repair,72705.7,3480.1,35
+2024-04,LA,Legal,21265.5,0.0,9
+2024-04,LA,Management,227622.7,2166.9,110
+2024-04,LA,No previous job,0.0,3037.4,1
+2024-04,LA,Office and admin,185468.9,4770.3,92
+2024-04,LA,Personal care,54222.5,11330.1,29
+2024-04,LA,Production,105406.5,7375.4,54
+2024-04,LA,Protective service,46216.2,0.0,22
+2024-04,LA,Sales,172142.6,14026.1,86
+2024-04,LA,Science,17929.4,0.0,8
+2024-04,LA,Transportation,183653.9,0.0,82
+2024-04,MA,Architecture and engineering,86164.1,3096.7,27
+2024-04,MA,"Arts, media, sports",79477.3,4184.1,25
+2024-04,MA,Business and finance,245903.7,7042.4,80
+2024-04,MA,Cleaning and grounds,102432.6,6956.4,33
+2024-04,MA,Community and social service,88045.5,0.0,27
+2024-04,MA,Computer and math,200050.5,6008.2,63
+2024-04,MA,Construction,193678.5,22294.5,63
+2024-04,MA,Education,299511.5,0.0,90
+2024-04,MA,Farming,5643.4,0.0,2
+2024-04,MA,Food service,163834.2,10135.3,48
+2024-04,MA,Healthcare practitioners,240412.2,0.0,75
+2024-04,MA,Healthcare support,100465.5,7593.6,32
+2024-04,MA,Installation and repair,99507.6,4007.9,30
+2024-04,MA,Legal,86580.0,6402.6,28
+2024-04,MA,Management,550002.0,16977.9,177
+2024-04,MA,No previous job,0.0,19375.1,5
+2024-04,MA,Office and admin,314046.5,11117.6,99
+2024-04,MA,Personal care,96512.5,0.0,28
+2024-04,MA,Production,124897.6,0.0,38
+2024-04,MA,Protective service,96012.2,0.0,28
+2024-04,MA,Sales,230807.4,0.0,69
+2024-04,MA,Science,85349.3,2301.6,28
+2024-04,MA,Transportation,195124.4,3620.7,58
+2024-04,MD,Architecture and engineering,86832.1,0.0,16
+2024-04,MD,"Arts, media, sports",70725.7,5549.6,14
+2024-04,MD,Business and finance,213365.7,0.0,40
+2024-04,MD,Cleaning and grounds,119566.1,8876.7,24
+2024-04,MD,Community and social service,73671.9,0.0,14
+2024-04,MD,Computer and math,168071.0,9189.8,35
+2024-04,MD,Construction,198092.8,7297.3,38
+2024-04,MD,Education,237759.5,11444.8,51
+2024-04,MD,Farming,2313.4,0.0,1
+2024-04,MD,Food service,102233.3,10701.9,20
+2024-04,MD,Healthcare practitioners,234416.6,0.0,45
+2024-04,MD,Healthcare support,89075.4,6264.2,14
+2024-04,MD,Installation and repair,119603.3,0.0,20
+2024-04,MD,Legal,78628.5,0.0,16
+2024-04,MD,Management,464332.1,10639.0,90
+2024-04,MD,No previous job,0.0,16563.1,3
+2024-04,MD,Office and admin,260724.7,13040.3,49
+2024-04,MD,Personal care,63010.0,0.0,12
+2024-04,MD,Production,77809.3,6996.5,18
+2024-04,MD,Protective service,120022.5,4818.7,23
+2024-04,MD,Sales,198499.7,9763.5,40
+2024-04,MD,Science,54403.3,0.0,11
+2024-04,MD,Transportation,174955.5,10599.1,33
+2024-04,ME,Architecture and engineering,6957.1,0.0,4
+2024-04,ME,"Arts, media, sports",16548.9,2309.2,11
+2024-04,ME,Business and finance,34938.5,0.0,17
+2024-04,ME,Cleaning and grounds,25333.6,0.0,14
+2024-04,ME,Community and social service,15833.6,0.0,6
+2024-04,ME,Computer and math,17367.7,1717.3,10
+2024-04,ME,Construction,39466.3,4908.1,24
+2024-04,ME,Education,44310.6,0.0,21
+2024-04,ME,Farming,9719.3,1323.2,6
+2024-04,ME,Food service,44405.8,0.0,18
+2024-04,ME,Healthcare practitioners,32145.9,0.0,16
+2024-04,ME,Healthcare support,34737.5,0.0,16
+2024-04,ME,Installation and repair,23972.0,0.0,12
+2024-04,ME,Legal,2446.3,0.0,2
+2024-04,ME,Management,97714.8,0.0,52
+2024-04,ME,No previous job,0.0,2429.7,1
+2024-04,ME,Office and admin,61505.8,0.0,31
+2024-04,ME,Personal care,21524.3,0.0,10
+2024-04,ME,Production,28977.4,0.0,13
+2024-04,ME,Protective service,11549.3,0.0,7
+2024-04,ME,Sales,86517.4,0.0,46
+2024-04,ME,Science,10613.3,2832.6,7
+2024-04,ME,Transportation,31018.2,0.0,18
+2024-04,MI,Architecture and engineering,194228.0,0.0,43
+2024-04,MI,"Arts, media, sports",61380.0,0.0,13
+2024-04,MI,Business and finance,327070.4,3719.0,72
+2024-04,MI,Cleaning and grounds,153117.6,11767.7,33
+2024-04,MI,Community and social service,73424.0,0.0,17
+2024-04,MI,Computer and math,154610.3,4362.1,31
+2024-04,MI,Construction,214942.2,4277.4,47
+2024-04,MI,Education,254582.4,0.0,55
+2024-04,MI,Farming,44701.7,0.0,9
+2024-04,MI,Food service,228397.1,0.0,45
+2024-04,MI,Healthcare practitioners,272061.7,0.0,60
+2024-04,MI,Healthcare support,163922.9,31581.2,39
+2024-04,MI,Installation and repair,111068.7,13828.1,27
+2024-04,MI,Legal,38922.6,0.0,8
+2024-04,MI,Management,566104.2,14979.1,123
+2024-04,MI,No previous job,0.0,19243.5,4
+2024-04,MI,Office and admin,516077.8,12932.2,112
+2024-04,MI,Personal care,90586.5,0.0,18
+2024-04,MI,Production,416116.5,29629.9,91
+2024-04,MI,Protective service,42195.8,0.0,9
+2024-04,MI,Sales,433907.1,25460.2,98
+2024-04,MI,Science,84604.9,0.0,17
+2024-04,MI,Transportation,360157.1,37569.3,82
+2024-04,MN,Architecture and engineering,96913.9,0.0,20
+2024-04,MN,"Arts, media, sports",99098.3,0.0,19
+2024-04,MN,Business and finance,174550.0,0.0,36
+2024-04,MN,Cleaning and grounds,66452.8,3714.3,17
+2024-04,MN,Community and social service,86678.1,0.0,18
+2024-04,MN,Computer and math,73822.6,5670.7,18
+2024-04,MN,Construction,158470.4,30528.9,42
+2024-04,MN,Education,148144.5,3822.7,37
+2024-04,MN,Farming,55019.7,0.0,14
+2024-04,MN,Food service,129154.2,0.0,26
+2024-04,MN,Healthcare practitioners,177126.4,0.0,42
+2024-04,MN,Healthcare support,121741.2,0.0,27
+2024-04,MN,Installation and repair,97922.2,0.0,23
+2024-04,MN,Legal,38158.2,0.0,7
+2024-04,MN,Management,414844.6,0.0,97
+2024-04,MN,Office and admin,263923.2,10089.6,66
+2024-04,MN,Personal care,75749.2,0.0,17
+2024-04,MN,Production,224596.7,7906.4,53
+2024-04,MN,Protective service,22112.9,0.0,6
+2024-04,MN,Sales,260797.4,7607.1,62
+2024-04,MN,Science,46300.6,0.0,11
+2024-04,MN,Transportation,188501.8,22280.3,47
+2024-04,MO,Architecture and engineering,67835.3,0.0,15
+2024-04,MO,"Arts, media, sports",62655.0,0.0,14
+2024-04,MO,Business and finance,189223.4,0.0,44
+2024-04,MO,Cleaning and grounds,112951.5,0.0,28
+2024-04,MO,Community and social service,24600.1,0.0,6
+2024-04,MO,Computer and math,115207.7,4528.9,27
+2024-04,MO,Construction,196057.4,14802.5,48
+2024-04,MO,Education,195382.6,0.0,43
+2024-04,MO,Farming,19527.0,0.0,5
+2024-04,MO,Food service,144940.7,15013.2,34
+2024-04,MO,Healthcare practitioners,201475.2,0.0,48
+2024-04,MO,Healthcare support,125402.9,0.0,30
+2024-04,MO,Installation and repair,127305.1,0.0,29
+2024-04,MO,Legal,37301.6,0.0,8
+2024-04,MO,Management,377551.4,4532.8,90
+2024-04,MO,No previous job,0.0,8994.8,2
+2024-04,MO,Office and admin,313426.8,14749.2,77
+2024-04,MO,Personal care,79239.6,0.0,19
+2024-04,MO,Production,178844.0,15325.6,46
+2024-04,MO,Protective service,57640.8,0.0,13
+2024-04,MO,Sales,235551.6,0.0,55
+2024-04,MO,Science,44184.2,0.0,10
+2024-04,MO,Transportation,192252.6,32307.7,51
+2024-04,MS,Architecture and engineering,34531.8,0.0,18
+2024-04,MS,"Arts, media, sports",12624.1,2474.3,7
+2024-04,MS,Business and finance,25612.0,0.0,16
+2024-04,MS,Cleaning and grounds,47971.2,0.0,26
+2024-04,MS,Community and social service,9172.4,1213.2,8
+2024-04,MS,Computer and math,18283.7,0.0,12
+2024-04,MS,Construction,81029.7,0.0,46
+2024-04,MS,Education,80407.3,0.0,47
+2024-04,MS,Farming,9328.8,0.0,6
+2024-04,MS,Food service,59373.1,4564.3,36
+2024-04,MS,Healthcare practitioners,98103.1,839.8,60
+2024-04,MS,Healthcare support,57686.2,2602.8,31
+2024-04,MS,Installation and repair,68977.1,0.0,41
+2024-04,MS,Legal,6160.6,0.0,4
+2024-04,MS,Management,135982.1,2717.9,82
+2024-04,MS,No previous job,0.0,1448.3,1
+2024-04,MS,Office and admin,114340.9,0.0,67
+2024-04,MS,Personal care,19830.6,0.0,12
+2024-04,MS,Production,87069.5,0.0,48
+2024-04,MS,Protective service,23763.3,0.0,14
+2024-04,MS,Sales,119940.2,1168.0,68
+2024-04,MS,Science,1409.0,0.0,1
+2024-04,MS,Transportation,133811.6,1616.6,71
+2024-04,MT,Architecture and engineering,11511.5,0.0,19
+2024-04,MT,"Arts, media, sports",17605.3,875.1,28
+2024-04,MT,Business and finance,20515.1,497.3,33
+2024-04,MT,Cleaning and grounds,19661.8,0.0,29
+2024-04,MT,Community and social service,11492.7,0.0,19
+2024-04,MT,Computer and math,13033.7,698.3,21
+2024-04,MT,Construction,40896.1,2023.3,67
+2024-04,MT,Education,29284.5,0.0,47
+2024-04,MT,Farming,4501.9,1131.2,9
+2024-04,MT,Food service,23696.1,490.3,35
+2024-04,MT,Healthcare practitioners,44287.2,0.0,67
+2024-04,MT,Healthcare support,20051.8,0.0,31
+2024-04,MT,Installation and repair,19999.7,0.0,31
+2024-04,MT,Legal,13661.5,0.0,21
+2024-04,MT,Management,87223.7,1050.5,146
+2024-04,MT,No previous job,0.0,1858.7,3
+2024-04,MT,Office and admin,52160.5,1321.8,83
+2024-04,MT,Personal care,11823.8,479.9,18
+2024-04,MT,Production,20536.0,0.0,32
+2024-04,MT,Protective service,6461.7,0.0,11
+2024-04,MT,Sales,56603.5,1314.1,91
+2024-04,MT,Science,8970.8,698.3,15
+2024-04,MT,Transportation,40058.5,2328.1,68
+2024-04,NC,Architecture and engineering,82384.1,0.0,20
+2024-04,NC,"Arts, media, sports",48986.2,0.0,12
+2024-04,NC,Business and finance,335956.0,18087.7,76
+2024-04,NC,Cleaning and grounds,142252.8,12927.3,34
+2024-04,NC,Community and social service,76792.0,0.0,17
+2024-04,NC,Computer and math,269921.6,0.0,61
+2024-04,NC,Construction,351391.5,29452.7,84
+2024-04,NC,Education,268614.3,0.0,58
+2024-04,NC,Farming,41853.3,0.0,9
+2024-04,NC,Food service,268496.1,0.0,54
+2024-04,NC,Healthcare practitioners,302305.4,0.0,67
+2024-04,NC,Healthcare support,128044.9,5136.4,29
+2024-04,NC,Installation and repair,145869.1,0.0,32
+2024-04,NC,Legal,35273.7,0.0,8
+2024-04,NC,Management,632779.5,13068.8,141
+2024-04,NC,No previous job,0.0,4295.5,1
+2024-04,NC,Office and admin,472781.2,8064.6,108
+2024-04,NC,Personal care,98041.1,0.0,24
+2024-04,NC,Production,276588.6,36579.0,66
+2024-04,NC,Protective service,103421.0,0.0,20
+2024-04,NC,Sales,537942.3,19816.4,123
+2024-04,NC,Science,71519.9,0.0,17
+2024-04,NC,Transportation,359982.7,18009.2,80
+2024-04,ND,Architecture and engineering,7730.5,0.0,14
+2024-04,ND,"Arts, media, sports",4895.1,697.3,10
+2024-04,ND,Business and finance,21212.4,551.4,39
+2024-04,ND,Cleaning and grounds,9134.6,1032.6,20
+2024-04,ND,Community and social service,7391.4,494.9,13
+2024-04,ND,Computer and math,9147.6,522.3,18
+2024-04,ND,Construction,23773.2,963.9,43
+2024-04,ND,Education,20310.6,834.2,37
+2024-04,ND,Farming,6759.7,0.0,11
+2024-04,ND,Food service,21796.8,2881.9,39
+2024-04,ND,Healthcare practitioners,30455.8,439.4,55
+2024-04,ND,Healthcare support,11773.2,784.4,22
+2024-04,ND,Installation and repair,14683.6,0.0,25
+2024-04,ND,Legal,2632.1,0.0,6
+2024-04,ND,Management,61408.8,586.9,122
+2024-04,ND,No previous job,0.0,477.1,1
+2024-04,ND,Office and admin,43857.6,1875.8,84
+2024-04,ND,Personal care,7834.2,971.6,14
+2024-04,ND,Production,25647.6,680.2,47
+2024-04,ND,Protective service,3978.6,0.0,7
+2024-04,ND,Sales,35569.1,1159.2,70
+2024-04,ND,Science,4481.3,0.0,9
+2024-04,ND,Transportation,35710.5,1666.8,64
+2024-04,NE,Architecture and engineering,17880.6,1431.3,11
+2024-04,NE,"Arts, media, sports",15046.5,0.0,10
+2024-04,NE,Business and finance,63515.6,0.0,41
+2024-04,NE,Cleaning and grounds,35237.0,0.0,20
+2024-04,NE,Community and social service,19243.3,1771.8,13
+2024-04,NE,Computer and math,26404.7,1924.0,18
+2024-04,NE,Construction,42145.1,3726.3,25
+2024-04,NE,Education,85060.5,0.0,51
+2024-04,NE,Farming,12649.9,1424.4,9
+2024-04,NE,Food service,45087.3,0.0,25
+2024-04,NE,Healthcare practitioners,69572.1,0.0,44
+2024-04,NE,Healthcare support,45978.6,1253.6,23
+2024-04,NE,Installation and repair,38012.0,0.0,23
+2024-04,NE,Legal,4389.1,0.0,3
+2024-04,NE,Management,124626.1,3467.0,84
+2024-04,NE,No previous job,0.0,2968.4,2
+2024-04,NE,Office and admin,74613.4,3133.9,49
+2024-04,NE,Personal care,19474.0,0.0,12
+2024-04,NE,Production,75068.6,0.0,44
+2024-04,NE,Protective service,13851.9,0.0,9
+2024-04,NE,Sales,105894.5,0.0,60
+2024-04,NE,Science,6410.1,0.0,4
+2024-04,NE,Transportation,81740.3,0.0,49
+2024-04,NH,Architecture and engineering,34813.7,0.0,28
+2024-04,NH,"Arts, media, sports",9303.6,0.0,9
+2024-04,NH,Business and finance,53986.2,3085.3,51
+2024-04,NH,Cleaning and grounds,21856.2,0.0,17
+2024-04,NH,Community and social service,15483.3,790.8,14
+2024-04,NH,Computer and math,43475.8,1203.1,39
+2024-04,NH,Construction,31640.1,2491.2,28
+2024-04,NH,Education,61457.2,0.0,58
+2024-04,NH,Farming,2697.2,0.0,2
+2024-04,NH,Food service,22564.8,0.0,18
+2024-04,NH,Healthcare practitioners,54824.1,0.0,46
+2024-04,NH,Healthcare support,17928.4,0.0,16
+2024-04,NH,Installation and repair,26384.8,0.0,23
+2024-04,NH,Legal,9552.7,1223.4,10
+2024-04,NH,Management,106343.8,0.0,94
+2024-04,NH,No previous job,0.0,3991.5,2
+2024-04,NH,Office and admin,56863.2,3512.5,53
+2024-04,NH,Personal care,17005.0,0.0,13
+2024-04,NH,Production,32494.2,1178.2,28
+2024-04,NH,Protective service,7465.6,0.0,6
+2024-04,NH,Sales,69648.1,1231.9,62
+2024-04,NH,Science,10718.6,0.0,9
+2024-04,NH,Transportation,42521.2,0.0,34
+2024-04,NJ,Architecture and engineering,85185.1,0.0,17
+2024-04,NJ,"Arts, media, sports",131564.8,5162.3,28
+2024-04,NJ,Business and finance,391770.2,3708.3,82
+2024-04,NJ,Cleaning and grounds,169066.0,4512.1,37
+2024-04,NJ,Community and social service,65214.8,9360.7,15
+2024-04,NJ,Computer and math,242518.4,14775.1,54
+2024-04,NJ,Construction,136895.6,4768.8,32
+2024-04,NJ,Education,312638.9,0.0,64
+2024-04,NJ,Farming,0.0,4687.3,1
+2024-04,NJ,Food service,198446.8,0.0,39
+2024-04,NJ,Healthcare practitioners,287643.8,8330.3,61
+2024-04,NJ,Healthcare support,164934.0,7113.7,33
+2024-04,NJ,Installation and repair,76056.9,0.0,16
+2024-04,NJ,Legal,65235.6,0.0,13
+2024-04,NJ,Management,695520.0,24047.8,152
+2024-04,NJ,No previous job,0.0,31035.6,5
+2024-04,NJ,Office and admin,482758.6,0.0,96
+2024-04,NJ,Personal care,84891.1,8120.9,18
+2024-04,NJ,Production,194801.7,5786.2,40
+2024-04,NJ,Protective service,67159.2,0.0,12
+2024-04,NJ,Sales,439290.2,10398.5,94
+2024-04,NJ,Science,70363.1,0.0,14
+2024-04,NJ,Transportation,321275.9,30348.1,72
+2024-04,NM,Architecture and engineering,26544.9,0.0,22
+2024-04,NM,"Arts, media, sports",12665.7,1669.6,10
+2024-04,NM,Business and finance,59747.1,0.0,46
+2024-04,NM,Cleaning and grounds,29113.4,0.0,21
+2024-04,NM,Community and social service,16845.8,0.0,13
+2024-04,NM,Computer and math,32657.4,0.0,25
+2024-04,NM,Construction,55369.2,4386.7,41
+2024-04,NM,Education,52776.0,0.0,42
+2024-04,NM,Farming,9760.1,0.0,6
+2024-04,NM,Food service,52521.9,4535.4,41
+2024-04,NM,Healthcare practitioners,44173.8,0.0,35
+2024-04,NM,Healthcare support,57301.0,2406.8,44
+2024-04,NM,Installation and repair,29671.2,0.0,21
+2024-04,NM,Legal,6842.0,0.0,6
+2024-04,NM,Management,90483.1,1718.9,71
+2024-04,NM,No previous job,0.0,6640.9,2
+2024-04,NM,Office and admin,114753.3,3739.4,90
+2024-04,NM,Personal care,21422.9,4215.2,20
+2024-04,NM,Production,28236.5,1196.2,19
+2024-04,NM,Protective service,32689.0,1112.2,24
+2024-04,NM,Sales,75494.0,2145.0,56
+2024-04,NM,Science,18261.5,0.0,15
+2024-04,NM,Transportation,52059.8,1115.0,37
+2024-04,NV,Architecture and engineering,34255.0,1688.4,17
+2024-04,NV,"Arts, media, sports",30412.5,1974.6,16
+2024-04,NV,Business and finance,67854.1,0.0,33
+2024-04,NV,Cleaning and grounds,83467.3,4604.1,41
+2024-04,NV,Community and social service,26302.7,2045.7,13
+2024-04,NV,Computer and math,39408.4,1747.2,20
+2024-04,NV,Construction,121554.5,7288.4,59
+2024-04,NV,Education,66438.6,2061.5,32
+2024-04,NV,Food service,105396.0,3771.7,52
+2024-04,NV,Healthcare practitioners,93175.1,4220.8,47
+2024-04,NV,Healthcare support,26180.9,3941.3,15
+2024-04,NV,Installation and repair,38189.1,4435.9,18
+2024-04,NV,Legal,9620.1,0.0,4
+2024-04,NV,Management,182912.3,3676.5,86
+2024-04,NV,No previous job,0.0,6949.1,3
+2024-04,NV,Office and admin,153505.4,5879.6,75
+2024-04,NV,Personal care,87814.5,0.0,43
+2024-04,NV,Production,66183.2,4485.4,33
+2024-04,NV,Protective service,43916.8,0.0,20
+2024-04,NV,Sales,111631.3,13834.9,60
+2024-04,NV,Science,10515.8,0.0,5
+2024-04,NV,Transportation,132960.7,14564.1,68
+2024-04,NY,Architecture and engineering,175172.1,0.0,34
+2024-04,NY,"Arts, media, sports",319032.7,20431.0,64
+2024-04,NY,Business and finance,531463.8,32843.7,104
+2024-04,NY,Cleaning and grounds,353777.5,10405.7,64
+2024-04,NY,Community and social service,224947.1,4549.3,40
+2024-04,NY,Computer and math,277145.6,6075.7,53
+2024-04,NY,Construction,452902.7,24995.0,87
+2024-04,NY,Education,691750.2,4975.7,134
+2024-04,NY,Farming,13157.0,0.0,2
+2024-04,NY,Food service,566984.6,31406.1,110
+2024-04,NY,Healthcare practitioners,703355.6,0.0,135
+2024-04,NY,Healthcare support,583025.2,14692.5,110
+2024-04,NY,Installation and repair,248228.7,0.0,43
+2024-04,NY,Legal,149887.4,5557.5,28
+2024-04,NY,Management,887964.9,34793.0,176
+2024-04,NY,No previous job,0.0,23160.9,3
+2024-04,NY,Office and admin,841300.6,38549.1,165
+2024-04,NY,Personal care,246858.3,17892.7,49
+2024-04,NY,Production,333489.7,23852.6,60
+2024-04,NY,Protective service,231685.2,0.0,40
+2024-04,NY,Sales,717332.2,40733.7,143
+2024-04,NY,Science,101865.1,0.0,17
+2024-04,NY,Transportation,510557.9,67261.1,100
+2024-04,OH,Architecture and engineering,113851.7,5919.3,26
+2024-04,OH,"Arts, media, sports",58878.9,5806.9,14
+2024-04,OH,Business and finance,406450.9,9801.5,89
+2024-04,OH,Cleaning and grounds,167080.5,4142.5,40
+2024-04,OH,Community and social service,85015.1,3607.2,19
+2024-04,OH,Computer and math,176590.0,5752.7,40
+2024-04,OH,Construction,170593.7,38906.1,45
+2024-04,OH,Education,309870.9,0.0,66
+2024-04,OH,Farming,18090.1,0.0,4
+2024-04,OH,Food service,426955.3,28633.0,88
+2024-04,OH,Healthcare practitioners,403290.1,4517.8,90
+2024-04,OH,Healthcare support,250928.2,0.0,47
+2024-04,OH,Installation and repair,169899.3,22382.8,41
+2024-04,OH,Legal,42212.0,0.0,9
+2024-04,OH,Management,772639.2,31295.7,180
+2024-04,OH,No previous job,0.0,8523.2,2
+2024-04,OH,Office and admin,528249.4,15590.8,120
+2024-04,OH,Personal care,100808.5,3742.0,24
+2024-04,OH,Production,310375.8,26174.4,72
+2024-04,OH,Protective service,74827.5,0.0,16
+2024-04,OH,Sales,418423.8,0.0,91
+2024-04,OH,Science,53007.7,0.0,12
+2024-04,OH,Transportation,502145.3,56412.9,115
+2024-04,OK,Architecture and engineering,30232.8,4880.2,12
+2024-04,OK,"Arts, media, sports",24848.6,0.0,7
+2024-04,OK,Business and finance,103931.7,0.0,39
+2024-04,OK,Cleaning and grounds,75198.2,2834.5,30
+2024-04,OK,Community and social service,35424.9,0.0,13
+2024-04,OK,Computer and math,51185.7,2044.4,18
+2024-04,OK,Construction,145279.4,8802.5,54
+2024-04,OK,Education,126273.2,2594.9,48
+2024-04,OK,Farming,16908.2,0.0,7
+2024-04,OK,Food service,85729.6,7367.4,34
+2024-04,OK,Healthcare practitioners,158855.4,0.0,56
+2024-04,OK,Healthcare support,52305.4,0.0,17
+2024-04,OK,Installation and repair,86921.3,0.0,30
+2024-04,OK,Legal,6860.7,0.0,3
+2024-04,OK,Management,222878.8,2223.8,84
+2024-04,OK,No previous job,0.0,9986.5,3
+2024-04,OK,Office and admin,217928.7,10965.0,83
+2024-04,OK,Personal care,27422.6,8276.0,14
+2024-04,OK,Production,113839.1,4894.5,38
+2024-04,OK,Protective service,27799.1,0.0,9
+2024-04,OK,Sales,142958.6,2356.8,52
+2024-04,OK,Science,10069.1,0.0,4
+2024-04,OK,Transportation,153613.2,11768.6,57
+2024-04,OR,Architecture and engineering,45754.9,0.0,16
+2024-04,OR,"Arts, media, sports",74499.8,0.0,26
+2024-04,OR,Business and finance,116831.6,10079.6,47
+2024-04,OR,Cleaning and grounds,62716.3,0.0,21
+2024-04,OR,Community and social service,63381.9,0.0,24
+2024-04,OR,Computer and math,95842.0,2691.2,35
+2024-04,OR,Construction,71036.9,13499.9,30
+2024-04,OR,Education,115798.7,4733.1,45
+2024-04,OR,Farming,20365.4,0.0,7
+2024-04,OR,Food service,111761.3,2967.3,37
+2024-04,OR,Healthcare practitioners,147822.5,0.0,52
+2024-04,OR,Healthcare support,104435.3,2502.9,41
+2024-04,OR,Installation and repair,43888.0,0.0,15
+2024-04,OR,Legal,16308.7,0.0,6
+2024-04,OR,Management,275258.8,8959.4,101
+2024-04,OR,Office and admin,174685.3,7244.7,66
+2024-04,OR,Personal care,54608.6,0.0,19
+2024-04,OR,Production,118268.9,2808.9,43
+2024-04,OR,Protective service,12420.6,0.0,4
+2024-04,OR,Sales,214748.4,8304.3,76
+2024-04,OR,Science,33830.4,0.0,11
+2024-04,OR,Transportation,161214.5,7046.1,60
+2024-04,PA,Architecture and engineering,138955.6,2193.5,28
+2024-04,PA,"Arts, media, sports",129286.6,0.0,24
+2024-04,PA,Business and finance,470516.6,15244.9,96
+2024-04,PA,Cleaning and grounds,172775.9,12550.5,41
+2024-04,PA,Community and social service,136387.3,0.0,29
+2024-04,PA,Computer and math,230338.1,0.0,44
+2024-04,PA,Construction,227484.1,12074.3,47
+2024-04,PA,Education,378575.2,4670.3,81
+2024-04,PA,Farming,17752.6,0.0,4
+2024-04,PA,Food service,262100.4,4289.8,52
+2024-04,PA,Healthcare practitioners,507750.0,0.0,108
+2024-04,PA,Healthcare support,283223.6,12891.8,57
+2024-04,PA,Installation and repair,223929.0,9605.5,46
+2024-04,PA,Legal,57452.0,0.0,11
+2024-04,PA,Management,838600.3,0.0,173
+2024-04,PA,No previous job,0.0,8251.8,2
+2024-04,PA,Office and admin,596103.4,22784.6,129
+2024-04,PA,Personal care,209624.0,12274.2,45
+2024-04,PA,Production,385894.1,12269.6,81
+2024-04,PA,Protective service,102314.0,12162.9,21
+2024-04,PA,Sales,553580.5,13066.7,116
+2024-04,PA,Science,91219.0,2873.3,19
+2024-04,PA,Transportation,457581.8,37236.0,102
+2024-04,RI,Architecture and engineering,7838.1,0.0,5
+2024-04,RI,"Arts, media, sports",15810.4,0.0,10
+2024-04,RI,Business and finance,43847.9,0.0,32
+2024-04,RI,Cleaning and grounds,26016.0,3349.9,21
+2024-04,RI,Community and social service,16804.2,2212.3,13
+2024-04,RI,Computer and math,21129.3,0.0,15
+2024-04,RI,Construction,9297.1,3077.6,8
+2024-04,RI,Education,36225.1,0.0,28
+2024-04,RI,Food service,25435.5,2317.8,23
+2024-04,RI,Healthcare practitioners,44928.3,0.0,34
+2024-04,RI,Healthcare support,31218.8,0.0,24
+2024-04,RI,Installation and repair,10456.5,1034.4,8
+2024-04,RI,Legal,7954.1,0.0,6
+2024-04,RI,Management,77569.2,1049.5,59
+2024-04,RI,No previous job,0.0,1604.4,1
+2024-04,RI,Office and admin,53794.4,3617.4,41
+2024-04,RI,Personal care,6840.0,0.0,5
+2024-04,RI,Production,30880.8,0.0,22
+2024-04,RI,Protective service,7323.7,0.0,4
+2024-04,RI,Sales,55988.6,3997.8,42
+2024-04,RI,Science,6273.5,0.0,4
+2024-04,RI,Transportation,42053.4,2822.9,30
+2024-04,SC,Architecture and engineering,37928.1,0.0,13
+2024-04,SC,"Arts, media, sports",43219.7,0.0,16
+2024-04,SC,Business and finance,122913.9,0.0,45
+2024-04,SC,Cleaning and grounds,139216.2,0.0,44
+2024-04,SC,Community and social service,26485.3,0.0,8
+2024-04,SC,Computer and math,79901.3,0.0,26
+2024-04,SC,Construction,132426.2,4404.2,44
+2024-04,SC,Education,116661.2,2732.6,39
+2024-04,SC,Farming,17669.6,0.0,6
+2024-04,SC,Food service,126627.4,5594.3,39
+2024-04,SC,Healthcare practitioners,147942.5,0.0,51
+2024-04,SC,Healthcare support,56206.3,3621.1,19
+2024-04,SC,Installation and repair,95925.2,0.0,33
+2024-04,SC,Legal,32243.1,0.0,11
+2024-04,SC,Management,346427.2,6639.3,119
+2024-04,SC,No previous job,0.0,7879.8,2
+2024-04,SC,Office and admin,290592.1,10917.5,92
+2024-04,SC,Personal care,46772.2,0.0,14
+2024-04,SC,Production,160598.9,2259.6,50
+2024-04,SC,Protective service,43733.1,0.0,15
+2024-04,SC,Sales,221060.7,12849.2,79
+2024-04,SC,Science,32324.7,0.0,9
+2024-04,SC,Transportation,179100.9,15878.6,58
+2024-04,SD,Architecture and engineering,9077.5,0.0,13
+2024-04,SD,"Arts, media, sports",4700.5,0.0,6
+2024-04,SD,Business and finance,30275.5,0.0,44
+2024-04,SD,Cleaning and grounds,9447.7,0.0,9
+2024-04,SD,Community and social service,12159.5,0.0,15
+2024-04,SD,Computer and math,15888.9,0.0,22
+2024-04,SD,Construction,10716.4,734.1,16
+2024-04,SD,Education,24867.1,0.0,35
+2024-04,SD,Farming,11893.2,0.0,16
+2024-04,SD,Food service,28217.3,1139.7,34
+2024-04,SD,Healthcare practitioners,37623.6,0.0,50
+2024-04,SD,Healthcare support,11111.1,0.0,15
+2024-04,SD,Installation and repair,20870.6,0.0,27
+2024-04,SD,Legal,1303.8,0.0,2
+2024-04,SD,Management,74109.0,621.7,104
+2024-04,SD,Office and admin,48364.6,826.0,62
+2024-04,SD,Personal care,10821.6,0.0,13
+2024-04,SD,Production,33106.5,0.0,39
+2024-04,SD,Protective service,3955.3,0.0,5
+2024-04,SD,Sales,44660.6,1590.0,60
+2024-04,SD,Science,3813.9,0.0,5
+2024-04,SD,Transportation,34142.7,724.0,48
+2024-04,TN,Architecture and engineering,57890.3,0.0,16
+2024-04,TN,"Arts, media, sports",94785.8,0.0,24
+2024-04,TN,Business and finance,185623.5,4941.1,51
+2024-04,TN,Cleaning and grounds,91570.6,6709.7,26
+2024-04,TN,Community and social service,43400.3,0.0,13
+2024-04,TN,Computer and math,83500.6,0.0,20
+2024-04,TN,Construction,169456.3,5343.8,44
+2024-04,TN,Education,196871.0,0.0,55
+2024-04,TN,Food service,133010.8,7014.4,39
+2024-04,TN,Healthcare practitioners,235035.4,0.0,60
+2024-04,TN,Healthcare support,63081.5,0.0,15
+2024-04,TN,Installation and repair,115682.9,5001.4,32
+2024-04,TN,Legal,20809.7,0.0,5
+2024-04,TN,Management,340622.5,15201.2,96
+2024-04,TN,Office and admin,373475.6,10479.8,100
+2024-04,TN,Personal care,66366.9,4553.1,18
+2024-04,TN,Production,275336.8,13180.6,74
+2024-04,TN,Protective service,83751.0,0.0,21
+2024-04,TN,Sales,369270.2,7769.0,97
+2024-04,TN,Science,36601.9,0.0,11
+2024-04,TN,Transportation,268554.6,14304.9,73
+2024-04,TN,Unclassified,0.0,3707.1,1
+2024-04,TX,Architecture and engineering,366285.2,0.0,72
+2024-04,TX,"Arts, media, sports",323375.3,3476.6,67
+2024-04,TX,Business and finance,815216.5,30910.1,177
+2024-04,TX,Cleaning and grounds,602389.5,23144.6,128
+2024-04,TX,Community and social service,172902.2,0.0,35
+2024-04,TX,Computer and math,526689.0,9494.0,111
+2024-04,TX,Construction,1061737.1,67353.2,218
+2024-04,TX,Education,1023465.7,8585.6,220
+2024-04,TX,Farming,30727.8,0.0,6
+2024-04,TX,Food service,882421.4,23879.3,178
+2024-04,TX,Healthcare practitioners,813424.9,0.0,166
+2024-04,TX,Healthcare support,425218.7,28972.3,90
+2024-04,TX,Installation and repair,506445.0,10209.1,100
+2024-04,TX,Legal,103972.4,0.0,22
+2024-04,TX,Management,1703043.8,41996.2,361
+2024-04,TX,No previous job,0.0,36449.1,7
+2024-04,TX,Office and admin,1345461.8,79669.2,288
+2024-04,TX,Personal care,350951.2,24671.8,76
+2024-04,TX,Production,782871.1,16968.5,161
+2024-04,TX,Protective service,314836.8,0.0,60
+2024-04,TX,Sales,1460679.4,33642.5,298
+2024-04,TX,Science,76415.5,8265.3,18
+2024-04,TX,Transportation,1184496.9,50738.0,240
+2024-04,UT,Architecture and engineering,36047.9,0.0,19
+2024-04,UT,"Arts, media, sports",52690.0,2051.4,25
+2024-04,UT,Business and finance,98902.1,9339.0,56
+2024-04,UT,Cleaning and grounds,59122.0,1915.4,28
+2024-04,UT,Community and social service,23350.3,0.0,12
+2024-04,UT,Computer and math,92931.7,0.0,44
+2024-04,UT,Construction,102478.2,2443.4,47
+2024-04,UT,Education,89681.7,1807.9,46
+2024-04,UT,Farming,7676.3,0.0,3
+2024-04,UT,Food service,42934.2,3644.0,23
+2024-04,UT,Healthcare practitioners,119734.1,1800.2,61
+2024-04,UT,Healthcare support,26288.1,1979.9,14
+2024-04,UT,Installation and repair,54427.1,3673.0,25
+2024-04,UT,Legal,17700.8,0.0,9
+2024-04,UT,Management,275998.1,6875.3,141
+2024-04,UT,No previous job,0.0,2192.0,1
+2024-04,UT,Office and admin,159647.9,8852.7,79
+2024-04,UT,Personal care,46378.5,6155.3,26
+2024-04,UT,Production,83627.4,0.0,38
+2024-04,UT,Protective service,34295.2,0.0,15
+2024-04,UT,Sales,174617.9,1655.4,81
+2024-04,UT,Science,15289.4,0.0,7
+2024-04,UT,Transportation,111706.6,11172.4,54
+2024-04,VA,Architecture and engineering,78271.8,0.0,17
+2024-04,VA,"Arts, media, sports",89328.8,0.0,19
+2024-04,VA,Business and finance,314601.7,5667.0,67
+2024-04,VA,Cleaning and grounds,152432.3,5345.2,33
+2024-04,VA,Community and social service,85419.1,0.0,20
+2024-04,VA,Computer and math,268823.0,4800.9,61
+2024-04,VA,Construction,152662.8,3983.1,34
+2024-04,VA,Education,224978.2,4378.9,50
+2024-04,VA,Farming,7661.4,0.0,2
+2024-04,VA,Food service,258280.0,22940.8,55
+2024-04,VA,Healthcare practitioners,310559.5,0.0,67
+2024-04,VA,Healthcare support,121258.7,0.0,24
+2024-04,VA,Installation and repair,133886.6,0.0,28
+2024-04,VA,Legal,37366.7,0.0,8
+2024-04,VA,Management,673589.3,6187.1,149
+2024-04,VA,No previous job,0.0,14458.8,2
+2024-04,VA,Office and admin,426538.1,9586.8,92
+2024-04,VA,Personal care,144928.9,7775.5,31
+2024-04,VA,Production,165077.3,0.0,35
+2024-04,VA,Protective service,108404.7,0.0,24
+2024-04,VA,Sales,329582.3,22387.1,79
+2024-04,VA,Science,52051.4,0.0,11
+2024-04,VA,Transportation,255590.5,10376.2,55
+2024-04,VA,Unclassified,0.0,5087.3,1
+2024-04,VT,Architecture and engineering,8473.7,0.0,15
+2024-04,VT,"Arts, media, sports",9828.1,652.8,23
+2024-04,VT,Business and finance,20425.3,305.0,41
+2024-04,VT,Cleaning and grounds,11549.1,0.0,23
+2024-04,VT,Community and social service,7748.7,0.0,16
+2024-04,VT,Computer and math,10203.2,343.7,23
+2024-04,VT,Construction,13666.6,356.2,27
+2024-04,VT,Education,26613.6,0.0,56
+2024-04,VT,Farming,4617.6,0.0,9
+2024-04,VT,Food service,15860.7,1238.0,29
+2024-04,VT,Healthcare practitioners,25011.9,0.0,50
+2024-04,VT,Healthcare support,9867.9,0.0,21
+2024-04,VT,Installation and repair,11211.6,683.6,23
+2024-04,VT,Legal,3781.9,348.1,9
+2024-04,VT,Management,55175.1,0.0,120
+2024-04,VT,Office and admin,34083.5,1425.3,71
+2024-04,VT,Personal care,7006.7,0.0,14
+2024-04,VT,Production,20171.0,0.0,40
+2024-04,VT,Protective service,2847.0,805.5,7
+2024-04,VT,Sales,25719.1,1944.9,56
+2024-04,VT,Science,7770.7,0.0,16
+2024-04,VT,Transportation,17007.1,485.3,36
+2024-04,WA,Architecture and engineering,77969.8,4917.9,17
+2024-04,WA,"Arts, media, sports",56747.4,0.0,13
+2024-04,WA,Business and finance,228992.1,0.0,53
+2024-04,WA,Cleaning and grounds,133903.8,10983.8,34
+2024-04,WA,Community and social service,55271.0,7669.7,15
+2024-04,WA,Computer and math,340578.9,25330.5,82
+2024-04,WA,Construction,204522.4,31977.0,51
+2024-04,WA,Education,217108.3,0.0,49
+2024-04,WA,Farming,27161.0,0.0,5
+2024-04,WA,Food service,180911.4,4510.3,39
+2024-04,WA,Healthcare practitioners,195057.3,5402.0,46
+2024-04,WA,Healthcare support,185844.7,9229.5,42
+2024-04,WA,Installation and repair,127653.5,4294.7,28
+2024-04,WA,Legal,48266.3,0.0,11
+2024-04,WA,Management,482404.5,27400.7,120
+2024-04,WA,No previous job,0.0,4439.6,1
+2024-04,WA,Office and admin,329700.2,4678.1,72
+2024-04,WA,Personal care,100544.5,4992.2,22
+2024-04,WA,Production,155462.6,3811.4,36
+2024-04,WA,Protective service,38657.4,0.0,9
+2024-04,WA,Sales,339177.4,14846.8,81
+2024-04,WA,Science,55059.8,0.0,11
+2024-04,WA,Transportation,255830.3,4666.0,56
+2024-04,WI,Architecture and engineering,71055.2,0.0,18
+2024-04,WI,"Arts, media, sports",43637.3,0.0,11
+2024-04,WI,Business and finance,170867.4,5093.1,43
+2024-04,WI,Cleaning and grounds,120340.5,9609.3,30
+2024-04,WI,Community and social service,58567.2,0.0,15
+2024-04,WI,Computer and math,89636.3,5893.8,23
+2024-04,WI,Construction,148048.9,0.0,34
+2024-04,WI,Education,185078.9,5630.5,48
+2024-04,WI,Farming,35251.7,0.0,9
+2024-04,WI,Food service,151840.2,12979.6,38
+2024-04,WI,Healthcare practitioners,226447.9,4575.4,59
+2024-04,WI,Healthcare support,115160.7,4650.0,27
+2024-04,WI,Installation and repair,90913.3,0.0,22
+2024-04,WI,Legal,27929.3,0.0,7
+2024-04,WI,Management,368222.8,0.0,97
+2024-04,WI,No previous job,0.0,6095.9,1
+2024-04,WI,Office and admin,273203.5,8421.1,72
+2024-04,WI,Personal care,64633.2,0.0,15
+2024-04,WI,Production,216986.4,12869.5,57
+2024-04,WI,Protective service,54623.7,0.0,13
+2024-04,WI,Sales,263629.9,14956.3,64
+2024-04,WI,Science,36567.5,0.0,9
+2024-04,WI,Transportation,253955.1,13517.3,61
+2024-04,WV,Architecture and engineering,5208.7,1986.7,8
+2024-04,WV,"Arts, media, sports",6740.6,0.0,8
+2024-04,WV,Business and finance,22973.5,989.7,28
+2024-04,WV,Cleaning and grounds,17198.3,2006.7,21
+2024-04,WV,Community and social service,18963.6,0.0,21
+2024-04,WV,Computer and math,16281.3,845.3,20
+2024-04,WV,Construction,53218.7,4158.6,64
+2024-04,WV,Education,44215.3,0.0,52
+2024-04,WV,Farming,5666.4,0.0,5
+2024-04,WV,Food service,55728.1,5164.1,62
+2024-04,WV,Healthcare practitioners,58104.5,0.0,67
+2024-04,WV,Healthcare support,32872.9,0.0,37
+2024-04,WV,Installation and repair,28768.5,1085.8,33
+2024-04,WV,Legal,7246.8,0.0,8
+2024-04,WV,Management,70149.3,0.0,82
+2024-04,WV,Office and admin,78697.9,1311.1,93
+2024-04,WV,Personal care,12671.6,0.0,13
+2024-04,WV,Production,32708.5,0.0,36
+2024-04,WV,Protective service,16326.7,0.0,18
+2024-04,WV,Sales,83331.2,5617.4,99
+2024-04,WV,Science,7324.8,0.0,9
+2024-04,WV,Transportation,68683.4,0.0,77
+2024-04,WY,Architecture and engineering,6777.6,586.5,18
+2024-04,WY,"Arts, media, sports",6328.6,0.0,12
+2024-04,WY,Business and finance,11240.8,0.0,27
+2024-04,WY,Cleaning and grounds,6975.9,414.1,19
+2024-04,WY,Community and social service,5153.2,0.0,12
+2024-04,WY,Computer and math,5865.9,0.0,12
+2024-04,WY,Construction,21287.5,695.5,53
+2024-04,WY,Education,21547.8,0.0,53
+2024-04,WY,Farming,3227.0,276.4,9
+2024-04,WY,Food service,11662.1,600.2,29
+2024-04,WY,Healthcare practitioners,20348.9,0.0,48
+2024-04,WY,Healthcare support,9524.7,909.5,24
+2024-04,WY,Installation and repair,12457.2,0.0,28
+2024-04,WY,Legal,4237.9,0.0,11
+2024-04,WY,Management,41219.0,0.0,101
+2024-04,WY,No previous job,0.0,2118.5,3
+2024-04,WY,Office and admin,28623.8,0.0,71
+2024-04,WY,Personal care,5792.1,0.0,12
+2024-04,WY,Production,14546.7,0.0,34
+2024-04,WY,Protective service,3769.8,338.3,10
+2024-04,WY,Sales,21635.6,1391.5,55
+2024-04,WY,Science,3242.3,0.0,7
+2024-04,WY,Transportation,24520.4,384.1,57

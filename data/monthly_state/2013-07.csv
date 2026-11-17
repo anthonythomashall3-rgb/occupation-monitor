@@ -1,0 +1,1188 @@
+month,state,group,employed,unemployed,n
+2013-07,AK,Architecture and engineering,7339.0,0.0,17
+2013-07,AK,"Arts, media, sports",8908.0,0.0,20
+2013-07,AK,Business and finance,16999.4,0.0,40
+2013-07,AK,Cleaning and grounds,5878.2,2509.4,15
+2013-07,AK,Community and social service,9692.5,0.0,20
+2013-07,AK,Computer and math,2693.4,461.6,7
+2013-07,AK,Construction,22346.1,4652.9,54
+2013-07,AK,Education,18055.4,1865.3,45
+2013-07,AK,Farming,6808.1,0.0,13
+2013-07,AK,Food service,26414.5,2579.4,59
+2013-07,AK,Healthcare practitioners,13129.0,500.9,33
+2013-07,AK,Healthcare support,9545.4,0.0,21
+2013-07,AK,Installation and repair,17160.7,715.9,36
+2013-07,AK,Legal,4067.1,386.3,10
+2013-07,AK,Management,39394.1,885.6,89
+2013-07,AK,No previous job,0.0,2551.9,5
+2013-07,AK,Office and admin,42190.6,3580.6,95
+2013-07,AK,Personal care,10551.1,600.8,25
+2013-07,AK,Production,5401.3,2086.8,16
+2013-07,AK,Protective service,11920.3,0.0,22
+2013-07,AK,Sales,33140.4,380.2,69
+2013-07,AK,Science,8226.0,0.0,17
+2013-07,AK,Transportation,26667.5,1776.1,55
+2013-07,AK,Unclassified,0.0,560.9,1
+2013-07,AL,Architecture and engineering,46069.8,0.0,13
+2013-07,AL,"Arts, media, sports",38149.7,7701.7,13
+2013-07,AL,Business and finance,83388.2,0.0,24
+2013-07,AL,Cleaning and grounds,75985.4,3539.8,21
+2013-07,AL,Community and social service,40109.1,0.0,10
+2013-07,AL,Computer and math,21560.7,0.0,5
+2013-07,AL,Construction,141887.9,17569.0,45
+2013-07,AL,Education,91306.7,0.0,24
+2013-07,AL,Farming,7588.3,0.0,2
+2013-07,AL,Food service,111208.4,13673.9,32
+2013-07,AL,Healthcare practitioners,140780.4,3336.8,39
+2013-07,AL,Healthcare support,49514.3,0.0,12
+2013-07,AL,Installation and repair,102940.1,0.0,27
+2013-07,AL,Legal,20436.0,0.0,5
+2013-07,AL,Management,173249.2,3101.0,47
+2013-07,AL,No previous job,0.0,26351.5,7
+2013-07,AL,Office and admin,239838.8,8343.0,68
+2013-07,AL,Personal care,35177.6,0.0,10
+2013-07,AL,Production,178941.0,19765.6,54
+2013-07,AL,Protective service,30587.3,0.0,8
+2013-07,AL,Sales,266080.8,17645.6,75
+2013-07,AL,Science,10433.2,0.0,3
+2013-07,AL,Transportation,154789.0,25830.6,50
+2013-07,AR,Architecture and engineering,11738.7,0.0,6
+2013-07,AR,"Arts, media, sports",7094.1,3418.2,6
+2013-07,AR,Business and finance,51023.5,0.0,25
+2013-07,AR,Cleaning and grounds,66889.3,4398.2,37
+2013-07,AR,Community and social service,27076.2,0.0,14
+2013-07,AR,Computer and math,32610.6,0.0,15
+2013-07,AR,Construction,51807.2,11524.1,33
+2013-07,AR,Education,63821.3,7024.2,38
+2013-07,AR,Farming,22017.9,0.0,11
+2013-07,AR,Food service,59614.2,12298.3,35
+2013-07,AR,Healthcare practitioners,82793.3,1434.1,44
+2013-07,AR,Healthcare support,48052.8,3336.2,26
+2013-07,AR,Installation and repair,55692.9,0.0,29
+2013-07,AR,Legal,1504.3,0.0,1
+2013-07,AR,Management,104962.7,3197.0,59
+2013-07,AR,No previous job,0.0,12872.8,6
+2013-07,AR,Office and admin,102245.2,6224.7,56
+2013-07,AR,Personal care,40123.4,2310.5,22
+2013-07,AR,Production,115552.2,10507.9,62
+2013-07,AR,Protective service,13638.5,0.0,6
+2013-07,AR,Sales,152724.5,16553.3,89
+2013-07,AR,Science,1963.2,0.0,1
+2013-07,AR,Transportation,103834.0,6474.4,56
+2013-07,AZ,Architecture and engineering,62111.7,0.0,14
+2013-07,AZ,"Arts, media, sports",25104.2,0.0,6
+2013-07,AZ,Business and finance,109359.7,3771.5,29
+2013-07,AZ,Cleaning and grounds,141659.3,22047.8,39
+2013-07,AZ,Community and social service,59240.9,6407.0,18
+2013-07,AZ,Computer and math,103694.1,0.0,24
+2013-07,AZ,Construction,186888.5,9999.8,47
+2013-07,AZ,Education,136816.3,17675.5,38
+2013-07,AZ,Farming,23643.4,0.0,6
+2013-07,AZ,Food service,104234.3,28669.8,35
+2013-07,AZ,Healthcare practitioners,124501.6,11895.5,32
+2013-07,AZ,Healthcare support,105337.1,21774.5,33
+2013-07,AZ,Installation and repair,90546.8,6554.3,25
+2013-07,AZ,Legal,37683.5,0.0,10
+2013-07,AZ,Management,288695.7,10891.1,72
+2013-07,AZ,No previous job,0.0,18744.6,5
+2013-07,AZ,Office and admin,378426.6,18807.7,102
+2013-07,AZ,Personal care,55445.8,7285.3,16
+2013-07,AZ,Production,96341.5,19091.6,26
+2013-07,AZ,Protective service,67066.0,0.0,16
+2013-07,AZ,Sales,356424.5,14664.6,94
+2013-07,AZ,Science,4262.1,0.0,1
+2013-07,AZ,Transportation,222593.0,24368.9,57
+2013-07,AZ,Unclassified,0.0,5213.0,1
+2013-07,CA,Architecture and engineering,349041.4,18544.1,111
+2013-07,CA,"Arts, media, sports",597513.5,76745.2,210
+2013-07,CA,Business and finance,818178.9,42173.1,260
+2013-07,CA,Cleaning and grounds,707521.9,81989.2,243
+2013-07,CA,Community and social service,233676.7,9284.7,75
+2013-07,CA,Computer and math,508337.8,30368.8,162
+2013-07,CA,Construction,812362.3,114437.1,270
+2013-07,CA,Education,849304.1,63853.9,283
+2013-07,CA,Farming,271984.9,23974.5,86
+2013-07,CA,Food service,949091.6,114335.1,311
+2013-07,CA,Healthcare practitioners,818565.1,19687.0,257
+2013-07,CA,Healthcare support,573250.5,51949.7,191
+2013-07,CA,Installation and repair,524842.9,61864.2,173
+2013-07,CA,Legal,191646.8,12999.1,65
+2013-07,CA,Management,1918400.5,82205.6,613
+2013-07,CA,No previous job,0.0,351091.1,105
+2013-07,CA,Office and admin,1681112.2,175629.5,565
+2013-07,CA,Personal care,593929.1,53112.0,196
+2013-07,CA,Production,866327.7,90595.4,289
+2013-07,CA,Protective service,377959.6,26799.6,121
+2013-07,CA,Sales,1957468.3,172831.0,643
+2013-07,CA,Science,146218.9,8866.9,47
+2013-07,CA,Transportation,1103682.4,163693.9,378
+2013-07,CA,Unclassified,0.0,3109.8,1
+2013-07,CO,Architecture and engineering,49405.6,6555.8,33
+2013-07,CO,"Arts, media, sports",76740.6,9174.7,49
+2013-07,CO,Business and finance,141628.0,3482.2,83
+2013-07,CO,Cleaning and grounds,116586.8,6443.6,71
+2013-07,CO,Community and social service,45437.3,3504.5,28
+2013-07,CO,Computer and math,88766.7,4617.9,56
+2013-07,CO,Construction,136362.6,10007.6,84
+2013-07,CO,Education,137669.3,7848.5,84
+2013-07,CO,Farming,9954.7,0.0,6
+2013-07,CO,Food service,141578.6,13049.6,85
+2013-07,CO,Healthcare practitioners,138470.7,3301.2,81
+2013-07,CO,Healthcare support,61877.5,2983.5,36
+2013-07,CO,Installation and repair,85091.5,3303.4,53
+2013-07,CO,Legal,19335.5,6810.9,15
+2013-07,CO,Management,337750.1,18335.5,207
+2013-07,CO,No previous job,0.0,13720.1,8
+2013-07,CO,Office and admin,312990.1,19677.9,194
+2013-07,CO,Personal care,87573.8,3748.0,53
+2013-07,CO,Production,97583.4,9477.2,61
+2013-07,CO,Protective service,43499.1,1497.4,26
+2013-07,CO,Sales,302491.7,12620.7,176
+2013-07,CO,Science,23226.8,6633.0,18
+2013-07,CO,Transportation,129033.6,7927.1,79
+2013-07,CO,Unclassified,0.0,3512.6,2
+2013-07,CT,Architecture and engineering,27899.8,1062.0,26
+2013-07,CT,"Arts, media, sports",36054.6,5735.7,34
+2013-07,CT,Business and finance,104850.0,3501.5,91
+2013-07,CT,Cleaning and grounds,52014.8,6803.8,50
+2013-07,CT,Community and social service,44828.7,2250.8,37
+2013-07,CT,Computer and math,65595.0,4089.8,58
+2013-07,CT,Construction,86181.5,9489.6,78
+2013-07,CT,Education,113834.9,15611.3,106
+2013-07,CT,Farming,5953.8,0.0,5
+2013-07,CT,Food service,105450.9,9690.9,89
+2013-07,CT,Healthcare practitioners,120801.3,1253.4,98
+2013-07,CT,Healthcare support,66889.2,3138.4,55
+2013-07,CT,Installation and repair,44665.8,0.0,38
+2013-07,CT,Legal,19999.0,2653.1,20
+2013-07,CT,Management,204483.5,17780.7,188
+2013-07,CT,No previous job,0.0,24415.0,17
+2013-07,CT,Office and admin,184838.4,16728.9,166
+2013-07,CT,Personal care,68328.8,1310.9,57
+2013-07,CT,Production,90476.0,9812.0,82
+2013-07,CT,Protective service,45020.1,0.0,38
+2013-07,CT,Sales,179494.6,15572.7,156
+2013-07,CT,Science,14410.2,1115.4,13
+2013-07,CT,Transportation,77049.1,10806.0,70
+2013-07,DC,Architecture and engineering,7774.1,0.0,20
+2013-07,DC,"Arts, media, sports",25519.3,2787.7,78
+2013-07,DC,Business and finance,33381.3,2644.9,96
+2013-07,DC,Cleaning and grounds,15771.3,330.2,43
+2013-07,DC,Community and social service,7802.9,454.5,22
+2013-07,DC,Computer and math,18033.4,0.0,47
+2013-07,DC,Construction,8748.6,2505.6,27
+2013-07,DC,Education,16743.6,2958.8,55
+2013-07,DC,Food service,16339.6,4435.7,49
+2013-07,DC,Healthcare practitioners,10480.2,635.4,29
+2013-07,DC,Healthcare support,9354.4,1039.6,24
+2013-07,DC,Installation and repair,1967.9,0.0,5
+2013-07,DC,Legal,20957.7,0.0,56
+2013-07,DC,Management,48484.0,324.9,135
+2013-07,DC,No previous job,0.0,3650.7,8
+2013-07,DC,Office and admin,28525.4,2956.1,80
+2013-07,DC,Personal care,11185.2,1311.8,32
+2013-07,DC,Production,3692.2,422.4,11
+2013-07,DC,Protective service,6946.2,1569.8,21
+2013-07,DC,Sales,25802.1,2242.6,70
+2013-07,DC,Science,12331.3,582.5,33
+2013-07,DC,Transportation,11778.6,2466.8,33
+2013-07,DE,Architecture and engineering,7195.1,1360.6,20
+2013-07,DE,"Arts, media, sports",8676.6,1220.1,25
+2013-07,DE,Business and finance,21543.6,0.0,53
+2013-07,DE,Cleaning and grounds,16289.9,1887.8,44
+2013-07,DE,Community and social service,8455.8,894.3,24
+2013-07,DE,Computer and math,9478.3,0.0,22
+2013-07,DE,Construction,21135.2,2243.6,58
+2013-07,DE,Education,30239.9,879.7,77
+2013-07,DE,Farming,5148.2,0.0,10
+2013-07,DE,Food service,32897.6,2946.4,81
+2013-07,DE,Healthcare practitioners,23651.3,550.0,59
+2013-07,DE,Healthcare support,8060.9,483.8,20
+2013-07,DE,Installation and repair,14525.3,552.7,35
+2013-07,DE,Legal,3068.2,0.0,8
+2013-07,DE,Management,39556.7,1244.6,102
+2013-07,DE,No previous job,0.0,3798.4,8
+2013-07,DE,Office and admin,44940.8,2714.3,120
+2013-07,DE,Personal care,17683.7,1998.4,45
+2013-07,DE,Production,13199.4,1222.6,35
+2013-07,DE,Protective service,11911.9,555.4,31
+2013-07,DE,Sales,41097.9,5253.5,111
+2013-07,DE,Science,3996.1,784.0,12
+2013-07,DE,Transportation,22322.6,2385.8,56
+2013-07,FL,Architecture and engineering,159652.2,7366.3,46
+2013-07,FL,"Arts, media, sports",157381.0,10686.7,46
+2013-07,FL,Business and finance,366104.7,22278.3,103
+2013-07,FL,Cleaning and grounds,497268.0,57288.2,148
+2013-07,FL,Community and social service,113044.7,0.0,30
+2013-07,FL,Computer and math,190709.6,8175.1,53
+2013-07,FL,Construction,434206.8,74850.0,132
+2013-07,FL,Education,430831.0,50230.0,131
+2013-07,FL,Farming,10119.2,7667.5,5
+2013-07,FL,Food service,531266.5,65177.4,159
+2013-07,FL,Healthcare practitioners,493075.0,23499.1,143
+2013-07,FL,Healthcare support,298620.2,25668.8,85
+2013-07,FL,Installation and repair,339644.4,18508.8,94
+2013-07,FL,Legal,136330.9,5439.7,38
+2013-07,FL,Management,1007799.3,18923.1,276
+2013-07,FL,No previous job,0.0,75833.9,19
+2013-07,FL,Office and admin,1003515.2,86796.7,294
+2013-07,FL,Personal care,274044.7,29049.7,82
+2013-07,FL,Production,325002.3,16549.9,90
+2013-07,FL,Protective service,239745.2,3678.6,64
+2013-07,FL,Sales,1176130.8,72172.0,329
+2013-07,FL,Science,38306.6,0.0,11
+2013-07,FL,Transportation,585485.1,54210.9,163
+2013-07,FL,Unclassified,0.0,9311.0,2
+2013-07,GA,Architecture and engineering,78869.5,0.0,24
+2013-07,GA,"Arts, media, sports",128998.7,0.0,36
+2013-07,GA,Business and finance,243005.4,14343.1,74
+2013-07,GA,Cleaning and grounds,170753.6,36362.0,59
+2013-07,GA,Community and social service,59122.2,0.0,17
+2013-07,GA,Computer and math,143381.0,3850.7,41
+2013-07,GA,Construction,268899.3,11631.3,78
+2013-07,GA,Education,270110.7,35477.6,90
+2013-07,GA,Farming,18846.0,0.0,5
+2013-07,GA,Food service,231900.4,31333.5,73
+2013-07,GA,Healthcare practitioners,210222.9,0.0,60
+2013-07,GA,Healthcare support,82271.9,28764.5,31
+2013-07,GA,Installation and repair,172015.2,12586.5,50
+2013-07,GA,Legal,52482.0,0.0,16
+2013-07,GA,Management,523940.8,3181.9,153
+2013-07,GA,No previous job,0.0,86495.6,23
+2013-07,GA,Office and admin,385269.7,49782.3,126
+2013-07,GA,Personal care,115825.7,16125.4,38
+2013-07,GA,Production,229797.0,27607.8,74
+2013-07,GA,Protective service,110931.5,4648.4,34
+2013-07,GA,Sales,514210.5,57916.3,168
+2013-07,GA,Science,37261.8,0.0,10
+2013-07,GA,Transportation,330919.1,25591.8,94
+2013-07,HI,Architecture and engineering,10765.7,0.0,17
+2013-07,HI,"Arts, media, sports",11928.5,0.0,20
+2013-07,HI,Business and finance,17608.8,987.8,31
+2013-07,HI,Cleaning and grounds,44288.6,1342.9,73
+2013-07,HI,Community and social service,9982.8,0.0,17
+2013-07,HI,Computer and math,9499.6,0.0,15
+2013-07,HI,Construction,34295.8,6508.3,59
+2013-07,HI,Education,30617.7,1046.1,54
+2013-07,HI,Farming,8240.1,0.0,12
+2013-07,HI,Food service,51426.3,946.2,86
+2013-07,HI,Healthcare practitioners,32980.2,1592.6,59
+2013-07,HI,Healthcare support,15414.3,0.0,27
+2013-07,HI,Installation and repair,21080.5,482.8,34
+2013-07,HI,Legal,8095.2,0.0,14
+2013-07,HI,Management,60795.3,584.3,102
+2013-07,HI,No previous job,0.0,4838.6,8
+2013-07,HI,Office and admin,77797.0,2228.9,132
+2013-07,HI,Personal care,17386.1,1308.1,29
+2013-07,HI,Production,16196.4,748.9,24
+2013-07,HI,Protective service,16697.6,752.0,27
+2013-07,HI,Sales,62587.7,1716.7,104
+2013-07,HI,Science,8328.2,0.0,14
+2013-07,HI,Transportation,36674.3,1421.5,56
+2013-07,IA,Architecture and engineering,27007.1,2539.7,23
+2013-07,IA,"Arts, media, sports",27024.3,2226.4,24
+2013-07,IA,Business and finance,47908.2,5093.2,45
+2013-07,IA,Cleaning and grounds,52034.9,2517.4,45
+2013-07,IA,Community and social service,26877.6,1129.6,23
+2013-07,IA,Computer and math,24436.0,1270.0,21
+2013-07,IA,Construction,63885.5,6218.6,57
+2013-07,IA,Education,83515.9,6846.9,76
+2013-07,IA,Farming,18865.6,1064.1,17
+2013-07,IA,Food service,93401.5,9349.0,81
+2013-07,IA,Healthcare practitioners,91332.4,0.0,74
+2013-07,IA,Healthcare support,60165.4,4566.1,52
+2013-07,IA,Installation and repair,47216.1,1117.0,40
+2013-07,IA,Legal,7364.0,0.0,6
+2013-07,IA,Management,216278.5,2493.3,179
+2013-07,IA,No previous job,0.0,13947.6,12
+2013-07,IA,Office and admin,176599.7,6885.2,151
+2013-07,IA,Personal care,48131.0,0.0,39
+2013-07,IA,Production,135195.6,3828.7,114
+2013-07,IA,Protective service,27205.7,1944.4,24
+2013-07,IA,Sales,180699.3,9366.2,155
+2013-07,IA,Science,12761.4,0.0,11
+2013-07,IA,Transportation,121595.2,12625.9,111
+2013-07,ID,Architecture and engineering,11233.4,0.0,11
+2013-07,ID,"Arts, media, sports",9209.7,964.2,10
+2013-07,ID,Business and finance,27011.6,2089.3,28
+2013-07,ID,Cleaning and grounds,35894.1,2236.5,37
+2013-07,ID,Community and social service,17845.0,1156.7,18
+2013-07,ID,Computer and math,11405.4,0.0,10
+2013-07,ID,Construction,44990.7,4649.4,45
+2013-07,ID,Education,41695.4,3347.5,46
+2013-07,ID,Farming,19212.0,0.0,17
+2013-07,ID,Food service,30087.4,4877.7,32
+2013-07,ID,Healthcare practitioners,31115.0,3067.4,35
+2013-07,ID,Healthcare support,25024.3,898.0,24
+2013-07,ID,Installation and repair,36217.1,1143.7,34
+2013-07,ID,Legal,1166.3,0.0,1
+2013-07,ID,Management,87278.9,7259.6,92
+2013-07,ID,No previous job,0.0,4018.0,4
+2013-07,ID,Office and admin,77662.7,8141.1,82
+2013-07,ID,Personal care,23526.7,3175.5,25
+2013-07,ID,Production,30925.5,2301.0,32
+2013-07,ID,Protective service,10377.3,0.0,9
+2013-07,ID,Sales,105288.5,4950.1,106
+2013-07,ID,Science,9023.0,0.0,9
+2013-07,ID,Transportation,50258.2,1322.6,49
+2013-07,IL,Architecture and engineering,120171.3,5288.0,39
+2013-07,IL,"Arts, media, sports",112435.9,15472.6,41
+2013-07,IL,Business and finance,318386.7,12575.0,105
+2013-07,IL,Cleaning and grounds,243345.1,33733.9,84
+2013-07,IL,Community and social service,115140.7,2875.0,39
+2013-07,IL,Computer and math,127806.5,13413.8,43
+2013-07,IL,Construction,260121.0,47857.0,96
+2013-07,IL,Education,428125.1,25945.5,145
+2013-07,IL,Farming,12186.6,0.0,4
+2013-07,IL,Food service,379996.0,46322.9,133
+2013-07,IL,Healthcare practitioners,280178.8,10517.6,91
+2013-07,IL,Healthcare support,124658.2,10493.4,43
+2013-07,IL,Installation and repair,181254.2,12355.2,59
+2013-07,IL,Legal,78462.4,4104.3,27
+2013-07,IL,Management,678283.9,21978.6,226
+2013-07,IL,No previous job,0.0,72730.4,22
+2013-07,IL,Office and admin,612964.9,69327.7,219
+2013-07,IL,Personal care,164504.2,34102.3,63
+2013-07,IL,Production,381133.1,78443.5,140
+2013-07,IL,Protective service,135958.0,18495.0,48
+2013-07,IL,Sales,702442.0,34162.8,230
+2013-07,IL,Science,39327.6,0.0,13
+2013-07,IL,Transportation,491418.2,49702.3,166
+2013-07,IL,Unclassified,0.0,3853.3,1
+2013-07,IN,Architecture and engineering,35842.1,5890.8,14
+2013-07,IN,"Arts, media, sports",51254.5,0.0,17
+2013-07,IN,Business and finance,140773.7,2888.5,46
+2013-07,IN,Cleaning and grounds,102547.9,14408.6,36
+2013-07,IN,Community and social service,50472.9,0.0,15
+2013-07,IN,Computer and math,40651.7,0.0,12
+2013-07,IN,Construction,158187.5,11704.5,54
+2013-07,IN,Education,143027.9,22849.0,52
+2013-07,IN,Farming,11347.1,0.0,4
+2013-07,IN,Food service,175049.9,26798.8,59
+2013-07,IN,Healthcare practitioners,209903.0,0.0,66
+2013-07,IN,Healthcare support,75174.9,3197.4,25
+2013-07,IN,Installation and repair,98405.3,3275.3,33
+2013-07,IN,Legal,36394.9,0.0,12
+2013-07,IN,Management,323382.7,7063.7,110
+2013-07,IN,No previous job,0.0,44141.7,12
+2013-07,IN,Office and admin,283809.2,24525.0,104
+2013-07,IN,Personal care,56089.5,7877.2,20
+2013-07,IN,Production,301502.5,32398.3,107
+2013-07,IN,Protective service,76603.2,0.0,23
+2013-07,IN,Sales,345522.8,17526.1,115
+2013-07,IN,Science,19411.6,0.0,6
+2013-07,IN,Transportation,206576.7,29123.4,76
+2013-07,KS,Architecture and engineering,15514.2,1746.1,12
+2013-07,KS,"Arts, media, sports",21613.6,1273.0,16
+2013-07,KS,Business and finance,59705.4,3888.6,45
+2013-07,KS,Cleaning and grounds,48545.8,1229.6,37
+2013-07,KS,Community and social service,13073.7,0.0,9
+2013-07,KS,Computer and math,38415.8,0.0,27
+2013-07,KS,Construction,81202.5,7010.6,60
+2013-07,KS,Education,78561.0,4213.0,60
+2013-07,KS,Farming,11724.2,0.0,8
+2013-07,KS,Food service,73718.9,5616.0,51
+2013-07,KS,Healthcare practitioners,101071.4,1449.7,72
+2013-07,KS,Healthcare support,51909.6,3025.4,37
+2013-07,KS,Installation and repair,59956.6,1113.5,41
+2013-07,KS,Legal,8574.7,0.0,6
+2013-07,KS,Management,168668.3,1103.6,123
+2013-07,KS,No previous job,0.0,8560.5,6
+2013-07,KS,Office and admin,129536.0,11556.4,98
+2013-07,KS,Personal care,67199.6,4634.8,48
+2013-07,KS,Production,88480.2,5974.3,66
+2013-07,KS,Protective service,10676.5,1460.4,8
+2013-07,KS,Sales,143414.7,15943.5,111
+2013-07,KS,Science,17525.1,0.0,12
+2013-07,KS,Transportation,109592.1,5419.6,82
+2013-07,KS,Unclassified,0.0,1352.8,1
+2013-07,KY,Architecture and engineering,28112.3,1548.8,13
+2013-07,KY,"Arts, media, sports",23813.2,6412.8,12
+2013-07,KY,Business and finance,77281.6,1780.4,32
+2013-07,KY,Cleaning and grounds,86563.5,4552.9,43
+2013-07,KY,Community and social service,31013.2,7921.5,17
+2013-07,KY,Computer and math,33265.0,0.0,14
+2013-07,KY,Construction,74199.2,10292.6,41
+2013-07,KY,Education,74606.1,8945.2,38
+2013-07,KY,Farming,13252.8,0.0,5
+2013-07,KY,Food service,107574.6,15196.1,48
+2013-07,KY,Healthcare practitioners,114352.9,4144.3,55
+2013-07,KY,Healthcare support,45420.1,4590.2,23
+2013-07,KY,Installation and repair,84737.7,10289.7,43
+2013-07,KY,Legal,18340.6,1417.8,10
+2013-07,KY,Management,194902.1,4461.7,95
+2013-07,KY,No previous job,0.0,12793.5,6
+2013-07,KY,Office and admin,234987.3,10698.3,105
+2013-07,KY,Personal care,61993.9,8910.8,30
+2013-07,KY,Production,130971.4,9034.6,65
+2013-07,KY,Protective service,30359.2,5329.2,17
+2013-07,KY,Sales,191312.2,17675.2,94
+2013-07,KY,Science,19538.5,0.0,7
+2013-07,KY,Transportation,174437.6,21723.6,87
+2013-07,LA,Architecture and engineering,50603.5,2643.0,18
+2013-07,LA,"Arts, media, sports",28487.0,2861.8,10
+2013-07,LA,Business and finance,74101.2,0.0,24
+2013-07,LA,Cleaning and grounds,64167.6,11395.7,24
+2013-07,LA,Community and social service,38294.2,0.0,12
+2013-07,LA,Computer and math,15260.4,0.0,5
+2013-07,LA,Construction,122339.8,25852.3,48
+2013-07,LA,Education,115456.4,11367.3,40
+2013-07,LA,Farming,23512.6,0.0,7
+2013-07,LA,Food service,112658.7,14177.1,38
+2013-07,LA,Healthcare practitioners,170945.0,3201.8,57
+2013-07,LA,Healthcare support,62271.0,5823.9,22
+2013-07,LA,Installation and repair,80630.2,2967.9,28
+2013-07,LA,Legal,11202.5,0.0,4
+2013-07,LA,Management,137843.1,2609.9,47
+2013-07,LA,No previous job,0.0,18336.7,5
+2013-07,LA,Office and admin,256882.3,2019.0,84
+2013-07,LA,Personal care,47613.7,6960.1,18
+2013-07,LA,Production,99608.7,6417.7,34
+2013-07,LA,Protective service,51021.4,0.0,17
+2013-07,LA,Sales,229496.2,17214.0,76
+2013-07,LA,Science,17670.5,0.0,6
+2013-07,LA,Transportation,151399.9,15725.3,48
+2013-07,MA,Architecture and engineering,70554.4,3425.4,22
+2013-07,MA,"Arts, media, sports",123502.3,3449.1,37
+2013-07,MA,Business and finance,191153.5,0.0,55
+2013-07,MA,Cleaning and grounds,113735.3,11483.9,36
+2013-07,MA,Community and social service,108205.5,2978.5,31
+2013-07,MA,Computer and math,124471.8,21651.3,40
+2013-07,MA,Construction,124531.7,17432.3,41
+2013-07,MA,Education,219924.2,23681.0,69
+2013-07,MA,Farming,6646.2,0.0,2
+2013-07,MA,Food service,172446.0,24236.6,52
+2013-07,MA,Healthcare practitioners,198924.2,6766.1,60
+2013-07,MA,Healthcare support,131041.0,7549.1,37
+2013-07,MA,Installation and repair,83823.9,7359.6,26
+2013-07,MA,Legal,49425.6,3011.0,16
+2013-07,MA,Management,349474.8,14519.1,109
+2013-07,MA,No previous job,0.0,22761.8,6
+2013-07,MA,Office and admin,421302.5,9940.6,126
+2013-07,MA,Personal care,134020.4,14823.7,42
+2013-07,MA,Production,139077.0,12452.5,40
+2013-07,MA,Protective service,71727.7,3450.5,22
+2013-07,MA,Sales,318372.9,26016.9,97
+2013-07,MA,Science,64151.4,2876.8,19
+2013-07,MA,Transportation,117555.4,16881.7,36
+2013-07,MD,Architecture and engineering,67068.3,1607.0,38
+2013-07,MD,"Arts, media, sports",87753.2,6860.2,51
+2013-07,MD,Business and finance,164629.2,3582.6,96
+2013-07,MD,Cleaning and grounds,136268.2,7761.1,73
+2013-07,MD,Community and social service,45458.7,1419.3,25
+2013-07,MD,Computer and math,140608.9,7383.1,82
+2013-07,MD,Construction,153194.0,6747.6,83
+2013-07,MD,Education,164975.5,11097.1,98
+2013-07,MD,Farming,1487.0,0.0,1
+2013-07,MD,Food service,140232.6,15715.5,82
+2013-07,MD,Healthcare practitioners,175917.8,1443.1,96
+2013-07,MD,Healthcare support,69719.0,6244.0,41
+2013-07,MD,Installation and repair,94509.6,3808.0,53
+2013-07,MD,Legal,49824.0,4795.6,31
+2013-07,MD,Management,335622.1,5532.0,190
+2013-07,MD,No previous job,0.0,32787.2,18
+2013-07,MD,Office and admin,348512.5,22139.3,201
+2013-07,MD,Personal care,88598.1,12091.4,54
+2013-07,MD,Production,96762.5,3812.5,55
+2013-07,MD,Protective service,86838.4,1920.0,46
+2013-07,MD,Sales,258954.1,19547.1,152
+2013-07,MD,Science,43629.6,4707.5,27
+2013-07,MD,Transportation,173086.1,20512.7,103
+2013-07,MD,Unclassified,0.0,1717.7,1
+2013-07,ME,Architecture and engineering,10152.2,599.8,19
+2013-07,ME,"Arts, media, sports",14246.7,0.0,24
+2013-07,ME,Business and finance,25677.8,0.0,42
+2013-07,ME,Cleaning and grounds,26259.5,5150.3,53
+2013-07,ME,Community and social service,16683.2,2041.2,31
+2013-07,ME,Computer and math,8272.4,590.2,15
+2013-07,ME,Construction,39660.1,2412.8,70
+2013-07,ME,Education,29549.3,6053.1,60
+2013-07,ME,Farming,13807.1,575.0,24
+2013-07,ME,Food service,40860.0,2986.7,69
+2013-07,ME,Healthcare practitioners,48164.6,560.8,81
+2013-07,ME,Healthcare support,34588.8,1956.5,59
+2013-07,ME,Installation and repair,23315.8,1772.1,42
+2013-07,ME,Legal,6055.2,630.2,11
+2013-07,ME,Management,69846.3,1779.8,122
+2013-07,ME,No previous job,0.0,2487.5,4
+2013-07,ME,Office and admin,73506.6,6003.9,135
+2013-07,ME,Personal care,17363.0,2801.2,32
+2013-07,ME,Production,44560.6,3020.1,81
+2013-07,ME,Protective service,10044.5,0.0,17
+2013-07,ME,Sales,79064.6,4347.4,136
+2013-07,ME,Science,12369.1,0.0,21
+2013-07,ME,Transportation,35393.4,4795.7,67
+2013-07,MI,Architecture and engineering,136552.0,5944.1,46
+2013-07,MI,"Arts, media, sports",96160.6,8108.9,32
+2013-07,MI,Business and finance,185455.4,8566.2,61
+2013-07,MI,Cleaning and grounds,166842.3,20487.3,59
+2013-07,MI,Community and social service,61676.7,0.0,21
+2013-07,MI,Computer and math,131219.8,3884.5,43
+2013-07,MI,Construction,146538.9,15154.5,54
+2013-07,MI,Education,196056.5,33119.0,74
+2013-07,MI,Farming,36330.2,5104.8,14
+2013-07,MI,Food service,263903.3,31845.9,93
+2013-07,MI,Healthcare practitioners,338968.6,0.0,111
+2013-07,MI,Healthcare support,160436.3,20906.8,58
+2013-07,MI,Installation and repair,182061.5,15855.5,64
+2013-07,MI,Legal,60012.5,0.0,19
+2013-07,MI,Management,471481.5,13592.8,161
+2013-07,MI,No previous job,0.0,89818.6,28
+2013-07,MI,Office and admin,379453.6,20664.1,130
+2013-07,MI,Personal care,169810.8,7455.5,54
+2013-07,MI,Production,352069.6,48920.0,126
+2013-07,MI,Protective service,64053.0,3520.3,22
+2013-07,MI,Sales,437904.4,76202.4,160
+2013-07,MI,Science,18560.7,0.0,4
+2013-07,MI,Transportation,326524.8,31571.0,117
+2013-07,MN,Architecture and engineering,58899.4,5125.6,40
+2013-07,MN,"Arts, media, sports",69873.9,1699.9,45
+2013-07,MN,Business and finance,151465.4,6491.2,98
+2013-07,MN,Cleaning and grounds,105944.5,4085.2,65
+2013-07,MN,Community and social service,56480.4,0.0,33
+2013-07,MN,Computer and math,86007.4,0.0,51
+2013-07,MN,Construction,119998.0,1284.3,75
+2013-07,MN,Education,137382.5,21132.7,96
+2013-07,MN,Farming,14447.7,1013.1,10
+2013-07,MN,Food service,172829.1,15738.8,109
+2013-07,MN,Healthcare practitioners,184257.8,3045.5,116
+2013-07,MN,Healthcare support,107023.7,9692.2,70
+2013-07,MN,Installation and repair,69476.8,4715.5,45
+2013-07,MN,Legal,34265.3,0.0,22
+2013-07,MN,Management,344890.5,3188.6,214
+2013-07,MN,No previous job,0.0,13643.2,8
+2013-07,MN,Office and admin,305501.9,10049.5,189
+2013-07,MN,Personal care,101842.3,2799.7,62
+2013-07,MN,Production,192471.0,11580.2,121
+2013-07,MN,Protective service,32198.3,0.0,20
+2013-07,MN,Sales,256945.5,12685.2,162
+2013-07,MN,Science,27186.8,2999.2,19
+2013-07,MN,Transportation,209157.0,16415.5,132
+2013-07,MN,Unclassified,0.0,2199.4,1
+2013-07,MO,Architecture and engineering,42871.7,0.0,16
+2013-07,MO,"Arts, media, sports",41265.6,5558.1,17
+2013-07,MO,Business and finance,125121.0,2478.2,46
+2013-07,MO,Cleaning and grounds,99793.2,8592.9,38
+2013-07,MO,Community and social service,36937.4,2637.4,14
+2013-07,MO,Computer and math,89807.0,0.0,32
+2013-07,MO,Construction,165559.8,14995.7,63
+2013-07,MO,Education,125796.7,20181.8,53
+2013-07,MO,Farming,21199.2,5405.2,10
+2013-07,MO,Food service,167576.8,23765.7,65
+2013-07,MO,Healthcare practitioners,177597.7,0.0,64
+2013-07,MO,Healthcare support,123101.5,10416.0,46
+2013-07,MO,Installation and repair,99106.1,5188.2,38
+2013-07,MO,Legal,29445.3,2502.4,12
+2013-07,MO,Management,333846.6,10327.5,128
+2013-07,MO,No previous job,0.0,20568.7,7
+2013-07,MO,Office and admin,341147.6,17511.6,130
+2013-07,MO,Personal care,41673.6,4624.4,16
+2013-07,MO,Production,151524.5,37250.1,69
+2013-07,MO,Protective service,59246.4,0.0,21
+2013-07,MO,Sales,299187.6,14011.4,114
+2013-07,MO,Science,30859.6,0.0,11
+2013-07,MO,Transportation,236027.1,27413.4,93
+2013-07,MS,Architecture and engineering,15701.4,2961.0,7
+2013-07,MS,"Arts, media, sports",10534.5,1797.4,6
+2013-07,MS,Business and finance,38790.8,0.0,16
+2013-07,MS,Cleaning and grounds,41932.2,2422.5,19
+2013-07,MS,Community and social service,17498.0,0.0,7
+2013-07,MS,Computer and math,12639.4,2788.9,6
+2013-07,MS,Construction,81548.9,7086.9,35
+2013-07,MS,Education,46587.9,2334.4,21
+2013-07,MS,Farming,12977.7,3996.3,7
+2013-07,MS,Food service,56109.9,7874.9,24
+2013-07,MS,Healthcare practitioners,110228.7,0.0,44
+2013-07,MS,Healthcare support,21706.4,2575.5,10
+2013-07,MS,Installation and repair,35148.5,0.0,14
+2013-07,MS,Legal,15632.7,0.0,7
+2013-07,MS,Management,127681.2,0.0,57
+2013-07,MS,No previous job,0.0,13625.7,5
+2013-07,MS,Office and admin,136591.3,7499.5,62
+2013-07,MS,Personal care,44551.2,4097.8,21
+2013-07,MS,Production,95228.2,9238.1,44
+2013-07,MS,Protective service,27295.3,7292.9,14
+2013-07,MS,Sales,121503.7,5701.8,52
+2013-07,MS,Science,7437.0,0.0,3
+2013-07,MS,Transportation,103927.8,5827.8,46
+2013-07,MS,Unclassified,0.0,3413.9,1
+2013-07,MT,Architecture and engineering,8060.7,812.0,11
+2013-07,MT,"Arts, media, sports",3604.0,0.0,5
+2013-07,MT,Business and finance,29627.7,837.8,37
+2013-07,MT,Cleaning and grounds,23582.1,683.3,31
+2013-07,MT,Community and social service,4864.7,0.0,6
+2013-07,MT,Computer and math,6850.6,0.0,8
+2013-07,MT,Construction,31757.6,1943.6,42
+2013-07,MT,Education,11609.1,6932.8,26
+2013-07,MT,Farming,10192.6,0.0,13
+2013-07,MT,Food service,30550.3,1777.7,36
+2013-07,MT,Healthcare practitioners,20015.8,0.0,26
+2013-07,MT,Healthcare support,15109.7,0.0,19
+2013-07,MT,Installation and repair,13765.1,785.4,18
+2013-07,MT,Legal,9365.3,0.0,13
+2013-07,MT,Management,81662.4,1982.7,102
+2013-07,MT,No previous job,0.0,1478.8,2
+2013-07,MT,Office and admin,58323.7,3050.5,79
+2013-07,MT,Personal care,10668.2,0.0,13
+2013-07,MT,Production,15213.9,560.8,20
+2013-07,MT,Protective service,10147.7,0.0,13
+2013-07,MT,Sales,50267.9,1379.9,66
+2013-07,MT,Science,5352.5,0.0,7
+2013-07,MT,Transportation,40140.8,1146.6,51
+2013-07,NC,Architecture and engineering,76443.9,3340.5,23
+2013-07,NC,"Arts, media, sports",78511.3,0.0,22
+2013-07,NC,Business and finance,109992.4,7151.3,34
+2013-07,NC,Cleaning and grounds,169586.2,27139.9,52
+2013-07,NC,Community and social service,82127.1,7011.8,26
+2013-07,NC,Computer and math,144320.8,2994.0,41
+2013-07,NC,Construction,289263.3,36777.6,84
+2013-07,NC,Education,203674.9,3340.5,60
+2013-07,NC,Farming,43089.6,2800.6,11
+2013-07,NC,Food service,255237.2,37751.2,76
+2013-07,NC,Healthcare practitioners,294203.4,2651.6,85
+2013-07,NC,Healthcare support,152482.0,3710.2,42
+2013-07,NC,Installation and repair,211791.8,11804.4,61
+2013-07,NC,Legal,25669.9,3814.1,9
+2013-07,NC,Management,464994.5,6056.0,135
+2013-07,NC,No previous job,0.0,58865.2,15
+2013-07,NC,Office and admin,438267.0,41251.4,138
+2013-07,NC,Personal care,131532.4,0.0,36
+2013-07,NC,Production,243423.8,37830.8,73
+2013-07,NC,Protective service,79665.2,2914.6,22
+2013-07,NC,Sales,429030.0,26722.8,125
+2013-07,NC,Science,37136.9,3070.5,11
+2013-07,NC,Transportation,342281.0,39774.2,103
+2013-07,NC,Unclassified,0.0,3348.9,1
+2013-07,ND,Architecture and engineering,8731.2,0.0,22
+2013-07,ND,"Arts, media, sports",8597.9,0.0,21
+2013-07,ND,Business and finance,12975.0,755.9,35
+2013-07,ND,Cleaning and grounds,16181.7,761.0,42
+2013-07,ND,Community and social service,6133.5,0.0,15
+2013-07,ND,Computer and math,4876.2,391.6,13
+2013-07,ND,Construction,27685.4,1422.8,69
+2013-07,ND,Education,22721.8,819.3,59
+2013-07,ND,Farming,4582.2,697.3,14
+2013-07,ND,Food service,18453.2,1863.2,49
+2013-07,ND,Healthcare practitioners,21496.4,0.0,54
+2013-07,ND,Healthcare support,15204.1,326.4,39
+2013-07,ND,Installation and repair,13353.1,0.0,34
+2013-07,ND,Legal,1502.1,0.0,4
+2013-07,ND,Management,59018.5,379.2,149
+2013-07,ND,No previous job,0.0,511.6,1
+2013-07,ND,Office and admin,44277.8,382.0,115
+2013-07,ND,Personal care,11732.5,361.1,29
+2013-07,ND,Production,18675.2,335.3,47
+2013-07,ND,Protective service,4883.9,0.0,12
+2013-07,ND,Sales,41137.7,1266.0,107
+2013-07,ND,Science,3645.0,0.0,9
+2013-07,ND,Transportation,30537.9,1591.6,80
+2013-07,NE,Architecture and engineering,9267.0,1078.3,10
+2013-07,NE,"Arts, media, sports",14593.7,0.0,15
+2013-07,NE,Business and finance,45224.2,0.0,47
+2013-07,NE,Cleaning and grounds,31779.9,4185.2,35
+2013-07,NE,Community and social service,17469.8,2885.0,21
+2013-07,NE,Computer and math,21930.5,796.1,22
+2013-07,NE,Construction,56712.8,1089.5,57
+2013-07,NE,Education,58138.6,4137.6,64
+2013-07,NE,Farming,20681.4,0.0,20
+2013-07,NE,Food service,43910.0,3101.1,48
+2013-07,NE,Healthcare practitioners,60308.3,0.0,62
+2013-07,NE,Healthcare support,25178.0,2473.3,26
+2013-07,NE,Installation and repair,24082.5,1160.7,25
+2013-07,NE,Legal,9944.2,0.0,10
+2013-07,NE,Management,122432.0,4522.9,137
+2013-07,NE,No previous job,0.0,6516.1,6
+2013-07,NE,Office and admin,116202.5,5760.3,127
+2013-07,NE,Personal care,35906.5,2562.3,39
+2013-07,NE,Production,102264.3,1936.7,99
+2013-07,NE,Protective service,12701.1,874.5,14
+2013-07,NE,Sales,97398.6,1980.2,102
+2013-07,NE,Science,8232.0,0.0,8
+2013-07,NE,Transportation,73734.4,4957.2,83
+2013-07,NE,Unclassified,0.0,824.9,1
+2013-07,NH,Architecture and engineering,21415.7,0.0,43
+2013-07,NH,"Arts, media, sports",9738.2,905.3,22
+2013-07,NH,Business and finance,31467.6,1957.4,69
+2013-07,NH,Cleaning and grounds,28075.6,407.9,54
+2013-07,NH,Community and social service,12454.5,450.2,26
+2013-07,NH,Computer and math,24048.6,878.0,48
+2013-07,NH,Construction,39235.0,5108.9,91
+2013-07,NH,Education,45106.6,4612.8,100
+2013-07,NH,Farming,2770.4,0.0,4
+2013-07,NH,Food service,32164.5,2224.3,68
+2013-07,NH,Healthcare practitioners,44632.0,0.0,91
+2013-07,NH,Healthcare support,19953.7,2202.2,45
+2013-07,NH,Installation and repair,22138.0,949.5,47
+2013-07,NH,Legal,4827.9,0.0,10
+2013-07,NH,Management,90942.8,1727.7,190
+2013-07,NH,No previous job,0.0,3490.1,7
+2013-07,NH,Office and admin,80906.4,5496.4,174
+2013-07,NH,Personal care,18972.1,975.2,38
+2013-07,NH,Production,36319.7,948.5,75
+2013-07,NH,Protective service,10486.2,0.0,21
+2013-07,NH,Sales,91182.5,4086.5,190
+2013-07,NH,Science,6934.7,0.0,14
+2013-07,NH,Transportation,39029.9,2760.3,85
+2013-07,NJ,Architecture and engineering,90679.0,0.0,28
+2013-07,NJ,"Arts, media, sports",121547.6,13801.9,38
+2013-07,NJ,Business and finance,227628.9,12515.8,72
+2013-07,NJ,Cleaning and grounds,173458.8,18428.3,54
+2013-07,NJ,Community and social service,60013.3,0.0,17
+2013-07,NJ,Computer and math,151862.6,2977.2,46
+2013-07,NJ,Construction,193763.2,13503.9,59
+2013-07,NJ,Education,235547.6,21908.7,76
+2013-07,NJ,Farming,9919.8,3010.1,4
+2013-07,NJ,Food service,225455.9,25154.1,71
+2013-07,NJ,Healthcare practitioners,224328.3,0.0,67
+2013-07,NJ,Healthcare support,155056.4,5926.6,42
+2013-07,NJ,Installation and repair,152450.9,12707.8,48
+2013-07,NJ,Legal,34534.7,0.0,11
+2013-07,NJ,Management,442401.0,21232.5,145
+2013-07,NJ,No previous job,0.0,46193.0,12
+2013-07,NJ,Office and admin,516583.8,50839.2,165
+2013-07,NJ,Personal care,156127.2,0.0,45
+2013-07,NJ,Production,149356.7,9877.5,47
+2013-07,NJ,Protective service,93081.5,13483.4,29
+2013-07,NJ,Sales,422320.6,27367.8,134
+2013-07,NJ,Science,35425.7,3156.6,11
+2013-07,NJ,Transportation,338441.1,39396.2,103
+2013-07,NM,Architecture and engineering,26786.9,0.0,14
+2013-07,NM,"Arts, media, sports",16013.5,0.0,8
+2013-07,NM,Business and finance,21321.0,1787.2,12
+2013-07,NM,Cleaning and grounds,23932.6,4825.2,14
+2013-07,NM,Community and social service,17949.1,0.0,10
+2013-07,NM,Computer and math,18593.0,1669.6,9
+2013-07,NM,Construction,60574.9,6163.1,32
+2013-07,NM,Education,62367.5,8855.4,39
+2013-07,NM,Farming,8265.0,2446.6,6
+2013-07,NM,Food service,49831.1,10428.7,32
+2013-07,NM,Healthcare practitioners,20607.6,0.0,12
+2013-07,NM,Healthcare support,39462.9,0.0,19
+2013-07,NM,Installation and repair,41338.8,0.0,22
+2013-07,NM,Legal,8631.4,0.0,5
+2013-07,NM,Management,98279.5,4509.9,58
+2013-07,NM,No previous job,0.0,4254.9,2
+2013-07,NM,Office and admin,91267.8,5460.7,55
+2013-07,NM,Personal care,16445.0,0.0,9
+2013-07,NM,Production,40429.3,3571.1,22
+2013-07,NM,Protective service,32891.4,3909.6,17
+2013-07,NM,Sales,64969.4,5393.7,38
+2013-07,NM,Science,21125.6,1805.8,11
+2013-07,NM,Transportation,37149.3,5576.0,21
+2013-07,NM,Unclassified,0.0,1856.8,1
+2013-07,NV,Architecture and engineering,15888.5,0.0,11
+2013-07,NV,"Arts, media, sports",38042.6,0.0,24
+2013-07,NV,Business and finance,51312.1,3001.7,36
+2013-07,NV,Cleaning and grounds,70976.9,5666.6,50
+2013-07,NV,Community and social service,9254.3,0.0,7
+2013-07,NV,Computer and math,16694.5,0.0,10
+2013-07,NV,Construction,61792.4,19520.9,57
+2013-07,NV,Education,39465.3,5479.7,31
+2013-07,NV,Farming,2768.3,0.0,2
+2013-07,NV,Food service,127220.6,10230.0,86
+2013-07,NV,Healthcare practitioners,55147.0,1479.8,39
+2013-07,NV,Healthcare support,21014.4,1672.1,15
+2013-07,NV,Installation and repair,45858.7,0.0,31
+2013-07,NV,Legal,12808.4,0.0,9
+2013-07,NV,Management,114435.9,6012.1,83
+2013-07,NV,No previous job,0.0,20177.7,11
+2013-07,NV,Office and admin,154459.5,18395.3,114
+2013-07,NV,Personal care,71578.0,5633.4,52
+2013-07,NV,Production,26997.8,4461.8,21
+2013-07,NV,Protective service,35546.5,5439.0,26
+2013-07,NV,Sales,179249.2,6405.4,115
+2013-07,NV,Science,7582.8,0.0,5
+2013-07,NV,Transportation,94128.7,12496.6,67
+2013-07,NY,Architecture and engineering,160573.6,0.0,43
+2013-07,NY,"Arts, media, sports",335478.1,30430.6,96
+2013-07,NY,Business and finance,466298.0,23362.4,137
+2013-07,NY,Cleaning and grounds,424873.6,30951.7,124
+2013-07,NY,Community and social service,206461.7,7377.2,58
+2013-07,NY,Computer and math,253718.2,11140.1,70
+2013-07,NY,Construction,463039.5,60210.1,142
+2013-07,NY,Education,517744.5,41512.3,163
+2013-07,NY,Farming,23418.5,0.0,7
+2013-07,NY,Food service,517705.0,51511.8,150
+2013-07,NY,Healthcare practitioners,513926.4,33990.0,150
+2013-07,NY,Healthcare support,452023.3,49088.5,136
+2013-07,NY,Installation and repair,238674.6,8294.0,67
+2013-07,NY,Legal,174704.7,0.0,48
+2013-07,NY,Management,919142.1,49103.8,276
+2013-07,NY,No previous job,0.0,88815.9,23
+2013-07,NY,Office and admin,1027680.3,76156.8,310
+2013-07,NY,Personal care,409509.6,26743.1,119
+2013-07,NY,Production,353865.8,28295.0,107
+2013-07,NY,Protective service,215827.3,6782.8,64
+2013-07,NY,Sales,946375.5,70731.8,274
+2013-07,NY,Science,75281.0,0.0,22
+2013-07,NY,Transportation,547950.2,58392.8,160
+2013-07,OH,Architecture and engineering,109423.9,5997.6,39
+2013-07,OH,"Arts, media, sports",86660.7,6000.2,30
+2013-07,OH,Business and finance,236811.9,0.0,75
+2013-07,OH,Cleaning and grounds,202756.1,27537.7,73
+2013-07,OH,Community and social service,83563.8,19827.2,33
+2013-07,OH,Computer and math,74535.4,3405.2,26
+2013-07,OH,Construction,193868.9,36610.5,75
+2013-07,OH,Education,266880.8,8710.3,90
+2013-07,OH,Farming,32709.3,0.0,11
+2013-07,OH,Food service,332202.1,25204.8,109
+2013-07,OH,Healthcare practitioners,317433.3,12573.1,110
+2013-07,OH,Healthcare support,230540.0,21116.0,82
+2013-07,OH,Installation and repair,218776.3,15913.3,78
+2013-07,OH,Legal,26935.9,0.0,9
+2013-07,OH,Management,610398.0,15780.0,213
+2013-07,OH,No previous job,0.0,56344.8,16
+2013-07,OH,Office and admin,560231.3,32297.3,194
+2013-07,OH,Personal care,148319.6,6101.4,51
+2013-07,OH,Production,467482.1,42236.5,168
+2013-07,OH,Protective service,88239.9,0.0,28
+2013-07,OH,Sales,559258.7,39009.4,194
+2013-07,OH,Science,31549.7,0.0,11
+2013-07,OH,Transportation,416517.7,38693.7,151
+2013-07,OH,Unclassified,0.0,3738.6,1
+2013-07,OK,Architecture and engineering,16496.8,0.0,7
+2013-07,OK,"Arts, media, sports",22580.7,0.0,8
+2013-07,OK,Business and finance,68714.3,9008.0,30
+2013-07,OK,Cleaning and grounds,64289.1,3301.2,28
+2013-07,OK,Community and social service,30391.0,0.0,12
+2013-07,OK,Computer and math,21266.3,0.0,9
+2013-07,OK,Construction,64458.2,11761.4,30
+2013-07,OK,Education,94275.7,0.0,38
+2013-07,OK,Farming,16148.3,0.0,6
+2013-07,OK,Food service,92932.1,8439.0,37
+2013-07,OK,Healthcare practitioners,104262.9,0.0,41
+2013-07,OK,Healthcare support,77191.3,1893.3,31
+2013-07,OK,Installation and repair,114046.7,1834.6,42
+2013-07,OK,Legal,19847.6,2080.1,9
+2013-07,OK,Management,183700.6,2445.8,74
+2013-07,OK,No previous job,0.0,12111.6,5
+2013-07,OK,Office and admin,215825.2,0.0,88
+2013-07,OK,Personal care,39703.8,2545.6,16
+2013-07,OK,Production,122760.4,8245.2,49
+2013-07,OK,Protective service,37544.6,6092.2,17
+2013-07,OK,Sales,172553.1,14053.1,76
+2013-07,OK,Science,7043.9,0.0,3
+2013-07,OK,Transportation,125099.2,0.0,49
+2013-07,OR,Architecture and engineering,44920.3,0.0,23
+2013-07,OR,"Arts, media, sports",36490.1,2208.7,20
+2013-07,OR,Business and finance,73640.6,4020.2,39
+2013-07,OR,Cleaning and grounds,47556.1,6619.4,26
+2013-07,OR,Community and social service,27541.4,2014.4,13
+2013-07,OR,Computer and math,51922.6,2224.6,28
+2013-07,OR,Construction,83624.5,16298.6,49
+2013-07,OR,Education,68953.3,4260.2,36
+2013-07,OR,Farming,50808.0,4257.7,28
+2013-07,OR,Food service,99401.0,17111.6,55
+2013-07,OR,Healthcare practitioners,123808.0,1654.4,64
+2013-07,OR,Healthcare support,52211.5,1577.7,26
+2013-07,OR,Installation and repair,62267.0,0.0,31
+2013-07,OR,Legal,19654.5,0.0,10
+2013-07,OR,Management,213095.3,2025.0,108
+2013-07,OR,No previous job,0.0,19924.2,9
+2013-07,OR,Office and admin,189392.7,18239.8,104
+2013-07,OR,Personal care,35369.8,2907.7,18
+2013-07,OR,Production,107476.1,10488.9,58
+2013-07,OR,Protective service,29428.6,0.0,14
+2013-07,OR,Sales,202298.3,32486.4,114
+2013-07,OR,Science,24679.1,4213.5,14
+2013-07,OR,Transportation,121204.5,10987.0,66
+2013-07,PA,Architecture and engineering,85834.7,0.0,26
+2013-07,PA,"Arts, media, sports",153541.3,9022.9,49
+2013-07,PA,Business and finance,264183.8,9187.2,83
+2013-07,PA,Cleaning and grounds,153444.6,30371.6,56
+2013-07,PA,Community and social service,146148.2,5042.5,45
+2013-07,PA,Computer and math,135995.3,0.0,42
+2013-07,PA,Construction,285864.1,76099.3,109
+2013-07,PA,Education,274508.6,6555.6,85
+2013-07,PA,Farming,46838.5,0.0,14
+2013-07,PA,Food service,347711.5,37970.1,110
+2013-07,PA,Healthcare practitioners,363526.0,9225.5,113
+2013-07,PA,Healthcare support,239832.6,28961.5,79
+2013-07,PA,Installation and repair,237717.1,16140.9,78
+2013-07,PA,Legal,53958.5,0.0,17
+2013-07,PA,Management,704469.8,24234.1,228
+2013-07,PA,No previous job,0.0,79986.7,23
+2013-07,PA,Office and admin,719507.9,32472.0,230
+2013-07,PA,Personal care,200618.5,6645.0,61
+2013-07,PA,Production,306398.2,51358.3,109
+2013-07,PA,Protective service,90383.0,3500.9,29
+2013-07,PA,Sales,717011.6,42754.9,229
+2013-07,PA,Science,89713.6,3700.2,28
+2013-07,PA,Transportation,508591.2,51109.1,171
+2013-07,RI,Architecture and engineering,15953.3,424.4,33
+2013-07,RI,"Arts, media, sports",12791.0,874.8,28
+2013-07,RI,Business and finance,24599.3,901.3,52
+2013-07,RI,Cleaning and grounds,10762.9,475.5,24
+2013-07,RI,Community and social service,11513.3,533.2,26
+2013-07,RI,Computer and math,13947.2,1135.9,28
+2013-07,RI,Construction,25723.9,5216.7,60
+2013-07,RI,Education,32359.2,862.1,69
+2013-07,RI,Food service,25234.1,3181.2,57
+2013-07,RI,Healthcare practitioners,30100.5,418.4,64
+2013-07,RI,Healthcare support,21925.0,2771.8,50
+2013-07,RI,Installation and repair,15305.7,1598.7,29
+2013-07,RI,Legal,7300.7,473.5,16
+2013-07,RI,Management,50641.6,4502.3,114
+2013-07,RI,No previous job,0.0,8331.2,17
+2013-07,RI,Office and admin,53918.9,4626.8,121
+2013-07,RI,Personal care,14507.8,0.0,28
+2013-07,RI,Production,43334.0,7999.9,98
+2013-07,RI,Protective service,20995.3,825.9,43
+2013-07,RI,Sales,42167.4,2568.3,86
+2013-07,RI,Science,7847.1,0.0,16
+2013-07,RI,Transportation,22101.3,3909.2,52
+2013-07,RI,Unclassified,0.0,523.3,1
+2013-07,SC,Architecture and engineering,58855.3,0.0,20
+2013-07,SC,"Arts, media, sports",27620.0,0.0,9
+2013-07,SC,Business and finance,65106.1,0.0,24
+2013-07,SC,Cleaning and grounds,56120.4,3245.6,23
+2013-07,SC,Community and social service,35094.1,1696.2,15
+2013-07,SC,Computer and math,44874.6,0.0,17
+2013-07,SC,Construction,84921.2,11189.4,33
+2013-07,SC,Education,110164.3,4594.3,42
+2013-07,SC,Farming,33849.6,0.0,9
+2013-07,SC,Food service,96017.0,14209.1,39
+2013-07,SC,Healthcare practitioners,113262.9,0.0,39
+2013-07,SC,Healthcare support,47293.0,5616.0,22
+2013-07,SC,Installation and repair,76054.6,3846.2,27
+2013-07,SC,Legal,9315.7,0.0,4
+2013-07,SC,Management,200649.4,11045.5,74
+2013-07,SC,No previous job,0.0,37445.5,14
+2013-07,SC,Office and admin,248284.3,3358.6,90
+2013-07,SC,Personal care,58223.4,14087.5,26
+2013-07,SC,Production,215595.9,33326.7,85
+2013-07,SC,Protective service,42311.1,0.0,16
+2013-07,SC,Sales,252212.4,9887.5,91
+2013-07,SC,Science,21380.3,0.0,7
+2013-07,SC,Transportation,135099.3,14308.3,55
+2013-07,SD,Architecture and engineering,8745.9,0.0,20
+2013-07,SD,"Arts, media, sports",5830.5,503.5,14
+2013-07,SD,Business and finance,15997.3,0.0,37
+2013-07,SD,Cleaning and grounds,18483.4,426.5,45
+2013-07,SD,Community and social service,8357.8,0.0,20
+2013-07,SD,Computer and math,8441.2,0.0,19
+2013-07,SD,Construction,25147.4,364.4,54
+2013-07,SD,Education,16314.4,394.2,43
+2013-07,SD,Farming,8386.2,0.0,21
+2013-07,SD,Food service,27116.5,2604.5,65
+2013-07,SD,Healthcare practitioners,22048.1,335.7,56
+2013-07,SD,Healthcare support,12297.1,479.8,30
+2013-07,SD,Installation and repair,13343.4,458.3,30
+2013-07,SD,Legal,537.5,0.0,1
+2013-07,SD,Management,63518.4,334.6,160
+2013-07,SD,No previous job,0.0,944.9,2
+2013-07,SD,Office and admin,56480.0,1547.2,138
+2013-07,SD,Personal care,15430.2,1170.4,37
+2013-07,SD,Production,27159.1,2428.2,68
+2013-07,SD,Protective service,10480.2,0.0,22
+2013-07,SD,Sales,43793.8,993.5,104
+2013-07,SD,Science,3455.3,0.0,7
+2013-07,SD,Transportation,30694.2,454.1,74
+2013-07,TN,Architecture and engineering,20663.8,3355.8,7
+2013-07,TN,"Arts, media, sports",55051.7,4247.8,17
+2013-07,TN,Business and finance,125180.6,6188.5,38
+2013-07,TN,Cleaning and grounds,114686.2,19057.1,37
+2013-07,TN,Community and social service,27835.4,0.0,8
+2013-07,TN,Computer and math,61678.0,0.0,17
+2013-07,TN,Construction,205347.6,25603.9,65
+2013-07,TN,Education,153821.0,3287.6,44
+2013-07,TN,Farming,13323.9,0.0,4
+2013-07,TN,Food service,202193.6,17311.8,61
+2013-07,TN,Healthcare practitioners,173850.7,10180.5,53
+2013-07,TN,Healthcare support,91778.6,10267.5,29
+2013-07,TN,Installation and repair,97074.0,0.0,28
+2013-07,TN,Legal,25811.2,0.0,8
+2013-07,TN,Management,309127.8,19288.9,96
+2013-07,TN,No previous job,0.0,48275.2,12
+2013-07,TN,Office and admin,316532.2,11979.0,93
+2013-07,TN,Personal care,80496.5,0.0,22
+2013-07,TN,Production,254653.3,13352.6,75
+2013-07,TN,Protective service,76088.3,0.0,21
+2013-07,TN,Sales,257839.6,41617.5,84
+2013-07,TN,Science,20265.8,0.0,6
+2013-07,TN,Transportation,220282.4,33176.3,67
+2013-07,TX,Architecture and engineering,265082.9,0.0,71
+2013-07,TX,"Arts, media, sports",152709.7,10482.2,45
+2013-07,TX,Business and finance,529888.3,14146.9,156
+2013-07,TX,Cleaning and grounds,478968.7,65427.9,148
+2013-07,TX,Community and social service,153811.5,7171.2,45
+2013-07,TX,Computer and math,273494.7,15086.5,79
+2013-07,TX,Construction,928313.3,51428.5,266
+2013-07,TX,Education,791005.8,28439.6,229
+2013-07,TX,Farming,76687.0,3391.4,23
+2013-07,TX,Food service,771493.0,86259.0,231
+2013-07,TX,Healthcare practitioners,551649.2,21612.8,161
+2013-07,TX,Healthcare support,390859.2,25499.4,114
+2013-07,TX,Installation and repair,432623.8,10360.4,118
+2013-07,TX,Legal,117567.6,0.0,33
+2013-07,TX,Management,1199393.9,32894.5,345
+2013-07,TX,No previous job,0.0,105335.4,30
+2013-07,TX,Office and admin,1387804.1,91249.9,413
+2013-07,TX,Personal care,326602.4,38455.3,102
+2013-07,TX,Production,689917.0,71116.2,197
+2013-07,TX,Protective service,280621.0,0.0,78
+2013-07,TX,Sales,1315323.2,94250.4,386
+2013-07,TX,Science,88047.3,0.0,25
+2013-07,TX,Transportation,915544.6,68908.2,263
+2013-07,UT,Architecture and engineering,26073.1,1712.3,16
+2013-07,UT,"Arts, media, sports",37299.8,1627.7,23
+2013-07,UT,Business and finance,62064.4,0.0,37
+2013-07,UT,Cleaning and grounds,67972.6,0.0,39
+2013-07,UT,Community and social service,9493.6,0.0,6
+2013-07,UT,Computer and math,47838.5,1759.1,29
+2013-07,UT,Construction,86141.7,9128.2,52
+2013-07,UT,Education,81766.5,8356.4,53
+2013-07,UT,Farming,3985.6,0.0,2
+2013-07,UT,Food service,74372.3,2979.9,43
+2013-07,UT,Healthcare practitioners,64910.2,0.0,39
+2013-07,UT,Healthcare support,34910.8,0.0,21
+2013-07,UT,Installation and repair,58146.2,0.0,32
+2013-07,UT,Legal,8530.8,0.0,5
+2013-07,UT,Management,145511.6,1656.2,84
+2013-07,UT,No previous job,0.0,9649.0,6
+2013-07,UT,Office and admin,185528.3,1393.3,103
+2013-07,UT,Personal care,54060.4,1752.9,31
+2013-07,UT,Production,70651.9,3396.3,42
+2013-07,UT,Protective service,33865.3,2007.1,20
+2013-07,UT,Sales,128549.4,5246.1,76
+2013-07,UT,Science,12826.7,0.0,7
+2013-07,UT,Transportation,94502.5,3999.2,54
+2013-07,VA,Architecture and engineering,76013.9,4947.7,29
+2013-07,VA,"Arts, media, sports",119340.8,8215.1,43
+2013-07,VA,Business and finance,247984.8,0.0,87
+2013-07,VA,Cleaning and grounds,160282.6,18921.6,61
+2013-07,VA,Community and social service,50413.1,5787.3,20
+2013-07,VA,Computer and math,154296.8,2853.0,56
+2013-07,VA,Construction,218599.4,21192.1,84
+2013-07,VA,Education,235683.2,10644.9,88
+2013-07,VA,Farming,48472.0,2963.0,18
+2013-07,VA,Food service,173043.6,38419.9,71
+2013-07,VA,Healthcare practitioners,204740.6,4599.8,75
+2013-07,VA,Healthcare support,84687.0,12875.2,34
+2013-07,VA,Installation and repair,144160.3,0.0,52
+2013-07,VA,Legal,54320.5,0.0,20
+2013-07,VA,Management,519458.7,9103.9,194
+2013-07,VA,No previous job,0.0,38905.7,13
+2013-07,VA,Office and admin,405537.9,15548.1,148
+2013-07,VA,Personal care,145871.8,2786.0,51
+2013-07,VA,Production,185093.9,17618.1,69
+2013-07,VA,Protective service,136414.4,0.0,47
+2013-07,VA,Sales,379070.7,32186.4,144
+2013-07,VA,Science,41104.1,2899.6,16
+2013-07,VA,Transportation,275776.7,21448.2,104
+2013-07,VT,Architecture and engineering,5426.3,286.5,16
+2013-07,VT,"Arts, media, sports",11383.1,643.7,37
+2013-07,VT,Business and finance,13092.8,0.0,41
+2013-07,VT,Cleaning and grounds,11518.2,0.0,32
+2013-07,VT,Community and social service,9060.3,0.0,27
+2013-07,VT,Computer and math,6913.0,0.0,19
+2013-07,VT,Construction,13505.5,851.2,40
+2013-07,VT,Education,22857.9,1104.7,75
+2013-07,VT,Farming,4920.3,0.0,14
+2013-07,VT,Food service,21700.4,3732.6,69
+2013-07,VT,Healthcare practitioners,21898.3,407.4,69
+2013-07,VT,Healthcare support,10798.4,973.8,35
+2013-07,VT,Installation and repair,6949.6,656.6,21
+2013-07,VT,Legal,4663.8,0.0,14
+2013-07,VT,Management,41813.2,301.3,128
+2013-07,VT,No previous job,0.0,1849.7,5
+2013-07,VT,Office and admin,31160.9,387.9,95
+2013-07,VT,Personal care,11117.1,0.0,34
+2013-07,VT,Production,21221.1,1619.0,67
+2013-07,VT,Protective service,5834.0,713.5,19
+2013-07,VT,Sales,33754.0,646.2,100
+2013-07,VT,Science,6026.8,0.0,18
+2013-07,VT,Transportation,23618.1,1108.5,69
+2013-07,WA,Architecture and engineering,82768.1,0.0,27
+2013-07,WA,"Arts, media, sports",75381.4,0.0,23
+2013-07,WA,Business and finance,132924.3,6030.8,46
+2013-07,WA,Cleaning and grounds,92506.5,10945.6,34
+2013-07,WA,Community and social service,25995.0,3592.9,11
+2013-07,WA,Computer and math,181067.4,2382.4,59
+2013-07,WA,Construction,169454.8,28684.3,60
+2013-07,WA,Education,180885.2,6560.7,61
+2013-07,WA,Farming,61201.9,7922.4,20
+2013-07,WA,Food service,198972.0,22570.8,69
+2013-07,WA,Healthcare practitioners,130830.5,5677.6,47
+2013-07,WA,Healthcare support,114472.9,3274.6,38
+2013-07,WA,Installation and repair,112750.6,10709.1,40
+2013-07,WA,Legal,40520.6,0.0,15
+2013-07,WA,Management,439853.5,5637.0,149
+2013-07,WA,No previous job,0.0,35664.6,11
+2013-07,WA,Office and admin,316818.4,26502.2,113
+2013-07,WA,Personal care,83231.7,5317.2,29
+2013-07,WA,Production,145542.9,10307.3,48
+2013-07,WA,Protective service,67127.9,5034.7,23
+2013-07,WA,Sales,317534.1,15496.3,109
+2013-07,WA,Science,27341.8,2475.8,10
+2013-07,WA,Transportation,215294.8,25353.0,76
+2013-07,WA,Unclassified,0.0,3667.0,1
+2013-07,WI,Architecture and engineering,62522.5,4314.4,31
+2013-07,WI,"Arts, media, sports",44543.6,4752.9,23
+2013-07,WI,Business and finance,132558.0,4394.4,62
+2013-07,WI,Cleaning and grounds,119097.7,13102.3,56
+2013-07,WI,Community and social service,32237.0,0.0,14
+2013-07,WI,Computer and math,61238.3,0.0,26
+2013-07,WI,Construction,122776.4,22487.3,61
+2013-07,WI,Education,147650.7,10612.0,71
+2013-07,WI,Farming,31105.3,2138.5,14
+2013-07,WI,Food service,147362.3,28511.2,73
+2013-07,WI,Healthcare practitioners,176744.3,9893.7,86
+2013-07,WI,Healthcare support,122918.9,4313.5,51
+2013-07,WI,Installation and repair,110402.9,2219.0,50
+2013-07,WI,Legal,15697.2,0.0,7
+2013-07,WI,Management,301810.0,3739.6,144
+2013-07,WI,No previous job,0.0,22600.5,8
+2013-07,WI,Office and admin,315034.6,18895.2,151
+2013-07,WI,Personal care,81969.0,10863.4,39
+2013-07,WI,Production,352363.1,20365.6,161
+2013-07,WI,Protective service,58606.7,0.0,27
+2013-07,WI,Sales,295536.3,21305.8,140
+2013-07,WI,Science,35598.2,0.0,15
+2013-07,WI,Transportation,194767.4,28157.3,96
+2013-07,WV,Architecture and engineering,10399.3,0.0,7
+2013-07,WV,"Arts, media, sports",3362.4,0.0,3
+2013-07,WV,Business and finance,24775.8,2684.2,21
+2013-07,WV,Cleaning and grounds,26381.0,4834.6,22
+2013-07,WV,Community and social service,16601.8,0.0,13
+2013-07,WV,Computer and math,2942.6,0.0,2
+2013-07,WV,Construction,59465.8,8392.7,49
+2013-07,WV,Education,47383.3,2712.5,39
+2013-07,WV,Farming,1317.7,0.0,1
+2013-07,WV,Food service,40618.3,5454.6,30
+2013-07,WV,Healthcare practitioners,67899.0,0.0,48
+2013-07,WV,Healthcare support,28578.9,2267.1,23
+2013-07,WV,Installation and repair,23145.9,4763.0,21
+2013-07,WV,Legal,14301.4,0.0,11
+2013-07,WV,Management,82527.1,0.0,66
+2013-07,WV,No previous job,0.0,5470.9,4
+2013-07,WV,Office and admin,54252.0,9438.6,47
+2013-07,WV,Personal care,24016.6,0.0,17
+2013-07,WV,Production,41124.5,1403.3,33
+2013-07,WV,Protective service,17856.9,0.0,14
+2013-07,WV,Sales,72683.6,5960.6,58
+2013-07,WV,Science,7410.9,0.0,5
+2013-07,WV,Transportation,78815.3,6463.6,59
+2013-07,WY,Architecture and engineering,6889.4,0.0,18
+2013-07,WY,"Arts, media, sports",4299.2,0.0,13
+2013-07,WY,Business and finance,6575.6,0.0,19
+2013-07,WY,Cleaning and grounds,13721.1,1321.5,42
+2013-07,WY,Community and social service,4678.1,0.0,14
+2013-07,WY,Computer and math,2544.8,0.0,8
+2013-07,WY,Construction,30928.4,1386.2,84
+2013-07,WY,Education,17783.0,562.5,53
+2013-07,WY,Farming,2612.8,445.0,9
+2013-07,WY,Food service,15395.4,1669.8,43
+2013-07,WY,Healthcare practitioners,11101.2,0.0,31
+2013-07,WY,Healthcare support,9771.6,625.9,30
+2013-07,WY,Installation and repair,13703.3,0.0,34
+2013-07,WY,Legal,1808.6,0.0,5
+2013-07,WY,Management,30202.5,894.1,87
+2013-07,WY,No previous job,0.0,1458.7,4
+2013-07,WY,Office and admin,28262.9,329.8,83
+2013-07,WY,Personal care,10191.8,534.6,30
+2013-07,WY,Production,16999.2,1189.6,44
+2013-07,WY,Protective service,7429.3,627.7,23
+2013-07,WY,Sales,20579.2,1896.1,61
+2013-07,WY,Science,5391.2,0.0,15
+2013-07,WY,Transportation,32777.1,719.2,91

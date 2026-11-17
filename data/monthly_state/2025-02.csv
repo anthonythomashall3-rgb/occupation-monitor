@@ -1,0 +1,1161 @@
+month,state,group,employed,unemployed,n
+2025-02,AK,Architecture and engineering,9272.0,0.0,15
+2025-02,AK,"Arts, media, sports",6541.3,583.5,13
+2025-02,AK,Business and finance,12593.1,0.0,20
+2025-02,AK,Cleaning and grounds,12392.5,0.0,19
+2025-02,AK,Community and social service,11231.2,0.0,19
+2025-02,AK,Computer and math,7566.3,0.0,12
+2025-02,AK,Construction,19375.6,3111.2,33
+2025-02,AK,Education,19264.4,0.0,31
+2025-02,AK,Farming,6685.9,0.0,12
+2025-02,AK,Food service,10023.7,2579.0,18
+2025-02,AK,Healthcare practitioners,22408.6,0.0,34
+2025-02,AK,Healthcare support,9202.8,1263.9,15
+2025-02,AK,Installation and repair,7896.4,0.0,12
+2025-02,AK,Legal,4109.9,0.0,6
+2025-02,AK,Management,47856.7,2067.4,78
+2025-02,AK,No previous job,0.0,716.0,1
+2025-02,AK,Office and admin,45067.1,2261.2,73
+2025-02,AK,Personal care,8406.6,607.5,14
+2025-02,AK,Production,10573.5,0.0,15
+2025-02,AK,Protective service,6261.1,0.0,9
+2025-02,AK,Sales,33129.9,301.4,51
+2025-02,AK,Science,8397.8,1499.2,16
+2025-02,AK,Transportation,29552.5,4480.6,46
+2025-02,AL,Architecture and engineering,54502.8,0.0,20
+2025-02,AL,"Arts, media, sports",23013.0,0.0,9
+2025-02,AL,Business and finance,97949.8,2988.1,38
+2025-02,AL,Cleaning and grounds,69046.4,8583.6,25
+2025-02,AL,Community and social service,35154.4,0.0,13
+2025-02,AL,Computer and math,73066.9,0.0,27
+2025-02,AL,Construction,115000.1,7289.2,42
+2025-02,AL,Education,133383.2,0.0,50
+2025-02,AL,Farming,7065.0,0.0,3
+2025-02,AL,Food service,127067.4,8711.7,44
+2025-02,AL,Healthcare practitioners,140645.9,9361.8,55
+2025-02,AL,Healthcare support,39052.2,2888.3,15
+2025-02,AL,Installation and repair,92130.3,0.0,32
+2025-02,AL,Legal,5126.4,0.0,2
+2025-02,AL,Management,312136.5,2965.3,117
+2025-02,AL,No previous job,0.0,3185.8,1
+2025-02,AL,Office and admin,265392.1,7747.3,99
+2025-02,AL,Personal care,44012.1,5579.9,17
+2025-02,AL,Production,165425.8,17908.6,61
+2025-02,AL,Protective service,61580.5,0.0,19
+2025-02,AL,Sales,200057.4,2845.2,76
+2025-02,AL,Science,34054.7,0.0,12
+2025-02,AL,Transportation,208191.1,0.0,70
+2025-02,AR,Architecture and engineering,15082.1,0.0,10
+2025-02,AR,"Arts, media, sports",17775.2,0.0,12
+2025-02,AR,Business and finance,52597.4,0.0,35
+2025-02,AR,Cleaning and grounds,50601.3,3598.2,35
+2025-02,AR,Community and social service,21091.9,0.0,14
+2025-02,AR,Computer and math,32211.6,0.0,19
+2025-02,AR,Construction,63596.7,16499.9,47
+2025-02,AR,Education,83616.3,5349.0,56
+2025-02,AR,Farming,8286.0,3164.7,7
+2025-02,AR,Food service,64627.5,1963.6,41
+2025-02,AR,Healthcare practitioners,102801.7,3738.9,67
+2025-02,AR,Healthcare support,58585.5,2981.4,40
+2025-02,AR,Installation and repair,39674.1,1471.7,26
+2025-02,AR,Legal,8847.3,0.0,6
+2025-02,AR,Management,157587.3,4553.3,102
+2025-02,AR,No previous job,0.0,7992.1,4
+2025-02,AR,Office and admin,141939.2,7727.9,93
+2025-02,AR,Personal care,24382.8,3135.6,18
+2025-02,AR,Production,114809.7,3124.5,73
+2025-02,AR,Protective service,23134.3,4619.8,16
+2025-02,AR,Sales,146879.0,3407.8,93
+2025-02,AR,Science,11301.6,0.0,6
+2025-02,AR,Transportation,111465.0,3694.9,70
+2025-02,AZ,Architecture and engineering,50967.7,0.0,11
+2025-02,AZ,"Arts, media, sports",57642.5,0.0,11
+2025-02,AZ,Business and finance,301898.2,10001.2,65
+2025-02,AZ,Cleaning and grounds,100728.8,9538.8,22
+2025-02,AZ,Community and social service,86858.0,0.0,18
+2025-02,AZ,Computer and math,178891.8,0.0,37
+2025-02,AZ,Construction,180240.5,11005.4,40
+2025-02,AZ,Education,269759.4,7914.9,55
+2025-02,AZ,Farming,52296.2,5836.9,11
+2025-02,AZ,Food service,203970.5,11459.9,43
+2025-02,AZ,Healthcare practitioners,232189.8,14330.7,49
+2025-02,AZ,Healthcare support,120897.0,4781.3,26
+2025-02,AZ,Installation and repair,97596.0,4249.1,21
+2025-02,AZ,Legal,18074.3,0.0,4
+2025-02,AZ,Management,445884.9,12940.3,96
+2025-02,AZ,No previous job,0.0,31774.8,6
+2025-02,AZ,Office and admin,357762.5,7484.5,79
+2025-02,AZ,Personal care,68958.7,0.0,14
+2025-02,AZ,Production,107148.9,0.0,23
+2025-02,AZ,Protective service,90049.0,6717.2,20
+2025-02,AZ,Sales,344726.3,23097.1,76
+2025-02,AZ,Science,28877.8,0.0,6
+2025-02,AZ,Transportation,312055.8,3769.3,65
+2025-02,CA,Architecture and engineering,592434.5,4200.6,126
+2025-02,CA,"Arts, media, sports",567197.3,50667.8,139
+2025-02,CA,Business and finance,1116171.1,20997.5,246
+2025-02,CA,Cleaning and grounds,691360.5,40031.7,158
+2025-02,CA,Community and social service,263046.3,4941.2,59
+2025-02,CA,Computer and math,978449.8,35698.6,216
+2025-02,CA,Construction,864545.2,53726.5,195
+2025-02,CA,Education,1144895.1,17334.3,251
+2025-02,CA,Farming,127215.0,60886.8,39
+2025-02,CA,Food service,910199.5,58157.0,202
+2025-02,CA,Healthcare practitioners,1055420.0,33580.5,235
+2025-02,CA,Healthcare support,770525.1,61932.0,176
+2025-02,CA,Installation and repair,435023.1,22117.3,99
+2025-02,CA,Legal,293448.5,0.0,66
+2025-02,CA,Management,2451496.8,70175.4,547
+2025-02,CA,No previous job,0.0,94421.7,20
+2025-02,CA,Office and admin,1769776.0,81107.8,398
+2025-02,CA,Personal care,482538.0,28203.2,108
+2025-02,CA,Production,783975.7,59758.3,180
+2025-02,CA,Protective service,365237.1,21996.6,78
+2025-02,CA,Sales,1520869.7,110219.0,346
+2025-02,CA,Science,282694.8,4590.3,62
+2025-02,CA,Transportation,1233771.7,103860.3,282
+2025-02,CO,Architecture and engineering,101659.4,0.0,20
+2025-02,CO,"Arts, media, sports",59650.7,0.0,12
+2025-02,CO,Business and finance,205720.8,6799.5,43
+2025-02,CO,Cleaning and grounds,99577.0,15745.3,22
+2025-02,CO,Community and social service,79723.4,0.0,15
+2025-02,CO,Computer and math,143667.7,0.0,30
+2025-02,CO,Construction,143016.1,35794.4,34
+2025-02,CO,Education,210165.1,5172.5,44
+2025-02,CO,Farming,6038.9,0.0,1
+2025-02,CO,Food service,129656.2,13335.1,25
+2025-02,CO,Healthcare practitioners,197398.5,3477.6,39
+2025-02,CO,Healthcare support,88439.7,5679.6,19
+2025-02,CO,Installation and repair,100399.4,0.0,20
+2025-02,CO,Legal,24146.7,0.0,5
+2025-02,CO,Management,455994.8,8948.3,94
+2025-02,CO,No previous job,0.0,13388.7,3
+2025-02,CO,Office and admin,321862.3,18551.0,67
+2025-02,CO,Personal care,77150.7,0.0,13
+2025-02,CO,Production,99550.0,14776.6,21
+2025-02,CO,Protective service,42932.9,4416.0,9
+2025-02,CO,Sales,237637.8,18007.7,49
+2025-02,CO,Science,84253.0,0.0,17
+2025-02,CO,Transportation,82405.0,12706.6,18
+2025-02,CT,Architecture and engineering,52599.3,3605.0,17
+2025-02,CT,"Arts, media, sports",37799.0,2730.5,11
+2025-02,CT,Business and finance,145814.3,0.0,42
+2025-02,CT,Cleaning and grounds,58895.2,12770.3,19
+2025-02,CT,Community and social service,15755.0,6192.3,7
+2025-02,CT,Computer and math,49280.6,3709.0,15
+2025-02,CT,Construction,83826.8,18294.6,30
+2025-02,CT,Education,154731.9,7041.5,49
+2025-02,CT,Food service,110832.1,9304.9,30
+2025-02,CT,Healthcare practitioners,126311.7,0.0,36
+2025-02,CT,Healthcare support,93107.8,3119.4,24
+2025-02,CT,Installation and repair,44477.3,6868.0,14
+2025-02,CT,Legal,15970.6,0.0,5
+2025-02,CT,Management,286524.7,8631.3,85
+2025-02,CT,No previous job,0.0,11625.5,3
+2025-02,CT,Office and admin,176103.4,3039.0,52
+2025-02,CT,Personal care,35148.0,3169.4,12
+2025-02,CT,Production,81253.7,0.0,23
+2025-02,CT,Protective service,25355.3,0.0,7
+2025-02,CT,Sales,115771.2,0.0,33
+2025-02,CT,Science,11071.5,0.0,4
+2025-02,CT,Transportation,86705.4,19420.2,31
+2025-02,DC,Architecture and engineering,6790.3,0.0,15
+2025-02,DC,"Arts, media, sports",21386.6,1395.8,48
+2025-02,DC,Business and finance,50230.1,2495.9,107
+2025-02,DC,Cleaning and grounds,5925.9,0.0,11
+2025-02,DC,Community and social service,9874.4,0.0,18
+2025-02,DC,Computer and math,32393.1,1943.5,68
+2025-02,DC,Construction,2663.2,447.6,6
+2025-02,DC,Education,34430.3,0.0,68
+2025-02,DC,Food service,16556.5,2040.4,29
+2025-02,DC,Healthcare practitioners,16673.3,0.0,30
+2025-02,DC,Healthcare support,7334.0,1178.7,17
+2025-02,DC,Installation and repair,1708.3,1021.0,4
+2025-02,DC,Legal,33178.3,486.6,73
+2025-02,DC,Management,94932.5,3960.5,206
+2025-02,DC,No previous job,0.0,1969.6,2
+2025-02,DC,Office and admin,24956.0,1853.0,49
+2025-02,DC,Personal care,6005.1,479.0,12
+2025-02,DC,Production,2141.4,0.0,4
+2025-02,DC,Protective service,7554.6,502.8,16
+2025-02,DC,Sales,17313.9,2516.8,37
+2025-02,DC,Science,15249.3,0.0,37
+2025-02,DC,Transportation,6450.5,371.4,12
+2025-02,DE,Architecture and engineering,8390.1,0.0,9
+2025-02,DE,"Arts, media, sports",4136.6,926.6,5
+2025-02,DE,Business and finance,33231.1,2886.7,37
+2025-02,DE,Cleaning and grounds,19247.6,689.9,23
+2025-02,DE,Community and social service,14905.2,0.0,14
+2025-02,DE,Computer and math,15716.1,0.0,16
+2025-02,DE,Construction,25971.3,1987.3,28
+2025-02,DE,Education,24555.1,1001.1,27
+2025-02,DE,Farming,3275.2,0.0,3
+2025-02,DE,Food service,37227.6,2902.0,35
+2025-02,DE,Healthcare practitioners,38674.5,0.0,38
+2025-02,DE,Healthcare support,18214.2,0.0,14
+2025-02,DE,Installation and repair,12989.4,2973.1,15
+2025-02,DE,Legal,5137.2,0.0,5
+2025-02,DE,Management,54992.5,4785.7,63
+2025-02,DE,No previous job,0.0,1711.4,2
+2025-02,DE,Office and admin,54366.7,1616.5,56
+2025-02,DE,Personal care,4526.7,0.0,5
+2025-02,DE,Production,18055.9,898.5,18
+2025-02,DE,Protective service,7154.7,0.0,8
+2025-02,DE,Sales,42224.7,0.0,43
+2025-02,DE,Science,6850.2,0.0,8
+2025-02,DE,Transportation,32776.4,4357.2,35
+2025-02,FL,Architecture and engineering,236017.0,5738.7,48
+2025-02,FL,"Arts, media, sports",208992.5,23302.9,47
+2025-02,FL,Business and finance,611670.8,22937.0,127
+2025-02,FL,Cleaning and grounds,415450.2,11671.0,84
+2025-02,FL,Community and social service,142346.4,0.0,27
+2025-02,FL,Computer and math,351508.0,20402.3,75
+2025-02,FL,Construction,591434.2,10074.1,120
+2025-02,FL,Education,511191.5,5098.9,102
+2025-02,FL,Farming,43360.9,0.0,8
+2025-02,FL,Food service,638345.7,54846.3,129
+2025-02,FL,Healthcare practitioners,783420.2,9047.3,160
+2025-02,FL,Healthcare support,323632.5,11666.3,65
+2025-02,FL,Installation and repair,367448.9,23468.5,76
+2025-02,FL,Legal,91928.1,4139.2,21
+2025-02,FL,Management,1318907.0,29202.2,270
+2025-02,FL,No previous job,0.0,66495.7,12
+2025-02,FL,Office and admin,1272455.3,34905.0,251
+2025-02,FL,Personal care,324036.0,13874.7,66
+2025-02,FL,Production,318680.3,11219.9,64
+2025-02,FL,Protective service,236324.0,12184.5,47
+2025-02,FL,Sales,1070351.2,25002.4,215
+2025-02,FL,Science,52954.3,4919.7,11
+2025-02,FL,Transportation,799988.7,25340.2,162
+2025-02,GA,Architecture and engineering,116056.5,0.0,24
+2025-02,GA,"Arts, media, sports",48855.6,5140.5,11
+2025-02,GA,Business and finance,356554.9,8800.5,71
+2025-02,GA,Cleaning and grounds,154543.7,27380.5,40
+2025-02,GA,Community and social service,92293.1,4466.5,17
+2025-02,GA,Computer and math,254763.7,5400.4,47
+2025-02,GA,Construction,256492.3,0.0,53
+2025-02,GA,Education,287102.6,0.0,61
+2025-02,GA,Farming,31092.9,0.0,6
+2025-02,GA,Food service,273613.1,45497.1,65
+2025-02,GA,Healthcare practitioners,267586.2,0.0,57
+2025-02,GA,Healthcare support,140646.2,4798.6,30
+2025-02,GA,Installation and repair,99057.6,5077.8,22
+2025-02,GA,Legal,52097.4,0.0,10
+2025-02,GA,Management,567953.1,15496.5,119
+2025-02,GA,No previous job,0.0,17662.4,3
+2025-02,GA,Office and admin,510794.0,22818.5,108
+2025-02,GA,Personal care,89261.3,4443.2,20
+2025-02,GA,Production,309202.9,0.0,62
+2025-02,GA,Protective service,103565.0,0.0,20
+2025-02,GA,Sales,564272.5,28045.2,120
+2025-02,GA,Science,49077.5,0.0,9
+2025-02,GA,Transportation,418121.7,7659.1,86
+2025-02,HI,Architecture and engineering,14722.2,0.0,14
+2025-02,HI,"Arts, media, sports",15493.5,2626.4,20
+2025-02,HI,Business and finance,33852.3,2925.3,42
+2025-02,HI,Cleaning and grounds,40137.7,0.0,40
+2025-02,HI,Community and social service,9596.1,0.0,10
+2025-02,HI,Computer and math,15724.6,0.0,15
+2025-02,HI,Construction,48306.2,2314.1,49
+2025-02,HI,Education,48056.1,0.0,52
+2025-02,HI,Farming,1978.2,1038.2,3
+2025-02,HI,Food service,44716.1,2889.4,48
+2025-02,HI,Healthcare practitioners,33557.4,0.0,34
+2025-02,HI,Healthcare support,22216.9,0.0,22
+2025-02,HI,Installation and repair,19124.2,0.0,19
+2025-02,HI,Legal,5703.7,0.0,7
+2025-02,HI,Management,69229.7,4380.4,83
+2025-02,HI,Office and admin,90414.4,1681.3,101
+2025-02,HI,Personal care,16407.9,0.0,17
+2025-02,HI,Production,19113.7,0.0,18
+2025-02,HI,Protective service,8259.9,0.0,9
+2025-02,HI,Sales,59446.9,914.9,61
+2025-02,HI,Science,10032.8,0.0,12
+2025-02,HI,Transportation,54074.9,3196.5,55
+2025-02,IA,Architecture and engineering,31265.1,0.0,11
+2025-02,IA,"Arts, media, sports",29172.2,0.0,10
+2025-02,IA,Business and finance,77225.2,0.0,28
+2025-02,IA,Cleaning and grounds,73386.7,0.0,26
+2025-02,IA,Community and social service,27814.8,4912.9,10
+2025-02,IA,Computer and math,57276.1,6894.5,22
+2025-02,IA,Construction,72474.0,11100.6,30
+2025-02,IA,Education,79365.1,0.0,28
+2025-02,IA,Farming,27728.7,0.0,10
+2025-02,IA,Food service,118839.2,4087.0,41
+2025-02,IA,Healthcare practitioners,122838.9,0.0,42
+2025-02,IA,Healthcare support,36477.9,0.0,13
+2025-02,IA,Installation and repair,45271.9,2553.6,18
+2025-02,IA,Legal,10077.2,0.0,4
+2025-02,IA,Management,157454.4,8979.8,60
+2025-02,IA,No previous job,0.0,2716.0,1
+2025-02,IA,Office and admin,142378.1,2029.5,50
+2025-02,IA,Personal care,33539.4,3704.8,13
+2025-02,IA,Production,98990.1,8869.5,38
+2025-02,IA,Protective service,31658.4,5995.0,15
+2025-02,IA,Sales,163081.8,2694.0,58
+2025-02,IA,Science,6153.3,0.0,2
+2025-02,IA,Transportation,159554.0,29661.9,65
+2025-02,ID,Architecture and engineering,21587.8,0.0,18
+2025-02,ID,"Arts, media, sports",16253.9,0.0,14
+2025-02,ID,Business and finance,46874.8,1054.7,44
+2025-02,ID,Cleaning and grounds,33334.9,6059.7,34
+2025-02,ID,Community and social service,11594.5,0.0,11
+2025-02,ID,Computer and math,30743.0,0.0,27
+2025-02,ID,Construction,49026.6,0.0,41
+2025-02,ID,Education,55985.8,1806.9,52
+2025-02,ID,Farming,7912.4,0.0,6
+2025-02,ID,Food service,48992.4,3477.8,46
+2025-02,ID,Healthcare practitioners,70379.5,1414.3,64
+2025-02,ID,Healthcare support,25876.9,0.0,22
+2025-02,ID,Installation and repair,43923.1,1348.9,39
+2025-02,ID,Legal,7378.7,0.0,7
+2025-02,ID,Management,140971.4,866.3,124
+2025-02,ID,No previous job,0.0,909.8,1
+2025-02,ID,Office and admin,101918.6,5479.3,93
+2025-02,ID,Personal care,18135.3,0.0,16
+2025-02,ID,Production,50049.3,0.0,44
+2025-02,ID,Protective service,15525.0,0.0,13
+2025-02,ID,Sales,75967.9,6867.8,74
+2025-02,ID,Science,11754.8,0.0,10
+2025-02,ID,Transportation,89194.2,2333.6,75
+2025-02,IL,Architecture and engineering,128482.4,0.0,27
+2025-02,IL,"Arts, media, sports",143572.5,0.0,27
+2025-02,IL,Business and finance,389592.0,8308.4,71
+2025-02,IL,Cleaning and grounds,112883.8,0.0,23
+2025-02,IL,Community and social service,131750.3,15342.8,28
+2025-02,IL,Computer and math,299844.7,22647.5,58
+2025-02,IL,Construction,229025.2,34369.1,51
+2025-02,IL,Education,363899.1,4751.5,74
+2025-02,IL,Farming,19790.7,0.0,4
+2025-02,IL,Food service,313221.3,47656.2,68
+2025-02,IL,Healthcare practitioners,357142.8,0.0,69
+2025-02,IL,Healthcare support,201573.0,6435.9,38
+2025-02,IL,Installation and repair,163018.3,3584.1,33
+2025-02,IL,Legal,82129.6,0.0,17
+2025-02,IL,Management,940706.3,14450.4,182
+2025-02,IL,No previous job,0.0,33192.6,5
+2025-02,IL,Office and admin,547076.6,29443.6,110
+2025-02,IL,Personal care,145446.8,24764.3,30
+2025-02,IL,Production,340113.3,0.0,64
+2025-02,IL,Protective service,129431.5,9416.1,25
+2025-02,IL,Sales,482539.2,14896.6,95
+2025-02,IL,Science,61446.5,0.0,11
+2025-02,IL,Transportation,560102.6,40708.2,108
+2025-02,IL,Unclassified,0.0,6731.6,1
+2025-02,IN,Architecture and engineering,66579.4,0.0,12
+2025-02,IN,"Arts, media, sports",63196.5,0.0,13
+2025-02,IN,Business and finance,126972.6,5781.8,26
+2025-02,IN,Cleaning and grounds,69673.7,0.0,16
+2025-02,IN,Community and social service,48967.0,5795.6,13
+2025-02,IN,Computer and math,53014.0,0.0,11
+2025-02,IN,Construction,159079.9,26314.2,37
+2025-02,IN,Education,206150.6,15648.9,47
+2025-02,IN,Farming,17296.8,0.0,3
+2025-02,IN,Food service,192297.6,13056.2,41
+2025-02,IN,Healthcare practitioners,222949.0,0.0,44
+2025-02,IN,Healthcare support,110413.6,5893.7,23
+2025-02,IN,Installation and repair,109716.1,0.0,22
+2025-02,IN,Legal,17402.7,0.0,3
+2025-02,IN,Management,415186.2,13201.1,91
+2025-02,IN,No previous job,0.0,6455.8,1
+2025-02,IN,Office and admin,316616.1,16172.3,69
+2025-02,IN,Personal care,106775.4,0.0,21
+2025-02,IN,Production,303558.6,12420.1,66
+2025-02,IN,Protective service,38741.3,0.0,9
+2025-02,IN,Sales,308932.8,5070.5,64
+2025-02,IN,Science,20347.2,0.0,3
+2025-02,IN,Transportation,393468.8,10031.2,78
+2025-02,KS,Architecture and engineering,24557.6,3979.1,11
+2025-02,KS,"Arts, media, sports",18830.2,0.0,7
+2025-02,KS,Business and finance,78913.9,4315.5,32
+2025-02,KS,Cleaning and grounds,41742.7,2378.2,18
+2025-02,KS,Community and social service,48583.1,0.0,20
+2025-02,KS,Computer and math,36799.4,0.0,14
+2025-02,KS,Construction,88842.6,0.0,35
+2025-02,KS,Education,82618.1,0.0,31
+2025-02,KS,Farming,10895.0,0.0,4
+2025-02,KS,Food service,59788.3,4136.8,23
+2025-02,KS,Healthcare practitioners,110009.7,0.0,40
+2025-02,KS,Healthcare support,72532.9,0.0,25
+2025-02,KS,Installation and repair,64648.4,2044.6,25
+2025-02,KS,Legal,6485.0,0.0,3
+2025-02,KS,Management,162330.1,2598.1,67
+2025-02,KS,No previous job,0.0,7092.2,2
+2025-02,KS,Office and admin,148844.4,11934.6,60
+2025-02,KS,Personal care,38562.4,0.0,15
+2025-02,KS,Production,94472.9,3367.4,38
+2025-02,KS,Protective service,30773.2,3726.3,13
+2025-02,KS,Sales,144035.2,2732.6,57
+2025-02,KS,Science,14374.1,0.0,6
+2025-02,KS,Transportation,108601.4,3743.6,40
+2025-02,KY,Architecture and engineering,46295.3,0.0,10
+2025-02,KY,"Arts, media, sports",56453.5,13984.5,13
+2025-02,KY,Business and finance,97636.6,0.0,21
+2025-02,KY,Cleaning and grounds,97981.2,14526.8,21
+2025-02,KY,Community and social service,38553.3,0.0,8
+2025-02,KY,Computer and math,31588.4,0.0,6
+2025-02,KY,Construction,88533.8,10881.6,19
+2025-02,KY,Education,128866.6,0.0,27
+2025-02,KY,Farming,14326.0,5530.0,4
+2025-02,KY,Food service,118708.1,19067.7,24
+2025-02,KY,Healthcare practitioners,121057.3,0.0,26
+2025-02,KY,Healthcare support,81628.1,0.0,15
+2025-02,KY,Installation and repair,103867.2,4997.6,23
+2025-02,KY,Legal,36678.0,0.0,8
+2025-02,KY,Management,195436.9,4459.8,43
+2025-02,KY,Office and admin,204525.2,5565.1,47
+2025-02,KY,Personal care,67955.8,4892.0,14
+2025-02,KY,Production,120657.8,5549.5,27
+2025-02,KY,Protective service,15024.4,0.0,3
+2025-02,KY,Sales,182528.4,8456.7,42
+2025-02,KY,Science,21678.9,0.0,3
+2025-02,KY,Transportation,223981.9,4299.6,46
+2025-02,LA,Architecture and engineering,49762.7,0.0,24
+2025-02,LA,"Arts, media, sports",19161.4,6141.9,13
+2025-02,LA,Business and finance,76437.5,2392.0,36
+2025-02,LA,Cleaning and grounds,75539.4,11246.9,43
+2025-02,LA,Community and social service,45225.9,0.0,21
+2025-02,LA,Computer and math,29974.6,0.0,15
+2025-02,LA,Construction,124308.8,6083.9,61
+2025-02,LA,Education,123553.6,2640.6,59
+2025-02,LA,Farming,1884.5,2024.9,2
+2025-02,LA,Food service,124466.5,14609.3,59
+2025-02,LA,Healthcare practitioners,147072.5,2647.6,73
+2025-02,LA,Healthcare support,87908.7,3076.7,44
+2025-02,LA,Installation and repair,84519.3,0.0,45
+2025-02,LA,Legal,29222.2,0.0,13
+2025-02,LA,Management,174881.9,6426.0,90
+2025-02,LA,No previous job,0.0,4985.9,2
+2025-02,LA,Office and admin,221836.3,2126.5,110
+2025-02,LA,Personal care,46425.5,1794.2,25
+2025-02,LA,Production,78285.2,8120.0,44
+2025-02,LA,Protective service,64619.5,0.0,29
+2025-02,LA,Sales,190557.8,4387.9,88
+2025-02,LA,Science,16120.2,0.0,8
+2025-02,LA,Transportation,150678.4,4943.9,74
+2025-02,MA,Architecture and engineering,71551.3,0.0,22
+2025-02,MA,"Arts, media, sports",91933.4,0.0,28
+2025-02,MA,Business and finance,255862.0,0.0,77
+2025-02,MA,Cleaning and grounds,101993.9,0.0,30
+2025-02,MA,Community and social service,49923.6,4101.1,15
+2025-02,MA,Computer and math,186042.9,10386.0,60
+2025-02,MA,Construction,148663.7,39153.6,54
+2025-02,MA,Education,313550.5,2548.4,95
+2025-02,MA,Farming,3378.7,3097.4,2
+2025-02,MA,Food service,135238.5,26841.6,45
+2025-02,MA,Healthcare practitioners,263218.8,3653.6,79
+2025-02,MA,Healthcare support,128605.3,14505.1,43
+2025-02,MA,Installation and repair,58834.4,2205.4,20
+2025-02,MA,Legal,65727.9,0.0,22
+2025-02,MA,Management,601416.4,15976.5,186
+2025-02,MA,No previous job,0.0,4312.9,1
+2025-02,MA,Office and admin,332094.9,6948.7,102
+2025-02,MA,Personal care,113816.2,6958.1,36
+2025-02,MA,Production,189129.4,6657.9,58
+2025-02,MA,Protective service,73758.8,3664.4,23
+2025-02,MA,Sales,222231.9,22753.0,71
+2025-02,MA,Science,137668.9,4295.0,38
+2025-02,MA,Transportation,197688.5,14622.8,61
+2025-02,MD,Architecture and engineering,54872.1,0.0,10
+2025-02,MD,"Arts, media, sports",25144.1,0.0,5
+2025-02,MD,Business and finance,225597.1,0.0,44
+2025-02,MD,Cleaning and grounds,88690.8,25960.6,20
+2025-02,MD,Community and social service,35212.7,0.0,6
+2025-02,MD,Computer and math,222581.3,11084.4,40
+2025-02,MD,Construction,191033.1,8383.2,35
+2025-02,MD,Education,223313.2,0.0,41
+2025-02,MD,Food service,138609.0,25787.6,27
+2025-02,MD,Healthcare practitioners,179960.6,0.0,33
+2025-02,MD,Healthcare support,113703.9,0.0,19
+2025-02,MD,Installation and repair,72948.6,0.0,13
+2025-02,MD,Legal,43322.4,0.0,8
+2025-02,MD,Management,428721.9,17584.3,82
+2025-02,MD,No previous job,0.0,3661.6,1
+2025-02,MD,Office and admin,288604.7,0.0,51
+2025-02,MD,Personal care,50547.2,9862.4,12
+2025-02,MD,Production,44654.1,5064.6,9
+2025-02,MD,Protective service,92335.9,0.0,16
+2025-02,MD,Sales,199825.6,3487.5,36
+2025-02,MD,Science,102383.3,0.0,17
+2025-02,MD,Transportation,189360.3,18855.7,36
+2025-02,ME,Architecture and engineering,13827.4,0.0,7
+2025-02,ME,"Arts, media, sports",22368.5,0.0,12
+2025-02,ME,Business and finance,37966.2,3487.1,22
+2025-02,ME,Cleaning and grounds,6509.1,0.0,4
+2025-02,ME,Community and social service,16924.1,0.0,8
+2025-02,ME,Computer and math,11994.8,0.0,7
+2025-02,ME,Construction,36840.6,1671.1,18
+2025-02,ME,Education,38226.8,0.0,21
+2025-02,ME,Farming,4648.5,0.0,3
+2025-02,ME,Food service,26430.2,1926.8,13
+2025-02,ME,Healthcare practitioners,67270.5,0.0,32
+2025-02,ME,Healthcare support,26182.8,2163.9,14
+2025-02,ME,Installation and repair,31617.3,2342.3,15
+2025-02,ME,Legal,4133.3,0.0,3
+2025-02,ME,Management,100180.8,0.0,52
+2025-02,ME,Office and admin,57482.6,1722.6,34
+2025-02,ME,Personal care,8252.5,0.0,5
+2025-02,ME,Production,43038.8,0.0,19
+2025-02,ME,Protective service,6381.0,3204.2,5
+2025-02,ME,Sales,89050.2,5733.6,51
+2025-02,ME,Science,8129.7,0.0,4
+2025-02,ME,Transportation,25125.1,0.0,13
+2025-02,MI,Architecture and engineering,178032.3,0.0,34
+2025-02,MI,"Arts, media, sports",69662.1,12530.8,16
+2025-02,MI,Business and finance,274889.5,0.0,59
+2025-02,MI,Cleaning and grounds,125999.8,0.0,24
+2025-02,MI,Community and social service,73923.0,0.0,15
+2025-02,MI,Computer and math,162617.1,6589.1,32
+2025-02,MI,Construction,196372.6,57125.3,47
+2025-02,MI,Education,280561.3,0.0,57
+2025-02,MI,Farming,20756.0,4345.3,5
+2025-02,MI,Food service,279760.5,34218.7,61
+2025-02,MI,Healthcare practitioners,388420.5,5285.2,76
+2025-02,MI,Healthcare support,197928.9,0.0,39
+2025-02,MI,Installation and repair,199901.1,0.0,41
+2025-02,MI,Legal,46707.0,0.0,11
+2025-02,MI,Management,535951.5,5404.0,113
+2025-02,MI,No previous job,0.0,10607.4,2
+2025-02,MI,Office and admin,431785.0,44272.1,93
+2025-02,MI,Personal care,66165.3,26675.3,19
+2025-02,MI,Production,436412.8,39151.6,87
+2025-02,MI,Protective service,71012.4,0.0,13
+2025-02,MI,Sales,351352.2,10714.1,73
+2025-02,MI,Science,52289.8,0.0,9
+2025-02,MI,Transportation,302677.6,37720.0,64
+2025-02,MN,Architecture and engineering,78284.1,0.0,19
+2025-02,MN,"Arts, media, sports",70720.1,0.0,13
+2025-02,MN,Business and finance,256902.5,6645.9,54
+2025-02,MN,Cleaning and grounds,57892.4,8253.6,16
+2025-02,MN,Community and social service,96997.2,0.0,20
+2025-02,MN,Computer and math,91354.0,3431.3,20
+2025-02,MN,Construction,80660.9,15061.4,23
+2025-02,MN,Education,134931.1,10436.7,34
+2025-02,MN,Farming,36922.6,4283.0,10
+2025-02,MN,Food service,92313.3,23012.6,25
+2025-02,MN,Healthcare practitioners,221518.1,4483.7,50
+2025-02,MN,Healthcare support,202259.8,9634.6,40
+2025-02,MN,Installation and repair,69002.2,0.0,16
+2025-02,MN,Legal,37036.2,0.0,8
+2025-02,MN,Management,445547.9,5489.2,103
+2025-02,MN,Office and admin,304131.8,10748.5,69
+2025-02,MN,Personal care,60904.9,6097.8,13
+2025-02,MN,Production,184563.1,5413.9,43
+2025-02,MN,Protective service,51123.3,0.0,10
+2025-02,MN,Sales,253644.0,8792.1,55
+2025-02,MN,Science,25614.3,0.0,5
+2025-02,MN,Transportation,176384.6,14276.0,40
+2025-02,MO,Architecture and engineering,49622.0,0.0,12
+2025-02,MO,"Arts, media, sports",50516.6,0.0,10
+2025-02,MO,Business and finance,188662.7,4379.0,44
+2025-02,MO,Cleaning and grounds,152613.2,0.0,31
+2025-02,MO,Community and social service,29815.4,0.0,5
+2025-02,MO,Computer and math,77061.7,7571.5,18
+2025-02,MO,Construction,163684.1,8062.0,33
+2025-02,MO,Education,166548.2,11188.1,34
+2025-02,MO,Farming,15631.2,0.0,3
+2025-02,MO,Food service,138721.5,24175.3,33
+2025-02,MO,Healthcare practitioners,196056.2,3987.0,39
+2025-02,MO,Healthcare support,92135.2,8951.6,19
+2025-02,MO,Installation and repair,120829.3,5115.2,26
+2025-02,MO,Legal,13590.7,0.0,3
+2025-02,MO,Management,383482.0,0.0,85
+2025-02,MO,No previous job,0.0,5991.8,1
+2025-02,MO,Office and admin,357550.2,3935.7,76
+2025-02,MO,Personal care,53985.2,0.0,11
+2025-02,MO,Production,204166.3,23718.4,46
+2025-02,MO,Protective service,63883.1,0.0,13
+2025-02,MO,Sales,288192.6,16651.5,67
+2025-02,MO,Science,32459.8,0.0,7
+2025-02,MO,Transportation,245736.7,10254.5,56
+2025-02,MS,Architecture and engineering,18589.7,0.0,11
+2025-02,MS,"Arts, media, sports",6784.0,0.0,4
+2025-02,MS,Business and finance,34889.4,7525.0,22
+2025-02,MS,Cleaning and grounds,53228.3,10225.1,35
+2025-02,MS,Community and social service,33502.6,0.0,20
+2025-02,MS,Computer and math,16139.4,0.0,10
+2025-02,MS,Construction,104158.0,13316.1,67
+2025-02,MS,Education,91806.0,0.0,53
+2025-02,MS,Farming,6291.4,0.0,3
+2025-02,MS,Food service,60135.8,6756.7,33
+2025-02,MS,Healthcare practitioners,79907.9,4068.3,48
+2025-02,MS,Healthcare support,45929.2,2731.8,26
+2025-02,MS,Installation and repair,68357.5,4961.1,42
+2025-02,MS,Legal,9981.2,0.0,7
+2025-02,MS,Management,138162.4,5712.2,86
+2025-02,MS,No previous job,0.0,2146.8,1
+2025-02,MS,Office and admin,99311.6,2225.2,57
+2025-02,MS,Personal care,28873.4,0.0,16
+2025-02,MS,Production,100906.0,7228.0,54
+2025-02,MS,Protective service,27706.7,2721.3,16
+2025-02,MS,Sales,99754.3,2418.6,58
+2025-02,MS,Science,4508.1,0.0,3
+2025-02,MS,Transportation,129091.8,0.0,69
+2025-02,MT,Architecture and engineering,10839.6,723.1,17
+2025-02,MT,"Arts, media, sports",13278.2,1092.2,23
+2025-02,MT,Business and finance,37380.0,0.0,55
+2025-02,MT,Cleaning and grounds,20960.1,0.0,28
+2025-02,MT,Community and social service,8411.8,0.0,12
+2025-02,MT,Computer and math,17630.8,0.0,26
+2025-02,MT,Construction,31354.5,2154.5,50
+2025-02,MT,Education,20390.0,0.0,27
+2025-02,MT,Farming,7740.0,1551.0,13
+2025-02,MT,Food service,33543.1,2523.4,48
+2025-02,MT,Healthcare practitioners,33283.9,0.0,46
+2025-02,MT,Healthcare support,13438.1,0.0,19
+2025-02,MT,Installation and repair,18512.7,0.0,26
+2025-02,MT,Legal,6258.3,0.0,10
+2025-02,MT,Management,101597.4,773.7,157
+2025-02,MT,Office and admin,60726.5,1447.1,91
+2025-02,MT,Personal care,23988.4,0.0,32
+2025-02,MT,Production,11489.8,725.4,17
+2025-02,MT,Protective service,8189.2,1504.1,14
+2025-02,MT,Sales,45534.9,1037.1,67
+2025-02,MT,Science,11919.4,0.0,17
+2025-02,MT,Transportation,24816.4,3097.0,40
+2025-02,NC,Architecture and engineering,117509.0,0.0,26
+2025-02,NC,"Arts, media, sports",97709.4,0.0,19
+2025-02,NC,Business and finance,283493.0,15346.2,64
+2025-02,NC,Cleaning and grounds,234500.7,4508.7,48
+2025-02,NC,Community and social service,78532.8,0.0,16
+2025-02,NC,Computer and math,285877.3,0.0,62
+2025-02,NC,Construction,315949.3,12795.5,70
+2025-02,NC,Education,260881.8,4391.7,56
+2025-02,NC,Farming,22913.8,0.0,5
+2025-02,NC,Food service,295572.3,20383.4,64
+2025-02,NC,Healthcare practitioners,258027.6,4958.2,57
+2025-02,NC,Healthcare support,170663.5,24132.6,39
+2025-02,NC,Installation and repair,186943.3,0.0,37
+2025-02,NC,Legal,46174.2,0.0,10
+2025-02,NC,Management,607248.2,4882.5,132
+2025-02,NC,No previous job,0.0,4240.6,1
+2025-02,NC,Office and admin,564468.8,16587.1,124
+2025-02,NC,Personal care,113385.5,0.0,25
+2025-02,NC,Production,280100.2,4503.4,56
+2025-02,NC,Protective service,69592.3,7487.9,15
+2025-02,NC,Sales,458801.3,11219.4,100
+2025-02,NC,Science,94213.9,0.0,20
+2025-02,NC,Transportation,333461.1,5226.5,67
+2025-02,NC,Unclassified,0.0,9085.8,2
+2025-02,ND,Architecture and engineering,7983.0,0.0,14
+2025-02,ND,"Arts, media, sports",4398.3,0.0,8
+2025-02,ND,Business and finance,22090.7,0.0,40
+2025-02,ND,Cleaning and grounds,12483.6,0.0,23
+2025-02,ND,Community and social service,11814.4,529.4,23
+2025-02,ND,Computer and math,6077.2,0.0,11
+2025-02,ND,Construction,23153.5,1095.4,44
+2025-02,ND,Education,36905.9,0.0,65
+2025-02,ND,Farming,2228.6,0.0,5
+2025-02,ND,Food service,19794.7,440.0,37
+2025-02,ND,Healthcare practitioners,22983.7,0.0,43
+2025-02,ND,Healthcare support,7908.0,0.0,15
+2025-02,ND,Installation and repair,19389.1,1552.3,38
+2025-02,ND,Legal,2290.4,0.0,4
+2025-02,ND,Management,56449.9,540.3,108
+2025-02,ND,No previous job,0.0,681.1,1
+2025-02,ND,Office and admin,46450.2,1030.6,89
+2025-02,ND,Personal care,6821.3,1157.5,16
+2025-02,ND,Production,21850.1,0.0,40
+2025-02,ND,Protective service,7814.3,0.0,12
+2025-02,ND,Sales,38482.1,1461.5,71
+2025-02,ND,Science,6064.4,0.0,11
+2025-02,ND,Transportation,38479.1,2770.1,73
+2025-02,NE,Architecture and engineering,17338.2,0.0,10
+2025-02,NE,"Arts, media, sports",13558.9,1237.2,10
+2025-02,NE,Business and finance,55572.1,1787.1,37
+2025-02,NE,Cleaning and grounds,48033.2,0.0,35
+2025-02,NE,Community and social service,12885.8,0.0,8
+2025-02,NE,Computer and math,49558.3,0.0,32
+2025-02,NE,Construction,44016.7,3062.8,32
+2025-02,NE,Education,78562.5,5184.2,52
+2025-02,NE,Farming,9279.8,0.0,7
+2025-02,NE,Food service,35993.8,2207.4,24
+2025-02,NE,Healthcare practitioners,69764.0,1544.3,50
+2025-02,NE,Healthcare support,28876.0,0.0,20
+2025-02,NE,Installation and repair,23110.0,0.0,16
+2025-02,NE,Legal,8711.7,0.0,6
+2025-02,NE,Management,159551.5,3731.0,118
+2025-02,NE,No previous job,0.0,8889.9,4
+2025-02,NE,Office and admin,103787.5,995.0,66
+2025-02,NE,Personal care,22886.2,0.0,16
+2025-02,NE,Production,76352.8,1888.6,55
+2025-02,NE,Protective service,20172.0,0.0,12
+2025-02,NE,Sales,95267.9,6890.7,68
+2025-02,NE,Science,11672.1,1962.9,9
+2025-02,NE,Transportation,66767.6,8108.3,51
+2025-02,NH,Architecture and engineering,21815.8,2731.8,18
+2025-02,NH,"Arts, media, sports",17142.6,0.0,14
+2025-02,NH,Business and finance,53029.6,1197.4,46
+2025-02,NH,Cleaning and grounds,20055.3,0.0,16
+2025-02,NH,Community and social service,16713.1,2568.1,15
+2025-02,NH,Computer and math,33668.0,2614.5,28
+2025-02,NH,Construction,33935.2,6173.1,31
+2025-02,NH,Education,51468.7,1071.7,43
+2025-02,NH,Farming,2753.2,1430.7,3
+2025-02,NH,Food service,29992.8,0.0,23
+2025-02,NH,Healthcare practitioners,64216.2,1056.1,55
+2025-02,NH,Healthcare support,25878.0,0.0,20
+2025-02,NH,Installation and repair,24461.4,0.0,18
+2025-02,NH,Legal,11974.6,0.0,10
+2025-02,NH,Management,93957.5,913.4,80
+2025-02,NH,Office and admin,57734.8,1386.7,46
+2025-02,NH,Personal care,13098.3,0.0,11
+2025-02,NH,Production,30932.1,0.0,25
+2025-02,NH,Protective service,12927.8,0.0,9
+2025-02,NH,Sales,60670.9,4442.4,53
+2025-02,NH,Science,11829.0,1789.2,10
+2025-02,NH,Transportation,42034.0,0.0,31
+2025-02,NJ,Architecture and engineering,104663.9,0.0,18
+2025-02,NJ,"Arts, media, sports",81240.6,9858.2,18
+2025-02,NJ,Business and finance,309745.4,9276.7,60
+2025-02,NJ,Cleaning and grounds,178573.5,20069.0,35
+2025-02,NJ,Community and social service,82381.2,0.0,15
+2025-02,NJ,Computer and math,279201.8,20301.8,57
+2025-02,NJ,Construction,115631.6,29452.8,27
+2025-02,NJ,Education,340669.2,6751.7,63
+2025-02,NJ,Farming,8930.6,0.0,2
+2025-02,NJ,Food service,129078.2,4443.4,25
+2025-02,NJ,Healthcare practitioners,267220.7,15721.5,54
+2025-02,NJ,Healthcare support,214521.4,8934.5,37
+2025-02,NJ,Installation and repair,90424.3,0.0,15
+2025-02,NJ,Legal,51353.4,0.0,10
+2025-02,NJ,Management,616949.5,38753.4,123
+2025-02,NJ,No previous job,0.0,9501.3,2
+2025-02,NJ,Office and admin,470525.7,11380.0,88
+2025-02,NJ,Personal care,111672.3,16413.0,22
+2025-02,NJ,Production,98385.4,0.0,17
+2025-02,NJ,Protective service,84589.3,4969.9,15
+2025-02,NJ,Sales,538538.5,11774.3,101
+2025-02,NJ,Science,35135.1,0.0,7
+2025-02,NJ,Transportation,417682.8,17231.5,76
+2025-02,NM,Architecture and engineering,29773.9,3212.1,22
+2025-02,NM,"Arts, media, sports",9817.9,2396.3,8
+2025-02,NM,Business and finance,43746.2,0.0,30
+2025-02,NM,Cleaning and grounds,31027.3,0.0,22
+2025-02,NM,Community and social service,20332.6,0.0,14
+2025-02,NM,Computer and math,43485.3,1267.2,30
+2025-02,NM,Construction,75105.4,0.0,44
+2025-02,NM,Education,60275.9,0.0,40
+2025-02,NM,Farming,3205.7,0.0,2
+2025-02,NM,Food service,43934.9,3939.4,27
+2025-02,NM,Healthcare practitioners,44935.9,1652.5,34
+2025-02,NM,Healthcare support,40198.4,945.8,27
+2025-02,NM,Installation and repair,28184.8,0.0,17
+2025-02,NM,Legal,10977.7,0.0,9
+2025-02,NM,Management,95182.7,2409.6,66
+2025-02,NM,No previous job,0.0,6410.6,4
+2025-02,NM,Office and admin,111767.3,5872.7,76
+2025-02,NM,Personal care,23466.5,1257.7,15
+2025-02,NM,Production,27662.7,0.0,17
+2025-02,NM,Protective service,22962.3,0.0,12
+2025-02,NM,Sales,87261.6,4958.2,61
+2025-02,NM,Science,11054.6,1660.0,9
+2025-02,NM,Transportation,55944.4,1157.0,37
+2025-02,NV,Architecture and engineering,39191.7,3070.7,17
+2025-02,NV,"Arts, media, sports",21871.8,0.0,9
+2025-02,NV,Business and finance,111544.0,12422.3,51
+2025-02,NV,Cleaning and grounds,90519.4,5786.2,41
+2025-02,NV,Community and social service,33626.4,0.0,15
+2025-02,NV,Computer and math,31160.3,0.0,15
+2025-02,NV,Construction,75512.9,2703.4,33
+2025-02,NV,Education,89783.2,2955.8,39
+2025-02,NV,Farming,6494.2,0.0,3
+2025-02,NV,Food service,111818.8,6379.1,49
+2025-02,NV,Healthcare practitioners,58090.1,2332.4,26
+2025-02,NV,Healthcare support,62972.6,2059.5,26
+2025-02,NV,Installation and repair,59691.9,0.0,25
+2025-02,NV,Legal,6685.5,0.0,3
+2025-02,NV,Management,193268.3,5242.2,83
+2025-02,NV,No previous job,0.0,10607.1,4
+2025-02,NV,Office and admin,181669.5,4191.6,79
+2025-02,NV,Personal care,56755.7,0.0,24
+2025-02,NV,Production,50584.3,6554.5,24
+2025-02,NV,Protective service,32776.8,2524.4,14
+2025-02,NV,Sales,131383.7,5943.8,62
+2025-02,NV,Science,15455.6,0.0,6
+2025-02,NV,Transportation,143753.8,9594.2,64
+2025-02,NY,Architecture and engineering,137185.5,3686.6,28
+2025-02,NY,"Arts, media, sports",368163.8,19560.6,72
+2025-02,NY,Business and finance,525640.3,5751.1,100
+2025-02,NY,Cleaning and grounds,284346.6,32382.8,58
+2025-02,NY,Community and social service,201752.9,0.0,33
+2025-02,NY,Computer and math,415449.9,5420.9,74
+2025-02,NY,Construction,460779.3,47256.4,91
+2025-02,NY,Education,707266.1,0.0,132
+2025-02,NY,Farming,12588.4,0.0,2
+2025-02,NY,Food service,428622.9,34230.2,78
+2025-02,NY,Healthcare practitioners,570437.8,11602.8,107
+2025-02,NY,Healthcare support,599223.7,9316.4,104
+2025-02,NY,Installation and repair,209421.9,5665.8,37
+2025-02,NY,Legal,211058.6,14875.0,41
+2025-02,NY,Management,1104945.8,18488.7,206
+2025-02,NY,No previous job,0.0,18682.3,4
+2025-02,NY,Office and admin,1095653.5,38702.7,201
+2025-02,NY,Personal care,282713.3,5608.1,48
+2025-02,NY,Production,276089.3,18734.0,52
+2025-02,NY,Protective service,256814.2,13829.6,48
+2025-02,NY,Sales,762823.0,24365.2,136
+2025-02,NY,Science,79170.7,0.0,15
+2025-02,NY,Transportation,544873.1,59377.0,101
+2025-02,OH,Architecture and engineering,86066.2,0.0,16
+2025-02,OH,"Arts, media, sports",109851.9,7897.2,24
+2025-02,OH,Business and finance,321877.6,8123.8,62
+2025-02,OH,Cleaning and grounds,130583.0,11582.6,27
+2025-02,OH,Community and social service,98793.3,5115.1,22
+2025-02,OH,Computer and math,209097.8,0.0,40
+2025-02,OH,Construction,196110.7,13993.2,44
+2025-02,OH,Education,275931.0,5477.7,54
+2025-02,OH,Farming,22029.1,5098.9,5
+2025-02,OH,Food service,280797.1,38974.3,59
+2025-02,OH,Healthcare practitioners,444755.5,0.0,88
+2025-02,OH,Healthcare support,232272.8,0.0,43
+2025-02,OH,Installation and repair,197192.4,14808.1,44
+2025-02,OH,Legal,45127.2,0.0,9
+2025-02,OH,Management,718170.7,15505.1,151
+2025-02,OH,No previous job,0.0,28869.9,6
+2025-02,OH,Office and admin,611900.1,33586.3,125
+2025-02,OH,Personal care,141460.7,8799.5,29
+2025-02,OH,Production,445749.1,28381.4,89
+2025-02,OH,Protective service,83580.1,0.0,16
+2025-02,OH,Sales,438553.0,42477.9,97
+2025-02,OH,Science,82370.3,0.0,16
+2025-02,OH,Transportation,448171.4,88252.2,101
+2025-02,OK,Architecture and engineering,42590.9,0.0,18
+2025-02,OK,"Arts, media, sports",18329.6,3933.1,10
+2025-02,OK,Business and finance,98894.5,4913.6,40
+2025-02,OK,Cleaning and grounds,55707.6,2284.8,23
+2025-02,OK,Community and social service,42648.0,0.0,16
+2025-02,OK,Computer and math,23374.3,0.0,9
+2025-02,OK,Construction,80519.8,14250.1,39
+2025-02,OK,Education,122579.4,1964.2,48
+2025-02,OK,Farming,21512.3,0.0,10
+2025-02,OK,Food service,106443.7,8287.8,39
+2025-02,OK,Healthcare practitioners,108606.6,0.0,41
+2025-02,OK,Healthcare support,54055.9,2139.7,21
+2025-02,OK,Installation and repair,78237.6,0.0,31
+2025-02,OK,Legal,23296.8,0.0,9
+2025-02,OK,Management,244321.5,4194.7,101
+2025-02,OK,No previous job,0.0,2350.4,1
+2025-02,OK,Office and admin,207650.5,20770.4,90
+2025-02,OK,Personal care,63934.0,0.0,24
+2025-02,OK,Production,130054.4,0.0,47
+2025-02,OK,Protective service,19420.4,0.0,8
+2025-02,OK,Sales,169189.4,9739.5,71
+2025-02,OK,Science,8551.3,0.0,4
+2025-02,OK,Transportation,172307.5,5365.8,68
+2025-02,OR,Architecture and engineering,66335.1,0.0,24
+2025-02,OR,"Arts, media, sports",50929.9,3583.0,19
+2025-02,OR,Business and finance,107498.3,4856.4,40
+2025-02,OR,Cleaning and grounds,71900.2,8404.0,27
+2025-02,OR,Community and social service,57447.2,0.0,21
+2025-02,OR,Computer and math,72964.4,3441.4,27
+2025-02,OR,Construction,62877.0,5493.0,22
+2025-02,OR,Education,121832.5,5975.9,48
+2025-02,OR,Farming,21613.5,2527.1,8
+2025-02,OR,Food service,114621.6,13130.8,41
+2025-02,OR,Healthcare practitioners,102521.1,6245.5,40
+2025-02,OR,Healthcare support,131808.4,6860.4,50
+2025-02,OR,Installation and repair,69524.4,3470.0,23
+2025-02,OR,Legal,10038.4,0.0,4
+2025-02,OR,Management,261932.1,11036.1,95
+2025-02,OR,No previous job,0.0,5015.9,2
+2025-02,OR,Office and admin,214627.6,9013.4,80
+2025-02,OR,Personal care,45371.4,0.0,15
+2025-02,OR,Production,90067.1,0.0,31
+2025-02,OR,Protective service,21084.2,2471.9,8
+2025-02,OR,Sales,151898.6,11975.7,58
+2025-02,OR,Science,34497.2,0.0,11
+2025-02,OR,Transportation,217058.9,22057.3,80
+2025-02,PA,Architecture and engineering,119880.9,0.0,25
+2025-02,PA,"Arts, media, sports",126577.5,10967.2,27
+2025-02,PA,Business and finance,340468.1,4058.4,73
+2025-02,PA,Cleaning and grounds,204229.1,3912.9,41
+2025-02,PA,Community and social service,90653.2,0.0,18
+2025-02,PA,Computer and math,309316.7,0.0,60
+2025-02,PA,Construction,240334.3,45989.7,55
+2025-02,PA,Education,345581.2,6512.4,74
+2025-02,PA,Farming,29651.9,6601.7,7
+2025-02,PA,Food service,321688.7,32988.6,68
+2025-02,PA,Healthcare practitioners,491176.2,0.0,105
+2025-02,PA,Healthcare support,282471.7,5955.9,54
+2025-02,PA,Installation and repair,183708.9,19948.3,39
+2025-02,PA,Legal,79025.8,0.0,16
+2025-02,PA,Management,788144.4,14060.7,169
+2025-02,PA,No previous job,0.0,10127.1,2
+2025-02,PA,Office and admin,646668.2,13930.3,142
+2025-02,PA,Personal care,155889.3,20557.7,34
+2025-02,PA,Production,317548.2,0.0,65
+2025-02,PA,Protective service,101293.8,12303.6,20
+2025-02,PA,Sales,552828.4,21612.5,117
+2025-02,PA,Science,117215.8,0.0,22
+2025-02,PA,Transportation,445438.0,36333.9,96
+2025-02,RI,Architecture and engineering,11422.4,0.0,8
+2025-02,RI,"Arts, media, sports",15375.0,0.0,12
+2025-02,RI,Business and finance,25910.4,3344.5,21
+2025-02,RI,Cleaning and grounds,23489.7,13576.1,25
+2025-02,RI,Community and social service,12413.0,0.0,9
+2025-02,RI,Computer and math,13343.3,0.0,10
+2025-02,RI,Construction,25891.2,6515.4,26
+2025-02,RI,Education,45570.7,0.0,39
+2025-02,RI,Farming,4631.0,0.0,4
+2025-02,RI,Food service,31501.2,3070.9,22
+2025-02,RI,Healthcare practitioners,33639.8,1323.5,30
+2025-02,RI,Healthcare support,20759.0,2189.7,17
+2025-02,RI,Installation and repair,10530.5,0.0,9
+2025-02,RI,Legal,4306.3,0.0,4
+2025-02,RI,Management,71515.0,2458.6,63
+2025-02,RI,No previous job,0.0,2238.7,2
+2025-02,RI,Office and admin,62759.0,795.7,46
+2025-02,RI,Personal care,5666.4,3128.2,7
+2025-02,RI,Production,19640.1,1103.6,16
+2025-02,RI,Protective service,14559.2,0.0,11
+2025-02,RI,Sales,48825.6,3447.8,41
+2025-02,RI,Science,6284.8,0.0,5
+2025-02,RI,Transportation,23318.8,2507.6,21
+2025-02,SC,Architecture and engineering,51042.0,0.0,13
+2025-02,SC,"Arts, media, sports",33771.0,15552.3,15
+2025-02,SC,Business and finance,193901.6,2903.8,54
+2025-02,SC,Cleaning and grounds,123700.0,5296.5,37
+2025-02,SC,Community and social service,26958.8,0.0,8
+2025-02,SC,Computer and math,72958.4,0.0,22
+2025-02,SC,Construction,131335.4,0.0,40
+2025-02,SC,Education,140699.3,7714.9,43
+2025-02,SC,Farming,69746.6,0.0,20
+2025-02,SC,Food service,120211.7,9161.9,36
+2025-02,SC,Healthcare practitioners,168019.8,0.0,51
+2025-02,SC,Healthcare support,71734.8,4297.4,22
+2025-02,SC,Installation and repair,93358.5,0.0,28
+2025-02,SC,Legal,3662.2,0.0,1
+2025-02,SC,Management,315179.2,0.0,94
+2025-02,SC,No previous job,0.0,9576.7,3
+2025-02,SC,Office and admin,286578.6,11883.2,85
+2025-02,SC,Personal care,31991.2,6775.2,10
+2025-02,SC,Production,231375.6,5677.7,67
+2025-02,SC,Protective service,23269.9,0.0,8
+2025-02,SC,Sales,197089.9,17142.6,66
+2025-02,SC,Science,9391.9,0.0,3
+2025-02,SC,Transportation,170257.3,17805.7,54
+2025-02,SD,Architecture and engineering,11179.3,0.0,13
+2025-02,SD,"Arts, media, sports",9355.5,0.0,11
+2025-02,SD,Business and finance,24813.5,0.0,31
+2025-02,SD,Cleaning and grounds,14029.9,0.0,15
+2025-02,SD,Community and social service,7287.2,0.0,8
+2025-02,SD,Computer and math,6383.9,0.0,9
+2025-02,SD,Construction,22251.3,0.0,26
+2025-02,SD,Education,42585.7,0.0,53
+2025-02,SD,Farming,9176.0,0.0,10
+2025-02,SD,Food service,26024.9,1136.0,27
+2025-02,SD,Healthcare practitioners,41537.5,0.0,48
+2025-02,SD,Healthcare support,15413.9,0.0,18
+2025-02,SD,Installation and repair,17277.6,0.0,22
+2025-02,SD,Legal,2427.8,0.0,3
+2025-02,SD,Management,53704.7,2772.0,72
+2025-02,SD,Office and admin,38883.3,0.0,49
+2025-02,SD,Personal care,7626.2,0.0,10
+2025-02,SD,Production,32028.1,0.0,35
+2025-02,SD,Protective service,8622.6,0.0,10
+2025-02,SD,Sales,52488.7,1807.1,65
+2025-02,SD,Science,3265.3,0.0,4
+2025-02,SD,Transportation,34126.7,922.8,39
+2025-02,TN,Architecture and engineering,101465.1,0.0,25
+2025-02,TN,"Arts, media, sports",60054.4,3672.0,15
+2025-02,TN,Business and finance,184182.9,0.0,43
+2025-02,TN,Cleaning and grounds,97863.3,5616.5,26
+2025-02,TN,Community and social service,71240.9,6037.1,17
+2025-02,TN,Computer and math,80323.8,0.0,20
+2025-02,TN,Construction,210297.1,19937.7,51
+2025-02,TN,Education,157721.3,0.0,42
+2025-02,TN,Farming,9183.8,0.0,2
+2025-02,TN,Food service,176583.3,8914.8,47
+2025-02,TN,Healthcare practitioners,269866.2,2421.0,63
+2025-02,TN,Healthcare support,48269.3,0.0,13
+2025-02,TN,Installation and repair,110932.3,0.0,26
+2025-02,TN,Legal,15233.2,0.0,3
+2025-02,TN,Management,423750.4,0.0,101
+2025-02,TN,Office and admin,383210.4,13857.4,104
+2025-02,TN,Personal care,36491.0,0.0,9
+2025-02,TN,Production,246786.9,0.0,62
+2025-02,TN,Protective service,86185.0,4422.9,21
+2025-02,TN,Sales,298889.6,20156.8,77
+2025-02,TN,Science,40538.6,0.0,9
+2025-02,TN,Transportation,265041.0,14756.3,65
+2025-02,TX,Architecture and engineering,390135.9,11472.9,75
+2025-02,TX,"Arts, media, sports",263379.7,33056.4,59
+2025-02,TX,Business and finance,928700.0,24931.3,179
+2025-02,TX,Cleaning and grounds,416518.2,40390.7,87
+2025-02,TX,Community and social service,173442.5,0.0,36
+2025-02,TX,Computer and math,655825.1,34788.9,128
+2025-02,TX,Construction,1019190.0,64638.0,200
+2025-02,TX,Education,951664.5,4783.1,186
+2025-02,TX,Farming,57124.1,7072.6,12
+2025-02,TX,Food service,711681.4,49332.7,137
+2025-02,TX,Healthcare practitioners,816379.7,4627.0,157
+2025-02,TX,Healthcare support,449963.1,16806.9,88
+2025-02,TX,Installation and repair,563545.3,36438.4,109
+2025-02,TX,Legal,157071.7,3917.0,32
+2025-02,TX,Management,2003370.2,46149.7,403
+2025-02,TX,No previous job,0.0,86255.8,13
+2025-02,TX,Office and admin,1469976.7,48904.7,291
+2025-02,TX,Personal care,360583.3,15177.2,71
+2025-02,TX,Production,763293.3,11233.0,147
+2025-02,TX,Protective service,236277.6,5872.1,47
+2025-02,TX,Sales,1520443.4,66029.5,297
+2025-02,TX,Science,117470.9,14430.5,26
+2025-02,TX,Transportation,1191900.1,69378.5,226
+2025-02,UT,Architecture and engineering,33810.9,0.0,20
+2025-02,UT,"Arts, media, sports",30595.3,1792.7,17
+2025-02,UT,Business and finance,89259.7,5064.0,48
+2025-02,UT,Cleaning and grounds,47654.3,1593.9,27
+2025-02,UT,Community and social service,42615.3,1819.0,23
+2025-02,UT,Computer and math,71494.7,0.0,41
+2025-02,UT,Construction,118620.3,3172.7,64
+2025-02,UT,Education,110891.8,3864.9,62
+2025-02,UT,Farming,9379.5,0.0,5
+2025-02,UT,Food service,89158.7,0.0,47
+2025-02,UT,Healthcare practitioners,103713.9,1342.5,56
+2025-02,UT,Healthcare support,40432.6,1748.6,22
+2025-02,UT,Installation and repair,67176.5,0.0,35
+2025-02,UT,Legal,20105.3,0.0,10
+2025-02,UT,Management,224320.8,11854.7,127
+2025-02,UT,Office and admin,222146.8,6928.8,123
+2025-02,UT,Personal care,41107.7,0.0,22
+2025-02,UT,Production,88458.4,4903.9,50
+2025-02,UT,Protective service,40115.9,0.0,20
+2025-02,UT,Sales,161779.9,6166.6,87
+2025-02,UT,Science,13532.4,0.0,8
+2025-02,UT,Transportation,118848.5,3782.0,62
+2025-02,VA,Architecture and engineering,99316.2,0.0,19
+2025-02,VA,"Arts, media, sports",128243.2,9216.2,28
+2025-02,VA,Business and finance,317276.3,8065.2,65
+2025-02,VA,Cleaning and grounds,118908.6,4430.9,24
+2025-02,VA,Community and social service,45896.7,0.0,9
+2025-02,VA,Computer and math,353266.8,10461.1,70
+2025-02,VA,Construction,197015.3,6469.0,38
+2025-02,VA,Education,221448.3,3559.7,48
+2025-02,VA,Farming,9394.7,10230.8,4
+2025-02,VA,Food service,142486.3,8434.6,27
+2025-02,VA,Healthcare practitioners,267692.9,0.0,53
+2025-02,VA,Healthcare support,94286.6,0.0,18
+2025-02,VA,Installation and repair,140466.3,0.0,26
+2025-02,VA,Legal,65883.8,0.0,13
+2025-02,VA,Management,683951.8,4826.7,137
+2025-02,VA,No previous job,0.0,46705.4,8
+2025-02,VA,Office and admin,361265.2,22418.4,76
+2025-02,VA,Personal care,98778.3,7667.6,19
+2025-02,VA,Production,209232.6,4484.1,42
+2025-02,VA,Protective service,90217.7,3777.0,16
+2025-02,VA,Sales,318947.8,21669.8,64
+2025-02,VA,Science,38795.4,4936.9,9
+2025-02,VA,Transportation,269773.6,9882.7,53
+2025-02,VT,Architecture and engineering,5589.0,0.0,10
+2025-02,VT,"Arts, media, sports",10495.3,0.0,21
+2025-02,VT,Business and finance,21749.5,0.0,41
+2025-02,VT,Cleaning and grounds,12732.0,0.0,25
+2025-02,VT,Community and social service,10310.6,0.0,19
+2025-02,VT,Computer and math,10901.9,0.0,20
+2025-02,VT,Construction,19801.7,1778.1,42
+2025-02,VT,Education,24958.8,445.1,50
+2025-02,VT,Farming,5941.5,478.3,12
+2025-02,VT,Food service,16951.8,1088.3,30
+2025-02,VT,Healthcare practitioners,19348.2,0.0,37
+2025-02,VT,Healthcare support,6944.5,0.0,13
+2025-02,VT,Installation and repair,11350.6,0.0,22
+2025-02,VT,Legal,4718.0,0.0,10
+2025-02,VT,Management,46304.6,881.6,94
+2025-02,VT,Office and admin,30687.5,1089.3,61
+2025-02,VT,Personal care,9033.4,0.0,15
+2025-02,VT,Production,19664.5,928.0,36
+2025-02,VT,Protective service,5265.3,0.0,10
+2025-02,VT,Sales,28260.2,1934.0,59
+2025-02,VT,Science,8367.5,0.0,16
+2025-02,VT,Transportation,12584.3,1946.3,31
+2025-02,WA,Architecture and engineering,143636.7,3446.7,33
+2025-02,WA,"Arts, media, sports",50731.1,0.0,12
+2025-02,WA,Business and finance,209085.3,0.0,50
+2025-02,WA,Cleaning and grounds,103800.6,0.0,25
+2025-02,WA,Community and social service,47459.5,3587.1,13
+2025-02,WA,Computer and math,272833.0,20535.6,69
+2025-02,WA,Construction,173943.3,17909.3,41
+2025-02,WA,Education,212461.8,19045.1,51
+2025-02,WA,Farming,33688.2,4297.3,8
+2025-02,WA,Food service,215725.1,19121.3,51
+2025-02,WA,Healthcare practitioners,171277.6,4116.7,43
+2025-02,WA,Healthcare support,171208.4,6963.9,40
+2025-02,WA,Installation and repair,94372.5,4940.2,23
+2025-02,WA,Legal,6735.3,0.0,2
+2025-02,WA,Management,508783.3,22032.5,126
+2025-02,WA,No previous job,0.0,13269.9,3
+2025-02,WA,Office and admin,309870.2,28141.0,78
+2025-02,WA,Personal care,87876.3,7664.9,20
+2025-02,WA,Production,199180.5,11970.4,47
+2025-02,WA,Protective service,101164.7,3118.6,24
+2025-02,WA,Sales,298239.2,3472.7,65
+2025-02,WA,Science,35099.8,0.0,8
+2025-02,WA,Transportation,273992.9,27959.2,63
+2025-02,WI,Architecture and engineering,68509.2,0.0,14
+2025-02,WI,"Arts, media, sports",56547.2,5830.1,14
+2025-02,WI,Business and finance,182613.7,6274.7,40
+2025-02,WI,Cleaning and grounds,116815.8,10620.0,27
+2025-02,WI,Community and social service,51869.3,0.0,11
+2025-02,WI,Computer and math,128467.8,0.0,26
+2025-02,WI,Construction,102946.1,18476.0,25
+2025-02,WI,Education,203527.1,0.0,43
+2025-02,WI,Farming,43238.7,0.0,9
+2025-02,WI,Food service,143693.8,5180.9,31
+2025-02,WI,Healthcare practitioners,245432.0,0.0,52
+2025-02,WI,Healthcare support,115421.7,0.0,24
+2025-02,WI,Installation and repair,95047.4,5075.6,22
+2025-02,WI,Legal,20525.9,0.0,5
+2025-02,WI,Management,365916.8,0.0,83
+2025-02,WI,Office and admin,277366.1,5842.4,63
+2025-02,WI,Personal care,48713.9,11243.8,11
+2025-02,WI,Production,269087.0,14119.4,61
+2025-02,WI,Protective service,26486.2,0.0,6
+2025-02,WI,Sales,173034.7,0.0,36
+2025-02,WI,Science,42729.4,0.0,9
+2025-02,WI,Transportation,198455.1,24440.5,48
+2025-02,WV,Architecture and engineering,9688.8,0.0,12
+2025-02,WV,"Arts, media, sports",15540.3,741.1,20
+2025-02,WV,Business and finance,19647.8,0.0,25
+2025-02,WV,Cleaning and grounds,21228.4,577.3,27
+2025-02,WV,Community and social service,12918.3,0.0,17
+2025-02,WV,Computer and math,18374.2,0.0,22
+2025-02,WV,Construction,46591.4,4585.6,62
+2025-02,WV,Education,53755.0,1156.0,70
+2025-02,WV,Farming,2605.0,695.3,4
+2025-02,WV,Food service,27253.3,747.0,32
+2025-02,WV,Healthcare practitioners,71191.4,0.0,83
+2025-02,WV,Healthcare support,31631.4,0.0,38
+2025-02,WV,Installation and repair,37984.2,936.0,49
+2025-02,WV,Legal,5886.5,0.0,8
+2025-02,WV,Management,85246.7,0.0,111
+2025-02,WV,No previous job,0.0,4754.5,5
+2025-02,WV,Office and admin,80320.0,2356.1,105
+2025-02,WV,Personal care,15668.3,936.7,19
+2025-02,WV,Production,35004.2,835.4,42
+2025-02,WV,Protective service,19584.8,0.0,24
+2025-02,WV,Sales,64944.5,4194.7,85
+2025-02,WV,Science,9570.8,0.0,13
+2025-02,WV,Transportation,71297.9,2459.6,90
+2025-02,WY,Architecture and engineering,5696.0,0.0,12
+2025-02,WY,"Arts, media, sports",2884.2,0.0,6
+2025-02,WY,Business and finance,8481.5,0.0,19
+2025-02,WY,Cleaning and grounds,9410.8,637.7,21
+2025-02,WY,Community and social service,6281.5,0.0,15
+2025-02,WY,Computer and math,4559.1,0.0,10
+2025-02,WY,Construction,27095.3,1956.2,54
+2025-02,WY,Education,22165.6,0.0,50
+2025-02,WY,Farming,2218.0,0.0,5
+2025-02,WY,Food service,11612.9,964.4,25
+2025-02,WY,Healthcare practitioners,18262.1,929.7,42
+2025-02,WY,Healthcare support,8748.4,662.5,20
+2025-02,WY,Installation and repair,13798.6,0.0,27
+2025-02,WY,Legal,2390.1,0.0,5
+2025-02,WY,Management,36713.1,0.0,82
+2025-02,WY,Office and admin,22299.8,1702.5,49
+2025-02,WY,Personal care,5997.1,0.0,13
+2025-02,WY,Production,12099.3,0.0,27
+2025-02,WY,Protective service,7618.2,0.0,16
+2025-02,WY,Sales,21127.8,1083.2,47
+2025-02,WY,Science,2195.4,0.0,5
+2025-02,WY,Transportation,21456.1,0.0,44

@@ -1,0 +1,1173 @@
+month,state,group,employed,unemployed,n
+2020-06,AK,Architecture and engineering,10966.9,586.8,20
+2020-06,AK,"Arts, media, sports",4470.0,2602.3,13
+2020-06,AK,Business and finance,9274.9,0.0,17
+2020-06,AK,Cleaning and grounds,11742.7,1806.8,22
+2020-06,AK,Community and social service,7303.5,0.0,12
+2020-06,AK,Computer and math,9344.1,595.7,17
+2020-06,AK,Construction,17266.6,4381.5,31
+2020-06,AK,Education,15317.7,1137.5,28
+2020-06,AK,Farming,5098.5,957.7,9
+2020-06,AK,Food service,10598.3,2643.7,22
+2020-06,AK,Healthcare practitioners,23373.4,1470.4,43
+2020-06,AK,Healthcare support,6833.6,1553.6,15
+2020-06,AK,Installation and repair,9280.0,1301.5,17
+2020-06,AK,Legal,4754.0,806.3,9
+2020-06,AK,Management,38106.2,3965.7,72
+2020-06,AK,No previous job,0.0,3126.9,5
+2020-06,AK,Office and admin,40577.8,3015.7,78
+2020-06,AK,Personal care,8421.9,1477.2,16
+2020-06,AK,Production,13938.6,1547.2,22
+2020-06,AK,Protective service,8326.4,0.0,13
+2020-06,AK,Sales,21677.8,1732.5,37
+2020-06,AK,Science,5274.9,637.0,9
+2020-06,AK,Transportation,21911.0,7699.5,48
+2020-06,AL,Architecture and engineering,48688.3,0.0,18
+2020-06,AL,"Arts, media, sports",31100.8,6560.1,15
+2020-06,AL,Business and finance,126197.9,5547.6,55
+2020-06,AL,Cleaning and grounds,70246.6,10924.0,31
+2020-06,AL,Community and social service,26721.2,0.0,13
+2020-06,AL,Computer and math,52566.3,0.0,18
+2020-06,AL,Construction,90847.9,18495.3,41
+2020-06,AL,Education,87551.5,13321.9,43
+2020-06,AL,Farming,9940.4,0.0,4
+2020-06,AL,Food service,75188.7,10862.0,30
+2020-06,AL,Healthcare practitioners,129259.9,2220.3,56
+2020-06,AL,Healthcare support,76485.3,5278.2,32
+2020-06,AL,Installation and repair,66722.8,2324.9,28
+2020-06,AL,Legal,10234.7,0.0,5
+2020-06,AL,Management,251999.5,0.0,110
+2020-06,AL,No previous job,0.0,19006.2,6
+2020-06,AL,Office and admin,235710.8,5343.7,101
+2020-06,AL,Personal care,45127.7,15265.7,25
+2020-06,AL,Production,184143.0,5882.3,71
+2020-06,AL,Protective service,47533.0,0.0,19
+2020-06,AL,Sales,247344.6,27852.8,106
+2020-06,AL,Science,11513.0,2138.7,6
+2020-06,AL,Transportation,171958.4,19722.5,73
+2020-06,AR,Architecture and engineering,13903.1,0.0,8
+2020-06,AR,"Arts, media, sports",24449.3,6127.4,14
+2020-06,AR,Business and finance,40687.1,7342.0,23
+2020-06,AR,Cleaning and grounds,34746.7,4885.6,21
+2020-06,AR,Community and social service,27843.4,3288.1,15
+2020-06,AR,Computer and math,33420.7,0.0,14
+2020-06,AR,Construction,56467.1,2826.0,30
+2020-06,AR,Education,87213.2,7190.3,47
+2020-06,AR,Farming,4704.1,4740.3,4
+2020-06,AR,Food service,41566.3,16756.5,29
+2020-06,AR,Healthcare practitioners,107359.7,6925.0,55
+2020-06,AR,Healthcare support,45778.6,0.0,24
+2020-06,AR,Installation and repair,53651.1,6241.5,30
+2020-06,AR,Legal,22842.7,0.0,10
+2020-06,AR,Management,123902.4,8918.3,68
+2020-06,AR,No previous job,0.0,2248.5,1
+2020-06,AR,Office and admin,128531.9,8696.3,70
+2020-06,AR,Personal care,25583.8,5583.0,16
+2020-06,AR,Production,89716.7,5961.7,44
+2020-06,AR,Protective service,31878.0,2057.6,19
+2020-06,AR,Sales,105245.6,6661.2,61
+2020-06,AR,Science,10525.8,0.0,5
+2020-06,AR,Transportation,115399.8,7320.8,61
+2020-06,AZ,Architecture and engineering,73450.9,5374.3,15
+2020-06,AZ,"Arts, media, sports",73746.7,4887.3,16
+2020-06,AZ,Business and finance,186996.9,0.0,38
+2020-06,AZ,Cleaning and grounds,104118.7,20443.5,24
+2020-06,AZ,Community and social service,59383.3,0.0,12
+2020-06,AZ,Computer and math,142211.5,0.0,27
+2020-06,AZ,Construction,220741.7,10568.0,41
+2020-06,AZ,Education,133640.5,10043.2,30
+2020-06,AZ,Farming,11772.0,15245.8,6
+2020-06,AZ,Food service,109866.8,31214.0,27
+2020-06,AZ,Healthcare practitioners,191592.0,0.0,41
+2020-06,AZ,Healthcare support,132370.2,16032.4,28
+2020-06,AZ,Installation and repair,86561.4,9626.4,17
+2020-06,AZ,Legal,18770.9,5581.6,5
+2020-06,AZ,Management,414420.3,53500.2,95
+2020-06,AZ,No previous job,0.0,31915.4,6
+2020-06,AZ,Office and admin,355219.6,57106.4,84
+2020-06,AZ,Personal care,49264.6,16906.1,13
+2020-06,AZ,Production,127355.3,12080.4,27
+2020-06,AZ,Protective service,63683.9,7261.8,14
+2020-06,AZ,Sales,409716.7,34705.2,80
+2020-06,AZ,Science,31406.9,0.0,6
+2020-06,AZ,Transportation,178921.5,16237.2,36
+2020-06,AZ,Unclassified,0.0,21052.9,3
+2020-06,CA,Architecture and engineering,417888.0,29215.5,90
+2020-06,CA,"Arts, media, sports",437998.8,154021.6,129
+2020-06,CA,Business and finance,979274.7,73945.2,220
+2020-06,CA,Cleaning and grounds,638883.4,79647.3,143
+2020-06,CA,Community and social service,291047.0,37812.7,69
+2020-06,CA,Computer and math,864642.2,35854.8,180
+2020-06,CA,Construction,839380.1,138700.3,192
+2020-06,CA,Education,752508.7,145579.7,190
+2020-06,CA,Farming,199354.3,17254.0,42
+2020-06,CA,Food service,695296.5,387815.9,201
+2020-06,CA,Healthcare practitioners,986517.1,65416.6,220
+2020-06,CA,Healthcare support,593581.5,78910.7,140
+2020-06,CA,Installation and repair,485992.8,44473.5,104
+2020-06,CA,Legal,256430.0,23721.6,60
+2020-06,CA,Management,1988233.0,100649.2,455
+2020-06,CA,No previous job,0.0,155118.6,28
+2020-06,CA,Office and admin,1672570.8,262691.0,394
+2020-06,CA,Personal care,278627.0,236200.8,100
+2020-06,CA,Production,642202.2,97819.2,145
+2020-06,CA,Protective service,402148.2,20181.7,85
+2020-06,CA,Sales,1387122.6,289281.2,345
+2020-06,CA,Science,250412.5,25133.6,57
+2020-06,CA,Transportation,992476.9,226069.2,226
+2020-06,CO,Architecture and engineering,68629.5,0.0,12
+2020-06,CO,"Arts, media, sports",104914.5,0.0,20
+2020-06,CO,Business and finance,121722.5,18661.0,30
+2020-06,CO,Cleaning and grounds,83803.5,22419.3,19
+2020-06,CO,Community and social service,53462.5,0.0,10
+2020-06,CO,Computer and math,146010.9,18044.6,34
+2020-06,CO,Construction,182203.7,22561.2,39
+2020-06,CO,Education,148429.7,22387.1,34
+2020-06,CO,Farming,31032.8,0.0,6
+2020-06,CO,Food service,152655.1,36412.4,33
+2020-06,CO,Healthcare practitioners,158507.6,0.0,32
+2020-06,CO,Healthcare support,35926.5,0.0,7
+2020-06,CO,Installation and repair,91640.0,9766.5,19
+2020-06,CO,Legal,49109.3,0.0,10
+2020-06,CO,Management,418037.3,24548.5,92
+2020-06,CO,No previous job,0.0,10891.4,2
+2020-06,CO,Office and admin,286207.7,29508.7,57
+2020-06,CO,Personal care,74444.8,10422.4,14
+2020-06,CO,Production,31499.7,10054.9,8
+2020-06,CO,Protective service,67216.4,0.0,12
+2020-06,CO,Sales,265780.5,69311.3,60
+2020-06,CO,Science,33371.5,6663.0,7
+2020-06,CO,Transportation,148919.5,61690.3,40
+2020-06,CT,Architecture and engineering,24818.2,2757.5,8
+2020-06,CT,"Arts, media, sports",32588.9,7266.0,11
+2020-06,CT,Business and finance,111071.8,9904.1,36
+2020-06,CT,Cleaning and grounds,89141.7,0.0,22
+2020-06,CT,Community and social service,26392.2,0.0,7
+2020-06,CT,Computer and math,45687.1,2517.0,14
+2020-06,CT,Construction,101822.1,6424.9,28
+2020-06,CT,Education,144303.2,13150.0,46
+2020-06,CT,Food service,76681.0,44310.9,27
+2020-06,CT,Healthcare practitioners,151436.3,5020.8,44
+2020-06,CT,Healthcare support,39404.1,14477.4,14
+2020-06,CT,Installation and repair,54088.4,10934.9,18
+2020-06,CT,Legal,25492.2,0.0,8
+2020-06,CT,Management,208820.9,8948.7,65
+2020-06,CT,No previous job,0.0,3834.3,1
+2020-06,CT,Office and admin,119772.3,15615.4,40
+2020-06,CT,Personal care,48928.5,5220.1,15
+2020-06,CT,Production,71930.5,0.0,22
+2020-06,CT,Protective service,28997.6,7063.5,10
+2020-06,CT,Sales,177112.4,36907.3,54
+2020-06,CT,Science,18725.6,0.0,5
+2020-06,CT,Transportation,95143.3,16312.7,28
+2020-06,DC,Architecture and engineering,5924.7,0.0,12
+2020-06,DC,"Arts, media, sports",16637.8,989.9,37
+2020-06,DC,Business and finance,42693.3,402.4,88
+2020-06,DC,Cleaning and grounds,5271.7,1231.4,12
+2020-06,DC,Community and social service,10647.6,1924.1,26
+2020-06,DC,Computer and math,27882.1,0.0,58
+2020-06,DC,Construction,5281.2,2022.1,13
+2020-06,DC,Education,20090.0,3334.8,50
+2020-06,DC,Food service,9414.3,5407.9,26
+2020-06,DC,Healthcare practitioners,16316.9,470.6,32
+2020-06,DC,Healthcare support,3541.1,572.7,7
+2020-06,DC,Installation and repair,2722.3,0.0,4
+2020-06,DC,Legal,27724.2,1056.7,64
+2020-06,DC,Management,80941.2,5536.7,177
+2020-06,DC,No previous job,0.0,647.6,1
+2020-06,DC,Office and admin,26882.1,1955.4,53
+2020-06,DC,Personal care,2182.6,5167.8,11
+2020-06,DC,Production,1624.3,0.0,3
+2020-06,DC,Protective service,7313.9,613.4,12
+2020-06,DC,Sales,16034.0,2039.9,35
+2020-06,DC,Science,17316.7,526.1,37
+2020-06,DC,Transportation,9759.6,1879.6,23
+2020-06,DE,Architecture and engineering,9321.3,0.0,10
+2020-06,DE,"Arts, media, sports",2028.0,1820.5,4
+2020-06,DE,Business and finance,37857.2,1285.2,36
+2020-06,DE,Cleaning and grounds,15821.0,1647.1,18
+2020-06,DE,Community and social service,12561.5,853.5,13
+2020-06,DE,Computer and math,8874.4,3320.9,11
+2020-06,DE,Construction,18528.0,1664.1,21
+2020-06,DE,Education,33547.4,2355.8,35
+2020-06,DE,Farming,805.9,0.0,1
+2020-06,DE,Food service,17874.1,10937.2,25
+2020-06,DE,Healthcare practitioners,31518.4,3650.8,33
+2020-06,DE,Healthcare support,9832.9,725.9,11
+2020-06,DE,Installation and repair,6585.6,6397.1,13
+2020-06,DE,Legal,8017.6,0.0,8
+2020-06,DE,Management,55518.6,4176.6,66
+2020-06,DE,No previous job,0.0,906.5,1
+2020-06,DE,Office and admin,45867.6,5430.3,44
+2020-06,DE,Personal care,6311.0,8401.9,15
+2020-06,DE,Production,14889.8,2267.6,18
+2020-06,DE,Protective service,9860.6,0.0,8
+2020-06,DE,Sales,36816.5,4693.0,40
+2020-06,DE,Science,756.9,872.7,2
+2020-06,DE,Transportation,40621.1,6833.8,41
+2020-06,DE,Unclassified,0.0,690.6,1
+2020-06,FL,Architecture and engineering,125439.9,10692.1,23
+2020-06,FL,"Arts, media, sports",160715.0,82171.1,41
+2020-06,FL,Business and finance,528900.4,9137.4,94
+2020-06,FL,Cleaning and grounds,352029.2,86961.2,74
+2020-06,FL,Community and social service,99425.4,11626.8,21
+2020-06,FL,Computer and math,334277.9,13695.3,58
+2020-06,FL,Construction,508983.3,58495.8,90
+2020-06,FL,Education,407298.2,84736.7,86
+2020-06,FL,Farming,36089.7,5274.9,8
+2020-06,FL,Food service,369747.0,65519.5,67
+2020-06,FL,Healthcare practitioners,647818.6,25701.9,117
+2020-06,FL,Healthcare support,191908.0,49061.2,44
+2020-06,FL,Installation and repair,271290.5,57391.3,56
+2020-06,FL,Legal,120736.7,0.0,22
+2020-06,FL,Management,1194897.7,55134.9,225
+2020-06,FL,No previous job,0.0,29652.3,5
+2020-06,FL,Office and admin,1004430.2,117235.9,193
+2020-06,FL,Personal care,174027.8,54527.8,40
+2020-06,FL,Production,269987.2,28753.2,52
+2020-06,FL,Protective service,194798.1,8349.9,33
+2020-06,FL,Sales,961349.0,165040.1,192
+2020-06,FL,Science,55254.3,9579.9,11
+2020-06,FL,Transportation,650153.4,99796.7,123
+2020-06,GA,Architecture and engineering,92825.7,0.0,16
+2020-06,GA,"Arts, media, sports",76382.6,10792.4,17
+2020-06,GA,Business and finance,237973.5,26538.7,50
+2020-06,GA,Cleaning and grounds,189939.1,21787.2,36
+2020-06,GA,Community and social service,94704.7,6533.7,18
+2020-06,GA,Computer and math,119918.3,0.0,23
+2020-06,GA,Construction,213697.6,4317.7,41
+2020-06,GA,Education,290142.5,24222.6,62
+2020-06,GA,Farming,38681.0,0.0,8
+2020-06,GA,Food service,187746.1,68069.4,46
+2020-06,GA,Healthcare practitioners,350481.0,12280.9,66
+2020-06,GA,Healthcare support,64626.9,8079.8,14
+2020-06,GA,Installation and repair,147589.7,31598.8,35
+2020-06,GA,Legal,34686.4,0.0,7
+2020-06,GA,Management,530567.5,11102.5,104
+2020-06,GA,No previous job,0.0,50659.1,9
+2020-06,GA,Office and admin,416615.5,33226.9,86
+2020-06,GA,Personal care,124166.8,19770.5,25
+2020-06,GA,Production,276970.2,23016.1,52
+2020-06,GA,Protective service,124906.4,0.0,22
+2020-06,GA,Sales,539539.8,27453.9,104
+2020-06,GA,Science,22305.6,10516.1,6
+2020-06,GA,Transportation,388212.0,33065.9,77
+2020-06,HI,Architecture and engineering,16494.9,622.7,21
+2020-06,HI,"Arts, media, sports",10502.5,3566.2,13
+2020-06,HI,Business and finance,27390.6,4694.1,32
+2020-06,HI,Cleaning and grounds,18067.9,12064.8,35
+2020-06,HI,Community and social service,15675.7,368.1,16
+2020-06,HI,Computer and math,17218.1,0.0,19
+2020-06,HI,Construction,25498.0,2459.1,28
+2020-06,HI,Education,26459.7,2385.6,35
+2020-06,HI,Farming,4778.6,0.0,4
+2020-06,HI,Food service,30319.1,11184.6,40
+2020-06,HI,Healthcare practitioners,34490.0,771.9,42
+2020-06,HI,Healthcare support,17342.3,0.0,18
+2020-06,HI,Installation and repair,20714.4,2590.7,27
+2020-06,HI,Legal,5804.2,0.0,6
+2020-06,HI,Management,66941.2,4347.6,75
+2020-06,HI,No previous job,0.0,1327.8,1
+2020-06,HI,Office and admin,53897.4,10592.1,64
+2020-06,HI,Personal care,10519.8,9688.7,21
+2020-06,HI,Production,16694.2,2861.9,20
+2020-06,HI,Protective service,28501.7,1040.4,27
+2020-06,HI,Sales,56550.2,8630.8,65
+2020-06,HI,Science,2792.9,0.0,4
+2020-06,HI,Transportation,40185.9,7783.6,46
+2020-06,HI,Unclassified,0.0,798.2,1
+2020-06,IA,Architecture and engineering,16938.9,0.0,6
+2020-06,IA,"Arts, media, sports",22061.9,0.0,8
+2020-06,IA,Business and finance,77979.1,5540.2,31
+2020-06,IA,Cleaning and grounds,45690.7,5396.7,18
+2020-06,IA,Community and social service,21983.1,0.0,8
+2020-06,IA,Computer and math,29680.8,2094.7,12
+2020-06,IA,Construction,86173.4,2738.3,32
+2020-06,IA,Education,101069.2,7547.1,41
+2020-06,IA,Farming,17340.4,0.0,7
+2020-06,IA,Food service,76852.6,20634.5,35
+2020-06,IA,Healthcare practitioners,111363.1,2390.7,42
+2020-06,IA,Healthcare support,50373.8,2181.2,19
+2020-06,IA,Installation and repair,54219.7,7577.3,23
+2020-06,IA,Legal,9317.9,0.0,4
+2020-06,IA,Management,219719.1,12800.1,87
+2020-06,IA,No previous job,0.0,2647.0,1
+2020-06,IA,Office and admin,143685.3,8259.5,57
+2020-06,IA,Personal care,23331.5,10589.9,13
+2020-06,IA,Production,118321.4,14452.9,46
+2020-06,IA,Protective service,19830.4,2257.3,8
+2020-06,IA,Sales,113059.5,21772.1,49
+2020-06,IA,Science,16012.4,0.0,6
+2020-06,IA,Transportation,125165.4,9226.8,48
+2020-06,ID,Architecture and engineering,18412.7,0.0,16
+2020-06,ID,"Arts, media, sports",12355.5,975.4,12
+2020-06,ID,Business and finance,46400.9,1391.4,44
+2020-06,ID,Cleaning and grounds,21987.6,2975.5,23
+2020-06,ID,Community and social service,24126.4,1924.1,22
+2020-06,ID,Computer and math,16282.9,0.0,15
+2020-06,ID,Construction,55349.6,1126.4,47
+2020-06,ID,Education,44419.8,5082.2,47
+2020-06,ID,Farming,22702.3,6967.4,23
+2020-06,ID,Food service,34797.6,7109.4,33
+2020-06,ID,Healthcare practitioners,32077.0,0.0,30
+2020-06,ID,Healthcare support,23214.6,1220.2,21
+2020-06,ID,Installation and repair,32075.5,2943.0,28
+2020-06,ID,Legal,4012.0,0.0,4
+2020-06,ID,Management,120831.0,1771.6,114
+2020-06,ID,No previous job,0.0,2613.7,2
+2020-06,ID,Office and admin,83199.1,2537.5,77
+2020-06,ID,Personal care,14882.6,1357.9,14
+2020-06,ID,Production,45522.0,3150.7,42
+2020-06,ID,Protective service,18466.4,0.0,17
+2020-06,ID,Sales,92893.3,7264.9,86
+2020-06,ID,Science,9874.4,2910.1,11
+2020-06,ID,Transportation,66800.4,4538.8,59
+2020-06,IL,Architecture and engineering,128480.3,9051.0,27
+2020-06,IL,"Arts, media, sports",115152.8,49520.2,31
+2020-06,IL,Business and finance,335004.0,10292.2,69
+2020-06,IL,Cleaning and grounds,153579.6,37927.3,37
+2020-06,IL,Community and social service,76276.9,5232.4,15
+2020-06,IL,Computer and math,287040.9,22325.9,60
+2020-06,IL,Construction,261746.3,33349.2,54
+2020-06,IL,Education,375833.2,39863.4,83
+2020-06,IL,Farming,34921.9,5373.1,7
+2020-06,IL,Food service,217197.5,132610.7,59
+2020-06,IL,Healthcare practitioners,307095.1,28843.8,69
+2020-06,IL,Healthcare support,146624.4,0.0,24
+2020-06,IL,Installation and repair,181555.8,12827.9,39
+2020-06,IL,Legal,74593.4,0.0,15
+2020-06,IL,Management,685039.4,49434.4,145
+2020-06,IL,No previous job,0.0,61582.6,11
+2020-06,IL,Office and admin,572006.9,126233.6,133
+2020-06,IL,Personal care,135217.0,49311.8,36
+2020-06,IL,Production,348810.1,15926.8,67
+2020-06,IL,Protective service,119793.3,27371.1,28
+2020-06,IL,Sales,558776.5,89377.1,116
+2020-06,IL,Science,84781.5,0.0,17
+2020-06,IL,Transportation,394647.2,61511.2,87
+2020-06,IL,Unclassified,0.0,5228.4,1
+2020-06,IN,Architecture and engineering,83808.8,0.0,20
+2020-06,IN,"Arts, media, sports",33796.1,13966.5,11
+2020-06,IN,Business and finance,132175.6,33005.9,42
+2020-06,IN,Cleaning and grounds,89546.5,4907.4,23
+2020-06,IN,Community and social service,76961.9,0.0,18
+2020-06,IN,Computer and math,86616.3,0.0,20
+2020-06,IN,Construction,170118.9,3704.1,41
+2020-06,IN,Education,182678.8,45689.8,57
+2020-06,IN,Farming,18800.5,0.0,5
+2020-06,IN,Food service,150376.5,38509.5,43
+2020-06,IN,Healthcare practitioners,182024.1,0.0,46
+2020-06,IN,Healthcare support,78563.4,5448.3,20
+2020-06,IN,Installation and repair,107199.9,7687.5,29
+2020-06,IN,Legal,13985.0,0.0,3
+2020-06,IN,Management,390088.4,11149.4,98
+2020-06,IN,No previous job,0.0,12344.2,3
+2020-06,IN,Office and admin,268465.1,42636.9,73
+2020-06,IN,Personal care,62617.2,31800.5,22
+2020-06,IN,Production,225614.5,34549.8,61
+2020-06,IN,Protective service,31806.8,11901.7,10
+2020-06,IN,Sales,302321.4,29400.7,82
+2020-06,IN,Science,38392.8,0.0,8
+2020-06,IN,Transportation,215377.1,46541.9,64
+2020-06,KS,Architecture and engineering,46766.2,0.0,19
+2020-06,KS,"Arts, media, sports",23852.5,2541.5,11
+2020-06,KS,Business and finance,72674.5,0.0,33
+2020-06,KS,Cleaning and grounds,27997.1,6838.2,12
+2020-06,KS,Community and social service,16660.4,0.0,7
+2020-06,KS,Computer and math,31101.0,0.0,13
+2020-06,KS,Construction,63207.9,0.0,28
+2020-06,KS,Education,107528.0,14326.3,53
+2020-06,KS,Farming,21304.2,0.0,9
+2020-06,KS,Food service,59590.7,10265.6,23
+2020-06,KS,Healthcare practitioners,91238.5,2127.7,43
+2020-06,KS,Healthcare support,33114.8,8004.2,18
+2020-06,KS,Installation and repair,36434.4,9137.4,19
+2020-06,KS,Legal,6261.5,0.0,3
+2020-06,KS,Management,168323.9,1716.0,76
+2020-06,KS,No previous job,0.0,2346.3,1
+2020-06,KS,Office and admin,169622.7,0.0,72
+2020-06,KS,Personal care,25362.4,2939.8,12
+2020-06,KS,Production,114485.6,3188.5,44
+2020-06,KS,Protective service,24478.7,4106.0,12
+2020-06,KS,Sales,145504.8,11661.6,67
+2020-06,KS,Science,16462.4,1863.9,8
+2020-06,KS,Transportation,102103.1,11494.4,45
+2020-06,KS,Unclassified,0.0,2145.3,1
+2020-06,KY,Architecture and engineering,29725.5,0.0,8
+2020-06,KY,"Arts, media, sports",30228.8,0.0,6
+2020-06,KY,Business and finance,54220.3,0.0,11
+2020-06,KY,Cleaning and grounds,114741.5,5455.3,25
+2020-06,KY,Community and social service,43125.3,0.0,12
+2020-06,KY,Computer and math,62318.7,0.0,10
+2020-06,KY,Construction,65889.9,17836.0,18
+2020-06,KY,Education,102666.3,15698.6,27
+2020-06,KY,Farming,13282.4,0.0,3
+2020-06,KY,Food service,41270.4,8119.8,11
+2020-06,KY,Healthcare practitioners,107558.5,8119.3,27
+2020-06,KY,Healthcare support,25127.0,2869.1,8
+2020-06,KY,Installation and repair,114262.9,4585.1,25
+2020-06,KY,Legal,21106.1,0.0,5
+2020-06,KY,Management,166566.8,0.0,38
+2020-06,KY,Office and admin,214719.6,14074.6,53
+2020-06,KY,Personal care,19851.4,3255.4,5
+2020-06,KY,Production,209151.4,6304.2,46
+2020-06,KY,Protective service,18671.0,0.0,4
+2020-06,KY,Sales,177244.3,4848.5,43
+2020-06,KY,Science,31559.5,0.0,5
+2020-06,KY,Transportation,169132.9,12177.2,42
+2020-06,LA,Architecture and engineering,32629.0,1780.4,18
+2020-06,LA,"Arts, media, sports",14935.6,2138.6,8
+2020-06,LA,Business and finance,59601.2,0.0,27
+2020-06,LA,Cleaning and grounds,80522.3,9115.7,39
+2020-06,LA,Community and social service,26479.6,1760.0,12
+2020-06,LA,Computer and math,36846.3,2806.0,16
+2020-06,LA,Construction,142256.9,18940.9,67
+2020-06,LA,Education,151707.4,22539.4,80
+2020-06,LA,Farming,5390.3,0.0,3
+2020-06,LA,Food service,52383.9,38459.3,38
+2020-06,LA,Healthcare practitioners,138994.1,3559.0,66
+2020-06,LA,Healthcare support,64067.6,0.0,29
+2020-06,LA,Installation and repair,60143.9,7617.2,33
+2020-06,LA,Legal,25343.9,0.0,13
+2020-06,LA,Management,213697.2,7421.2,106
+2020-06,LA,No previous job,0.0,18994.8,8
+2020-06,LA,Office and admin,157056.7,23832.9,85
+2020-06,LA,Personal care,47394.4,13447.3,27
+2020-06,LA,Production,88874.2,11534.4,43
+2020-06,LA,Protective service,37560.0,0.0,14
+2020-06,LA,Sales,188602.9,16606.7,91
+2020-06,LA,Science,19624.3,0.0,11
+2020-06,LA,Transportation,156105.2,23701.9,77
+2020-06,MA,Architecture and engineering,75272.9,9632.1,27
+2020-06,MA,"Arts, media, sports",57775.8,2619.3,17
+2020-06,MA,Business and finance,263309.1,15333.6,83
+2020-06,MA,Cleaning and grounds,88645.7,16920.0,30
+2020-06,MA,Community and social service,81103.5,17404.8,27
+2020-06,MA,Computer and math,171682.3,3228.0,52
+2020-06,MA,Construction,139183.4,30462.2,52
+2020-06,MA,Education,202510.4,25657.6,67
+2020-06,MA,Farming,19951.8,2644.0,7
+2020-06,MA,Food service,93215.5,80101.8,51
+2020-06,MA,Healthcare practitioners,264291.0,8095.6,80
+2020-06,MA,Healthcare support,143773.0,22378.1,44
+2020-06,MA,Installation and repair,79670.0,9112.5,26
+2020-06,MA,Legal,44427.6,2245.1,14
+2020-06,MA,Management,430871.7,40410.2,145
+2020-06,MA,No previous job,0.0,29464.8,9
+2020-06,MA,Office and admin,279438.3,53708.1,102
+2020-06,MA,Personal care,51333.3,70656.0,32
+2020-06,MA,Production,99870.4,18711.5,34
+2020-06,MA,Protective service,68447.9,5558.3,23
+2020-06,MA,Sales,281065.8,69616.7,112
+2020-06,MA,Science,69416.5,2893.8,22
+2020-06,MA,Transportation,136856.0,45170.7,52
+2020-06,MD,Architecture and engineering,64787.8,0.0,12
+2020-06,MD,"Arts, media, sports",92863.9,10777.0,21
+2020-06,MD,Business and finance,161984.0,10765.3,32
+2020-06,MD,Cleaning and grounds,39278.9,15541.4,11
+2020-06,MD,Community and social service,37639.3,0.0,7
+2020-06,MD,Computer and math,144559.1,26421.4,32
+2020-06,MD,Construction,122439.7,19651.0,25
+2020-06,MD,Education,183937.3,38443.1,38
+2020-06,MD,Food service,37782.3,12890.8,10
+2020-06,MD,Healthcare practitioners,201876.8,18497.6,41
+2020-06,MD,Healthcare support,77640.6,18251.2,16
+2020-06,MD,Installation and repair,59922.9,0.0,11
+2020-06,MD,Legal,91172.0,0.0,18
+2020-06,MD,Management,475914.6,11989.8,93
+2020-06,MD,No previous job,0.0,18730.4,3
+2020-06,MD,Office and admin,326776.2,11989.2,61
+2020-06,MD,Personal care,50060.0,20420.1,12
+2020-06,MD,Production,57323.3,0.0,12
+2020-06,MD,Protective service,96209.0,5647.3,16
+2020-06,MD,Sales,329590.4,26012.4,58
+2020-06,MD,Science,95053.0,0.0,18
+2020-06,MD,Transportation,256205.1,5616.8,43
+2020-06,ME,Architecture and engineering,13039.6,1610.7,8
+2020-06,ME,"Arts, media, sports",13095.3,0.0,7
+2020-06,ME,Business and finance,35618.4,3552.0,23
+2020-06,ME,Cleaning and grounds,26608.7,2271.2,15
+2020-06,ME,Community and social service,9292.9,0.0,6
+2020-06,ME,Computer and math,11993.3,0.0,6
+2020-06,ME,Construction,38628.3,0.0,20
+2020-06,ME,Education,38807.7,4056.1,22
+2020-06,ME,Farming,13031.1,0.0,7
+2020-06,ME,Food service,35369.4,2136.2,20
+2020-06,ME,Healthcare practitioners,55656.7,3789.8,31
+2020-06,ME,Healthcare support,40064.7,0.0,23
+2020-06,ME,Installation and repair,13080.2,0.0,7
+2020-06,ME,Legal,8223.4,1466.0,5
+2020-06,ME,Management,82477.2,1798.7,46
+2020-06,ME,Office and admin,65760.7,1262.5,37
+2020-06,ME,Personal care,11501.2,2065.4,7
+2020-06,ME,Production,33710.4,0.0,17
+2020-06,ME,Protective service,15000.4,0.0,7
+2020-06,ME,Sales,54330.7,4363.7,33
+2020-06,ME,Science,8086.7,0.0,4
+2020-06,ME,Transportation,25141.9,5179.4,17
+2020-06,MI,Architecture and engineering,138396.6,6829.9,32
+2020-06,MI,"Arts, media, sports",88693.2,36681.4,29
+2020-06,MI,Business and finance,222826.2,7281.7,55
+2020-06,MI,Cleaning and grounds,203280.5,15316.0,47
+2020-06,MI,Community and social service,84419.8,0.0,18
+2020-06,MI,Computer and math,177438.6,23106.8,46
+2020-06,MI,Construction,188355.8,49969.2,52
+2020-06,MI,Education,201097.7,31720.6,57
+2020-06,MI,Farming,17348.4,0.0,3
+2020-06,MI,Food service,209427.7,110561.1,68
+2020-06,MI,Healthcare practitioners,293328.7,16443.6,74
+2020-06,MI,Healthcare support,132370.9,15375.5,32
+2020-06,MI,Installation and repair,124359.9,8993.8,31
+2020-06,MI,Legal,47108.7,4532.6,12
+2020-06,MI,Management,602020.2,28876.1,151
+2020-06,MI,No previous job,0.0,30600.1,6
+2020-06,MI,Office and admin,441470.2,65588.0,117
+2020-06,MI,Personal care,67795.8,50412.4,26
+2020-06,MI,Production,335522.0,57159.3,86
+2020-06,MI,Protective service,76094.6,8152.3,19
+2020-06,MI,Sales,289282.9,74523.2,84
+2020-06,MI,Science,51326.1,8544.4,13
+2020-06,MI,Transportation,227097.0,71313.9,66
+2020-06,MN,Architecture and engineering,71090.9,0.0,18
+2020-06,MN,"Arts, media, sports",73807.9,14043.5,21
+2020-06,MN,Business and finance,163139.1,17125.4,42
+2020-06,MN,Cleaning and grounds,105216.7,13869.5,25
+2020-06,MN,Community and social service,65482.1,0.0,14
+2020-06,MN,Computer and math,78360.8,8511.9,21
+2020-06,MN,Construction,141282.1,0.0,34
+2020-06,MN,Education,210314.1,11682.0,50
+2020-06,MN,Farming,12675.9,0.0,3
+2020-06,MN,Food service,96017.0,16077.1,26
+2020-06,MN,Healthcare practitioners,214479.2,11071.8,53
+2020-06,MN,Healthcare support,87019.5,0.0,19
+2020-06,MN,Installation and repair,75800.6,11282.4,23
+2020-06,MN,Legal,12150.8,4195.5,3
+2020-06,MN,Management,448057.2,13688.6,118
+2020-06,MN,No previous job,0.0,7445.2,1
+2020-06,MN,Office and admin,308853.0,15361.8,77
+2020-06,MN,Personal care,92073.6,25278.6,24
+2020-06,MN,Production,183736.1,5067.5,42
+2020-06,MN,Protective service,30257.3,18063.8,11
+2020-06,MN,Sales,238021.1,36686.4,65
+2020-06,MN,Science,36230.8,7701.4,11
+2020-06,MN,Transportation,139134.9,40424.0,43
+2020-06,MO,Architecture and engineering,58504.0,4345.8,13
+2020-06,MO,"Arts, media, sports",30735.1,4257.4,9
+2020-06,MO,Business and finance,128247.2,7232.8,32
+2020-06,MO,Cleaning and grounds,110525.7,8445.3,24
+2020-06,MO,Community and social service,25431.9,0.0,6
+2020-06,MO,Computer and math,102315.5,0.0,22
+2020-06,MO,Construction,115939.4,7253.5,27
+2020-06,MO,Education,196445.2,25937.2,50
+2020-06,MO,Farming,32698.2,0.0,7
+2020-06,MO,Food service,124984.3,18226.3,28
+2020-06,MO,Healthcare practitioners,216010.3,18135.3,47
+2020-06,MO,Healthcare support,114107.9,12123.6,26
+2020-06,MO,Installation and repair,83758.3,0.0,21
+2020-06,MO,Legal,43812.1,0.0,9
+2020-06,MO,Management,403091.8,10857.7,98
+2020-06,MO,No previous job,0.0,4762.0,1
+2020-06,MO,Office and admin,275819.5,10779.0,67
+2020-06,MO,Personal care,52028.9,18437.5,14
+2020-06,MO,Production,152603.6,13767.8,37
+2020-06,MO,Protective service,58820.3,3903.5,15
+2020-06,MO,Sales,228959.6,31057.5,60
+2020-06,MO,Science,38381.2,0.0,10
+2020-06,MO,Transportation,207611.4,20810.0,50
+2020-06,MS,Architecture and engineering,15558.9,0.0,10
+2020-06,MS,"Arts, media, sports",13353.7,0.0,9
+2020-06,MS,Business and finance,29497.0,3240.5,22
+2020-06,MS,Cleaning and grounds,22404.3,6741.3,18
+2020-06,MS,Community and social service,20590.8,2446.5,14
+2020-06,MS,Computer and math,12948.7,0.0,9
+2020-06,MS,Construction,62281.3,7947.3,45
+2020-06,MS,Education,58966.2,6016.0,44
+2020-06,MS,Farming,27484.1,1025.3,17
+2020-06,MS,Food service,49414.4,18259.0,35
+2020-06,MS,Healthcare practitioners,71053.1,1292.7,47
+2020-06,MS,Healthcare support,37681.0,0.0,19
+2020-06,MS,Installation and repair,58634.6,4671.6,42
+2020-06,MS,Legal,7198.6,0.0,5
+2020-06,MS,Management,140283.9,4997.1,95
+2020-06,MS,No previous job,0.0,14931.4,8
+2020-06,MS,Office and admin,112030.6,12778.7,84
+2020-06,MS,Personal care,28511.3,10282.7,23
+2020-06,MS,Production,83173.0,9306.6,55
+2020-06,MS,Protective service,28057.5,0.0,15
+2020-06,MS,Sales,115494.3,11870.0,75
+2020-06,MS,Science,7588.5,0.0,4
+2020-06,MS,Transportation,119485.3,10894.5,76
+2020-06,MT,Architecture and engineering,7230.5,1256.2,14
+2020-06,MT,"Arts, media, sports",13612.5,0.0,23
+2020-06,MT,Business and finance,19374.6,0.0,33
+2020-06,MT,Cleaning and grounds,26392.3,1993.1,45
+2020-06,MT,Community and social service,7258.1,494.6,14
+2020-06,MT,Computer and math,17412.8,860.6,27
+2020-06,MT,Construction,29123.2,3208.0,50
+2020-06,MT,Education,31786.5,4143.5,53
+2020-06,MT,Farming,6107.9,0.0,11
+2020-06,MT,Food service,29565.5,1947.8,46
+2020-06,MT,Healthcare practitioners,33776.8,0.0,55
+2020-06,MT,Healthcare support,18866.9,971.7,30
+2020-06,MT,Installation and repair,20937.6,1752.6,38
+2020-06,MT,Legal,7103.6,0.0,12
+2020-06,MT,Management,75522.1,4788.6,145
+2020-06,MT,No previous job,0.0,2058.8,3
+2020-06,MT,Office and admin,47515.1,1222.3,81
+2020-06,MT,Personal care,14145.1,1919.9,24
+2020-06,MT,Production,13098.6,2953.6,24
+2020-06,MT,Protective service,8622.1,820.9,14
+2020-06,MT,Sales,46487.9,3524.0,79
+2020-06,MT,Science,12128.5,0.0,18
+2020-06,MT,Transportation,33834.4,2307.8,57
+2020-06,NC,Architecture and engineering,73163.6,14235.4,18
+2020-06,NC,"Arts, media, sports",64118.1,4672.6,12
+2020-06,NC,Business and finance,252795.6,5655.2,48
+2020-06,NC,Cleaning and grounds,129083.5,17740.4,27
+2020-06,NC,Community and social service,131002.6,0.0,19
+2020-06,NC,Computer and math,223003.4,4999.4,39
+2020-06,NC,Construction,191297.2,27947.2,37
+2020-06,NC,Education,283071.1,16362.2,53
+2020-06,NC,Farming,9725.7,0.0,2
+2020-06,NC,Food service,207792.6,33956.4,40
+2020-06,NC,Healthcare practitioners,314100.3,5190.6,59
+2020-06,NC,Healthcare support,129552.1,0.0,22
+2020-06,NC,Installation and repair,204336.9,0.0,34
+2020-06,NC,Legal,39113.1,12845.6,9
+2020-06,NC,Management,551794.0,26327.5,108
+2020-06,NC,No previous job,0.0,20833.9,4
+2020-06,NC,Office and admin,472346.2,37036.2,87
+2020-06,NC,Personal care,143352.9,4511.5,24
+2020-06,NC,Production,276476.3,64082.2,57
+2020-06,NC,Protective service,47843.3,15970.8,10
+2020-06,NC,Sales,394284.6,50303.8,80
+2020-06,NC,Science,58478.0,0.0,11
+2020-06,NC,Transportation,311858.6,68037.7,69
+2020-06,ND,Architecture and engineering,4363.1,1475.7,12
+2020-06,ND,"Arts, media, sports",3346.0,399.0,8
+2020-06,ND,Business and finance,16182.4,0.0,35
+2020-06,ND,Cleaning and grounds,9463.4,2750.2,25
+2020-06,ND,Community and social service,7939.0,501.3,18
+2020-06,ND,Computer and math,7012.0,0.0,16
+2020-06,ND,Construction,24709.1,2753.1,56
+2020-06,ND,Education,27215.6,419.1,60
+2020-06,ND,Farming,7197.0,0.0,17
+2020-06,ND,Food service,12863.6,2596.6,33
+2020-06,ND,Healthcare practitioners,28705.7,0.0,62
+2020-06,ND,Healthcare support,14279.9,0.0,28
+2020-06,ND,Installation and repair,17910.0,2222.6,44
+2020-06,ND,Legal,3885.2,0.0,8
+2020-06,ND,Management,47831.4,390.8,106
+2020-06,ND,No previous job,0.0,784.0,2
+2020-06,ND,Office and admin,39188.4,1621.6,89
+2020-06,ND,Personal care,8749.6,2342.9,23
+2020-06,ND,Production,27925.2,1958.4,58
+2020-06,ND,Protective service,9859.0,0.0,20
+2020-06,ND,Sales,31237.2,797.5,71
+2020-06,ND,Science,6028.1,565.7,13
+2020-06,ND,Transportation,22417.2,4563.0,58
+2020-06,NE,Architecture and engineering,9890.9,0.0,7
+2020-06,NE,"Arts, media, sports",12905.6,3262.5,10
+2020-06,NE,Business and finance,44482.9,0.0,29
+2020-06,NE,Cleaning and grounds,36794.9,2847.6,24
+2020-06,NE,Community and social service,35205.2,0.0,21
+2020-06,NE,Computer and math,40988.0,0.0,25
+2020-06,NE,Construction,54563.8,2501.9,36
+2020-06,NE,Education,51238.2,4420.1,37
+2020-06,NE,Farming,10567.8,0.0,7
+2020-06,NE,Food service,35333.2,11844.1,28
+2020-06,NE,Healthcare practitioners,73955.6,0.0,49
+2020-06,NE,Healthcare support,21564.8,0.0,13
+2020-06,NE,Installation and repair,34987.8,0.0,21
+2020-06,NE,Legal,5574.1,1769.0,5
+2020-06,NE,Management,143138.3,6193.1,99
+2020-06,NE,No previous job,0.0,4980.9,3
+2020-06,NE,Office and admin,86911.8,10303.9,60
+2020-06,NE,Personal care,24737.5,6815.3,19
+2020-06,NE,Production,78340.5,7548.1,49
+2020-06,NE,Protective service,18048.4,0.0,9
+2020-06,NE,Sales,84030.1,8966.8,55
+2020-06,NE,Science,15722.4,1744.4,10
+2020-06,NE,Transportation,69879.0,1969.2,45
+2020-06,NH,Architecture and engineering,23417.3,0.0,24
+2020-06,NH,"Arts, media, sports",10695.5,0.0,11
+2020-06,NH,Business and finance,28200.0,1767.0,33
+2020-06,NH,Cleaning and grounds,25145.0,827.3,27
+2020-06,NH,Community and social service,10821.4,881.3,12
+2020-06,NH,Computer and math,29349.6,1442.5,31
+2020-06,NH,Construction,32049.8,3050.9,34
+2020-06,NH,Education,38638.4,5635.1,45
+2020-06,NH,Farming,6582.1,0.0,6
+2020-06,NH,Food service,36298.2,6305.0,40
+2020-06,NH,Healthcare practitioners,38286.4,3337.3,41
+2020-06,NH,Healthcare support,16482.5,1524.3,17
+2020-06,NH,Installation and repair,17171.4,6107.3,24
+2020-06,NH,Legal,6640.7,675.6,8
+2020-06,NH,Management,115204.8,8914.9,132
+2020-06,NH,No previous job,0.0,6022.1,5
+2020-06,NH,Office and admin,72417.0,10597.7,87
+2020-06,NH,Personal care,8076.0,850.3,8
+2020-06,NH,Production,40082.5,1927.2,43
+2020-06,NH,Protective service,7468.9,0.0,8
+2020-06,NH,Sales,64937.4,15112.2,78
+2020-06,NH,Science,6011.1,1029.4,7
+2020-06,NH,Transportation,44915.8,4288.9,49
+2020-06,NJ,Architecture and engineering,53762.8,5327.0,12
+2020-06,NJ,"Arts, media, sports",91441.6,18725.0,23
+2020-06,NJ,Business and finance,231876.6,12784.4,53
+2020-06,NJ,Cleaning and grounds,146444.1,18957.1,30
+2020-06,NJ,Community and social service,101607.6,5491.7,19
+2020-06,NJ,Computer and math,230485.7,9955.3,47
+2020-06,NJ,Construction,184085.9,35276.6,41
+2020-06,NJ,Education,265141.6,62470.5,69
+2020-06,NJ,Food service,74960.5,131022.8,37
+2020-06,NJ,Healthcare practitioners,235935.1,12971.5,49
+2020-06,NJ,Healthcare support,74062.6,15365.4,17
+2020-06,NJ,Installation and repair,93957.6,13193.1,20
+2020-06,NJ,Legal,85277.0,3358.2,19
+2020-06,NJ,Management,571540.5,53048.9,130
+2020-06,NJ,No previous job,0.0,30240.3,6
+2020-06,NJ,Office and admin,438051.7,89070.5,102
+2020-06,NJ,Personal care,81259.3,74485.7,29
+2020-06,NJ,Production,107230.8,19911.2,25
+2020-06,NJ,Protective service,36218.2,5633.5,8
+2020-06,NJ,Sales,401121.6,62878.9,95
+2020-06,NJ,Science,48029.3,0.0,9
+2020-06,NJ,Transportation,259508.0,48824.5,55
+2020-06,NM,Architecture and engineering,21142.3,2970.6,18
+2020-06,NM,"Arts, media, sports",11478.8,0.0,11
+2020-06,NM,Business and finance,39674.3,954.8,32
+2020-06,NM,Cleaning and grounds,19572.9,9777.8,21
+2020-06,NM,Community and social service,18185.4,804.8,15
+2020-06,NM,Computer and math,25069.7,1079.1,20
+2020-06,NM,Construction,55370.5,12627.0,50
+2020-06,NM,Education,58467.8,3535.0,54
+2020-06,NM,Farming,8478.5,2169.1,7
+2020-06,NM,Food service,34667.4,5926.3,30
+2020-06,NM,Healthcare practitioners,52552.0,893.7,41
+2020-06,NM,Healthcare support,33742.4,2150.3,26
+2020-06,NM,Installation and repair,37492.5,0.0,25
+2020-06,NM,Legal,14026.8,0.0,11
+2020-06,NM,Management,113516.9,1210.4,93
+2020-06,NM,No previous job,0.0,10362.7,7
+2020-06,NM,Office and admin,101000.0,6255.8,82
+2020-06,NM,Personal care,20634.5,3161.1,20
+2020-06,NM,Production,32347.9,4725.4,30
+2020-06,NM,Protective service,23921.8,1192.2,18
+2020-06,NM,Sales,68684.9,10817.5,61
+2020-06,NM,Science,8861.6,910.6,8
+2020-06,NM,Transportation,48598.1,5314.9,34
+2020-06,NM,Unclassified,0.0,1932.3,1
+2020-06,NV,Architecture and engineering,13646.2,0.0,4
+2020-06,NV,"Arts, media, sports",20490.5,2797.7,10
+2020-06,NV,Business and finance,69120.9,6198.2,29
+2020-06,NV,Cleaning and grounds,40393.0,15023.7,21
+2020-06,NV,Community and social service,21282.3,0.0,7
+2020-06,NV,Computer and math,52901.5,0.0,19
+2020-06,NV,Construction,109391.4,3963.7,41
+2020-06,NV,Education,72303.7,23013.4,35
+2020-06,NV,Farming,2024.2,0.0,1
+2020-06,NV,Food service,53176.6,40370.2,32
+2020-06,NV,Healthcare practitioners,63458.9,5184.1,24
+2020-06,NV,Healthcare support,25671.8,16974.8,15
+2020-06,NV,Installation and repair,51564.6,3692.8,18
+2020-06,NV,Legal,12294.6,1629.4,6
+2020-06,NV,Management,159258.8,6448.9,70
+2020-06,NV,No previous job,0.0,16495.2,6
+2020-06,NV,Office and admin,137583.2,12448.7,58
+2020-06,NV,Personal care,51507.3,18901.4,26
+2020-06,NV,Production,41701.7,12537.4,18
+2020-06,NV,Protective service,36940.0,2483.4,13
+2020-06,NV,Sales,141786.6,28653.4,59
+2020-06,NV,Science,9503.6,1696.8,4
+2020-06,NV,Transportation,88381.5,21496.5,40
+2020-06,NY,Architecture and engineering,164626.9,14891.2,35
+2020-06,NY,"Arts, media, sports",207886.1,82877.8,58
+2020-06,NY,Business and finance,513826.9,28992.9,109
+2020-06,NY,Cleaning and grounds,216260.8,73190.6,52
+2020-06,NY,Community and social service,283397.8,9132.2,55
+2020-06,NY,Computer and math,294639.0,8097.7,58
+2020-06,NY,Construction,435230.4,114471.7,94
+2020-06,NY,Education,572120.7,52608.3,128
+2020-06,NY,Farming,28972.0,0.0,6
+2020-06,NY,Food service,217231.1,138506.5,62
+2020-06,NY,Healthcare practitioners,584655.4,28731.3,122
+2020-06,NY,Healthcare support,383459.8,40635.9,75
+2020-06,NY,Installation and repair,156170.1,19568.0,31
+2020-06,NY,Legal,202778.5,0.0,40
+2020-06,NY,Management,934320.8,63560.1,197
+2020-06,NY,No previous job,0.0,31183.0,6
+2020-06,NY,Office and admin,840746.2,144208.6,186
+2020-06,NY,Personal care,186191.8,177438.6,65
+2020-06,NY,Production,241250.1,37522.5,52
+2020-06,NY,Protective service,256393.7,44134.1,55
+2020-06,NY,Sales,653803.0,176609.3,158
+2020-06,NY,Science,119987.9,10675.5,26
+2020-06,NY,Transportation,446933.3,94843.2,94
+2020-06,OH,Architecture and engineering,68188.6,12995.3,15
+2020-06,OH,"Arts, media, sports",93908.5,27961.3,23
+2020-06,OH,Business and finance,233798.5,7145.2,52
+2020-06,OH,Cleaning and grounds,184171.7,47369.3,42
+2020-06,OH,Community and social service,110399.4,0.0,24
+2020-06,OH,Computer and math,158573.9,0.0,28
+2020-06,OH,Construction,208865.1,25780.2,48
+2020-06,OH,Education,295602.0,33355.4,68
+2020-06,OH,Farming,20028.5,0.0,4
+2020-06,OH,Food service,293572.2,59309.5,63
+2020-06,OH,Healthcare practitioners,424171.9,18548.1,89
+2020-06,OH,Healthcare support,141886.2,7471.4,28
+2020-06,OH,Installation and repair,170013.7,11030.0,35
+2020-06,OH,Legal,40065.8,7168.7,9
+2020-06,OH,Management,669569.3,19395.2,145
+2020-06,OH,No previous job,0.0,5069.6,1
+2020-06,OH,Office and admin,619338.6,75057.8,141
+2020-06,OH,Personal care,92299.4,36567.6,26
+2020-06,OH,Production,349859.1,39169.8,75
+2020-06,OH,Protective service,64702.3,0.0,12
+2020-06,OH,Sales,392915.3,61335.8,87
+2020-06,OH,Science,67180.8,0.0,12
+2020-06,OH,Transportation,447999.4,92477.3,98
+2020-06,OK,Architecture and engineering,33947.9,0.0,13
+2020-06,OK,"Arts, media, sports",27087.5,0.0,10
+2020-06,OK,Business and finance,48490.0,0.0,21
+2020-06,OK,Cleaning and grounds,63125.1,3471.9,24
+2020-06,OK,Community and social service,36796.1,3239.4,16
+2020-06,OK,Computer and math,38510.5,2135.7,16
+2020-06,OK,Construction,106873.3,3809.4,39
+2020-06,OK,Education,93369.0,2747.4,38
+2020-06,OK,Farming,34237.0,0.0,12
+2020-06,OK,Food service,75529.8,6340.2,28
+2020-06,OK,Healthcare practitioners,107658.9,0.0,39
+2020-06,OK,Healthcare support,34279.7,2060.9,13
+2020-06,OK,Installation and repair,99683.4,4600.6,38
+2020-06,OK,Legal,12785.3,0.0,5
+2020-06,OK,Management,234425.5,0.0,86
+2020-06,OK,No previous job,0.0,10596.1,4
+2020-06,OK,Office and admin,140905.5,19431.4,64
+2020-06,OK,Personal care,55295.4,10903.9,24
+2020-06,OK,Production,102790.8,10789.6,41
+2020-06,OK,Protective service,31298.5,2609.8,12
+2020-06,OK,Sales,154380.5,18711.9,66
+2020-06,OK,Science,50120.5,2088.6,18
+2020-06,OK,Transportation,123024.8,29640.0,53
+2020-06,OR,Architecture and engineering,70095.9,14429.9,25
+2020-06,OR,"Arts, media, sports",51682.9,7663.5,20
+2020-06,OR,Business and finance,83483.4,6125.5,34
+2020-06,OR,Cleaning and grounds,57529.1,13903.9,26
+2020-06,OR,Community and social service,25543.3,0.0,9
+2020-06,OR,Computer and math,111965.4,4551.4,41
+2020-06,OR,Construction,86999.7,8592.1,35
+2020-06,OR,Education,141451.4,11982.9,54
+2020-06,OR,Farming,21771.3,2104.7,9
+2020-06,OR,Food service,53172.9,33747.8,28
+2020-06,OR,Healthcare practitioners,134750.2,0.0,51
+2020-06,OR,Healthcare support,71168.9,5175.4,24
+2020-06,OR,Installation and repair,62975.6,2343.2,23
+2020-06,OR,Legal,26556.8,0.0,10
+2020-06,OR,Management,290603.8,18051.6,118
+2020-06,OR,No previous job,0.0,14953.4,5
+2020-06,OR,Office and admin,165461.9,16605.0,67
+2020-06,OR,Personal care,44906.8,2475.4,16
+2020-06,OR,Production,105259.7,17754.1,40
+2020-06,OR,Protective service,37410.9,8780.9,15
+2020-06,OR,Sales,169363.7,18211.6,66
+2020-06,OR,Science,13619.0,0.0,5
+2020-06,OR,Transportation,137772.5,30283.5,63
+2020-06,PA,Architecture and engineering,100242.2,0.0,18
+2020-06,PA,"Arts, media, sports",79059.5,32674.4,22
+2020-06,PA,Business and finance,251748.7,16322.1,51
+2020-06,PA,Cleaning and grounds,164937.2,4144.3,31
+2020-06,PA,Community and social service,90840.5,0.0,18
+2020-06,PA,Computer and math,190359.9,9013.9,37
+2020-06,PA,Construction,275891.8,33531.7,55
+2020-06,PA,Education,340651.6,53223.0,74
+2020-06,PA,Farming,23426.5,3097.9,6
+2020-06,PA,Food service,186852.2,112603.2,51
+2020-06,PA,Healthcare practitioners,419036.7,25464.2,85
+2020-06,PA,Healthcare support,225078.9,14463.0,42
+2020-06,PA,Installation and repair,152074.6,19441.1,33
+2020-06,PA,Legal,80060.0,0.0,14
+2020-06,PA,Management,684608.1,49292.6,141
+2020-06,PA,No previous job,0.0,39218.4,7
+2020-06,PA,Office and admin,652087.0,80792.8,142
+2020-06,PA,Personal care,125856.5,68664.2,37
+2020-06,PA,Production,297431.5,85699.2,69
+2020-06,PA,Protective service,111067.5,7668.5,21
+2020-06,PA,Sales,506943.4,79390.4,110
+2020-06,PA,Science,85615.7,4573.6,16
+2020-06,PA,Transportation,535733.7,88579.1,118
+2020-06,RI,Architecture and engineering,6782.7,0.0,4
+2020-06,RI,"Arts, media, sports",8527.8,1822.5,8
+2020-06,RI,Business and finance,33155.8,1235.3,25
+2020-06,RI,Cleaning and grounds,17094.5,1859.7,13
+2020-06,RI,Community and social service,16887.2,0.0,11
+2020-06,RI,Computer and math,15282.7,0.0,12
+2020-06,RI,Construction,27549.8,5659.6,19
+2020-06,RI,Education,46852.7,7048.3,39
+2020-06,RI,Farming,1606.3,0.0,1
+2020-06,RI,Food service,10259.1,8103.4,10
+2020-06,RI,Healthcare practitioners,38047.5,1564.7,27
+2020-06,RI,Healthcare support,26201.4,3857.8,20
+2020-06,RI,Installation and repair,6198.1,0.0,4
+2020-06,RI,Legal,1911.3,2319.5,3
+2020-06,RI,Management,69776.2,6088.4,55
+2020-06,RI,No previous job,0.0,3698.1,1
+2020-06,RI,Office and admin,42509.0,6457.2,34
+2020-06,RI,Personal care,3192.1,1859.7,3
+2020-06,RI,Production,29972.6,1745.6,21
+2020-06,RI,Protective service,4703.1,0.0,3
+2020-06,RI,Sales,36215.9,3672.4,28
+2020-06,RI,Science,10338.7,0.0,6
+2020-06,RI,Transportation,27273.7,2187.5,17
+2020-06,SC,Architecture and engineering,69879.3,7443.6,22
+2020-06,SC,"Arts, media, sports",48720.3,3157.4,15
+2020-06,SC,Business and finance,110119.6,6829.1,31
+2020-06,SC,Cleaning and grounds,78241.6,0.0,23
+2020-06,SC,Community and social service,33747.8,0.0,10
+2020-06,SC,Computer and math,88890.9,0.0,26
+2020-06,SC,Construction,113421.6,3105.7,32
+2020-06,SC,Education,123401.7,5785.7,32
+2020-06,SC,Farming,2447.2,0.0,1
+2020-06,SC,Food service,117825.7,24188.6,38
+2020-06,SC,Healthcare practitioners,196404.8,2114.6,53
+2020-06,SC,Healthcare support,73509.8,3585.8,23
+2020-06,SC,Installation and repair,99619.0,3813.3,30
+2020-06,SC,Legal,22497.9,0.0,7
+2020-06,SC,Management,204247.2,16810.7,64
+2020-06,SC,No previous job,0.0,14588.5,4
+2020-06,SC,Office and admin,204239.6,32249.0,67
+2020-06,SC,Personal care,73637.8,7314.1,21
+2020-06,SC,Production,150026.8,4559.3,41
+2020-06,SC,Protective service,41109.3,0.0,13
+2020-06,SC,Sales,210685.1,16126.4,66
+2020-06,SC,Science,6556.9,0.0,2
+2020-06,SC,Transportation,148016.3,31604.1,44
+2020-06,SD,Architecture and engineering,4587.3,729.5,6
+2020-06,SD,"Arts, media, sports",5953.6,0.0,7
+2020-06,SD,Business and finance,26745.4,0.0,33
+2020-06,SD,Cleaning and grounds,20396.3,947.3,24
+2020-06,SD,Community and social service,9752.4,0.0,12
+2020-06,SD,Computer and math,5732.0,0.0,8
+2020-06,SD,Construction,24365.5,0.0,29
+2020-06,SD,Education,19904.4,1491.6,27
+2020-06,SD,Farming,2532.7,0.0,3
+2020-06,SD,Food service,22500.9,1302.8,28
+2020-06,SD,Healthcare practitioners,25962.7,850.2,35
+2020-06,SD,Healthcare support,4395.9,887.0,7
+2020-06,SD,Installation and repair,19220.2,0.0,25
+2020-06,SD,Legal,4287.1,0.0,5
+2020-06,SD,Management,58888.9,0.0,77
+2020-06,SD,Office and admin,53815.7,9167.4,79
+2020-06,SD,Personal care,15971.5,727.1,20
+2020-06,SD,Production,34437.8,2549.2,45
+2020-06,SD,Protective service,8988.7,0.0,11
+2020-06,SD,Sales,39463.3,3299.1,52
+2020-06,SD,Science,4940.5,0.0,6
+2020-06,SD,Transportation,33514.7,3356.7,44
+2020-06,TN,Architecture and engineering,49540.2,3700.2,16
+2020-06,TN,"Arts, media, sports",72446.5,4428.7,18
+2020-06,TN,Business and finance,151650.9,6079.2,44
+2020-06,TN,Cleaning and grounds,105853.0,7330.2,32
+2020-06,TN,Community and social service,49302.9,4339.6,14
+2020-06,TN,Computer and math,111982.5,0.0,29
+2020-06,TN,Construction,119722.2,9449.6,34
+2020-06,TN,Education,96115.4,13847.8,31
+2020-06,TN,Farming,19249.3,0.0,4
+2020-06,TN,Food service,140469.5,49614.9,43
+2020-06,TN,Healthcare practitioners,224019.3,4015.3,67
+2020-06,TN,Healthcare support,95338.1,19250.9,31
+2020-06,TN,Installation and repair,86147.7,6619.7,25
+2020-06,TN,Legal,39116.5,0.0,10
+2020-06,TN,Management,282964.7,33481.3,86
+2020-06,TN,No previous job,0.0,4310.7,1
+2020-06,TN,Office and admin,340248.2,27810.5,98
+2020-06,TN,Personal care,78822.3,4493.4,19
+2020-06,TN,Production,189568.7,41177.2,69
+2020-06,TN,Protective service,34051.8,2563.5,11
+2020-06,TN,Sales,346011.9,72542.8,104
+2020-06,TN,Science,17081.5,0.0,5
+2020-06,TN,Transportation,208612.4,50800.0,67
+2020-06,TX,Architecture and engineering,215549.0,11042.9,43
+2020-06,TX,"Arts, media, sports",244883.0,35902.4,47
+2020-06,TX,Business and finance,812400.7,39313.8,146
+2020-06,TX,Cleaning and grounds,414754.7,49471.4,75
+2020-06,TX,Community and social service,182509.9,14505.5,36
+2020-06,TX,Computer and math,536757.1,24813.7,89
+2020-06,TX,Construction,734911.3,102641.3,126
+2020-06,TX,Education,816764.3,70803.9,145
+2020-06,TX,Farming,26822.5,0.0,5
+2020-06,TX,Food service,535500.8,165147.2,104
+2020-06,TX,Healthcare practitioners,680484.1,22337.0,119
+2020-06,TX,Healthcare support,406272.4,40087.8,75
+2020-06,TX,Installation and repair,365340.0,92833.5,71
+2020-06,TX,Legal,157013.8,7978.5,30
+2020-06,TX,Management,1798030.8,73741.7,326
+2020-06,TX,No previous job,0.0,56982.5,8
+2020-06,TX,Office and admin,1441953.7,162032.7,263
+2020-06,TX,Personal care,209454.0,40456.2,41
+2020-06,TX,Production,553621.1,76470.9,96
+2020-06,TX,Protective service,321935.4,4491.1,51
+2020-06,TX,Sales,1241816.6,173913.5,236
+2020-06,TX,Science,88537.0,13693.5,17
+2020-06,TX,Transportation,847326.9,118588.3,148
+2020-06,UT,Architecture and engineering,29774.6,4152.7,18
+2020-06,UT,"Arts, media, sports",15354.6,1387.3,9
+2020-06,UT,Business and finance,102205.1,1726.5,53
+2020-06,UT,Cleaning and grounds,55438.6,7210.2,33
+2020-06,UT,Community and social service,20128.5,1772.2,12
+2020-06,UT,Computer and math,85193.5,0.0,44
+2020-06,UT,Construction,68476.7,4212.5,36
+2020-06,UT,Education,96546.0,11151.5,58
+2020-06,UT,Farming,5908.6,1463.1,4
+2020-06,UT,Food service,43007.0,5830.9,24
+2020-06,UT,Healthcare practitioners,75402.4,6806.2,42
+2020-06,UT,Healthcare support,46331.4,3523.1,24
+2020-06,UT,Installation and repair,54363.1,0.0,28
+2020-06,UT,Legal,9890.9,0.0,5
+2020-06,UT,Management,187009.0,2805.9,105
+2020-06,UT,No previous job,0.0,9903.4,5
+2020-06,UT,Office and admin,245840.7,3172.0,129
+2020-06,UT,Personal care,29627.2,7063.2,20
+2020-06,UT,Production,79530.1,2279.1,41
+2020-06,UT,Protective service,23885.6,2742.9,13
+2020-06,UT,Sales,168044.6,14070.5,94
+2020-06,UT,Science,14241.7,0.0,7
+2020-06,UT,Transportation,109405.4,8139.7,54
+2020-06,VA,Architecture and engineering,107374.0,3613.9,21
+2020-06,VA,"Arts, media, sports",100312.3,38557.8,27
+2020-06,VA,Business and finance,275154.7,9972.5,59
+2020-06,VA,Cleaning and grounds,156975.5,3483.4,33
+2020-06,VA,Community and social service,107858.1,10388.6,24
+2020-06,VA,Computer and math,297958.4,16733.7,67
+2020-06,VA,Construction,161641.3,15252.1,35
+2020-06,VA,Education,305601.0,30043.0,70
+2020-06,VA,Food service,119428.6,80404.3,37
+2020-06,VA,Healthcare practitioners,200108.3,9616.2,42
+2020-06,VA,Healthcare support,93598.2,11721.6,21
+2020-06,VA,Installation and repair,95460.6,0.0,19
+2020-06,VA,Legal,63723.7,0.0,15
+2020-06,VA,Management,654883.4,15682.5,144
+2020-06,VA,No previous job,0.0,9728.3,2
+2020-06,VA,Office and admin,347758.1,25716.2,78
+2020-06,VA,Personal care,81962.6,6571.5,18
+2020-06,VA,Production,153125.8,35639.6,37
+2020-06,VA,Protective service,122544.0,0.0,23
+2020-06,VA,Sales,360466.6,36821.4,79
+2020-06,VA,Science,34223.9,3397.8,9
+2020-06,VA,Transportation,211167.8,44710.3,47
+2020-06,VA,Unclassified,0.0,5682.3,1
+2020-06,VT,Architecture and engineering,7600.4,553.4,16
+2020-06,VT,"Arts, media, sports",10210.9,1940.4,26
+2020-06,VT,Business and finance,15216.4,321.0,37
+2020-06,VT,Cleaning and grounds,9352.3,1677.7,25
+2020-06,VT,Community and social service,11732.3,1387.9,26
+2020-06,VT,Computer and math,12631.0,0.0,24
+2020-06,VT,Construction,19233.7,1974.2,45
+2020-06,VT,Education,21571.1,1203.2,48
+2020-06,VT,Farming,5312.1,385.3,11
+2020-06,VT,Food service,9283.8,5239.2,25
+2020-06,VT,Healthcare practitioners,22147.0,1862.7,50
+2020-06,VT,Healthcare support,7881.1,990.3,19
+2020-06,VT,Installation and repair,8042.7,0.0,17
+2020-06,VT,Legal,4326.3,332.7,11
+2020-06,VT,Management,40755.3,2249.5,98
+2020-06,VT,No previous job,0.0,1615.6,2
+2020-06,VT,Office and admin,27370.9,300.3,63
+2020-06,VT,Personal care,10797.3,0.0,20
+2020-06,VT,Production,18449.7,2321.4,44
+2020-06,VT,Protective service,1968.0,0.0,4
+2020-06,VT,Sales,28287.7,1372.1,71
+2020-06,VT,Science,1849.7,0.0,4
+2020-06,VT,Transportation,18503.1,1683.9,45
+2020-06,WA,Architecture and engineering,92521.4,7332.3,26
+2020-06,WA,"Arts, media, sports",82997.2,16908.0,25
+2020-06,WA,Business and finance,216177.1,3300.6,60
+2020-06,WA,Cleaning and grounds,80757.2,5939.4,23
+2020-06,WA,Community and social service,58188.5,10135.2,17
+2020-06,WA,Computer and math,223723.1,8245.3,60
+2020-06,WA,Construction,155726.8,38409.4,43
+2020-06,WA,Education,217653.5,0.0,55
+2020-06,WA,Farming,85980.3,5016.1,21
+2020-06,WA,Food service,151460.5,73569.3,57
+2020-06,WA,Healthcare practitioners,167652.7,8335.2,48
+2020-06,WA,Healthcare support,132187.7,3334.9,34
+2020-06,WA,Installation and repair,94774.9,7496.1,23
+2020-06,WA,Legal,35904.9,0.0,10
+2020-06,WA,Management,560714.1,25015.6,157
+2020-06,WA,No previous job,0.0,10305.6,2
+2020-06,WA,Office and admin,253932.6,11429.6,65
+2020-06,WA,Personal care,84285.8,20202.9,29
+2020-06,WA,Production,132285.3,9753.9,37
+2020-06,WA,Protective service,53791.7,7671.5,15
+2020-06,WA,Sales,333744.5,50269.4,100
+2020-06,WA,Science,65451.7,0.0,18
+2020-06,WA,Transportation,237571.3,30246.5,62
+2020-06,WI,Architecture and engineering,61264.8,0.0,14
+2020-06,WI,"Arts, media, sports",41626.6,11693.1,10
+2020-06,WI,Business and finance,132679.6,3878.6,32
+2020-06,WI,Cleaning and grounds,98191.4,3825.5,25
+2020-06,WI,Community and social service,56691.9,0.0,13
+2020-06,WI,Computer and math,125449.0,14795.8,31
+2020-06,WI,Construction,137435.9,13293.0,34
+2020-06,WI,Education,123936.2,13349.0,31
+2020-06,WI,Farming,9898.1,0.0,3
+2020-06,WI,Food service,117676.6,48312.4,33
+2020-06,WI,Healthcare practitioners,181858.3,14728.3,48
+2020-06,WI,Healthcare support,102556.3,7516.0,23
+2020-06,WI,Installation and repair,82314.8,8399.8,21
+2020-06,WI,Legal,36471.2,0.0,9
+2020-06,WI,Management,429831.6,8210.3,105
+2020-06,WI,No previous job,0.0,17561.3,3
+2020-06,WI,Office and admin,294150.7,26548.4,77
+2020-06,WI,Personal care,55269.6,10270.5,15
+2020-06,WI,Production,246963.9,12353.2,57
+2020-06,WI,Protective service,47340.3,0.0,11
+2020-06,WI,Sales,221212.0,50476.0,63
+2020-06,WI,Science,32508.8,0.0,8
+2020-06,WI,Transportation,191524.0,31454.3,50
+2020-06,WV,Architecture and engineering,9427.0,3027.1,10
+2020-06,WV,"Arts, media, sports",7859.2,0.0,8
+2020-06,WV,Business and finance,21203.2,1136.9,23
+2020-06,WV,Cleaning and grounds,30367.6,4344.1,36
+2020-06,WV,Community and social service,18787.1,0.0,20
+2020-06,WV,Computer and math,16545.1,0.0,16
+2020-06,WV,Construction,45639.3,9917.3,54
+2020-06,WV,Education,25620.3,13553.7,39
+2020-06,WV,Farming,4787.1,1043.9,6
+2020-06,WV,Food service,33680.0,12868.9,45
+2020-06,WV,Healthcare practitioners,44984.1,0.0,48
+2020-06,WV,Healthcare support,40878.8,1717.3,42
+2020-06,WV,Installation and repair,35256.3,1678.0,37
+2020-06,WV,Legal,8358.3,0.0,9
+2020-06,WV,Management,89439.3,789.5,93
+2020-06,WV,No previous job,0.0,7586.7,6
+2020-06,WV,Office and admin,83711.6,6721.5,93
+2020-06,WV,Personal care,18805.5,4613.9,26
+2020-06,WV,Production,39093.8,7606.8,46
+2020-06,WV,Protective service,14777.8,0.0,15
+2020-06,WV,Sales,49340.7,4412.4,59
+2020-06,WV,Science,5965.5,0.0,6
+2020-06,WV,Transportation,57782.7,5768.3,62
+2020-06,WY,Architecture and engineering,4145.3,488.7,12
+2020-06,WY,"Arts, media, sports",1144.4,0.0,3
+2020-06,WY,Business and finance,11449.5,461.3,31
+2020-06,WY,Cleaning and grounds,7052.9,1755.7,24
+2020-06,WY,Community and social service,6663.6,0.0,17
+2020-06,WY,Computer and math,5084.3,0.0,10
+2020-06,WY,Construction,21069.9,2550.5,59
+2020-06,WY,Education,21101.5,1648.2,56
+2020-06,WY,Farming,4499.8,0.0,12
+2020-06,WY,Food service,14317.5,2110.0,37
+2020-06,WY,Healthcare practitioners,12708.8,388.2,33
+2020-06,WY,Healthcare support,10285.1,342.2,25
+2020-06,WY,Installation and repair,10442.7,1977.4,31
+2020-06,WY,Legal,1928.6,0.0,6
+2020-06,WY,Management,43953.0,807.3,116
+2020-06,WY,No previous job,0.0,894.3,2
+2020-06,WY,Office and admin,25764.9,1473.4,69
+2020-06,WY,Personal care,8364.3,398.9,22
+2020-06,WY,Production,10578.9,1360.8,28
+2020-06,WY,Protective service,5435.7,0.0,12
+2020-06,WY,Sales,19212.1,956.2,49
+2020-06,WY,Science,3098.5,0.0,7
+2020-06,WY,Transportation,26951.4,3199.0,74

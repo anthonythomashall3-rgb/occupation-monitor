@@ -1,0 +1,1177 @@
+month,state,group,employed,unemployed,n
+2016-12,AK,Architecture and engineering,9570.0,0.0,20
+2016-12,AK,"Arts, media, sports",5586.4,787.6,14
+2016-12,AK,Business and finance,12722.3,579.6,30
+2016-12,AK,Cleaning and grounds,13414.6,962.5,29
+2016-12,AK,Community and social service,6939.2,0.0,17
+2016-12,AK,Computer and math,5642.1,481.3,13
+2016-12,AK,Construction,20501.0,3353.5,46
+2016-12,AK,Education,19533.3,760.9,48
+2016-12,AK,Farming,2789.2,511.2,7
+2016-12,AK,Food service,17573.4,505.7,39
+2016-12,AK,Healthcare practitioners,17590.3,0.0,44
+2016-12,AK,Healthcare support,13578.4,1061.3,32
+2016-12,AK,Installation and repair,12404.1,462.8,25
+2016-12,AK,Legal,5338.4,0.0,12
+2016-12,AK,Management,37747.2,965.1,90
+2016-12,AK,No previous job,0.0,2651.9,5
+2016-12,AK,Office and admin,45658.4,472.6,106
+2016-12,AK,Personal care,8003.6,0.0,20
+2016-12,AK,Production,10128.2,1847.1,24
+2016-12,AK,Protective service,11122.5,0.0,24
+2016-12,AK,Sales,30852.4,1616.2,72
+2016-12,AK,Science,7868.7,0.0,17
+2016-12,AK,Transportation,22907.3,1926.3,50
+2016-12,AK,Unclassified,0.0,456.0,1
+2016-12,AL,Architecture and engineering,45189.3,3059.8,27
+2016-12,AL,"Arts, media, sports",31688.7,3529.3,20
+2016-12,AL,Business and finance,92325.5,1836.2,51
+2016-12,AL,Cleaning and grounds,83660.2,13038.8,53
+2016-12,AL,Community and social service,33424.3,0.0,18
+2016-12,AL,Computer and math,52506.6,0.0,29
+2016-12,AL,Construction,120468.5,17603.7,72
+2016-12,AL,Education,113112.5,4618.5,66
+2016-12,AL,Farming,17628.3,0.0,9
+2016-12,AL,Food service,110342.6,14269.4,66
+2016-12,AL,Healthcare practitioners,148134.8,3049.6,85
+2016-12,AL,Healthcare support,59596.2,2082.5,31
+2016-12,AL,Installation and repair,68903.2,1792.6,38
+2016-12,AL,Legal,20912.6,0.0,12
+2016-12,AL,Management,200324.4,1533.4,114
+2016-12,AL,No previous job,0.0,17999.7,9
+2016-12,AL,Office and admin,186537.7,3784.0,104
+2016-12,AL,Personal care,47126.2,0.0,25
+2016-12,AL,Production,133880.7,18051.0,77
+2016-12,AL,Protective service,46251.1,2383.1,26
+2016-12,AL,Sales,194017.4,14103.1,113
+2016-12,AL,Science,5044.0,1554.9,3
+2016-12,AL,Transportation,187684.9,7445.2,101
+2016-12,AR,Architecture and engineering,8982.2,0.0,7
+2016-12,AR,"Arts, media, sports",21475.5,2957.9,20
+2016-12,AR,Business and finance,49335.3,1322.2,42
+2016-12,AR,Cleaning and grounds,35431.9,0.0,29
+2016-12,AR,Community and social service,24467.8,0.0,18
+2016-12,AR,Computer and math,35314.7,0.0,27
+2016-12,AR,Construction,70937.5,5047.0,61
+2016-12,AR,Education,110907.8,1033.7,87
+2016-12,AR,Farming,14363.7,0.0,12
+2016-12,AR,Food service,48569.4,4186.8,40
+2016-12,AR,Healthcare practitioners,101633.3,0.0,79
+2016-12,AR,Healthcare support,36786.1,2512.1,32
+2016-12,AR,Installation and repair,58176.8,3942.2,51
+2016-12,AR,Legal,11619.6,0.0,9
+2016-12,AR,Management,129661.2,4314.0,106
+2016-12,AR,No previous job,0.0,1321.0,1
+2016-12,AR,Office and admin,148968.5,1404.7,118
+2016-12,AR,Personal care,22752.8,1582.3,20
+2016-12,AR,Production,92378.4,6284.0,82
+2016-12,AR,Protective service,21600.4,0.0,18
+2016-12,AR,Sales,139992.2,5042.9,115
+2016-12,AR,Science,1899.5,0.0,2
+2016-12,AR,Transportation,78676.4,4039.0,61
+2016-12,AZ,Architecture and engineering,81882.1,2574.9,28
+2016-12,AZ,"Arts, media, sports",71083.9,2668.4,23
+2016-12,AZ,Business and finance,164650.7,0.0,55
+2016-12,AZ,Cleaning and grounds,139277.1,6901.4,45
+2016-12,AZ,Community and social service,67873.5,0.0,20
+2016-12,AZ,Computer and math,74115.7,0.0,25
+2016-12,AZ,Construction,175176.9,19495.8,63
+2016-12,AZ,Education,191389.1,7777.3,63
+2016-12,AZ,Farming,30510.8,0.0,9
+2016-12,AZ,Food service,194360.1,2405.5,60
+2016-12,AZ,Healthcare practitioners,137368.0,0.0,45
+2016-12,AZ,Healthcare support,91039.0,0.0,30
+2016-12,AZ,Installation and repair,81567.2,0.0,24
+2016-12,AZ,Legal,14456.3,0.0,5
+2016-12,AZ,Management,336686.4,14904.3,110
+2016-12,AZ,No previous job,0.0,23531.1,8
+2016-12,AZ,Office and admin,356740.4,12807.8,117
+2016-12,AZ,Personal care,80456.5,0.0,23
+2016-12,AZ,Production,102567.3,6393.4,35
+2016-12,AZ,Protective service,70195.8,3158.0,22
+2016-12,AZ,Sales,382246.4,19952.8,129
+2016-12,AZ,Science,21916.0,0.0,7
+2016-12,AZ,Transportation,236863.1,21106.0,73
+2016-12,CA,Architecture and engineering,421202.0,7860.5,121
+2016-12,CA,"Arts, media, sports",524319.6,12607.6,161
+2016-12,CA,Business and finance,922637.1,18222.8,275
+2016-12,CA,Cleaning and grounds,695957.0,29892.2,194
+2016-12,CA,Community and social service,311876.0,6492.1,93
+2016-12,CA,Computer and math,712531.3,16751.3,207
+2016-12,CA,Construction,916858.5,74606.6,268
+2016-12,CA,Education,951243.0,33666.1,287
+2016-12,CA,Farming,210937.3,87662.5,79
+2016-12,CA,Food service,979915.7,65827.1,281
+2016-12,CA,Healthcare practitioners,901040.9,19431.9,267
+2016-12,CA,Healthcare support,572575.9,58399.9,174
+2016-12,CA,Installation and repair,520376.9,20513.7,151
+2016-12,CA,Legal,227707.1,6947.2,69
+2016-12,CA,Management,2090351.2,66195.2,628
+2016-12,CA,No previous job,0.0,116409.0,32
+2016-12,CA,Office and admin,1819086.0,62887.1,528
+2016-12,CA,Personal care,572284.0,32709.9,166
+2016-12,CA,Production,804468.9,43787.7,235
+2016-12,CA,Protective service,357525.1,4182.9,101
+2016-12,CA,Sales,1914469.9,84592.5,563
+2016-12,CA,Science,200992.1,6987.3,61
+2016-12,CA,Transportation,1396842.6,77695.8,401
+2016-12,CO,Architecture and engineering,74499.0,0.0,21
+2016-12,CO,"Arts, media, sports",75016.8,7787.9,25
+2016-12,CO,Business and finance,115462.1,3008.8,34
+2016-12,CO,Cleaning and grounds,95967.5,0.0,27
+2016-12,CO,Community and social service,34363.1,0.0,10
+2016-12,CO,Computer and math,112731.1,0.0,30
+2016-12,CO,Construction,149152.0,13537.4,44
+2016-12,CO,Education,115136.7,0.0,33
+2016-12,CO,Farming,14529.9,4069.2,5
+2016-12,CO,Food service,156449.5,7051.4,48
+2016-12,CO,Healthcare practitioners,169840.9,0.0,51
+2016-12,CO,Healthcare support,90354.1,0.0,24
+2016-12,CO,Installation and repair,76061.2,0.0,22
+2016-12,CO,Legal,44917.8,0.0,13
+2016-12,CO,Management,434395.2,3416.4,130
+2016-12,CO,No previous job,0.0,4850.8,1
+2016-12,CO,Office and admin,268669.6,4119.2,80
+2016-12,CO,Personal care,97046.5,0.0,29
+2016-12,CO,Production,85029.3,2945.3,24
+2016-12,CO,Protective service,57377.3,6820.6,19
+2016-12,CO,Sales,327354.4,7737.8,94
+2016-12,CO,Science,34751.8,4741.9,12
+2016-12,CO,Transportation,187106.2,0.0,47
+2016-12,CT,Architecture and engineering,35869.3,0.0,12
+2016-12,CT,"Arts, media, sports",55813.7,0.0,19
+2016-12,CT,Business and finance,97198.2,4081.7,36
+2016-12,CT,Cleaning and grounds,86935.1,6002.7,32
+2016-12,CT,Community and social service,25040.3,0.0,9
+2016-12,CT,Computer and math,75800.7,2583.2,26
+2016-12,CT,Construction,65445.9,12319.0,29
+2016-12,CT,Education,146370.7,6975.9,57
+2016-12,CT,Food service,122984.5,0.0,41
+2016-12,CT,Healthcare practitioners,115694.8,0.0,41
+2016-12,CT,Healthcare support,57779.0,0.0,19
+2016-12,CT,Installation and repair,37988.0,0.0,13
+2016-12,CT,Legal,15034.1,0.0,6
+2016-12,CT,Management,228043.0,2744.0,84
+2016-12,CT,No previous job,0.0,2232.5,1
+2016-12,CT,Office and admin,194381.2,17295.0,74
+2016-12,CT,Personal care,86587.9,7010.6,30
+2016-12,CT,Production,117140.4,14659.6,40
+2016-12,CT,Protective service,15945.8,0.0,6
+2016-12,CT,Sales,166959.9,9125.2,61
+2016-12,CT,Science,25549.4,0.0,10
+2016-12,CT,Transportation,72330.3,3163.2,25
+2016-12,DC,Architecture and engineering,5780.9,0.0,19
+2016-12,DC,"Arts, media, sports",28767.4,0.0,98
+2016-12,DC,Business and finance,47426.5,1513.7,163
+2016-12,DC,Cleaning and grounds,13157.9,1029.5,40
+2016-12,DC,Community and social service,10663.5,1118.8,34
+2016-12,DC,Computer and math,26254.9,237.6,85
+2016-12,DC,Construction,4945.3,288.7,17
+2016-12,DC,Education,17643.8,0.0,59
+2016-12,DC,Food service,21085.8,3210.2,68
+2016-12,DC,Healthcare practitioners,13575.2,2082.5,51
+2016-12,DC,Healthcare support,7921.0,278.5,22
+2016-12,DC,Installation and repair,1490.7,0.0,4
+2016-12,DC,Legal,26262.1,297.1,92
+2016-12,DC,Management,61576.0,1627.0,211
+2016-12,DC,No previous job,0.0,446.4,1
+2016-12,DC,Office and admin,29501.4,3399.3,99
+2016-12,DC,Personal care,6077.4,277.3,20
+2016-12,DC,Production,2998.1,0.0,8
+2016-12,DC,Protective service,6802.5,369.2,20
+2016-12,DC,Sales,17006.8,2493.6,60
+2016-12,DC,Science,14728.9,0.0,50
+2016-12,DC,Transportation,12206.8,1354.3,34
+2016-12,DE,Architecture and engineering,8550.3,938.2,14
+2016-12,DE,"Arts, media, sports",7135.2,646.7,11
+2016-12,DE,Business and finance,16955.0,0.0,26
+2016-12,DE,Cleaning and grounds,18145.4,2442.4,30
+2016-12,DE,Community and social service,9242.5,0.0,14
+2016-12,DE,Computer and math,14417.6,0.0,21
+2016-12,DE,Construction,22080.4,609.6,33
+2016-12,DE,Education,35183.1,1709.0,56
+2016-12,DE,Farming,6502.8,0.0,9
+2016-12,DE,Food service,27749.9,1322.0,40
+2016-12,DE,Healthcare practitioners,33408.8,637.8,52
+2016-12,DE,Healthcare support,16269.4,0.0,23
+2016-12,DE,Installation and repair,9686.0,768.2,15
+2016-12,DE,Legal,1352.2,0.0,2
+2016-12,DE,Management,53097.5,0.0,80
+2016-12,DE,No previous job,0.0,1995.5,3
+2016-12,DE,Office and admin,52972.4,2419.1,85
+2016-12,DE,Personal care,13304.2,698.7,21
+2016-12,DE,Production,20724.9,469.8,29
+2016-12,DE,Protective service,10978.5,0.0,16
+2016-12,DE,Sales,28781.6,1682.7,47
+2016-12,DE,Science,5508.1,0.0,8
+2016-12,DE,Transportation,38973.3,1404.5,58
+2016-12,FL,Architecture and engineering,81587.6,0.0,23
+2016-12,FL,"Arts, media, sports",245920.8,6549.6,72
+2016-12,FL,Business and finance,445994.1,3129.4,126
+2016-12,FL,Cleaning and grounds,524276.7,18746.3,148
+2016-12,FL,Community and social service,193000.7,3829.7,58
+2016-12,FL,Computer and math,261117.8,3383.0,76
+2016-12,FL,Construction,536161.9,30827.8,154
+2016-12,FL,Education,496542.6,7911.9,148
+2016-12,FL,Farming,40488.0,0.0,11
+2016-12,FL,Food service,576271.2,47237.5,169
+2016-12,FL,Healthcare practitioners,551838.0,3617.8,158
+2016-12,FL,Healthcare support,280225.3,13360.3,84
+2016-12,FL,Installation and repair,311030.3,18815.3,91
+2016-12,FL,Legal,138130.3,7801.0,42
+2016-12,FL,Management,1045568.4,18201.6,304
+2016-12,FL,No previous job,0.0,51934.9,13
+2016-12,FL,Office and admin,1126594.7,31465.2,331
+2016-12,FL,Personal care,288637.7,17418.5,85
+2016-12,FL,Production,352141.0,31226.6,108
+2016-12,FL,Protective service,179240.7,0.0,50
+2016-12,FL,Sales,1128930.6,91696.8,345
+2016-12,FL,Science,18821.4,4117.4,6
+2016-12,FL,Transportation,643717.3,23197.0,181
+2016-12,GA,Architecture and engineering,69798.9,9894.8,22
+2016-12,GA,"Arts, media, sports",77951.3,11226.3,25
+2016-12,GA,Business and finance,252882.3,3368.8,73
+2016-12,GA,Cleaning and grounds,163457.9,30923.8,56
+2016-12,GA,Community and social service,53641.2,0.0,16
+2016-12,GA,Computer and math,163771.5,9749.7,47
+2016-12,GA,Construction,243379.8,11281.7,68
+2016-12,GA,Education,280649.1,7874.3,83
+2016-12,GA,Farming,34093.0,6822.2,12
+2016-12,GA,Food service,206977.4,17878.9,60
+2016-12,GA,Healthcare practitioners,258119.7,2947.5,74
+2016-12,GA,Healthcare support,117794.3,3432.5,32
+2016-12,GA,Installation and repair,177360.8,16086.6,54
+2016-12,GA,Legal,36700.6,0.0,10
+2016-12,GA,Management,635398.9,3635.1,181
+2016-12,GA,No previous job,0.0,32287.0,8
+2016-12,GA,Office and admin,529867.5,29896.5,156
+2016-12,GA,Personal care,138136.5,6345.7,39
+2016-12,GA,Production,190370.4,12507.5,56
+2016-12,GA,Protective service,112149.1,4087.6,32
+2016-12,GA,Sales,539304.4,24108.3,156
+2016-12,GA,Science,19151.7,0.0,6
+2016-12,GA,Transportation,411568.3,29870.6,125
+2016-12,HI,Architecture and engineering,17224.9,0.0,23
+2016-12,HI,"Arts, media, sports",10450.7,0.0,16
+2016-12,HI,Business and finance,32768.3,787.1,49
+2016-12,HI,Cleaning and grounds,29948.9,1399.8,49
+2016-12,HI,Community and social service,13101.6,1761.2,22
+2016-12,HI,Computer and math,11303.6,1671.5,15
+2016-12,HI,Construction,47859.3,1623.5,66
+2016-12,HI,Education,47256.3,0.0,70
+2016-12,HI,Farming,4975.3,968.3,9
+2016-12,HI,Food service,73005.1,2337.3,104
+2016-12,HI,Healthcare practitioners,39165.9,0.0,57
+2016-12,HI,Healthcare support,15211.5,0.0,24
+2016-12,HI,Installation and repair,28169.6,0.0,39
+2016-12,HI,Legal,3004.9,0.0,4
+2016-12,HI,Management,54390.8,0.0,82
+2016-12,HI,No previous job,0.0,2287.8,2
+2016-12,HI,Office and admin,79303.3,1373.8,115
+2016-12,HI,Personal care,17199.5,0.0,25
+2016-12,HI,Production,24819.4,926.2,37
+2016-12,HI,Protective service,14029.0,0.0,20
+2016-12,HI,Sales,76097.5,2327.9,112
+2016-12,HI,Science,6040.9,0.0,8
+2016-12,HI,Transportation,43528.6,1468.9,61
+2016-12,HI,Unclassified,0.0,760.2,1
+2016-12,IA,Architecture and engineering,34104.5,0.0,16
+2016-12,IA,"Arts, media, sports",28240.0,0.0,13
+2016-12,IA,Business and finance,86200.3,3961.5,43
+2016-12,IA,Cleaning and grounds,37364.6,9058.6,22
+2016-12,IA,Community and social service,45789.4,0.0,20
+2016-12,IA,Computer and math,17155.9,0.0,9
+2016-12,IA,Construction,82901.0,10161.4,40
+2016-12,IA,Education,111913.9,0.0,55
+2016-12,IA,Farming,13498.1,0.0,6
+2016-12,IA,Food service,105190.0,13581.1,54
+2016-12,IA,Healthcare practitioners,101679.9,0.0,46
+2016-12,IA,Healthcare support,41105.7,6071.8,23
+2016-12,IA,Installation and repair,65646.7,2143.6,33
+2016-12,IA,Legal,16980.1,0.0,8
+2016-12,IA,Management,173280.1,1674.8,86
+2016-12,IA,Office and admin,164488.0,6429.3,84
+2016-12,IA,Personal care,42691.3,2126.0,21
+2016-12,IA,Production,87676.9,1779.4,44
+2016-12,IA,Protective service,29075.9,0.0,13
+2016-12,IA,Sales,168869.7,1746.9,80
+2016-12,IA,Science,16139.7,0.0,8
+2016-12,IA,Transportation,146767.9,1844.3,68
+2016-12,ID,Architecture and engineering,16461.3,0.0,21
+2016-12,ID,"Arts, media, sports",26431.3,1383.5,37
+2016-12,ID,Business and finance,33035.2,558.1,45
+2016-12,ID,Cleaning and grounds,19519.6,2147.9,27
+2016-12,ID,Community and social service,9198.8,0.0,12
+2016-12,ID,Computer and math,15477.8,0.0,21
+2016-12,ID,Construction,42768.0,3344.8,61
+2016-12,ID,Education,55020.6,0.0,71
+2016-12,ID,Farming,27365.2,774.1,35
+2016-12,ID,Food service,45105.1,3245.9,62
+2016-12,ID,Healthcare practitioners,35601.8,0.0,47
+2016-12,ID,Healthcare support,28281.7,597.1,37
+2016-12,ID,Installation and repair,21073.6,0.0,26
+2016-12,ID,Legal,5284.4,0.0,7
+2016-12,ID,Management,93226.3,579.1,121
+2016-12,ID,No previous job,0.0,1785.4,2
+2016-12,ID,Office and admin,99155.2,4787.1,133
+2016-12,ID,Personal care,19928.2,0.0,26
+2016-12,ID,Production,37398.0,0.0,49
+2016-12,ID,Protective service,9225.6,0.0,13
+2016-12,ID,Sales,73753.5,1377.6,100
+2016-12,ID,Science,6684.7,0.0,8
+2016-12,ID,Transportation,50945.6,5425.9,72
+2016-12,ID,Unclassified,0.0,612.3,1
+2016-12,IL,Architecture and engineering,155342.7,10056.1,45
+2016-12,IL,"Arts, media, sports",149956.8,8526.9,48
+2016-12,IL,Business and finance,376894.6,9595.0,115
+2016-12,IL,Cleaning and grounds,183886.9,34145.5,62
+2016-12,IL,Community and social service,105870.5,0.0,30
+2016-12,IL,Computer and math,178551.0,4520.3,52
+2016-12,IL,Construction,245798.8,24466.9,77
+2016-12,IL,Education,377243.0,15931.7,117
+2016-12,IL,Farming,7765.7,0.0,2
+2016-12,IL,Food service,346811.2,23263.3,102
+2016-12,IL,Healthcare practitioners,383998.5,3892.5,114
+2016-12,IL,Healthcare support,155587.6,2771.7,46
+2016-12,IL,Installation and repair,166323.9,6589.6,50
+2016-12,IL,Legal,67055.3,0.0,20
+2016-12,IL,Management,666023.9,31263.2,207
+2016-12,IL,No previous job,0.0,26341.6,7
+2016-12,IL,Office and admin,678201.6,48263.2,214
+2016-12,IL,Personal care,152965.8,0.0,46
+2016-12,IL,Production,433692.8,26035.9,128
+2016-12,IL,Protective service,166251.5,5107.1,49
+2016-12,IL,Sales,613825.0,36307.3,190
+2016-12,IL,Science,41120.3,0.0,12
+2016-12,IL,Transportation,471905.6,34787.9,141
+2016-12,IN,Architecture and engineering,48054.0,0.0,17
+2016-12,IN,"Arts, media, sports",56056.5,0.0,19
+2016-12,IN,Business and finance,98852.2,0.0,32
+2016-12,IN,Cleaning and grounds,109904.3,7147.7,37
+2016-12,IN,Community and social service,69470.5,0.0,22
+2016-12,IN,Computer and math,69977.5,7625.7,24
+2016-12,IN,Construction,175093.0,13881.3,59
+2016-12,IN,Education,166720.8,0.0,54
+2016-12,IN,Farming,11672.4,7485.6,6
+2016-12,IN,Food service,185943.4,12508.7,58
+2016-12,IN,Healthcare practitioners,193891.9,0.0,60
+2016-12,IN,Healthcare support,112669.9,0.0,34
+2016-12,IN,Installation and repair,140157.8,0.0,47
+2016-12,IN,Legal,6169.4,0.0,2
+2016-12,IN,Management,384569.1,2697.0,132
+2016-12,IN,No previous job,0.0,10166.1,3
+2016-12,IN,Office and admin,313545.9,21750.6,109
+2016-12,IN,Personal care,55104.6,0.0,18
+2016-12,IN,Production,301002.1,7840.5,98
+2016-12,IN,Protective service,91270.1,0.0,28
+2016-12,IN,Sales,291536.5,13817.1,95
+2016-12,IN,Science,25738.0,0.0,8
+2016-12,IN,Transportation,224626.2,20175.9,79
+2016-12,KS,Architecture and engineering,20878.3,0.0,12
+2016-12,KS,"Arts, media, sports",24998.9,0.0,15
+2016-12,KS,Business and finance,54348.0,1664.9,34
+2016-12,KS,Cleaning and grounds,45938.9,5262.1,29
+2016-12,KS,Community and social service,23366.8,0.0,14
+2016-12,KS,Computer and math,47636.4,1766.3,28
+2016-12,KS,Construction,90152.9,10946.3,57
+2016-12,KS,Education,109769.0,0.0,62
+2016-12,KS,Farming,13741.2,0.0,7
+2016-12,KS,Food service,71623.1,5878.9,42
+2016-12,KS,Healthcare practitioners,87642.7,1692.3,52
+2016-12,KS,Healthcare support,43723.5,3845.8,24
+2016-12,KS,Installation and repair,49279.9,0.0,29
+2016-12,KS,Legal,11389.8,0.0,7
+2016-12,KS,Management,153702.5,1456.4,90
+2016-12,KS,No previous job,0.0,3559.8,2
+2016-12,KS,Office and admin,185374.4,1393.2,105
+2016-12,KS,Personal care,37631.4,0.0,21
+2016-12,KS,Production,112386.0,4600.0,68
+2016-12,KS,Protective service,19077.6,0.0,11
+2016-12,KS,Sales,126157.7,7918.9,76
+2016-12,KS,Science,7098.7,0.0,4
+2016-12,KS,Transportation,98895.8,7305.1,57
+2016-12,KY,Architecture and engineering,22945.7,0.0,9
+2016-12,KY,"Arts, media, sports",28116.4,2416.4,12
+2016-12,KY,Business and finance,74433.8,0.0,27
+2016-12,KY,Cleaning and grounds,84725.7,5491.7,31
+2016-12,KY,Community and social service,28532.7,2068.5,11
+2016-12,KY,Computer and math,32754.0,0.0,11
+2016-12,KY,Construction,111269.5,18771.3,48
+2016-12,KY,Education,153789.9,4745.6,58
+2016-12,KY,Farming,10017.0,3947.6,4
+2016-12,KY,Food service,96597.8,12194.0,36
+2016-12,KY,Healthcare practitioners,149442.1,0.0,55
+2016-12,KY,Healthcare support,57575.4,4955.3,24
+2016-12,KY,Installation and repair,81237.1,0.0,31
+2016-12,KY,Legal,16675.3,3116.2,7
+2016-12,KY,Management,187490.0,7067.6,73
+2016-12,KY,No previous job,0.0,7111.7,2
+2016-12,KY,Office and admin,235219.5,12034.8,92
+2016-12,KY,Personal care,41905.9,0.0,16
+2016-12,KY,Production,137024.4,2341.6,50
+2016-12,KY,Protective service,34298.5,0.0,12
+2016-12,KY,Sales,233344.7,9621.2,86
+2016-12,KY,Science,5464.5,0.0,2
+2016-12,KY,Transportation,155720.7,7757.3,59
+2016-12,LA,Architecture and engineering,40294.1,0.0,26
+2016-12,LA,"Arts, media, sports",39041.2,1279.3,26
+2016-12,LA,Business and finance,74925.8,4330.6,55
+2016-12,LA,Cleaning and grounds,73153.9,8573.7,54
+2016-12,LA,Community and social service,42335.1,0.0,28
+2016-12,LA,Computer and math,36048.0,0.0,23
+2016-12,LA,Construction,155778.5,9463.6,104
+2016-12,LA,Education,144404.9,2505.9,98
+2016-12,LA,Farming,5576.6,1144.6,4
+2016-12,LA,Food service,115527.5,12186.4,84
+2016-12,LA,Healthcare practitioners,149762.3,1266.5,106
+2016-12,LA,Healthcare support,66807.4,1857.7,44
+2016-12,LA,Installation and repair,62992.4,3682.6,44
+2016-12,LA,Legal,27894.7,0.0,20
+2016-12,LA,Management,168089.0,1333.7,116
+2016-12,LA,No previous job,0.0,13515.1,8
+2016-12,LA,Office and admin,186235.6,8860.3,135
+2016-12,LA,Personal care,57116.7,4119.8,40
+2016-12,LA,Production,104877.2,9813.5,74
+2016-12,LA,Protective service,46783.0,0.0,30
+2016-12,LA,Sales,251832.9,10368.2,171
+2016-12,LA,Science,6956.4,0.0,5
+2016-12,LA,Transportation,117707.1,7508.8,77
+2016-12,LA,Unclassified,0.0,1471.5,1
+2016-12,MA,Architecture and engineering,59513.7,0.0,24
+2016-12,MA,"Arts, media, sports",110007.3,0.0,44
+2016-12,MA,Business and finance,201761.0,4239.0,82
+2016-12,MA,Cleaning and grounds,98164.7,5054.4,41
+2016-12,MA,Community and social service,64148.0,0.0,24
+2016-12,MA,Computer and math,182088.7,0.0,70
+2016-12,MA,Construction,111647.2,14735.2,50
+2016-12,MA,Education,274490.6,4051.9,110
+2016-12,MA,Farming,7106.0,5756.7,5
+2016-12,MA,Food service,156535.5,11157.3,65
+2016-12,MA,Healthcare practitioners,195034.7,0.0,78
+2016-12,MA,Healthcare support,115526.8,2321.2,43
+2016-12,MA,Installation and repair,85703.4,0.0,34
+2016-12,MA,Legal,56532.6,1671.7,24
+2016-12,MA,Management,470242.1,10598.1,193
+2016-12,MA,No previous job,0.0,2951.6,1
+2016-12,MA,Office and admin,375571.4,13557.6,154
+2016-12,MA,Personal care,109286.7,2622.8,43
+2016-12,MA,Production,121023.7,12225.0,48
+2016-12,MA,Protective service,56087.6,0.0,20
+2016-12,MA,Sales,364325.8,12339.2,142
+2016-12,MA,Science,100404.7,0.0,38
+2016-12,MA,Transportation,175846.8,6522.4,69
+2016-12,MD,Architecture and engineering,92773.2,0.0,25
+2016-12,MD,"Arts, media, sports",58036.7,3912.0,17
+2016-12,MD,Business and finance,254654.0,0.0,69
+2016-12,MD,Cleaning and grounds,95679.9,10741.2,27
+2016-12,MD,Community and social service,67141.7,0.0,18
+2016-12,MD,Computer and math,176873.7,0.0,46
+2016-12,MD,Construction,191100.6,0.0,43
+2016-12,MD,Education,189491.0,7642.0,57
+2016-12,MD,Farming,7467.5,0.0,2
+2016-12,MD,Food service,168082.9,2737.2,41
+2016-12,MD,Healthcare practitioners,195508.6,0.0,52
+2016-12,MD,Healthcare support,71970.0,3700.9,21
+2016-12,MD,Installation and repair,95755.7,4381.8,25
+2016-12,MD,Legal,23186.3,0.0,7
+2016-12,MD,Management,444033.9,17156.3,128
+2016-12,MD,No previous job,0.0,11489.7,3
+2016-12,MD,Office and admin,268770.9,6603.6,74
+2016-12,MD,Personal care,100114.5,11235.5,28
+2016-12,MD,Production,58699.0,0.0,17
+2016-12,MD,Protective service,94367.4,0.0,24
+2016-12,MD,Sales,231132.3,12393.5,62
+2016-12,MD,Science,52840.0,0.0,15
+2016-12,MD,Transportation,191796.7,13358.8,51
+2016-12,MD,Unclassified,0.0,3873.5,1
+2016-12,ME,Architecture and engineering,10861.2,0.0,9
+2016-12,ME,"Arts, media, sports",16596.0,2392.0,15
+2016-12,ME,Business and finance,25503.8,0.0,19
+2016-12,ME,Cleaning and grounds,21228.5,3242.3,19
+2016-12,ME,Community and social service,20717.7,899.8,17
+2016-12,ME,Computer and math,13288.0,0.0,9
+2016-12,ME,Construction,39758.1,0.0,28
+2016-12,ME,Education,47593.5,2167.6,42
+2016-12,ME,Farming,10078.2,1152.2,7
+2016-12,ME,Food service,34063.6,0.0,26
+2016-12,ME,Healthcare practitioners,56400.4,0.0,46
+2016-12,ME,Healthcare support,40417.5,1343.1,30
+2016-12,ME,Installation and repair,28371.0,0.0,21
+2016-12,ME,Legal,12437.1,0.0,9
+2016-12,ME,Management,72204.3,0.0,56
+2016-12,ME,No previous job,0.0,1258.8,1
+2016-12,ME,Office and admin,67196.4,0.0,53
+2016-12,ME,Personal care,19006.4,0.0,15
+2016-12,ME,Production,32549.1,4295.9,29
+2016-12,ME,Protective service,1047.9,1444.0,2
+2016-12,ME,Sales,60436.5,869.1,47
+2016-12,ME,Science,5766.6,0.0,4
+2016-12,ME,Transportation,48148.9,0.0,34
+2016-12,MI,Architecture and engineering,155336.7,0.0,44
+2016-12,MI,"Arts, media, sports",84280.9,2893.7,24
+2016-12,MI,Business and finance,193781.3,6962.4,58
+2016-12,MI,Cleaning and grounds,150870.1,3924.7,43
+2016-12,MI,Community and social service,58939.9,3415.6,18
+2016-12,MI,Computer and math,141711.7,0.0,40
+2016-12,MI,Construction,177721.4,25369.9,58
+2016-12,MI,Education,238231.9,4773.9,72
+2016-12,MI,Farming,39464.2,0.0,10
+2016-12,MI,Food service,277938.4,8052.1,76
+2016-12,MI,Healthcare practitioners,261098.5,2884.2,76
+2016-12,MI,Healthcare support,177691.0,8981.2,52
+2016-12,MI,Installation and repair,136857.0,9577.3,42
+2016-12,MI,Legal,60846.2,0.0,18
+2016-12,MI,Management,613207.7,0.0,173
+2016-12,MI,No previous job,0.0,7455.6,2
+2016-12,MI,Office and admin,474893.8,6814.4,143
+2016-12,MI,Personal care,125469.6,3599.0,38
+2016-12,MI,Production,428225.8,34068.3,125
+2016-12,MI,Protective service,72997.4,3950.3,21
+2016-12,MI,Sales,399263.0,28672.0,120
+2016-12,MI,Science,25485.3,0.0,7
+2016-12,MI,Transportation,353979.0,23104.1,104
+2016-12,MN,Architecture and engineering,69280.2,0.0,20
+2016-12,MN,"Arts, media, sports",56235.5,0.0,18
+2016-12,MN,Business and finance,150628.8,0.0,46
+2016-12,MN,Cleaning and grounds,84110.9,15366.7,31
+2016-12,MN,Community and social service,40106.9,2441.4,13
+2016-12,MN,Computer and math,90838.1,3311.8,28
+2016-12,MN,Construction,93910.2,14940.0,34
+2016-12,MN,Education,172317.8,10896.6,59
+2016-12,MN,Farming,10649.0,7343.0,4
+2016-12,MN,Food service,149483.1,3916.7,48
+2016-12,MN,Healthcare practitioners,181375.7,3098.0,59
+2016-12,MN,Healthcare support,94661.0,0.0,28
+2016-12,MN,Installation and repair,67184.2,0.0,20
+2016-12,MN,Legal,33208.9,0.0,10
+2016-12,MN,Management,430948.1,7314.9,140
+2016-12,MN,No previous job,0.0,6533.1,2
+2016-12,MN,Office and admin,293500.5,4015.5,95
+2016-12,MN,Personal care,110381.2,14771.1,39
+2016-12,MN,Production,218962.5,12507.6,75
+2016-12,MN,Protective service,28124.4,4712.8,9
+2016-12,MN,Sales,319623.4,17368.0,106
+2016-12,MN,Science,26841.6,9114.7,11
+2016-12,MN,Transportation,180332.6,6160.6,58
+2016-12,MO,Architecture and engineering,47330.1,0.0,15
+2016-12,MO,"Arts, media, sports",38529.3,0.0,12
+2016-12,MO,Business and finance,143723.1,6601.2,47
+2016-12,MO,Cleaning and grounds,93135.1,2727.9,30
+2016-12,MO,Community and social service,55638.3,0.0,15
+2016-12,MO,Computer and math,98328.9,0.0,27
+2016-12,MO,Construction,168627.2,22125.9,58
+2016-12,MO,Education,154660.0,0.0,51
+2016-12,MO,Farming,9058.7,0.0,3
+2016-12,MO,Food service,133249.3,0.0,42
+2016-12,MO,Healthcare practitioners,175968.9,0.0,58
+2016-12,MO,Healthcare support,108299.0,3258.0,34
+2016-12,MO,Installation and repair,130621.7,6520.4,42
+2016-12,MO,Legal,11338.3,0.0,4
+2016-12,MO,Management,328198.6,6491.7,109
+2016-12,MO,No previous job,0.0,16197.8,5
+2016-12,MO,Office and admin,324642.0,13198.4,110
+2016-12,MO,Personal care,87777.8,5300.4,30
+2016-12,MO,Production,237813.7,5151.6,73
+2016-12,MO,Protective service,58347.2,0.0,18
+2016-12,MO,Sales,309173.8,17251.4,99
+2016-12,MO,Science,10540.8,0.0,3
+2016-12,MO,Transportation,182934.7,13577.2,57
+2016-12,MS,Architecture and engineering,24062.4,2575.2,22
+2016-12,MS,"Arts, media, sports",14760.0,0.0,10
+2016-12,MS,Business and finance,43671.4,0.0,36
+2016-12,MS,Cleaning and grounds,35649.6,3980.4,31
+2016-12,MS,Community and social service,15622.8,1201.4,15
+2016-12,MS,Computer and math,19216.3,0.0,16
+2016-12,MS,Construction,62437.3,3152.8,52
+2016-12,MS,Education,97960.7,0.0,80
+2016-12,MS,Farming,11035.0,3138.9,10
+2016-12,MS,Food service,77888.6,3007.3,59
+2016-12,MS,Healthcare practitioners,92853.6,889.2,76
+2016-12,MS,Healthcare support,40594.3,1998.1,32
+2016-12,MS,Installation and repair,58315.7,1024.3,48
+2016-12,MS,Legal,14065.2,0.0,12
+2016-12,MS,Management,93209.0,2373.3,79
+2016-12,MS,No previous job,0.0,7286.7,6
+2016-12,MS,Office and admin,119334.6,6707.3,102
+2016-12,MS,Personal care,29884.1,3739.5,27
+2016-12,MS,Production,138939.7,13114.9,120
+2016-12,MS,Protective service,20657.2,0.0,16
+2016-12,MS,Sales,117349.7,2336.0,88
+2016-12,MS,Science,7304.0,0.0,6
+2016-12,MS,Transportation,93514.5,6866.8,78
+2016-12,MT,Architecture and engineering,8836.1,513.8,23
+2016-12,MT,"Arts, media, sports",10070.7,0.0,25
+2016-12,MT,Business and finance,24835.5,0.0,60
+2016-12,MT,Cleaning and grounds,12128.2,1143.3,32
+2016-12,MT,Community and social service,11306.1,0.0,29
+2016-12,MT,Computer and math,8239.5,0.0,19
+2016-12,MT,Construction,28239.9,5326.2,78
+2016-12,MT,Education,30825.8,608.5,84
+2016-12,MT,Farming,6360.0,0.0,16
+2016-12,MT,Food service,33739.8,3453.3,86
+2016-12,MT,Healthcare practitioners,31014.8,0.0,83
+2016-12,MT,Healthcare support,16893.9,0.0,40
+2016-12,MT,Installation and repair,18339.6,1087.0,48
+2016-12,MT,Legal,4904.3,0.0,13
+2016-12,MT,Management,62193.3,358.5,163
+2016-12,MT,Office and admin,49166.5,1926.0,131
+2016-12,MT,Personal care,17698.4,492.3,45
+2016-12,MT,Production,16240.4,1003.3,43
+2016-12,MT,Protective service,9990.8,1362.4,28
+2016-12,MT,Sales,59600.1,2325.6,157
+2016-12,MT,Science,4391.5,797.1,13
+2016-12,MT,Transportation,30092.9,1648.9,74
+2016-12,NC,Architecture and engineering,92014.1,0.0,29
+2016-12,NC,"Arts, media, sports",70246.9,4803.7,23
+2016-12,NC,Business and finance,174767.3,5861.1,56
+2016-12,NC,Cleaning and grounds,214950.0,20934.4,67
+2016-12,NC,Community and social service,100369.2,5871.2,31
+2016-12,NC,Computer and math,125317.5,4391.8,39
+2016-12,NC,Construction,265626.2,14086.0,79
+2016-12,NC,Education,275457.5,0.0,89
+2016-12,NC,Farming,36487.1,0.0,10
+2016-12,NC,Food service,269075.9,18537.3,85
+2016-12,NC,Healthcare practitioners,285667.9,3306.1,90
+2016-12,NC,Healthcare support,95277.2,20329.3,35
+2016-12,NC,Installation and repair,207282.5,11177.4,67
+2016-12,NC,Legal,46808.1,0.0,15
+2016-12,NC,Management,443685.4,8729.4,143
+2016-12,NC,No previous job,0.0,12189.1,3
+2016-12,NC,Office and admin,532252.8,13445.4,163
+2016-12,NC,Personal care,106831.1,12301.0,37
+2016-12,NC,Production,375717.9,31529.6,119
+2016-12,NC,Protective service,67066.3,3146.3,19
+2016-12,NC,Sales,566372.9,32522.4,177
+2016-12,NC,Science,53900.4,5941.1,17
+2016-12,NC,Transportation,350714.1,39133.2,105
+2016-12,NC,Unclassified,0.0,6408.8,2
+2016-12,ND,Architecture and engineering,7505.1,524.1,20
+2016-12,ND,"Arts, media, sports",5892.4,0.0,15
+2016-12,ND,Business and finance,21133.9,0.0,54
+2016-12,ND,Cleaning and grounds,14387.3,408.2,35
+2016-12,ND,Community and social service,7813.4,0.0,19
+2016-12,ND,Computer and math,7935.0,0.0,20
+2016-12,ND,Construction,25327.0,2711.6,70
+2016-12,ND,Education,23091.3,376.5,61
+2016-12,ND,Farming,5891.7,0.0,15
+2016-12,ND,Food service,20544.5,1446.4,55
+2016-12,ND,Healthcare practitioners,27164.9,0.0,72
+2016-12,ND,Healthcare support,12900.3,423.7,33
+2016-12,ND,Installation and repair,16392.8,340.7,42
+2016-12,ND,Legal,3086.5,0.0,8
+2016-12,ND,Management,59031.5,1185.4,161
+2016-12,ND,No previous job,0.0,995.5,2
+2016-12,ND,Office and admin,44827.7,1041.9,118
+2016-12,ND,Personal care,10536.3,835.1,29
+2016-12,ND,Production,22810.9,661.7,58
+2016-12,ND,Protective service,4643.8,347.6,13
+2016-12,ND,Sales,38623.0,412.0,96
+2016-12,ND,Science,7237.5,0.0,19
+2016-12,ND,Transportation,32421.4,1133.5,81
+2016-12,NE,Architecture and engineering,17142.1,0.0,15
+2016-12,NE,"Arts, media, sports",19233.2,0.0,15
+2016-12,NE,Business and finance,43616.0,0.0,37
+2016-12,NE,Cleaning and grounds,23281.0,2213.3,22
+2016-12,NE,Community and social service,10625.2,1022.1,10
+2016-12,NE,Computer and math,35061.4,0.0,28
+2016-12,NE,Construction,54244.9,6541.9,47
+2016-12,NE,Education,54210.9,993.1,49
+2016-12,NE,Farming,14080.6,0.0,12
+2016-12,NE,Food service,64600.1,0.0,54
+2016-12,NE,Healthcare practitioners,50495.9,0.0,46
+2016-12,NE,Healthcare support,27661.2,1605.0,25
+2016-12,NE,Installation and repair,26903.2,0.0,22
+2016-12,NE,Legal,5807.7,0.0,5
+2016-12,NE,Management,113588.7,855.5,101
+2016-12,NE,No previous job,0.0,1326.5,1
+2016-12,NE,Office and admin,102929.1,2945.6,87
+2016-12,NE,Personal care,32974.4,1923.6,30
+2016-12,NE,Production,49235.5,3105.6,43
+2016-12,NE,Protective service,13281.7,1728.1,12
+2016-12,NE,Sales,110912.1,957.2,94
+2016-12,NE,Science,3978.1,0.0,4
+2016-12,NE,Transportation,79917.5,0.0,66
+2016-12,NH,Architecture and engineering,11868.8,1380.3,17
+2016-12,NH,"Arts, media, sports",15402.4,0.0,20
+2016-12,NH,Business and finance,37509.4,2066.8,52
+2016-12,NH,Cleaning and grounds,24105.7,2023.3,33
+2016-12,NH,Community and social service,10663.6,845.7,15
+2016-12,NH,Computer and math,22648.3,0.0,29
+2016-12,NH,Construction,34055.3,693.1,43
+2016-12,NH,Education,57642.7,0.0,76
+2016-12,NH,Farming,640.7,757.7,2
+2016-12,NH,Food service,31606.2,0.0,37
+2016-12,NH,Healthcare practitioners,43924.1,829.3,56
+2016-12,NH,Healthcare support,23605.1,0.0,31
+2016-12,NH,Installation and repair,22360.7,1608.9,30
+2016-12,NH,Legal,9532.8,0.0,13
+2016-12,NH,Management,91622.2,771.7,122
+2016-12,NH,No previous job,0.0,2665.5,3
+2016-12,NH,Office and admin,68838.6,1283.1,96
+2016-12,NH,Personal care,12071.1,0.0,16
+2016-12,NH,Production,44694.1,1305.9,59
+2016-12,NH,Protective service,15189.9,779.0,19
+2016-12,NH,Sales,79435.9,1605.5,104
+2016-12,NH,Science,5393.7,0.0,7
+2016-12,NH,Transportation,45613.3,3144.0,60
+2016-12,NJ,Architecture and engineering,67710.2,2828.9,21
+2016-12,NJ,"Arts, media, sports",90215.4,7299.6,29
+2016-12,NJ,Business and finance,300319.3,12961.3,95
+2016-12,NJ,Cleaning and grounds,159622.9,8550.9,47
+2016-12,NJ,Community and social service,59569.2,0.0,17
+2016-12,NJ,Computer and math,210470.1,7765.1,59
+2016-12,NJ,Construction,202816.4,19045.1,65
+2016-12,NJ,Education,286340.1,5323.5,92
+2016-12,NJ,Farming,3293.9,12609.9,5
+2016-12,NJ,Food service,186256.6,6061.5,52
+2016-12,NJ,Healthcare practitioners,255534.0,3156.4,77
+2016-12,NJ,Healthcare support,127375.1,0.0,34
+2016-12,NJ,Installation and repair,136846.6,5946.7,43
+2016-12,NJ,Legal,44443.1,0.0,14
+2016-12,NJ,Management,559770.1,9142.0,178
+2016-12,NJ,No previous job,0.0,14438.3,4
+2016-12,NJ,Office and admin,462568.9,8787.8,137
+2016-12,NJ,Personal care,130322.1,0.0,34
+2016-12,NJ,Production,185513.0,2728.7,54
+2016-12,NJ,Protective service,96963.2,6941.3,30
+2016-12,NJ,Sales,440347.3,31403.1,143
+2016-12,NJ,Science,29078.9,6226.9,10
+2016-12,NJ,Transportation,320189.8,18915.0,94
+2016-12,NM,Architecture and engineering,18194.7,755.3,22
+2016-12,NM,"Arts, media, sports",16828.8,1244.1,20
+2016-12,NM,Business and finance,37004.5,1627.3,46
+2016-12,NM,Cleaning and grounds,39283.5,2711.9,47
+2016-12,NM,Community and social service,16108.9,1478.2,18
+2016-12,NM,Computer and math,20426.7,0.0,22
+2016-12,NM,Construction,61745.1,5889.3,72
+2016-12,NM,Education,57079.6,1384.7,68
+2016-12,NM,Farming,7699.2,959.3,10
+2016-12,NM,Food service,60401.5,4548.6,70
+2016-12,NM,Healthcare practitioners,44604.4,772.0,55
+2016-12,NM,Healthcare support,53045.1,987.4,59
+2016-12,NM,Installation and repair,31180.3,2361.0,39
+2016-12,NM,Legal,6326.9,0.0,7
+2016-12,NM,Management,78782.9,1651.9,95
+2016-12,NM,No previous job,0.0,8795.1,9
+2016-12,NM,Office and admin,76419.7,3629.7,91
+2016-12,NM,Personal care,38737.3,1800.6,42
+2016-12,NM,Production,33587.5,3319.9,40
+2016-12,NM,Protective service,16501.2,810.0,19
+2016-12,NM,Sales,90355.2,4653.8,107
+2016-12,NM,Science,16824.3,2133.6,20
+2016-12,NM,Transportation,50864.7,10731.8,61
+2016-12,NV,Architecture and engineering,25553.1,8887.3,20
+2016-12,NV,"Arts, media, sports",45496.3,0.0,26
+2016-12,NV,Business and finance,44460.8,1557.5,27
+2016-12,NV,Cleaning and grounds,71898.2,5149.8,44
+2016-12,NV,Community and social service,16742.7,0.0,9
+2016-12,NV,Computer and math,25830.1,0.0,15
+2016-12,NV,Construction,67263.0,12762.2,44
+2016-12,NV,Education,54584.4,0.0,34
+2016-12,NV,Farming,3555.0,0.0,2
+2016-12,NV,Food service,103571.5,8240.3,63
+2016-12,NV,Healthcare practitioners,51745.0,0.0,30
+2016-12,NV,Healthcare support,21881.8,2274.7,13
+2016-12,NV,Installation and repair,62151.1,0.0,34
+2016-12,NV,Legal,11928.8,0.0,7
+2016-12,NV,Management,148905.2,0.0,88
+2016-12,NV,No previous job,0.0,1417.9,1
+2016-12,NV,Office and admin,154967.3,8665.5,92
+2016-12,NV,Personal care,84604.9,0.0,48
+2016-12,NV,Production,50483.8,4343.1,32
+2016-12,NV,Protective service,45986.5,0.0,25
+2016-12,NV,Sales,155681.6,9184.1,94
+2016-12,NV,Science,2786.7,0.0,2
+2016-12,NV,Transportation,102837.1,6100.1,59
+2016-12,NY,Architecture and engineering,145983.4,0.0,36
+2016-12,NY,"Arts, media, sports",340369.7,20098.1,93
+2016-12,NY,Business and finance,473582.1,16524.8,128
+2016-12,NY,Cleaning and grounds,333368.3,31989.0,86
+2016-12,NY,Community and social service,183212.0,4881.9,49
+2016-12,NY,Computer and math,274024.8,31262.9,76
+2016-12,NY,Construction,392477.6,30357.7,101
+2016-12,NY,Education,612381.8,0.0,160
+2016-12,NY,Farming,6849.0,3447.1,3
+2016-12,NY,Food service,453763.0,9279.0,106
+2016-12,NY,Healthcare practitioners,534856.5,3535.4,139
+2016-12,NY,Healthcare support,423332.1,8944.0,105
+2016-12,NY,Installation and repair,190005.7,3932.6,50
+2016-12,NY,Legal,159029.1,0.0,43
+2016-12,NY,Management,1048483.1,26698.6,287
+2016-12,NY,No previous job,0.0,32670.4,6
+2016-12,NY,Office and admin,1082714.2,54338.1,288
+2016-12,NY,Personal care,421288.0,22503.2,109
+2016-12,NY,Production,285881.3,17988.3,76
+2016-12,NY,Protective service,302620.0,0.0,73
+2016-12,NY,Sales,965589.6,42159.1,251
+2016-12,NY,Science,68984.8,0.0,17
+2016-12,NY,Transportation,542855.5,34249.9,142
+2016-12,OH,Architecture and engineering,135349.8,0.0,39
+2016-12,OH,"Arts, media, sports",93455.0,6330.4,28
+2016-12,OH,Business and finance,230721.0,13484.1,71
+2016-12,OH,Cleaning and grounds,147858.8,13166.7,46
+2016-12,OH,Community and social service,140762.3,8166.7,42
+2016-12,OH,Computer and math,120012.0,0.0,34
+2016-12,OH,Construction,261873.6,28042.8,84
+2016-12,OH,Education,289149.5,0.0,83
+2016-12,OH,Farming,14715.2,2682.2,5
+2016-12,OH,Food service,276558.6,29102.0,80
+2016-12,OH,Healthcare practitioners,372068.1,0.0,107
+2016-12,OH,Healthcare support,176313.2,10270.0,53
+2016-12,OH,Installation and repair,215709.4,6192.7,64
+2016-12,OH,Legal,43881.1,0.0,13
+2016-12,OH,Management,635332.4,13510.2,190
+2016-12,OH,No previous job,0.0,30280.2,8
+2016-12,OH,Office and admin,635838.5,20872.8,188
+2016-12,OH,Personal care,152475.9,3252.0,42
+2016-12,OH,Production,357000.4,23482.2,114
+2016-12,OH,Protective service,110390.5,0.0,31
+2016-12,OH,Sales,571174.8,32199.9,168
+2016-12,OH,Science,61753.1,3400.9,17
+2016-12,OH,Transportation,395258.2,46954.1,122
+2016-12,OK,Architecture and engineering,30226.2,0.0,16
+2016-12,OK,"Arts, media, sports",23993.7,0.0,13
+2016-12,OK,Business and finance,94452.2,8378.2,52
+2016-12,OK,Cleaning and grounds,68281.2,7076.9,36
+2016-12,OK,Community and social service,24050.1,1957.5,13
+2016-12,OK,Computer and math,30077.6,2064.0,17
+2016-12,OK,Construction,72748.0,11860.1,43
+2016-12,OK,Education,94272.6,0.0,49
+2016-12,OK,Farming,19144.3,2023.5,11
+2016-12,OK,Food service,110332.1,14846.0,55
+2016-12,OK,Healthcare practitioners,104624.3,4224.0,53
+2016-12,OK,Healthcare support,44986.5,0.0,21
+2016-12,OK,Installation and repair,66345.6,2330.2,35
+2016-12,OK,Legal,22385.7,2156.1,13
+2016-12,OK,Management,211670.3,0.0,110
+2016-12,OK,No previous job,0.0,3298.8,1
+2016-12,OK,Office and admin,220152.9,4011.8,115
+2016-12,OK,Personal care,34166.0,2265.0,17
+2016-12,OK,Production,95034.7,0.0,47
+2016-12,OK,Protective service,46138.6,0.0,23
+2016-12,OK,Sales,211467.1,7584.3,109
+2016-12,OK,Science,19052.8,0.0,9
+2016-12,OK,Transportation,133687.1,2499.9,66
+2016-12,OR,Architecture and engineering,70356.2,4197.4,35
+2016-12,OR,"Arts, media, sports",57471.9,3697.4,29
+2016-12,OR,Business and finance,97437.3,6170.0,50
+2016-12,OR,Cleaning and grounds,107079.9,4077.9,50
+2016-12,OR,Community and social service,24024.9,0.0,12
+2016-12,OR,Computer and math,73949.0,0.0,36
+2016-12,OR,Construction,103633.9,4500.0,50
+2016-12,OR,Education,93955.2,0.0,45
+2016-12,OR,Farming,44984.5,0.0,18
+2016-12,OR,Food service,98206.1,5769.7,47
+2016-12,OR,Healthcare practitioners,97598.3,2190.5,49
+2016-12,OR,Healthcare support,90660.7,2244.7,44
+2016-12,OR,Installation and repair,54333.7,0.0,24
+2016-12,OR,Legal,18547.9,0.0,9
+2016-12,OR,Management,211910.2,1827.3,104
+2016-12,OR,No previous job,0.0,6256.1,3
+2016-12,OR,Office and admin,186611.0,5894.6,92
+2016-12,OR,Personal care,69050.2,4572.9,35
+2016-12,OR,Production,105194.2,4292.7,49
+2016-12,OR,Protective service,32751.9,0.0,15
+2016-12,OR,Sales,202834.6,9587.9,99
+2016-12,OR,Science,24950.4,0.0,12
+2016-12,OR,Transportation,134861.2,6716.4,59
+2016-12,PA,Architecture and engineering,94939.4,0.0,27
+2016-12,PA,"Arts, media, sports",102959.3,6308.1,30
+2016-12,PA,Business and finance,318976.8,13275.6,94
+2016-12,PA,Cleaning and grounds,225652.5,13138.4,68
+2016-12,PA,Community and social service,111538.0,0.0,31
+2016-12,PA,Computer and math,173267.5,7379.9,49
+2016-12,PA,Construction,254528.8,46181.0,81
+2016-12,PA,Education,268072.2,3784.8,79
+2016-12,PA,Farming,0.0,3378.2,1
+2016-12,PA,Food service,402918.4,18916.9,109
+2016-12,PA,Healthcare practitioners,448561.5,3451.6,128
+2016-12,PA,Healthcare support,188531.9,15004.0,56
+2016-12,PA,Installation and repair,197543.5,12195.3,61
+2016-12,PA,Legal,76609.7,0.0,22
+2016-12,PA,Management,605704.3,21214.1,179
+2016-12,PA,No previous job,0.0,20520.9,5
+2016-12,PA,Office and admin,718993.0,25110.7,211
+2016-12,PA,Personal care,133612.6,9148.3,40
+2016-12,PA,Production,403061.8,10508.5,114
+2016-12,PA,Protective service,70708.8,9679.7,21
+2016-12,PA,Sales,588148.4,30220.9,168
+2016-12,PA,Science,42890.4,0.0,12
+2016-12,PA,Transportation,532895.7,32572.8,154
+2016-12,RI,Architecture and engineering,6010.0,1106.4,9
+2016-12,RI,"Arts, media, sports",13653.2,0.0,17
+2016-12,RI,Business and finance,20905.4,0.0,26
+2016-12,RI,Cleaning and grounds,23093.5,1255.8,25
+2016-12,RI,Community and social service,13012.1,1413.0,15
+2016-12,RI,Computer and math,10851.2,0.0,13
+2016-12,RI,Construction,18939.1,1966.7,23
+2016-12,RI,Education,47511.7,0.0,57
+2016-12,RI,Farming,1615.2,0.0,2
+2016-12,RI,Food service,33701.6,2748.3,41
+2016-12,RI,Healthcare practitioners,32926.8,0.0,38
+2016-12,RI,Healthcare support,20653.0,0.0,23
+2016-12,RI,Installation and repair,12586.9,1696.2,16
+2016-12,RI,Legal,3200.7,0.0,4
+2016-12,RI,Management,58367.3,1692.7,73
+2016-12,RI,No previous job,0.0,713.5,1
+2016-12,RI,Office and admin,55330.6,2996.8,68
+2016-12,RI,Personal care,21478.5,0.0,24
+2016-12,RI,Production,40006.1,1780.9,45
+2016-12,RI,Protective service,11409.9,0.0,12
+2016-12,RI,Sales,51068.8,1497.5,63
+2016-12,RI,Science,1625.8,1468.0,4
+2016-12,RI,Transportation,32710.3,2890.4,40
+2016-12,SC,Architecture and engineering,86588.8,0.0,33
+2016-12,SC,"Arts, media, sports",31588.0,0.0,13
+2016-12,SC,Business and finance,99313.1,2038.5,42
+2016-12,SC,Cleaning and grounds,85117.2,8646.3,36
+2016-12,SC,Community and social service,58199.4,0.0,23
+2016-12,SC,Computer and math,53651.8,0.0,20
+2016-12,SC,Construction,113747.0,10429.0,48
+2016-12,SC,Education,129226.4,0.0,55
+2016-12,SC,Farming,4527.1,0.0,2
+2016-12,SC,Food service,126114.3,3616.8,48
+2016-12,SC,Healthcare practitioners,127735.3,0.0,52
+2016-12,SC,Healthcare support,47890.3,8227.7,22
+2016-12,SC,Installation and repair,74658.9,3095.2,30
+2016-12,SC,Legal,21635.6,0.0,9
+2016-12,SC,Management,191150.2,4077.0,79
+2016-12,SC,No previous job,0.0,9654.4,3
+2016-12,SC,Office and admin,248658.5,10043.8,103
+2016-12,SC,Personal care,38535.1,0.0,15
+2016-12,SC,Production,202952.4,11029.4,86
+2016-12,SC,Protective service,44913.7,0.0,18
+2016-12,SC,Sales,271652.9,16202.9,117
+2016-12,SC,Science,25931.5,0.0,10
+2016-12,SC,Transportation,136504.1,10384.5,58
+2016-12,SD,Architecture and engineering,1889.1,0.0,3
+2016-12,SD,"Arts, media, sports",8212.7,0.0,14
+2016-12,SD,Business and finance,14716.1,0.0,24
+2016-12,SD,Cleaning and grounds,14520.3,1161.1,25
+2016-12,SD,Community and social service,7997.6,0.0,13
+2016-12,SD,Computer and math,7849.1,0.0,13
+2016-12,SD,Construction,24495.0,2121.8,42
+2016-12,SD,Education,23515.0,665.8,40
+2016-12,SD,Farming,4182.4,631.5,7
+2016-12,SD,Food service,27191.4,3679.0,49
+2016-12,SD,Healthcare practitioners,32682.6,486.0,57
+2016-12,SD,Healthcare support,16245.5,456.3,29
+2016-12,SD,Installation and repair,11308.7,0.0,20
+2016-12,SD,Legal,3992.3,0.0,8
+2016-12,SD,Management,72911.3,0.0,121
+2016-12,SD,No previous job,0.0,1006.3,2
+2016-12,SD,Office and admin,45782.2,470.6,81
+2016-12,SD,Personal care,13820.0,0.0,24
+2016-12,SD,Production,28640.9,1589.5,48
+2016-12,SD,Protective service,6165.4,805.9,12
+2016-12,SD,Sales,35561.1,0.0,62
+2016-12,SD,Science,2749.4,0.0,5
+2016-12,SD,Transportation,31125.8,1742.6,54
+2016-12,TN,Architecture and engineering,60983.3,0.0,22
+2016-12,TN,"Arts, media, sports",29483.9,0.0,11
+2016-12,TN,Business and finance,108096.3,0.0,38
+2016-12,TN,Cleaning and grounds,134709.7,12827.6,55
+2016-12,TN,Community and social service,47957.1,6203.5,20
+2016-12,TN,Computer and math,84291.8,6906.2,31
+2016-12,TN,Construction,103757.0,2135.6,41
+2016-12,TN,Education,168411.3,3856.4,63
+2016-12,TN,Farming,14439.2,2913.2,7
+2016-12,TN,Food service,151321.7,23097.4,59
+2016-12,TN,Healthcare practitioners,213406.2,5161.2,80
+2016-12,TN,Healthcare support,82975.8,14647.5,36
+2016-12,TN,Installation and repair,104980.4,0.0,37
+2016-12,TN,Legal,30152.9,0.0,12
+2016-12,TN,Management,338322.0,0.0,131
+2016-12,TN,No previous job,0.0,6596.0,2
+2016-12,TN,Office and admin,279154.0,28786.3,113
+2016-12,TN,Personal care,92524.0,5384.4,34
+2016-12,TN,Production,184900.5,12151.6,72
+2016-12,TN,Protective service,62021.6,0.0,23
+2016-12,TN,Sales,319793.7,6744.4,116
+2016-12,TN,Science,20624.5,0.0,7
+2016-12,TN,Transportation,288898.9,25652.6,113
+2016-12,TX,Architecture and engineering,295095.5,14550.9,77
+2016-12,TX,"Arts, media, sports",264071.3,7747.2,67
+2016-12,TX,Business and finance,544521.8,47631.3,155
+2016-12,TX,Cleaning and grounds,502135.3,55147.5,141
+2016-12,TX,Community and social service,127623.0,0.0,36
+2016-12,TX,Computer and math,391870.1,3224.8,98
+2016-12,TX,Construction,906099.0,93327.2,244
+2016-12,TX,Education,770117.8,12398.4,205
+2016-12,TX,Farming,49438.2,0.0,12
+2016-12,TX,Food service,778603.6,29531.0,199
+2016-12,TX,Healthcare practitioners,630552.0,7034.7,163
+2016-12,TX,Healthcare support,370932.5,18690.8,100
+2016-12,TX,Installation and repair,426967.0,18054.6,110
+2016-12,TX,Legal,127318.3,3964.6,35
+2016-12,TX,Management,1568591.5,45410.0,420
+2016-12,TX,No previous job,0.0,91477.5,22
+2016-12,TX,Office and admin,1413820.9,51594.9,377
+2016-12,TX,Personal care,280009.3,25754.3,76
+2016-12,TX,Production,561161.8,25377.5,143
+2016-12,TX,Protective service,283480.8,10812.8,73
+2016-12,TX,Sales,1456331.5,69139.2,390
+2016-12,TX,Science,63186.3,0.0,16
+2016-12,TX,Transportation,968704.2,62279.4,245
+2016-12,UT,Architecture and engineering,35457.1,0.0,22
+2016-12,UT,"Arts, media, sports",37957.6,1396.5,26
+2016-12,UT,Business and finance,64478.8,6326.7,47
+2016-12,UT,Cleaning and grounds,43173.1,3098.9,30
+2016-12,UT,Community and social service,16913.7,1376.9,13
+2016-12,UT,Computer and math,56564.4,0.0,37
+2016-12,UT,Construction,102188.1,5565.6,68
+2016-12,UT,Education,94493.7,1235.1,67
+2016-12,UT,Farming,4424.5,0.0,3
+2016-12,UT,Food service,73538.9,5994.3,52
+2016-12,UT,Healthcare practitioners,85564.8,1276.6,59
+2016-12,UT,Healthcare support,22532.4,0.0,15
+2016-12,UT,Installation and repair,43071.9,1421.2,29
+2016-12,UT,Legal,10679.9,0.0,8
+2016-12,UT,Management,193118.1,1411.1,133
+2016-12,UT,No previous job,0.0,7098.8,5
+2016-12,UT,Office and admin,204810.0,7334.1,146
+2016-12,UT,Personal care,49109.9,0.0,32
+2016-12,UT,Production,80703.2,2952.4,54
+2016-12,UT,Protective service,26288.7,0.0,18
+2016-12,UT,Sales,156599.6,6731.5,108
+2016-12,UT,Science,13224.8,0.0,9
+2016-12,UT,Transportation,91523.5,5270.6,64
+2016-12,VA,Architecture and engineering,62330.9,0.0,19
+2016-12,VA,"Arts, media, sports",111286.3,7274.7,34
+2016-12,VA,Business and finance,242387.7,2981.3,71
+2016-12,VA,Cleaning and grounds,130987.1,2346.4,37
+2016-12,VA,Community and social service,56801.0,3337.3,17
+2016-12,VA,Computer and math,169562.1,2478.4,49
+2016-12,VA,Construction,204274.1,16593.3,64
+2016-12,VA,Education,306588.0,0.0,89
+2016-12,VA,Farming,28443.0,0.0,8
+2016-12,VA,Food service,258938.3,9998.1,70
+2016-12,VA,Healthcare practitioners,176400.9,8587.3,55
+2016-12,VA,Healthcare support,126121.4,6763.3,35
+2016-12,VA,Installation and repair,171777.9,0.0,50
+2016-12,VA,Legal,53544.8,0.0,17
+2016-12,VA,Management,598026.2,5425.7,175
+2016-12,VA,No previous job,0.0,6598.6,2
+2016-12,VA,Office and admin,347694.6,18685.9,109
+2016-12,VA,Personal care,168777.5,3114.4,47
+2016-12,VA,Production,211440.3,19079.2,61
+2016-12,VA,Protective service,90311.4,0.0,26
+2016-12,VA,Sales,402952.0,7760.8,116
+2016-12,VA,Science,50645.0,3523.5,15
+2016-12,VA,Transportation,232682.0,10023.9,67
+2016-12,VT,Architecture and engineering,8430.5,0.0,21
+2016-12,VT,"Arts, media, sports",5889.4,322.9,17
+2016-12,VT,Business and finance,16444.8,0.0,45
+2016-12,VT,Cleaning and grounds,12840.5,474.0,37
+2016-12,VT,Community and social service,7243.1,831.3,24
+2016-12,VT,Computer and math,12201.2,0.0,31
+2016-12,VT,Construction,16678.8,1752.5,50
+2016-12,VT,Education,24779.4,0.0,67
+2016-12,VT,Farming,3452.1,0.0,9
+2016-12,VT,Food service,25122.5,749.6,64
+2016-12,VT,Healthcare practitioners,18804.7,618.8,56
+2016-12,VT,Healthcare support,8037.9,0.0,21
+2016-12,VT,Installation and repair,11565.7,0.0,30
+2016-12,VT,Legal,4318.5,0.0,13
+2016-12,VT,Management,35131.6,603.9,98
+2016-12,VT,No previous job,0.0,937.0,2
+2016-12,VT,Office and admin,29581.6,1350.2,87
+2016-12,VT,Personal care,9682.4,0.0,25
+2016-12,VT,Production,22010.2,746.2,59
+2016-12,VT,Protective service,3999.0,0.0,10
+2016-12,VT,Sales,33090.2,740.1,90
+2016-12,VT,Science,3232.9,337.2,11
+2016-12,VT,Transportation,23041.7,619.7,63
+2016-12,WA,Architecture and engineering,63240.4,5195.3,21
+2016-12,WA,"Arts, media, sports",103368.9,6386.5,33
+2016-12,WA,Business and finance,162023.9,2642.9,51
+2016-12,WA,Cleaning and grounds,127604.5,12822.9,44
+2016-12,WA,Community and social service,53029.5,2558.0,18
+2016-12,WA,Computer and math,152471.1,8060.9,44
+2016-12,WA,Construction,172152.7,14900.9,61
+2016-12,WA,Education,200656.6,2941.2,60
+2016-12,WA,Farming,35760.8,9037.3,15
+2016-12,WA,Food service,204679.7,29883.3,66
+2016-12,WA,Healthcare practitioners,209228.7,0.0,66
+2016-12,WA,Healthcare support,106925.5,2669.7,33
+2016-12,WA,Installation and repair,105716.2,0.0,33
+2016-12,WA,Legal,40118.3,0.0,12
+2016-12,WA,Management,462840.6,15568.9,149
+2016-12,WA,No previous job,0.0,21221.1,7
+2016-12,WA,Office and admin,326103.5,12486.8,105
+2016-12,WA,Personal care,80957.0,2549.6,24
+2016-12,WA,Production,187574.5,12041.4,63
+2016-12,WA,Protective service,49201.0,0.0,16
+2016-12,WA,Sales,317093.6,10516.6,103
+2016-12,WA,Science,37189.1,2432.4,13
+2016-12,WA,Transportation,246161.2,15954.2,80
+2016-12,WI,Architecture and engineering,43123.1,0.0,12
+2016-12,WI,"Arts, media, sports",41940.5,10533.9,15
+2016-12,WI,Business and finance,124016.6,0.0,35
+2016-12,WI,Cleaning and grounds,75818.8,10812.3,27
+2016-12,WI,Community and social service,46620.9,0.0,14
+2016-12,WI,Computer and math,90306.7,0.0,25
+2016-12,WI,Construction,111217.6,9778.5,34
+2016-12,WI,Education,179658.7,0.0,51
+2016-12,WI,Farming,50028.7,0.0,14
+2016-12,WI,Food service,110188.6,3502.9,32
+2016-12,WI,Healthcare practitioners,195571.3,0.0,57
+2016-12,WI,Healthcare support,108903.5,3391.2,32
+2016-12,WI,Installation and repair,109980.8,0.0,31
+2016-12,WI,Legal,21656.8,0.0,7
+2016-12,WI,Management,303154.6,16014.4,97
+2016-12,WI,No previous job,0.0,3788.3,1
+2016-12,WI,Office and admin,322183.1,6082.7,99
+2016-12,WI,Personal care,95682.8,0.0,24
+2016-12,WI,Production,321046.8,19357.0,98
+2016-12,WI,Protective service,49198.7,3945.9,15
+2016-12,WI,Sales,324532.0,4731.4,96
+2016-12,WI,Science,20202.6,0.0,6
+2016-12,WI,Transportation,218407.1,28418.5,72
+2016-12,WI,Unclassified,0.0,2938.3,1
+2016-12,WV,Architecture and engineering,13805.1,0.0,21
+2016-12,WV,"Arts, media, sports",11485.2,0.0,18
+2016-12,WV,Business and finance,26995.4,0.0,42
+2016-12,WV,Cleaning and grounds,25511.1,1518.9,41
+2016-12,WV,Community and social service,17039.0,0.0,26
+2016-12,WV,Computer and math,10174.0,0.0,15
+2016-12,WV,Construction,52135.2,10191.7,93
+2016-12,WV,Education,52211.2,0.0,82
+2016-12,WV,Farming,2355.6,0.0,4
+2016-12,WV,Food service,42917.0,6178.3,73
+2016-12,WV,Healthcare practitioners,45629.6,0.0,74
+2016-12,WV,Healthcare support,27645.9,1266.4,44
+2016-12,WV,Installation and repair,28947.3,1828.5,49
+2016-12,WV,Legal,6208.3,0.0,11
+2016-12,WV,Management,78299.5,0.0,121
+2016-12,WV,No previous job,0.0,2696.9,4
+2016-12,WV,Office and admin,79609.0,3737.7,132
+2016-12,WV,Personal care,12462.4,653.9,20
+2016-12,WV,Production,48695.0,2209.6,76
+2016-12,WV,Protective service,21717.7,536.2,33
+2016-12,WV,Sales,69436.8,0.0,105
+2016-12,WV,Science,3462.7,0.0,6
+2016-12,WV,Transportation,54871.6,5785.0,92
+2016-12,WY,Architecture and engineering,5815.4,303.7,18
+2016-12,WY,"Arts, media, sports",5160.4,0.0,15
+2016-12,WY,Business and finance,9335.2,832.6,32
+2016-12,WY,Cleaning and grounds,11811.0,327.3,33
+2016-12,WY,Community and social service,6796.8,629.6,25
+2016-12,WY,Computer and math,2344.5,0.0,7
+2016-12,WY,Construction,26827.7,3231.9,88
+2016-12,WY,Education,22823.0,315.8,74
+2016-12,WY,Farming,1484.4,387.3,6
+2016-12,WY,Food service,18089.0,297.1,55
+2016-12,WY,Healthcare practitioners,10803.0,648.7,36
+2016-12,WY,Healthcare support,8194.0,242.8,26
+2016-12,WY,Installation and repair,16052.9,402.2,48
+2016-12,WY,Legal,1804.9,0.0,6
+2016-12,WY,Management,35414.9,292.1,111
+2016-12,WY,No previous job,0.0,780.4,2
+2016-12,WY,Office and admin,29402.9,1490.4,95
+2016-12,WY,Personal care,9475.9,0.0,30
+2016-12,WY,Production,12835.4,914.5,40
+2016-12,WY,Protective service,2740.0,377.1,9
+2016-12,WY,Sales,25048.8,1578.0,83
+2016-12,WY,Science,3935.9,0.0,12
+2016-12,WY,Transportation,23112.5,2889.8,76

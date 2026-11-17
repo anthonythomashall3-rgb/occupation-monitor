@@ -1,0 +1,1160 @@
+month,state,group,employed,unemployed,n
+2023-12,AK,Architecture and engineering,8582.4,0.0,14
+2023-12,AK,"Arts, media, sports",5146.7,1246.1,10
+2023-12,AK,Business and finance,16512.6,0.0,27
+2023-12,AK,Cleaning and grounds,4902.9,720.9,9
+2023-12,AK,Community and social service,9446.3,1486.7,18
+2023-12,AK,Computer and math,9798.7,0.0,16
+2023-12,AK,Construction,22059.6,0.0,36
+2023-12,AK,Education,21999.3,0.0,39
+2023-12,AK,Farming,4311.2,0.0,8
+2023-12,AK,Food service,11626.2,0.0,18
+2023-12,AK,Healthcare practitioners,16623.7,0.0,31
+2023-12,AK,Healthcare support,9355.0,660.9,17
+2023-12,AK,Installation and repair,17988.0,598.6,29
+2023-12,AK,Legal,4913.6,0.0,8
+2023-12,AK,Management,43690.6,557.4,69
+2023-12,AK,No previous job,0.0,2492.8,4
+2023-12,AK,Office and admin,46496.5,2581.1,77
+2023-12,AK,Personal care,9018.0,0.0,14
+2023-12,AK,Production,9403.3,1360.5,18
+2023-12,AK,Protective service,9266.6,0.0,14
+2023-12,AK,Sales,22558.6,3543.9,42
+2023-12,AK,Science,4546.7,0.0,8
+2023-12,AK,Transportation,27115.6,3370.5,47
+2023-12,AL,Architecture and engineering,38210.0,4419.7,19
+2023-12,AL,"Arts, media, sports",38119.4,0.0,15
+2023-12,AL,Business and finance,126690.0,1779.9,55
+2023-12,AL,Cleaning and grounds,81050.3,9228.1,36
+2023-12,AL,Community and social service,37679.9,0.0,13
+2023-12,AL,Computer and math,67497.5,3007.7,28
+2023-12,AL,Construction,132389.1,3828.0,53
+2023-12,AL,Education,132547.0,2076.2,62
+2023-12,AL,Farming,32679.0,0.0,12
+2023-12,AL,Food service,102112.0,8400.0,41
+2023-12,AL,Healthcare practitioners,118906.6,0.0,52
+2023-12,AL,Healthcare support,48165.5,3472.9,20
+2023-12,AL,Installation and repair,81538.0,0.0,33
+2023-12,AL,Legal,3931.9,0.0,2
+2023-12,AL,Management,246638.0,3706.8,104
+2023-12,AL,Office and admin,219561.1,11694.1,94
+2023-12,AL,Personal care,55551.0,3879.2,23
+2023-12,AL,Production,232054.7,6738.5,89
+2023-12,AL,Protective service,37344.4,0.0,11
+2023-12,AL,Sales,250368.2,3745.0,104
+2023-12,AL,Science,20464.5,0.0,9
+2023-12,AL,Transportation,157481.7,4006.3,62
+2023-12,AR,Architecture and engineering,5732.4,1675.2,5
+2023-12,AR,"Arts, media, sports",21916.9,3556.6,17
+2023-12,AR,Business and finance,81778.0,4607.3,55
+2023-12,AR,Cleaning and grounds,34983.8,4028.8,24
+2023-12,AR,Community and social service,31147.7,0.0,19
+2023-12,AR,Computer and math,40044.2,1385.1,23
+2023-12,AR,Construction,68526.2,1828.0,42
+2023-12,AR,Education,70256.2,0.0,47
+2023-12,AR,Farming,9014.8,0.0,6
+2023-12,AR,Food service,73892.3,8546.5,49
+2023-12,AR,Healthcare practitioners,128798.4,1441.4,82
+2023-12,AR,Healthcare support,46932.7,0.0,29
+2023-12,AR,Installation and repair,50114.7,1461.7,32
+2023-12,AR,Legal,7169.5,0.0,5
+2023-12,AR,Management,104436.0,2221.5,69
+2023-12,AR,Office and admin,160088.9,3844.7,105
+2023-12,AR,Personal care,35283.6,0.0,21
+2023-12,AR,Production,113203.6,8107.7,74
+2023-12,AR,Protective service,15117.0,0.0,9
+2023-12,AR,Sales,105413.9,1572.0,66
+2023-12,AR,Science,9090.3,0.0,6
+2023-12,AR,Transportation,92787.7,8705.6,65
+2023-12,AZ,Architecture and engineering,35008.6,4696.6,8
+2023-12,AZ,"Arts, media, sports",43461.1,5260.4,10
+2023-12,AZ,Business and finance,216489.3,0.0,42
+2023-12,AZ,Cleaning and grounds,146555.2,0.0,29
+2023-12,AZ,Community and social service,39002.4,5014.1,9
+2023-12,AZ,Computer and math,130757.3,0.0,24
+2023-12,AZ,Construction,234187.2,8531.4,41
+2023-12,AZ,Education,209606.4,4375.8,43
+2023-12,AZ,Farming,9153.9,0.0,1
+2023-12,AZ,Food service,191745.2,3414.9,38
+2023-12,AZ,Healthcare practitioners,180514.8,4188.2,36
+2023-12,AZ,Healthcare support,181552.9,5346.2,34
+2023-12,AZ,Installation and repair,111268.8,0.0,21
+2023-12,AZ,Legal,44549.1,0.0,9
+2023-12,AZ,Management,382785.6,0.0,76
+2023-12,AZ,No previous job,0.0,15193.6,3
+2023-12,AZ,Office and admin,443402.2,32019.0,94
+2023-12,AZ,Personal care,67365.0,0.0,14
+2023-12,AZ,Production,139393.2,3739.9,27
+2023-12,AZ,Protective service,118510.4,0.0,21
+2023-12,AZ,Sales,407305.8,19454.4,81
+2023-12,AZ,Science,61352.0,0.0,11
+2023-12,AZ,Transportation,236760.6,7858.9,48
+2023-12,CA,Architecture and engineering,460822.4,12047.1,106
+2023-12,CA,"Arts, media, sports",529077.9,53706.1,129
+2023-12,CA,Business and finance,1094543.8,30419.3,255
+2023-12,CA,Cleaning and grounds,726872.6,24060.5,165
+2023-12,CA,Community and social service,326864.1,11818.6,79
+2023-12,CA,Computer and math,883203.3,31405.1,200
+2023-12,CA,Construction,1032788.3,97852.5,241
+2023-12,CA,Education,924294.9,18112.1,210
+2023-12,CA,Farming,195849.0,46905.8,50
+2023-12,CA,Food service,1064587.8,26210.9,232
+2023-12,CA,Healthcare practitioners,1073275.7,7772.1,244
+2023-12,CA,Healthcare support,670773.5,19535.8,157
+2023-12,CA,Installation and repair,416406.6,14196.0,94
+2023-12,CA,Legal,221076.8,6197.0,52
+2023-12,CA,Management,2196827.7,64577.4,518
+2023-12,CA,No previous job,0.0,140456.2,28
+2023-12,CA,Office and admin,1577800.9,71127.7,371
+2023-12,CA,Personal care,515505.4,11325.1,122
+2023-12,CA,Production,737158.0,31483.4,165
+2023-12,CA,Protective service,380499.0,12868.5,80
+2023-12,CA,Sales,1623329.0,98620.3,383
+2023-12,CA,Science,256167.2,0.0,59
+2023-12,CA,Transportation,1292916.5,149222.9,312
+2023-12,CO,Architecture and engineering,99152.8,0.0,21
+2023-12,CO,"Arts, media, sports",94720.6,0.0,21
+2023-12,CO,Business and finance,304978.7,4884.7,69
+2023-12,CO,Cleaning and grounds,76820.7,0.0,16
+2023-12,CO,Community and social service,68382.6,0.0,14
+2023-12,CO,Computer and math,162125.9,0.0,34
+2023-12,CO,Construction,196824.0,26363.2,47
+2023-12,CO,Education,214113.9,4804.5,50
+2023-12,CO,Farming,32621.0,0.0,7
+2023-12,CO,Food service,131932.9,15805.1,31
+2023-12,CO,Healthcare practitioners,256490.9,0.0,56
+2023-12,CO,Healthcare support,46281.0,0.0,10
+2023-12,CO,Installation and repair,59898.9,5096.4,13
+2023-12,CO,Legal,27451.1,0.0,6
+2023-12,CO,Management,463188.1,13152.5,106
+2023-12,CO,No previous job,0.0,5817.5,1
+2023-12,CO,Office and admin,274713.0,0.0,60
+2023-12,CO,Personal care,65978.4,4734.7,14
+2023-12,CO,Production,115319.8,5202.8,25
+2023-12,CO,Protective service,23931.3,0.0,5
+2023-12,CO,Sales,226565.2,16878.1,54
+2023-12,CO,Science,42306.7,0.0,9
+2023-12,CO,Transportation,125744.2,0.0,27
+2023-12,CT,Architecture and engineering,40803.7,0.0,13
+2023-12,CT,"Arts, media, sports",44687.2,0.0,15
+2023-12,CT,Business and finance,123552.4,7133.8,40
+2023-12,CT,Cleaning and grounds,64468.6,3805.1,21
+2023-12,CT,Community and social service,31697.7,0.0,8
+2023-12,CT,Computer and math,82001.0,0.0,26
+2023-12,CT,Construction,34064.8,23454.8,17
+2023-12,CT,Education,144073.0,0.0,47
+2023-12,CT,Farming,4219.3,0.0,1
+2023-12,CT,Food service,66246.8,0.0,19
+2023-12,CT,Healthcare practitioners,115392.7,0.0,34
+2023-12,CT,Healthcare support,48642.3,4171.2,16
+2023-12,CT,Installation and repair,50480.1,0.0,15
+2023-12,CT,Legal,30612.3,2947.9,12
+2023-12,CT,Management,240038.2,4915.5,78
+2023-12,CT,Office and admin,203445.1,11548.9,66
+2023-12,CT,Personal care,41399.1,0.0,12
+2023-12,CT,Production,86750.2,3206.8,29
+2023-12,CT,Protective service,34315.9,0.0,12
+2023-12,CT,Sales,202391.6,15162.5,65
+2023-12,CT,Science,23002.1,3650.0,8
+2023-12,CT,Transportation,79396.1,7107.4,26
+2023-12,DC,Architecture and engineering,6715.6,0.0,13
+2023-12,DC,"Arts, media, sports",29336.8,889.3,62
+2023-12,DC,Business and finance,40345.4,1679.2,87
+2023-12,DC,Cleaning and grounds,11530.5,2021.3,22
+2023-12,DC,Community and social service,8640.0,0.0,16
+2023-12,DC,Computer and math,35306.9,472.4,68
+2023-12,DC,Construction,2871.0,1664.6,6
+2023-12,DC,Education,20291.8,2381.9,43
+2023-12,DC,Food service,4685.4,0.0,9
+2023-12,DC,Healthcare practitioners,21341.7,0.0,37
+2023-12,DC,Healthcare support,5842.3,1272.6,10
+2023-12,DC,Installation and repair,4072.7,0.0,7
+2023-12,DC,Legal,32145.5,0.0,69
+2023-12,DC,Management,86959.7,840.6,181
+2023-12,DC,No previous job,0.0,1799.9,2
+2023-12,DC,Office and admin,21262.4,1241.8,42
+2023-12,DC,Personal care,4775.7,483.9,10
+2023-12,DC,Production,1283.1,0.0,2
+2023-12,DC,Protective service,9704.8,0.0,15
+2023-12,DC,Sales,12209.1,0.0,22
+2023-12,DC,Science,19499.2,0.0,44
+2023-12,DC,Transportation,11356.1,1212.1,15
+2023-12,DE,Architecture and engineering,5479.9,0.0,5
+2023-12,DE,"Arts, media, sports",3625.5,0.0,4
+2023-12,DE,Business and finance,34245.7,1689.6,41
+2023-12,DE,Cleaning and grounds,15228.1,0.0,16
+2023-12,DE,Community and social service,5499.4,0.0,6
+2023-12,DE,Computer and math,18316.2,0.0,20
+2023-12,DE,Construction,28739.8,646.9,30
+2023-12,DE,Education,24058.4,637.7,27
+2023-12,DE,Food service,39186.3,726.5,41
+2023-12,DE,Healthcare practitioners,46926.5,0.0,49
+2023-12,DE,Healthcare support,18886.6,1654.1,21
+2023-12,DE,Installation and repair,16265.4,0.0,19
+2023-12,DE,Legal,4651.0,0.0,5
+2023-12,DE,Management,47976.2,1259.3,56
+2023-12,DE,No previous job,0.0,1538.4,2
+2023-12,DE,Office and admin,58207.2,4217.1,67
+2023-12,DE,Personal care,12192.1,0.0,14
+2023-12,DE,Production,14971.2,1220.0,18
+2023-12,DE,Protective service,10009.4,0.0,12
+2023-12,DE,Sales,40045.0,0.0,43
+2023-12,DE,Science,8165.8,0.0,10
+2023-12,DE,Transportation,45978.1,978.0,49
+2023-12,FL,Architecture and engineering,220368.2,0.0,44
+2023-12,FL,"Arts, media, sports",221169.6,8969.1,42
+2023-12,FL,Business and finance,653209.0,24738.2,134
+2023-12,FL,Cleaning and grounds,397444.6,0.0,80
+2023-12,FL,Community and social service,97666.7,4772.5,19
+2023-12,FL,Computer and math,312373.6,0.0,59
+2023-12,FL,Construction,595018.3,37929.7,118
+2023-12,FL,Education,548161.5,0.0,108
+2023-12,FL,Farming,31781.0,0.0,6
+2023-12,FL,Food service,535583.4,37190.3,104
+2023-12,FL,Healthcare practitioners,769873.1,10315.8,149
+2023-12,FL,Healthcare support,229129.3,14641.7,48
+2023-12,FL,Installation and repair,397515.8,0.0,74
+2023-12,FL,Legal,133680.1,3150.0,28
+2023-12,FL,Management,1364440.8,25586.8,270
+2023-12,FL,No previous job,0.0,39719.1,7
+2023-12,FL,Office and admin,1067210.7,34910.6,213
+2023-12,FL,Personal care,356844.4,6839.4,71
+2023-12,FL,Production,364684.4,10346.0,71
+2023-12,FL,Protective service,237256.5,0.0,47
+2023-12,FL,Sales,1217763.9,34142.9,236
+2023-12,FL,Science,53883.8,0.0,11
+2023-12,FL,Transportation,792058.1,26343.7,146
+2023-12,GA,Architecture and engineering,122796.6,0.0,22
+2023-12,GA,"Arts, media, sports",105185.2,0.0,18
+2023-12,GA,Business and finance,310353.9,0.0,55
+2023-12,GA,Cleaning and grounds,118641.2,5947.9,25
+2023-12,GA,Community and social service,54151.3,0.0,11
+2023-12,GA,Computer and math,211855.9,0.0,35
+2023-12,GA,Construction,292547.3,5731.8,51
+2023-12,GA,Education,285165.0,6055.2,55
+2023-12,GA,Farming,46119.4,0.0,10
+2023-12,GA,Food service,248899.4,10456.9,45
+2023-12,GA,Healthcare practitioners,344918.1,0.0,63
+2023-12,GA,Healthcare support,131817.1,0.0,25
+2023-12,GA,Installation and repair,180619.3,0.0,33
+2023-12,GA,Legal,64629.5,0.0,12
+2023-12,GA,Management,624856.8,4670.5,120
+2023-12,GA,Office and admin,525614.0,19688.1,106
+2023-12,GA,Personal care,157009.9,4496.5,28
+2023-12,GA,Production,278713.0,14085.9,53
+2023-12,GA,Protective service,108416.1,0.0,20
+2023-12,GA,Sales,548316.8,24116.7,105
+2023-12,GA,Science,58174.7,0.0,10
+2023-12,GA,Transportation,432636.5,19503.0,82
+2023-12,HI,Architecture and engineering,18075.8,0.0,17
+2023-12,HI,"Arts, media, sports",18106.1,1632.7,21
+2023-12,HI,Business and finance,31195.2,0.0,35
+2023-12,HI,Cleaning and grounds,37752.5,2005.6,43
+2023-12,HI,Community and social service,6956.3,0.0,8
+2023-12,HI,Computer and math,17619.8,0.0,17
+2023-12,HI,Construction,37316.9,0.0,39
+2023-12,HI,Education,42447.9,1867.0,48
+2023-12,HI,Farming,3696.0,0.0,5
+2023-12,HI,Food service,45215.3,856.1,49
+2023-12,HI,Healthcare practitioners,38901.7,714.2,45
+2023-12,HI,Healthcare support,16016.0,891.3,20
+2023-12,HI,Installation and repair,17411.9,0.0,17
+2023-12,HI,Legal,10231.6,0.0,12
+2023-12,HI,Management,81124.0,847.0,91
+2023-12,HI,No previous job,0.0,2128.3,2
+2023-12,HI,Office and admin,78511.8,1461.1,81
+2023-12,HI,Personal care,27548.9,2564.4,29
+2023-12,HI,Production,18388.5,0.0,18
+2023-12,HI,Protective service,16441.8,3057.1,19
+2023-12,HI,Sales,52224.6,764.6,54
+2023-12,HI,Science,8929.3,0.0,10
+2023-12,HI,Transportation,25023.8,2375.5,29
+2023-12,IA,Architecture and engineering,22334.6,0.0,8
+2023-12,IA,"Arts, media, sports",27438.8,0.0,11
+2023-12,IA,Business and finance,93094.6,2838.7,35
+2023-12,IA,Cleaning and grounds,40834.6,7657.3,18
+2023-12,IA,Community and social service,10734.8,0.0,4
+2023-12,IA,Computer and math,43291.1,0.0,16
+2023-12,IA,Construction,66552.7,0.0,24
+2023-12,IA,Education,139980.7,0.0,51
+2023-12,IA,Farming,35402.3,0.0,13
+2023-12,IA,Food service,90050.3,2573.1,32
+2023-12,IA,Healthcare practitioners,96589.7,0.0,34
+2023-12,IA,Healthcare support,34335.8,4512.6,14
+2023-12,IA,Installation and repair,56254.4,0.0,20
+2023-12,IA,Legal,7518.4,0.0,3
+2023-12,IA,Management,198321.8,2558.7,78
+2023-12,IA,No previous job,0.0,2573.1,1
+2023-12,IA,Office and admin,190998.7,0.0,69
+2023-12,IA,Personal care,57648.5,0.0,20
+2023-12,IA,Production,115376.7,0.0,42
+2023-12,IA,Protective service,18010.6,3087.2,7
+2023-12,IA,Sales,127580.0,0.0,47
+2023-12,IA,Science,15977.4,0.0,6
+2023-12,IA,Transportation,132606.1,2564.2,47
+2023-12,ID,Architecture and engineering,19187.1,0.0,17
+2023-12,ID,"Arts, media, sports",16839.2,1123.2,17
+2023-12,ID,Business and finance,52800.3,0.0,48
+2023-12,ID,Cleaning and grounds,46398.7,2443.6,44
+2023-12,ID,Community and social service,17678.1,0.0,17
+2023-12,ID,Computer and math,26210.8,1241.2,24
+2023-12,ID,Construction,45163.9,1142.5,41
+2023-12,ID,Education,54582.3,3142.7,52
+2023-12,ID,Farming,9037.7,893.3,9
+2023-12,ID,Food service,40150.4,2278.0,35
+2023-12,ID,Healthcare practitioners,64714.2,0.0,58
+2023-12,ID,Healthcare support,21394.0,0.0,19
+2023-12,ID,Installation and repair,33093.5,0.0,31
+2023-12,ID,Legal,9917.2,0.0,9
+2023-12,ID,Management,145315.5,5278.2,136
+2023-12,ID,Office and admin,90805.7,1108.6,80
+2023-12,ID,Personal care,26784.8,1667.5,24
+2023-12,ID,Production,50757.9,3996.7,46
+2023-12,ID,Protective service,22834.9,1325.7,21
+2023-12,ID,Sales,94104.7,0.0,83
+2023-12,ID,Science,6371.9,0.0,6
+2023-12,ID,Transportation,57495.3,4135.1,55
+2023-12,IL,Architecture and engineering,111389.1,5661.5,25
+2023-12,IL,"Arts, media, sports",164455.3,5706.4,37
+2023-12,IL,Business and finance,409993.5,4069.8,92
+2023-12,IL,Cleaning and grounds,177096.4,8392.1,40
+2023-12,IL,Community and social service,107204.0,3441.0,23
+2023-12,IL,Computer and math,211351.0,0.0,46
+2023-12,IL,Construction,251119.5,8680.4,54
+2023-12,IL,Education,400725.0,0.0,89
+2023-12,IL,Farming,38608.1,0.0,8
+2023-12,IL,Food service,321119.6,31645.1,73
+2023-12,IL,Healthcare practitioners,397123.8,0.0,90
+2023-12,IL,Healthcare support,225163.8,0.0,47
+2023-12,IL,Installation and repair,148513.5,0.0,33
+2023-12,IL,Legal,71371.9,0.0,15
+2023-12,IL,Management,728085.5,32119.2,169
+2023-12,IL,No previous job,0.0,24394.0,3
+2023-12,IL,Office and admin,628594.6,37929.9,145
+2023-12,IL,Personal care,195505.4,8345.5,39
+2023-12,IL,Production,411613.4,17377.5,94
+2023-12,IL,Protective service,76997.9,0.0,15
+2023-12,IL,Sales,405881.5,24455.9,96
+2023-12,IL,Science,51811.4,0.0,11
+2023-12,IL,Transportation,590243.9,34137.8,120
+2023-12,IN,Architecture and engineering,69172.0,0.0,17
+2023-12,IN,"Arts, media, sports",55930.2,0.0,14
+2023-12,IN,Business and finance,155238.4,3857.7,34
+2023-12,IN,Cleaning and grounds,81405.5,8483.7,22
+2023-12,IN,Community and social service,53493.6,0.0,13
+2023-12,IN,Computer and math,93311.5,0.0,24
+2023-12,IN,Construction,229235.8,0.0,54
+2023-12,IN,Education,217966.4,2363.7,54
+2023-12,IN,Farming,30279.4,3821.6,9
+2023-12,IN,Food service,136669.7,14283.4,32
+2023-12,IN,Healthcare practitioners,262918.5,0.0,60
+2023-12,IN,Healthcare support,35831.4,0.0,8
+2023-12,IN,Installation and repair,119982.2,0.0,29
+2023-12,IN,Legal,24216.2,0.0,6
+2023-12,IN,Management,483735.9,3970.2,120
+2023-12,IN,Office and admin,337160.6,2937.1,81
+2023-12,IN,Personal care,97678.3,10879.3,24
+2023-12,IN,Production,282175.8,14723.2,74
+2023-12,IN,Protective service,45349.7,0.0,12
+2023-12,IN,Sales,266186.2,8852.8,64
+2023-12,IN,Science,33249.3,0.0,7
+2023-12,IN,Transportation,209366.0,9918.2,53
+2023-12,KS,Architecture and engineering,37322.6,0.0,15
+2023-12,KS,"Arts, media, sports",22205.9,0.0,9
+2023-12,KS,Business and finance,78133.3,2657.2,36
+2023-12,KS,Cleaning and grounds,36191.2,0.0,16
+2023-12,KS,Community and social service,29287.3,0.0,14
+2023-12,KS,Computer and math,45970.6,0.0,21
+2023-12,KS,Construction,67080.8,2224.6,29
+2023-12,KS,Education,110050.5,0.0,48
+2023-12,KS,Farming,19349.1,0.0,9
+2023-12,KS,Food service,70604.9,0.0,28
+2023-12,KS,Healthcare practitioners,77278.3,1861.7,36
+2023-12,KS,Healthcare support,48142.0,4121.1,23
+2023-12,KS,Installation and repair,66101.9,0.0,28
+2023-12,KS,Legal,22203.4,0.0,10
+2023-12,KS,Management,244421.2,1907.3,107
+2023-12,KS,Office and admin,160243.9,0.0,69
+2023-12,KS,Personal care,21501.8,4160.8,11
+2023-12,KS,Production,109061.4,1878.4,47
+2023-12,KS,Protective service,10738.6,0.0,5
+2023-12,KS,Sales,97847.0,0.0,45
+2023-12,KS,Science,16663.7,0.0,7
+2023-12,KS,Transportation,109362.6,4573.5,48
+2023-12,KY,Architecture and engineering,22638.3,0.0,5
+2023-12,KY,"Arts, media, sports",22359.6,5025.8,8
+2023-12,KY,Business and finance,108391.3,0.0,27
+2023-12,KY,Cleaning and grounds,45418.0,0.0,11
+2023-12,KY,Community and social service,40412.7,0.0,10
+2023-12,KY,Computer and math,39276.9,5733.9,11
+2023-12,KY,Construction,146449.5,5310.5,36
+2023-12,KY,Education,99878.1,0.0,26
+2023-12,KY,Farming,7146.8,0.0,2
+2023-12,KY,Food service,151551.5,0.0,34
+2023-12,KY,Healthcare practitioners,151047.8,0.0,37
+2023-12,KY,Healthcare support,93428.2,0.0,21
+2023-12,KY,Installation and repair,56025.6,0.0,14
+2023-12,KY,Legal,16606.6,0.0,4
+2023-12,KY,Management,197198.8,0.0,49
+2023-12,KY,No previous job,0.0,17718.7,2
+2023-12,KY,Office and admin,162628.1,0.0,39
+2023-12,KY,Personal care,24194.7,0.0,5
+2023-12,KY,Production,132930.0,7951.3,32
+2023-12,KY,Protective service,42186.3,0.0,10
+2023-12,KY,Sales,165802.1,8337.2,40
+2023-12,KY,Science,4552.3,0.0,1
+2023-12,KY,Transportation,217616.8,25363.3,57
+2023-12,LA,Architecture and engineering,40801.6,0.0,19
+2023-12,LA,"Arts, media, sports",31938.1,2887.2,14
+2023-12,LA,Business and finance,69839.3,0.0,33
+2023-12,LA,Cleaning and grounds,79164.1,10251.7,37
+2023-12,LA,Community and social service,36499.7,0.0,18
+2023-12,LA,Computer and math,58891.5,0.0,26
+2023-12,LA,Construction,145044.7,10838.3,74
+2023-12,LA,Education,120556.9,6361.3,57
+2023-12,LA,Farming,5622.8,0.0,3
+2023-12,LA,Food service,115255.3,16703.2,56
+2023-12,LA,Healthcare practitioners,162084.9,4082.2,79
+2023-12,LA,Healthcare support,82952.4,0.0,35
+2023-12,LA,Installation and repair,64453.4,5527.3,32
+2023-12,LA,Legal,16653.5,2066.3,8
+2023-12,LA,Management,232794.4,3655.7,118
+2023-12,LA,No previous job,0.0,1692.4,1
+2023-12,LA,Office and admin,162711.1,3814.9,79
+2023-12,LA,Personal care,50009.7,6553.8,30
+2023-12,LA,Production,98155.5,3380.1,48
+2023-12,LA,Protective service,35582.9,0.0,17
+2023-12,LA,Sales,156842.3,5938.7,77
+2023-12,LA,Science,13852.9,0.0,6
+2023-12,LA,Transportation,187397.8,9361.1,81
+2023-12,MA,Architecture and engineering,102103.9,0.0,34
+2023-12,MA,"Arts, media, sports",96842.6,2870.0,34
+2023-12,MA,Business and finance,285503.6,14761.8,100
+2023-12,MA,Cleaning and grounds,110765.7,10308.8,38
+2023-12,MA,Community and social service,96413.1,0.0,30
+2023-12,MA,Computer and math,248861.0,9356.7,84
+2023-12,MA,Construction,195302.4,15270.6,64
+2023-12,MA,Education,259525.5,9031.9,89
+2023-12,MA,Farming,9659.5,3347.1,4
+2023-12,MA,Food service,143481.2,7830.2,46
+2023-12,MA,Healthcare practitioners,220920.8,6368.5,72
+2023-12,MA,Healthcare support,98912.8,12893.7,33
+2023-12,MA,Installation and repair,61286.0,0.0,20
+2023-12,MA,Legal,70071.8,3107.7,25
+2023-12,MA,Management,545492.5,12717.5,181
+2023-12,MA,No previous job,0.0,12388.8,4
+2023-12,MA,Office and admin,237826.7,8235.6,81
+2023-12,MA,Personal care,109657.7,3313.8,37
+2023-12,MA,Production,122382.2,6209.7,39
+2023-12,MA,Protective service,64364.4,2808.7,20
+2023-12,MA,Sales,302829.5,18286.7,102
+2023-12,MA,Science,91261.2,4352.4,31
+2023-12,MA,Transportation,186512.5,27833.9,66
+2023-12,MD,Architecture and engineering,109853.9,0.0,20
+2023-12,MD,"Arts, media, sports",50098.5,4000.8,12
+2023-12,MD,Business and finance,251588.2,15074.3,52
+2023-12,MD,Cleaning and grounds,71190.2,10582.0,17
+2023-12,MD,Community and social service,75981.5,0.0,12
+2023-12,MD,Computer and math,193928.6,11344.4,42
+2023-12,MD,Construction,139453.4,0.0,28
+2023-12,MD,Education,166451.2,4004.8,36
+2023-12,MD,Farming,17829.5,0.0,4
+2023-12,MD,Food service,100614.3,6777.7,20
+2023-12,MD,Healthcare practitioners,182257.8,0.0,34
+2023-12,MD,Healthcare support,52154.1,6681.3,12
+2023-12,MD,Installation and repair,92755.4,0.0,17
+2023-12,MD,Legal,59951.6,0.0,12
+2023-12,MD,Management,436478.9,22023.0,87
+2023-12,MD,Office and admin,398517.7,15492.3,78
+2023-12,MD,Personal care,31488.9,0.0,7
+2023-12,MD,Production,32709.6,0.0,6
+2023-12,MD,Protective service,85577.6,3944.8,16
+2023-12,MD,Sales,209207.1,24609.0,41
+2023-12,MD,Science,112800.4,0.0,23
+2023-12,MD,Transportation,210817.7,10449.3,41
+2023-12,ME,Architecture and engineering,11307.3,0.0,6
+2023-12,ME,"Arts, media, sports",15956.5,0.0,10
+2023-12,ME,Business and finance,35050.0,0.0,20
+2023-12,ME,Cleaning and grounds,14561.0,3971.9,11
+2023-12,ME,Community and social service,14536.6,0.0,9
+2023-12,ME,Computer and math,21753.0,0.0,11
+2023-12,ME,Construction,35707.9,0.0,20
+2023-12,ME,Education,45904.0,0.0,27
+2023-12,ME,Farming,4647.6,0.0,3
+2023-12,ME,Food service,25386.0,7828.1,15
+2023-12,ME,Healthcare practitioners,47824.4,6026.5,30
+2023-12,ME,Healthcare support,30035.0,0.0,16
+2023-12,ME,Installation and repair,25451.1,0.0,15
+2023-12,ME,Legal,3079.5,0.0,2
+2023-12,ME,Management,90670.1,0.0,53
+2023-12,ME,Office and admin,49865.7,0.0,27
+2023-12,ME,Personal care,11254.6,0.0,6
+2023-12,ME,Production,35739.8,0.0,18
+2023-12,ME,Protective service,9881.5,0.0,6
+2023-12,ME,Sales,76489.8,1501.1,44
+2023-12,ME,Science,13988.2,0.0,7
+2023-12,ME,Transportation,43376.0,4530.2,25
+2023-12,ME,Unclassified,0.0,1929.6,1
+2023-12,MI,Architecture and engineering,179528.4,0.0,43
+2023-12,MI,"Arts, media, sports",111292.2,0.0,25
+2023-12,MI,Business and finance,282880.6,0.0,68
+2023-12,MI,Cleaning and grounds,153255.8,22897.7,42
+2023-12,MI,Community and social service,99007.2,0.0,23
+2023-12,MI,Computer and math,129282.8,0.0,31
+2023-12,MI,Construction,237380.5,15151.7,57
+2023-12,MI,Education,255555.8,3551.5,58
+2023-12,MI,Farming,4130.1,0.0,1
+2023-12,MI,Food service,264691.1,14209.4,62
+2023-12,MI,Healthcare practitioners,296294.0,3117.7,69
+2023-12,MI,Healthcare support,159939.3,15025.4,39
+2023-12,MI,Installation and repair,134180.1,4814.2,33
+2023-12,MI,Legal,51549.5,0.0,12
+2023-12,MI,Management,551536.6,4288.7,127
+2023-12,MI,No previous job,0.0,12706.1,3
+2023-12,MI,Office and admin,528396.5,3717.5,118
+2023-12,MI,Personal care,131953.2,0.0,30
+2023-12,MI,Production,391672.5,9706.8,87
+2023-12,MI,Protective service,50134.5,0.0,12
+2023-12,MI,Sales,432148.8,20450.3,103
+2023-12,MI,Science,56700.9,0.0,13
+2023-12,MI,Transportation,322602.1,30253.0,74
+2023-12,MN,Architecture and engineering,105709.3,0.0,23
+2023-12,MN,"Arts, media, sports",63262.0,3479.6,15
+2023-12,MN,Business and finance,222186.7,0.0,47
+2023-12,MN,Cleaning and grounds,100918.8,9732.6,24
+2023-12,MN,Community and social service,80263.3,4151.5,18
+2023-12,MN,Computer and math,161070.7,0.0,34
+2023-12,MN,Construction,115273.2,14404.0,27
+2023-12,MN,Education,126299.7,0.0,29
+2023-12,MN,Farming,40402.2,0.0,8
+2023-12,MN,Food service,134087.1,4578.7,29
+2023-12,MN,Healthcare practitioners,221274.6,12390.5,51
+2023-12,MN,Healthcare support,133864.0,0.0,27
+2023-12,MN,Installation and repair,94490.7,0.0,21
+2023-12,MN,Legal,17024.6,0.0,4
+2023-12,MN,Management,401613.6,5479.3,85
+2023-12,MN,Office and admin,220367.8,8996.3,50
+2023-12,MN,Personal care,88802.1,0.0,19
+2023-12,MN,Production,206193.4,0.0,44
+2023-12,MN,Protective service,55862.7,0.0,11
+2023-12,MN,Sales,208870.3,0.0,47
+2023-12,MN,Science,13382.0,0.0,3
+2023-12,MN,Transportation,227200.9,8014.9,51
+2023-12,MO,Architecture and engineering,37068.9,4243.4,10
+2023-12,MO,"Arts, media, sports",20990.8,0.0,5
+2023-12,MO,Business and finance,135905.0,0.0,33
+2023-12,MO,Cleaning and grounds,86286.0,3368.6,21
+2023-12,MO,Community and social service,54879.3,0.0,12
+2023-12,MO,Computer and math,83638.1,4452.6,20
+2023-12,MO,Construction,126554.7,14143.9,34
+2023-12,MO,Education,142992.9,3779.2,33
+2023-12,MO,Farming,14541.0,0.0,4
+2023-12,MO,Food service,121846.8,11208.7,28
+2023-12,MO,Healthcare practitioners,184566.7,0.0,44
+2023-12,MO,Healthcare support,76235.3,0.0,17
+2023-12,MO,Installation and repair,106312.5,0.0,25
+2023-12,MO,Legal,19045.4,0.0,5
+2023-12,MO,Management,523687.9,0.0,122
+2023-12,MO,No previous job,0.0,4659.4,1
+2023-12,MO,Office and admin,308595.8,10787.7,79
+2023-12,MO,Personal care,76346.5,0.0,18
+2023-12,MO,Production,204581.2,7109.2,51
+2023-12,MO,Protective service,48013.2,0.0,12
+2023-12,MO,Sales,307238.3,2898.4,74
+2023-12,MO,Science,12800.9,0.0,3
+2023-12,MO,Transportation,278961.3,12417.3,67
+2023-12,MS,Architecture and engineering,16171.8,0.0,10
+2023-12,MS,"Arts, media, sports",13651.5,0.0,7
+2023-12,MS,Business and finance,46300.8,0.0,27
+2023-12,MS,Cleaning and grounds,53193.1,3290.6,29
+2023-12,MS,Community and social service,23200.9,0.0,11
+2023-12,MS,Computer and math,12961.0,0.0,8
+2023-12,MS,Construction,61084.5,2570.2,37
+2023-12,MS,Education,81656.7,0.0,48
+2023-12,MS,Farming,12807.0,0.0,8
+2023-12,MS,Food service,83825.5,1581.9,44
+2023-12,MS,Healthcare practitioners,97859.5,2282.5,53
+2023-12,MS,Healthcare support,34075.0,3649.8,19
+2023-12,MS,Installation and repair,58863.8,0.0,34
+2023-12,MS,Legal,11869.0,0.0,6
+2023-12,MS,Management,136606.8,0.0,79
+2023-12,MS,Office and admin,104356.3,1474.5,58
+2023-12,MS,Personal care,35165.1,1719.0,19
+2023-12,MS,Production,95427.0,0.0,52
+2023-12,MS,Protective service,29969.6,0.0,16
+2023-12,MS,Sales,78438.8,5694.3,53
+2023-12,MS,Science,7381.3,2548.3,5
+2023-12,MS,Transportation,110659.9,5310.2,55
+2023-12,MT,Architecture and engineering,13994.7,883.7,22
+2023-12,MT,"Arts, media, sports",10624.6,0.0,16
+2023-12,MT,Business and finance,28496.2,673.0,43
+2023-12,MT,Cleaning and grounds,15080.6,3583.9,28
+2023-12,MT,Community and social service,7908.9,0.0,12
+2023-12,MT,Computer and math,11608.0,0.0,18
+2023-12,MT,Construction,42009.4,5408.9,68
+2023-12,MT,Education,31869.5,2023.1,51
+2023-12,MT,Farming,5073.7,0.0,8
+2023-12,MT,Food service,23924.4,2931.4,39
+2023-12,MT,Healthcare practitioners,37262.0,0.0,59
+2023-12,MT,Healthcare support,20508.7,536.6,31
+2023-12,MT,Installation and repair,26450.5,0.0,39
+2023-12,MT,Legal,3241.9,0.0,5
+2023-12,MT,Management,102959.6,1368.3,165
+2023-12,MT,No previous job,0.0,1247.5,2
+2023-12,MT,Office and admin,51642.1,2523.2,84
+2023-12,MT,Personal care,14152.5,586.1,24
+2023-12,MT,Production,13242.5,0.0,18
+2023-12,MT,Protective service,9555.2,828.3,17
+2023-12,MT,Sales,58314.1,709.8,89
+2023-12,MT,Science,12309.8,0.0,19
+2023-12,MT,Transportation,28878.9,2390.5,46
+2023-12,NC,Architecture and engineering,133994.3,0.0,30
+2023-12,NC,"Arts, media, sports",64799.0,0.0,15
+2023-12,NC,Business and finance,348963.8,0.0,78
+2023-12,NC,Cleaning and grounds,130591.6,0.0,29
+2023-12,NC,Community and social service,81657.6,0.0,17
+2023-12,NC,Computer and math,204245.5,8476.3,50
+2023-12,NC,Construction,313575.3,7301.4,75
+2023-12,NC,Education,264368.7,0.0,60
+2023-12,NC,Farming,15807.5,0.0,3
+2023-12,NC,Food service,244280.5,8131.7,53
+2023-12,NC,Healthcare practitioners,354892.1,0.0,82
+2023-12,NC,Healthcare support,158520.1,0.0,34
+2023-12,NC,Installation and repair,118340.5,4659.2,26
+2023-12,NC,Legal,34237.4,0.0,8
+2023-12,NC,Management,634778.4,16261.3,150
+2023-12,NC,No previous job,0.0,15431.8,3
+2023-12,NC,Office and admin,413421.0,13335.4,95
+2023-12,NC,Personal care,154302.1,10283.9,38
+2023-12,NC,Production,381044.6,12279.2,88
+2023-12,NC,Protective service,72627.2,0.0,15
+2023-12,NC,Sales,504289.9,37665.7,121
+2023-12,NC,Science,73233.8,8938.1,19
+2023-12,NC,Transportation,367000.5,8895.8,78
+2023-12,ND,Architecture and engineering,7315.3,0.0,15
+2023-12,ND,"Arts, media, sports",10105.9,0.0,19
+2023-12,ND,Business and finance,17558.7,0.0,35
+2023-12,ND,Cleaning and grounds,10840.2,647.7,23
+2023-12,ND,Community and social service,8550.6,0.0,17
+2023-12,ND,Computer and math,4348.1,0.0,9
+2023-12,ND,Construction,23553.9,1909.2,44
+2023-12,ND,Education,24023.5,0.0,48
+2023-12,ND,Farming,4178.1,0.0,9
+2023-12,ND,Food service,18291.7,0.0,34
+2023-12,ND,Healthcare practitioners,29309.3,0.0,61
+2023-12,ND,Healthcare support,12491.5,0.0,25
+2023-12,ND,Installation and repair,20052.9,0.0,36
+2023-12,ND,Legal,1508.1,0.0,3
+2023-12,ND,Management,59476.7,0.0,122
+2023-12,ND,No previous job,0.0,2131.0,4
+2023-12,ND,Office and admin,44485.2,1113.5,91
+2023-12,ND,Personal care,6116.0,0.0,12
+2023-12,ND,Production,21034.9,313.2,39
+2023-12,ND,Protective service,4833.2,0.0,9
+2023-12,ND,Sales,39417.9,2752.5,78
+2023-12,ND,Science,4177.3,0.0,8
+2023-12,ND,Transportation,32969.2,1471.2,67
+2023-12,NE,Architecture and engineering,15721.9,0.0,10
+2023-12,NE,"Arts, media, sports",9764.3,0.0,7
+2023-12,NE,Business and finance,49307.5,0.0,34
+2023-12,NE,Cleaning and grounds,18332.7,2663.3,14
+2023-12,NE,Community and social service,24334.4,0.0,17
+2023-12,NE,Computer and math,33296.1,0.0,22
+2023-12,NE,Construction,39859.0,1323.6,27
+2023-12,NE,Education,66813.2,0.0,44
+2023-12,NE,Farming,15540.9,1160.8,12
+2023-12,NE,Food service,45931.0,1285.6,30
+2023-12,NE,Healthcare practitioners,76888.3,2355.0,54
+2023-12,NE,Healthcare support,19691.0,0.0,13
+2023-12,NE,Installation and repair,31677.8,0.0,20
+2023-12,NE,Legal,6121.5,0.0,4
+2023-12,NE,Management,156335.1,4915.3,109
+2023-12,NE,No previous job,0.0,4645.5,3
+2023-12,NE,Office and admin,112975.6,3354.1,75
+2023-12,NE,Personal care,22303.2,1248.7,16
+2023-12,NE,Production,80748.0,0.0,53
+2023-12,NE,Protective service,9401.6,0.0,6
+2023-12,NE,Sales,112144.0,3229.0,74
+2023-12,NE,Science,12530.2,0.0,9
+2023-12,NE,Transportation,65510.3,5310.5,45
+2023-12,NH,Architecture and engineering,21906.1,0.0,20
+2023-12,NH,"Arts, media, sports",21561.0,0.0,20
+2023-12,NH,Business and finance,50160.6,2338.8,47
+2023-12,NH,Cleaning and grounds,16381.9,0.0,16
+2023-12,NH,Community and social service,12804.6,0.0,12
+2023-12,NH,Computer and math,34977.2,0.0,29
+2023-12,NH,Construction,23937.4,1337.5,22
+2023-12,NH,Education,37518.2,0.0,32
+2023-12,NH,Farming,6201.2,0.0,6
+2023-12,NH,Food service,23520.9,0.0,20
+2023-12,NH,Healthcare practitioners,53815.6,0.0,47
+2023-12,NH,Healthcare support,22019.7,0.0,18
+2023-12,NH,Installation and repair,33944.1,0.0,31
+2023-12,NH,Legal,11318.2,0.0,11
+2023-12,NH,Management,106596.1,0.0,94
+2023-12,NH,Office and admin,85592.2,2655.7,81
+2023-12,NH,Personal care,15151.5,0.0,12
+2023-12,NH,Production,41074.2,2004.6,38
+2023-12,NH,Protective service,10479.7,2644.4,12
+2023-12,NH,Sales,70812.3,3633.6,68
+2023-12,NH,Science,8451.3,0.0,8
+2023-12,NH,Transportation,34854.9,1852.6,31
+2023-12,NJ,Architecture and engineering,125424.2,0.0,23
+2023-12,NJ,"Arts, media, sports",130327.0,5746.2,24
+2023-12,NJ,Business and finance,321100.9,30357.5,68
+2023-12,NJ,Cleaning and grounds,183633.7,4819.5,35
+2023-12,NJ,Community and social service,52681.4,0.0,10
+2023-12,NJ,Computer and math,210246.8,13018.5,44
+2023-12,NJ,Construction,259702.8,18271.4,52
+2023-12,NJ,Education,280680.8,9000.9,55
+2023-12,NJ,Farming,4694.7,0.0,1
+2023-12,NJ,Food service,250012.1,13441.2,47
+2023-12,NJ,Healthcare practitioners,325681.8,4170.2,63
+2023-12,NJ,Healthcare support,121139.0,0.0,25
+2023-12,NJ,Installation and repair,101326.6,10192.8,20
+2023-12,NJ,Legal,64389.1,0.0,13
+2023-12,NJ,Management,687302.5,15645.4,137
+2023-12,NJ,No previous job,0.0,4821.2,1
+2023-12,NJ,Office and admin,408445.4,10710.7,80
+2023-12,NJ,Personal care,101562.1,4069.7,19
+2023-12,NJ,Production,161620.6,23820.2,36
+2023-12,NJ,Protective service,99200.6,9630.8,18
+2023-12,NJ,Sales,340802.3,21185.3,69
+2023-12,NJ,Science,52938.8,4963.0,12
+2023-12,NJ,Transportation,357614.7,3225.3,66
+2023-12,NJ,Unclassified,0.0,3971.3,1
+2023-12,NM,Architecture and engineering,35845.5,1204.4,26
+2023-12,NM,"Arts, media, sports",25147.9,1169.0,19
+2023-12,NM,Business and finance,39653.5,3151.1,31
+2023-12,NM,Cleaning and grounds,49781.2,3344.4,35
+2023-12,NM,Community and social service,20487.8,0.0,14
+2023-12,NM,Computer and math,18481.9,1930.8,14
+2023-12,NM,Construction,61835.3,1285.1,44
+2023-12,NM,Education,49501.7,0.0,37
+2023-12,NM,Farming,7890.1,1406.3,6
+2023-12,NM,Food service,36765.4,3768.4,26
+2023-12,NM,Healthcare practitioners,48959.6,0.0,33
+2023-12,NM,Healthcare support,50294.6,1159.7,37
+2023-12,NM,Installation and repair,27465.3,1386.6,18
+2023-12,NM,Legal,14327.8,1157.9,12
+2023-12,NM,Management,88618.5,1318.4,63
+2023-12,NM,No previous job,0.0,1647.4,1
+2023-12,NM,Office and admin,86043.0,2496.8,60
+2023-12,NM,Personal care,21769.8,3047.7,16
+2023-12,NM,Production,45889.0,0.0,28
+2023-12,NM,Protective service,17434.0,0.0,11
+2023-12,NM,Sales,69554.1,2385.1,51
+2023-12,NM,Science,24202.1,1252.5,18
+2023-12,NM,Transportation,58115.1,3065.5,39
+2023-12,NV,Architecture and engineering,16117.4,0.0,6
+2023-12,NV,"Arts, media, sports",18066.3,0.0,8
+2023-12,NV,Business and finance,66093.1,0.0,25
+2023-12,NV,Cleaning and grounds,80991.1,6479.4,33
+2023-12,NV,Community and social service,8821.7,0.0,4
+2023-12,NV,Computer and math,45852.8,0.0,16
+2023-12,NV,Construction,92660.1,21081.2,42
+2023-12,NV,Education,63132.5,0.0,23
+2023-12,NV,Farming,8683.6,0.0,3
+2023-12,NV,Food service,161997.5,3048.2,61
+2023-12,NV,Healthcare practitioners,71459.5,0.0,26
+2023-12,NV,Healthcare support,34083.3,3715.4,14
+2023-12,NV,Installation and repair,41366.1,0.0,16
+2023-12,NV,Legal,22451.7,0.0,9
+2023-12,NV,Management,171936.1,9749.1,67
+2023-12,NV,No previous job,0.0,6557.6,2
+2023-12,NV,Office and admin,201748.5,5876.4,77
+2023-12,NV,Personal care,61025.5,2427.4,24
+2023-12,NV,Production,54591.0,2830.2,20
+2023-12,NV,Protective service,28266.6,2915.9,11
+2023-12,NV,Sales,126563.9,7927.7,47
+2023-12,NV,Science,28831.3,0.0,10
+2023-12,NV,Transportation,129682.6,12893.2,54
+2023-12,NY,Architecture and engineering,144940.1,0.0,28
+2023-12,NY,"Arts, media, sports",274391.7,8839.1,54
+2023-12,NY,Business and finance,690970.0,21248.9,136
+2023-12,NY,Cleaning and grounds,378233.1,46358.3,72
+2023-12,NY,Community and social service,252399.9,12613.6,50
+2023-12,NY,Computer and math,335421.7,16045.7,63
+2023-12,NY,Construction,518501.9,22789.3,94
+2023-12,NY,Education,804013.3,15021.4,154
+2023-12,NY,Farming,9023.7,0.0,2
+2023-12,NY,Food service,410853.9,47299.3,75
+2023-12,NY,Healthcare practitioners,490926.6,4194.4,91
+2023-12,NY,Healthcare support,431991.0,8495.3,83
+2023-12,NY,Installation and repair,175886.7,11706.3,35
+2023-12,NY,Legal,142434.4,4004.5,30
+2023-12,NY,Management,970276.5,29294.5,196
+2023-12,NY,No previous job,0.0,55685.9,9
+2023-12,NY,Office and admin,882930.4,43481.5,177
+2023-12,NY,Personal care,312147.8,9562.4,58
+2023-12,NY,Production,257290.4,0.0,46
+2023-12,NY,Protective service,140244.5,4429.5,25
+2023-12,NY,Sales,746846.6,48724.3,147
+2023-12,NY,Science,94335.3,0.0,20
+2023-12,NY,Transportation,540072.7,57155.8,104
+2023-12,NY,Unclassified,0.0,10860.1,1
+2023-12,OH,Architecture and engineering,130802.4,0.0,26
+2023-12,OH,"Arts, media, sports",143529.6,0.0,26
+2023-12,OH,Business and finance,293954.2,4665.8,64
+2023-12,OH,Cleaning and grounds,88504.2,10392.0,18
+2023-12,OH,Community and social service,109387.8,0.0,24
+2023-12,OH,Computer and math,173805.0,0.0,33
+2023-12,OH,Construction,194461.7,8653.6,43
+2023-12,OH,Education,377885.2,5984.5,75
+2023-12,OH,Farming,17869.9,0.0,4
+2023-12,OH,Food service,296695.8,29355.9,62
+2023-12,OH,Healthcare practitioners,509125.2,0.0,102
+2023-12,OH,Healthcare support,160156.1,9648.8,32
+2023-12,OH,Installation and repair,134928.5,0.0,28
+2023-12,OH,Legal,45314.8,0.0,10
+2023-12,OH,Management,742039.0,4057.2,158
+2023-12,OH,No previous job,0.0,12363.8,2
+2023-12,OH,Office and admin,607549.4,12547.2,123
+2023-12,OH,Personal care,107974.8,0.0,22
+2023-12,OH,Production,387091.6,22071.4,81
+2023-12,OH,Protective service,85223.7,6906.8,19
+2023-12,OH,Sales,486511.2,16683.4,105
+2023-12,OH,Science,62570.5,0.0,12
+2023-12,OH,Transportation,410008.6,22686.0,81
+2023-12,OK,Architecture and engineering,28875.4,0.0,11
+2023-12,OK,"Arts, media, sports",28389.5,3056.3,12
+2023-12,OK,Business and finance,86632.3,2565.2,38
+2023-12,OK,Cleaning and grounds,89193.1,4965.7,36
+2023-12,OK,Community and social service,57035.3,0.0,22
+2023-12,OK,Computer and math,47449.6,5867.6,20
+2023-12,OK,Construction,115474.7,2563.4,44
+2023-12,OK,Education,127592.9,4434.6,54
+2023-12,OK,Farming,16233.5,0.0,7
+2023-12,OK,Food service,92831.6,6124.9,32
+2023-12,OK,Healthcare practitioners,101713.4,1718.1,41
+2023-12,OK,Healthcare support,66103.7,0.0,23
+2023-12,OK,Installation and repair,99130.2,8355.1,40
+2023-12,OK,Legal,18276.0,0.0,6
+2023-12,OK,Management,229416.0,2314.9,98
+2023-12,OK,No previous job,0.0,1811.2,1
+2023-12,OK,Office and admin,194399.3,2527.3,78
+2023-12,OK,Personal care,42659.3,2710.7,17
+2023-12,OK,Production,137312.4,5149.9,52
+2023-12,OK,Protective service,42153.2,2367.1,14
+2023-12,OK,Sales,197157.1,9272.2,79
+2023-12,OK,Science,11418.3,0.0,5
+2023-12,OK,Transportation,137140.4,5085.6,53
+2023-12,OR,Architecture and engineering,41339.0,0.0,14
+2023-12,OR,"Arts, media, sports",55055.2,4154.4,24
+2023-12,OR,Business and finance,129998.1,2148.6,51
+2023-12,OR,Cleaning and grounds,55055.1,5394.9,23
+2023-12,OR,Community and social service,52594.0,6049.6,20
+2023-12,OR,Computer and math,66034.7,9498.6,27
+2023-12,OR,Construction,121805.3,2386.8,45
+2023-12,OR,Education,103790.7,0.0,40
+2023-12,OR,Farming,27060.1,2743.3,10
+2023-12,OR,Food service,102329.3,9016.6,38
+2023-12,OR,Healthcare practitioners,110761.5,2777.0,46
+2023-12,OR,Healthcare support,81496.6,5201.4,33
+2023-12,OR,Installation and repair,51626.4,5275.1,21
+2023-12,OR,Legal,21976.4,0.0,8
+2023-12,OR,Management,308509.1,4636.3,118
+2023-12,OR,No previous job,0.0,8764.5,3
+2023-12,OR,Office and admin,251898.3,10335.1,96
+2023-12,OR,Personal care,57922.5,0.0,23
+2023-12,OR,Production,107614.0,3315.5,38
+2023-12,OR,Protective service,14245.4,0.0,6
+2023-12,OR,Sales,165262.8,8815.3,63
+2023-12,OR,Science,30451.2,0.0,11
+2023-12,OR,Transportation,171010.3,4644.1,60
+2023-12,PA,Architecture and engineering,66844.4,0.0,14
+2023-12,PA,"Arts, media, sports",135231.1,0.0,27
+2023-12,PA,Business and finance,414797.7,0.0,84
+2023-12,PA,Cleaning and grounds,154661.7,11341.1,34
+2023-12,PA,Community and social service,193109.9,0.0,37
+2023-12,PA,Computer and math,238024.8,0.0,42
+2023-12,PA,Construction,293900.5,8526.3,62
+2023-12,PA,Education,403234.4,10781.4,87
+2023-12,PA,Farming,38212.1,0.0,9
+2023-12,PA,Food service,377416.7,13695.8,74
+2023-12,PA,Healthcare practitioners,451349.9,0.0,95
+2023-12,PA,Healthcare support,212843.8,0.0,43
+2023-12,PA,Installation and repair,182358.8,4282.3,41
+2023-12,PA,Legal,48088.4,0.0,10
+2023-12,PA,Management,765765.0,14071.0,164
+2023-12,PA,No previous job,0.0,19145.0,4
+2023-12,PA,Office and admin,596739.3,27746.0,128
+2023-12,PA,Personal care,128707.2,6845.2,29
+2023-12,PA,Production,341656.1,0.0,74
+2023-12,PA,Protective service,78892.7,0.0,17
+2023-12,PA,Sales,665383.9,26831.3,140
+2023-12,PA,Science,83246.5,0.0,17
+2023-12,PA,Transportation,566921.7,9264.1,116
+2023-12,RI,Architecture and engineering,18075.2,0.0,14
+2023-12,RI,"Arts, media, sports",17486.8,1001.4,14
+2023-12,RI,Business and finance,27681.0,0.0,22
+2023-12,RI,Cleaning and grounds,24526.8,4608.9,19
+2023-12,RI,Community and social service,9351.2,0.0,7
+2023-12,RI,Computer and math,34989.0,1038.3,25
+2023-12,RI,Construction,14260.4,0.0,11
+2023-12,RI,Education,35912.9,0.0,29
+2023-12,RI,Farming,1184.6,0.0,1
+2023-12,RI,Food service,31057.5,2243.0,25
+2023-12,RI,Healthcare practitioners,39979.0,0.0,33
+2023-12,RI,Healthcare support,16834.1,978.2,14
+2023-12,RI,Installation and repair,10621.4,0.0,8
+2023-12,RI,Legal,4322.4,0.0,4
+2023-12,RI,Management,67062.9,2935.6,54
+2023-12,RI,Office and admin,53740.6,3213.4,46
+2023-12,RI,Personal care,5999.9,0.0,4
+2023-12,RI,Production,30556.7,2081.8,23
+2023-12,RI,Protective service,8069.0,981.2,8
+2023-12,RI,Sales,50131.5,0.0,37
+2023-12,RI,Science,4229.5,0.0,3
+2023-12,RI,Transportation,37226.4,1683.9,26
+2023-12,SC,Architecture and engineering,60987.0,0.0,18
+2023-12,SC,"Arts, media, sports",27702.9,0.0,8
+2023-12,SC,Business and finance,120146.6,3570.7,41
+2023-12,SC,Cleaning and grounds,91212.4,3778.0,29
+2023-12,SC,Community and social service,43325.8,0.0,13
+2023-12,SC,Computer and math,79548.8,0.0,26
+2023-12,SC,Construction,136064.1,6770.2,43
+2023-12,SC,Education,144032.7,8156.4,50
+2023-12,SC,Farming,16007.6,2681.5,6
+2023-12,SC,Food service,104637.5,8375.3,35
+2023-12,SC,Healthcare practitioners,187973.5,0.0,60
+2023-12,SC,Healthcare support,108267.5,0.0,33
+2023-12,SC,Installation and repair,91349.3,2413.3,28
+2023-12,SC,Legal,31215.7,0.0,10
+2023-12,SC,Management,269850.2,2049.7,88
+2023-12,SC,No previous job,0.0,9998.6,3
+2023-12,SC,Office and admin,260328.9,2787.7,85
+2023-12,SC,Personal care,40570.5,3858.2,13
+2023-12,SC,Production,171570.6,0.0,51
+2023-12,SC,Protective service,33600.3,3617.5,11
+2023-12,SC,Sales,213413.1,3642.2,69
+2023-12,SC,Science,16162.0,0.0,6
+2023-12,SC,Transportation,175195.6,12330.5,55
+2023-12,SD,Architecture and engineering,6762.2,0.0,8
+2023-12,SD,"Arts, media, sports",8013.5,0.0,12
+2023-12,SD,Business and finance,28136.7,581.3,39
+2023-12,SD,Cleaning and grounds,10211.6,0.0,13
+2023-12,SD,Community and social service,5740.6,0.0,8
+2023-12,SD,Computer and math,4216.9,0.0,7
+2023-12,SD,Construction,27958.4,678.8,35
+2023-12,SD,Education,27290.8,0.0,38
+2023-12,SD,Farming,10609.7,560.1,15
+2023-12,SD,Food service,24043.0,1328.0,31
+2023-12,SD,Healthcare practitioners,29066.0,0.0,41
+2023-12,SD,Healthcare support,14578.7,0.0,20
+2023-12,SD,Installation and repair,19072.3,0.0,24
+2023-12,SD,Legal,4244.0,628.3,7
+2023-12,SD,Management,52398.9,0.0,71
+2023-12,SD,Office and admin,36981.7,657.2,51
+2023-12,SD,Personal care,22604.0,0.0,29
+2023-12,SD,Production,38789.2,859.6,49
+2023-12,SD,Protective service,10012.7,0.0,13
+2023-12,SD,Sales,50162.0,1469.7,68
+2023-12,SD,Science,5896.3,858.0,8
+2023-12,SD,Transportation,33371.7,1804.0,45
+2023-12,TN,Architecture and engineering,66216.1,0.0,18
+2023-12,TN,"Arts, media, sports",65038.0,0.0,16
+2023-12,TN,Business and finance,161170.8,3189.0,44
+2023-12,TN,Cleaning and grounds,90477.3,4569.5,23
+2023-12,TN,Community and social service,73094.1,0.0,18
+2023-12,TN,Computer and math,100991.5,0.0,26
+2023-12,TN,Construction,194897.3,0.0,49
+2023-12,TN,Education,177937.0,3706.2,48
+2023-12,TN,Farming,10687.1,0.0,3
+2023-12,TN,Food service,183062.8,15022.5,46
+2023-12,TN,Healthcare practitioners,307136.4,0.0,77
+2023-12,TN,Healthcare support,71073.4,0.0,19
+2023-12,TN,Installation and repair,142525.8,4537.4,39
+2023-12,TN,Legal,32656.1,0.0,9
+2023-12,TN,Management,436409.0,6572.3,117
+2023-12,TN,No previous job,0.0,9552.1,2
+2023-12,TN,Office and admin,313380.5,6946.6,85
+2023-12,TN,Personal care,107300.5,0.0,27
+2023-12,TN,Production,247287.0,9976.3,68
+2023-12,TN,Protective service,88019.0,0.0,22
+2023-12,TN,Sales,278860.4,10227.8,77
+2023-12,TN,Science,10853.1,0.0,3
+2023-12,TN,Transportation,186481.7,10839.5,50
+2023-12,TX,Architecture and engineering,330288.8,0.0,64
+2023-12,TX,"Arts, media, sports",303295.6,30291.8,63
+2023-12,TX,Business and finance,834852.1,5758.1,162
+2023-12,TX,Cleaning and grounds,551428.2,50707.8,120
+2023-12,TX,Community and social service,178000.9,0.0,37
+2023-12,TX,Computer and math,700083.8,15971.5,139
+2023-12,TX,Construction,951162.8,65834.5,193
+2023-12,TX,Education,838505.1,9531.2,166
+2023-12,TX,Farming,32066.7,9215.6,8
+2023-12,TX,Food service,686256.5,30806.2,135
+2023-12,TX,Healthcare practitioners,791642.9,5977.0,154
+2023-12,TX,Healthcare support,380601.0,22761.2,77
+2023-12,TX,Installation and repair,537523.9,16200.7,105
+2023-12,TX,Legal,164838.4,0.0,32
+2023-12,TX,Management,1843679.0,55597.2,375
+2023-12,TX,No previous job,0.0,37448.9,6
+2023-12,TX,Office and admin,1465884.7,31687.7,284
+2023-12,TX,Personal care,377056.8,0.0,71
+2023-12,TX,Production,690402.2,41567.0,142
+2023-12,TX,Protective service,369619.6,5750.9,70
+2023-12,TX,Sales,1431599.5,30341.6,284
+2023-12,TX,Science,137219.4,0.0,26
+2023-12,TX,Transportation,1098109.0,38776.9,214
+2023-12,TX,Unclassified,0.0,5086.4,1
+2023-12,UT,Architecture and engineering,28520.5,1701.9,16
+2023-12,UT,"Arts, media, sports",39712.8,0.0,21
+2023-12,UT,Business and finance,83495.6,0.0,42
+2023-12,UT,Cleaning and grounds,44962.4,2316.0,23
+2023-12,UT,Community and social service,24335.9,0.0,13
+2023-12,UT,Computer and math,120641.0,4585.8,65
+2023-12,UT,Construction,114290.4,6089.7,59
+2023-12,UT,Education,85829.9,0.0,46
+2023-12,UT,Food service,69417.9,3915.4,37
+2023-12,UT,Healthcare practitioners,124828.7,0.0,66
+2023-12,UT,Healthcare support,51875.8,2539.2,27
+2023-12,UT,Installation and repair,51473.9,0.0,25
+2023-12,UT,Legal,22944.9,0.0,11
+2023-12,UT,Management,252859.5,2250.7,132
+2023-12,UT,No previous job,0.0,2247.4,1
+2023-12,UT,Office and admin,221178.3,1788.8,114
+2023-12,UT,Personal care,52934.2,3031.6,29
+2023-12,UT,Production,100423.9,2001.5,52
+2023-12,UT,Protective service,25624.3,0.0,14
+2023-12,UT,Sales,142265.9,4800.0,79
+2023-12,UT,Science,21498.5,0.0,11
+2023-12,UT,Transportation,113163.6,5028.4,59
+2023-12,VA,Architecture and engineering,110567.4,5492.7,25
+2023-12,VA,"Arts, media, sports",46443.9,0.0,10
+2023-12,VA,Business and finance,293642.6,0.0,60
+2023-12,VA,Cleaning and grounds,130906.7,7737.8,27
+2023-12,VA,Community and social service,61313.9,8543.1,15
+2023-12,VA,Computer and math,276391.8,5121.5,58
+2023-12,VA,Construction,186007.9,5829.8,39
+2023-12,VA,Education,276377.6,4885.0,53
+2023-12,VA,Farming,8939.9,0.0,2
+2023-12,VA,Food service,204689.8,0.0,38
+2023-12,VA,Healthcare practitioners,251172.0,4339.5,51
+2023-12,VA,Healthcare support,107362.2,5076.5,21
+2023-12,VA,Installation and repair,99715.9,5140.0,21
+2023-12,VA,Legal,117058.5,0.0,25
+2023-12,VA,Management,671486.7,4222.1,141
+2023-12,VA,No previous job,0.0,11019.2,2
+2023-12,VA,Office and admin,343210.4,5063.1,69
+2023-12,VA,Personal care,76266.4,3882.4,18
+2023-12,VA,Production,201982.8,15901.6,45
+2023-12,VA,Protective service,104733.9,4532.8,20
+2023-12,VA,Sales,335994.3,16922.6,70
+2023-12,VA,Science,55508.1,0.0,12
+2023-12,VA,Transportation,327533.8,0.0,63
+2023-12,VT,Architecture and engineering,5297.8,510.6,12
+2023-12,VT,"Arts, media, sports",18203.6,487.0,34
+2023-12,VT,Business and finance,17956.0,526.1,37
+2023-12,VT,Cleaning and grounds,10249.8,0.0,23
+2023-12,VT,Community and social service,11173.6,0.0,22
+2023-12,VT,Computer and math,8664.7,0.0,18
+2023-12,VT,Construction,16738.9,0.0,34
+2023-12,VT,Education,28256.8,0.0,59
+2023-12,VT,Farming,10637.7,0.0,22
+2023-12,VT,Food service,12904.4,0.0,24
+2023-12,VT,Healthcare practitioners,26715.2,476.2,52
+2023-12,VT,Healthcare support,8295.0,372.3,19
+2023-12,VT,Installation and repair,11709.8,0.0,22
+2023-12,VT,Legal,5361.0,419.1,11
+2023-12,VT,Management,63318.1,399.6,129
+2023-12,VT,Office and admin,32506.1,0.0,64
+2023-12,VT,Personal care,7913.7,408.9,16
+2023-12,VT,Production,12889.1,440.1,28
+2023-12,VT,Protective service,4453.8,0.0,8
+2023-12,VT,Sales,23188.0,0.0,48
+2023-12,VT,Science,4484.8,0.0,9
+2023-12,VT,Transportation,14025.2,1919.3,31
+2023-12,WA,Architecture and engineering,85696.7,4109.3,20
+2023-12,WA,"Arts, media, sports",112929.5,0.0,26
+2023-12,WA,Business and finance,232775.6,4718.3,61
+2023-12,WA,Cleaning and grounds,92653.1,17449.7,27
+2023-12,WA,Community and social service,101007.4,0.0,26
+2023-12,WA,Computer and math,257753.5,0.0,63
+2023-12,WA,Construction,141776.8,3597.4,38
+2023-12,WA,Education,193972.2,8235.4,48
+2023-12,WA,Farming,56950.5,30835.6,22
+2023-12,WA,Food service,218968.6,5905.5,50
+2023-12,WA,Healthcare practitioners,222169.9,0.0,52
+2023-12,WA,Healthcare support,173912.6,7291.0,40
+2023-12,WA,Installation and repair,102133.6,16005.9,29
+2023-12,WA,Legal,17853.4,0.0,4
+2023-12,WA,Management,525613.3,0.0,131
+2023-12,WA,No previous job,0.0,12659.4,3
+2023-12,WA,Office and admin,313971.8,3892.6,75
+2023-12,WA,Personal care,119761.9,4613.5,28
+2023-12,WA,Production,154087.4,14459.8,42
+2023-12,WA,Protective service,109255.3,0.0,27
+2023-12,WA,Sales,257603.3,36060.1,73
+2023-12,WA,Science,81748.5,0.0,21
+2023-12,WA,Transportation,262594.8,26091.3,64
+2023-12,WI,Architecture and engineering,63140.5,4214.4,18
+2023-12,WI,"Arts, media, sports",34891.1,0.0,9
+2023-12,WI,Business and finance,141647.6,0.0,37
+2023-12,WI,Cleaning and grounds,66925.4,9748.9,20
+2023-12,WI,Community and social service,67140.0,0.0,17
+2023-12,WI,Computer and math,106709.8,0.0,26
+2023-12,WI,Construction,136483.5,9609.3,37
+2023-12,WI,Education,179527.1,0.0,45
+2023-12,WI,Farming,22711.8,0.0,6
+2023-12,WI,Food service,150085.9,4099.4,36
+2023-12,WI,Healthcare practitioners,235748.9,0.0,58
+2023-12,WI,Healthcare support,103716.8,0.0,25
+2023-12,WI,Installation and repair,100923.2,7190.3,27
+2023-12,WI,Legal,22461.0,0.0,6
+2023-12,WI,Management,394720.3,0.0,99
+2023-12,WI,No previous job,0.0,5680.2,1
+2023-12,WI,Office and admin,380419.7,12197.2,97
+2023-12,WI,Personal care,90840.3,8295.5,24
+2023-12,WI,Production,239582.5,10466.2,63
+2023-12,WI,Protective service,46680.5,0.0,10
+2023-12,WI,Sales,235017.6,16331.3,66
+2023-12,WI,Science,24896.6,0.0,7
+2023-12,WI,Transportation,231890.1,6826.7,62
+2023-12,WV,Architecture and engineering,10369.5,0.0,13
+2023-12,WV,"Arts, media, sports",11057.3,0.0,13
+2023-12,WV,Business and finance,23402.0,1816.9,28
+2023-12,WV,Cleaning and grounds,24528.8,1803.1,28
+2023-12,WV,Community and social service,23118.2,0.0,26
+2023-12,WV,Computer and math,21279.2,744.6,24
+2023-12,WV,Construction,44261.8,2180.8,50
+2023-12,WV,Education,40758.8,0.0,46
+2023-12,WV,Farming,5117.3,0.0,5
+2023-12,WV,Food service,42871.9,749.3,45
+2023-12,WV,Healthcare practitioners,55700.4,0.0,60
+2023-12,WV,Healthcare support,48236.0,2637.8,55
+2023-12,WV,Installation and repair,44468.4,0.0,47
+2023-12,WV,Legal,8755.5,0.0,10
+2023-12,WV,Management,92639.8,0.0,106
+2023-12,WV,No previous job,0.0,3984.0,3
+2023-12,WV,Office and admin,70905.6,1797.4,81
+2023-12,WV,Personal care,10454.8,1131.2,12
+2023-12,WV,Production,41618.0,4006.5,50
+2023-12,WV,Protective service,14549.1,0.0,16
+2023-12,WV,Sales,58844.8,5298.1,70
+2023-12,WV,Science,6470.8,0.0,7
+2023-12,WV,Transportation,66782.4,3166.4,73
+2023-12,WY,Architecture and engineering,6905.5,305.0,17
+2023-12,WY,"Arts, media, sports",2866.2,232.0,9
+2023-12,WY,Business and finance,10973.4,0.0,31
+2023-12,WY,Cleaning and grounds,10763.4,679.1,31
+2023-12,WY,Community and social service,4168.5,0.0,11
+2023-12,WY,Computer and math,1640.6,0.0,4
+2023-12,WY,Construction,21123.4,0.0,53
+2023-12,WY,Education,20424.5,371.4,56
+2023-12,WY,Farming,3026.3,0.0,8
+2023-12,WY,Food service,13082.1,267.1,35
+2023-12,WY,Healthcare practitioners,17902.7,0.0,48
+2023-12,WY,Healthcare support,10884.9,0.0,28
+2023-12,WY,Installation and repair,15692.7,279.1,36
+2023-12,WY,Legal,2218.2,0.0,6
+2023-12,WY,Management,38331.6,673.0,108
+2023-12,WY,No previous job,0.0,310.0,1
+2023-12,WY,Office and admin,31339.0,734.9,83
+2023-12,WY,Personal care,3763.7,0.0,10
+2023-12,WY,Production,11069.9,576.7,30
+2023-12,WY,Protective service,5656.6,0.0,14
+2023-12,WY,Sales,25823.5,1144.4,68
+2023-12,WY,Science,2107.3,0.0,6
+2023-12,WY,Transportation,24316.1,331.9,61

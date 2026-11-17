@@ -1,0 +1,36 @@
+name: Update occupation monitor
+
+# Checks the Census Bureau once a day for a new monthly survey file. When there is none, the job ends in seconds.
+on:
+  schedule:
+    - cron: "17 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch new months and rebuild the site data
+        run: python update.py
+      - name: Fetch new county data and rebuild the county files
+        run: python counties.py
+      - name: Commit if anything changed
+        run: |
+          git config user.name "occupation-monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet && echo "No new data." && exit 0
+          git commit -m "Data through $(python -c "import json;print(json.load(open('docs/meta.json'))['through'])")"
+          git push
