@@ -123,6 +123,7 @@ footer span:last-child{color:var(--gold)}
       <div class="seg" role="group" aria-label="Change measured">
         <button id="b-base" type="button" aria-pressed="true">Since Nov 2022</button>
         <button id="b-1y" type="button" aria-pressed="false">Past year</button>
+        <button id="b-all" type="button" aria-pressed="false">Since 2011</button>
       </div>
     </section>
     <section class="panel" aria-live="polite">
@@ -184,7 +185,8 @@ footer span:last-child{color:var(--gold)}
   function cls(v){return v<0?'neg':v>0?'pos':''}
   function el(t,c,x){var e=document.createElement(t); if(c)e.className=c; if(x!=null)e.textContent=x; return e}
   function svg(t,a){var e=document.createElementNS('http://www.w3.org/2000/svg',t); for(var k in a)e.setAttribute(k,a[k]); return e}
-  function val(o,k){return k==='chgJobs'?(mode==='base'?o.chgBaseJobs:o.chg1yJobs):k==='chgPct'?(mode==='base'?o.chgBase:o.chg1y):o[k]}
+  function val(o,k){return k==='chgJobs'?(mode==='base'?o.chgBaseJobs:mode==='1y'?o.chg1yJobs:o.chgAllJobs):k==='chgPct'?(mode==='base'?o.chgBase:mode==='1y'?o.chg1y:o.chgAll):o[k]}
+  function win(s){return mode==='base'?s.slice(M.baseIndex):mode==='1y'?s.slice(-13):s}
 
   function spark(s){
     var w=120,h=30,p=3,v=s.filter(function(x){return x!=null}),lo=Math.min.apply(0,v),hi=Math.max.apply(0,v); if(hi===lo)hi=lo+1;
@@ -229,7 +231,7 @@ footer span:last-child{color:var(--gold)}
       var c=el('td',null,o.title); c.appendChild(el('small',null,o.group)); tr.appendChild(c);
       tr.appendChild(el('td',null,jobs(o.jobs)));
       var cj=val(o,'chgJobs'),cp=val(o,'chgPct'); tr.appendChild(el('td',cls(cj),signed(cj))); tr.appendChild(el('td',cls(cp),pct(cp)));
-      var sp=el('td'); sp.appendChild(spark(o.series)); tr.appendChild(sp);
+      var sp=el('td'); sp.appendChild(spark(win(o.series))); tr.appendChild(sp);
       var y=el('td',null,o.youngNow.toFixed(1)+'%'); if(o.youngBase!=null)y.appendChild(el('small',null,'was '+o.youngBase.toFixed(1)+'%')); tr.appendChild(y);
       tr.appendChild(el('td',null,jobs(o.unemp)));
       var pc=el('td'); pc.appendChild(el('span','pill f'+o.fifth,EXP[o.fifth])); tr.appendChild(pc);
@@ -241,10 +243,10 @@ footer span:last-child{color:var(--gold)}
   }
   function detail(){
     var o=sel; if(!o)return; $('d-title').textContent=o.title;
-    fill($('d-list'),[['Jobs',jobs(o.jobs)],['Since Nov 2022',signed(o.chgBaseJobs)+' ('+pct(o.chgBase)+')'],['Past year',signed(o.chg1yJobs)+' ('+pct(o.chg1y)+')'],['Under 31',o.youngNow.toFixed(1)+'%'+(o.youngBase!=null?' (was '+o.youngBase.toFixed(1)+'%)':'')],['Unemployed, last job here',jobs(o.unemp)],['AI exposure',o.fifth?EXP[o.fifth]+' fifth':'–']]);
+    fill($('d-list'),[['Jobs',jobs(o.jobs)],['Since Nov 2022',signed(o.chgBaseJobs)+' ('+pct(o.chgBase)+')'],['Past year',signed(o.chg1yJobs)+' ('+pct(o.chg1y)+')'],['Since '+M.first.slice(0,4),signed(o.chgAllJobs)+' ('+pct(o.chgAll)+')'],['Under 31',o.youngNow.toFixed(1)+'%'+(o.youngBase!=null?' (was '+o.youngBase.toFixed(1)+'%)':'')],['Unemployed, last job here',jobs(o.unemp)],['AI exposure',o.fifth?EXP[o.fifth]+' fifth':'–']]);
     lineChart($('d-chart'),$('tip'),o.series,'Jobs in '+o.title+', 12-month average',230);
   }
-  function setMode(m){mode=m; $('b-base').setAttribute('aria-pressed',m==='base'); $('b-1y').setAttribute('aria-pressed',m==='1y'); rows()}
+  function setMode(m){mode=m; $('b-base').setAttribute('aria-pressed',m==='base'); $('b-1y').setAttribute('aria-pressed',m==='1y'); $('b-all').setAttribute('aria-pressed',m==='all'); rows()}
 
   /* map */
   function mix(a,b,t){return 'rgb('+a.map(function(x,i){return Math.round(x+(b[i]-x)*t)}).join(',')+')'}
@@ -362,7 +364,7 @@ footer span:last-child{color:var(--gold)}
   function tab(t){var o=t==='occ'; $('tab-occ').setAttribute('aria-selected',o); $('tab-map').setAttribute('aria-selected',!o); $('view-occ').hidden=!o; $('view-map').hidden=o;
     if(!o){buildMap(); if(inState&&cSel)countySide(); else side()} else detail()}
 
-  $('b-base').addEventListener('click',function(){setMode('base')}); $('b-1y').addEventListener('click',function(){setMode('1y')});
+  $('b-base').addEventListener('click',function(){setMode('base')}); $('b-1y').addEventListener('click',function(){setMode('1y')}); $('b-all').addEventListener('click',function(){setMode('all')});
   $('q').addEventListener('input',rows); $('grp').addEventListener('change',rows);
   $('tab-occ').addEventListener('click',function(){tab('occ')}); $('tab-map').addEventListener('click',function(){tab('map')});
   $('m-grp').addEventListener('change',function(){paint(); side()}); $('m-meas').addEventListener('change',paint);
@@ -383,7 +385,8 @@ footer span:last-child{color:var(--gold)}
     $('f-jobs').textContent=(M.totalJobs/1000).toFixed(1)+' million';
     var ch=M.totalJobs-nat.base; $('f-chg').textContent=(ch>0?'+':'−')+(Math.abs(ch)/1000).toFixed(1)+' million'; $('f-chg').className=cls(ch);
     $('f-occ').textContent=occ.length; $('f-thru').textContent=MN[+t[1]-1]+' '+t[0];
-    $('th-spark').textContent='Since '+M.first.slice(0,4);
+    $('b-all').textContent='Since '+M.first.slice(0,4);
+    occ.forEach(function(o){var f=null; for(var i=0;i<o.series.length;i++){if(o.series[i]!=null){f=o.series[i]; break}} var l=o.series[o.series.length-1]; o.chgAllJobs=f==null||l==null?null:l-f; o.chgAll=f?Math.round((l/f-1)*1000)/10:null});
     sel=occ.filter(function(o){return !o.pooled}).sort(function(a,b){return a.chgBaseJobs-b.chgBaseJobs})[0]; detail(); rows();
     if(location.hash==='#map-view')tab('map');
   }).catch(function(){ $('d-title').textContent='The data did not load. Reload the page.' });
